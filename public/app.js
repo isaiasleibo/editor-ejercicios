@@ -478,6 +478,10 @@ function bindUI() {
       const hits = state.fuse.search(queryNorm)
       const ranked = hits
         .filter(h => h.item.id !== state.currentId)
+        .filter(h => {
+          const full = state.byId.get(h.item.id)
+          return full && full.verificado
+        })
         .map(h => ({ item: h.item, rank: h.score * 1000 - scoreExercise(h.item, queryNorm, words) }))
       ranked.sort((a, b) => a.rank - b.rank)
       const top = ranked.slice(0, 20).map(r => state.byId.get(r.item.id)).filter(Boolean)
