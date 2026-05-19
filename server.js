@@ -6,12 +6,27 @@ import { fileURLToPath } from 'url'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const PORT = 5174
+const PORT = parseInt(process.env.PORT || '5174', 10)
 const JSON_PATH = path.join(__dirname, 'data', 'ejercicios-nuevos.json')
-const VIDEOS_DIR = path.join(__dirname, 'videos')
-const IMAGES_DIR = '/home/isaiasleibo/Desktop/somatrack-project/somatrack-1.0.4/frontend/public/thumbnails'
+const VIDEOS_DIR = process.env.VIDEOS_DIR || path.join(__dirname, 'videos')
+const IMAGES_DIR = process.env.IMAGES_DIR || '/home/isaiasleibo/Desktop/somatrack-project/somatrack-1.0.4/frontend/public/thumbnails'
+const ALLOWED_ORIGINS = (process.env.ALLOWED_ORIGINS || '').split(',').map(s => s.trim()).filter(Boolean)
 
 const app = express()
+
+// CORS — allow configured origins (no credentials needed)
+app.use((req, res, next) => {
+  const origin = req.headers.origin
+  if (origin && (ALLOWED_ORIGINS.length === 0 || ALLOWED_ORIGINS.includes(origin))) {
+    res.setHeader('Access-Control-Allow-Origin', origin)
+    res.setHeader('Vary', 'Origin')
+    res.setHeader('Access-Control-Allow-Methods', 'GET,POST,PATCH,DELETE,OPTIONS')
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type')
+  }
+  if (req.method === 'OPTIONS') return res.sendStatus(204)
+  next()
+})
+
 app.use(express.json({ limit: '50mb' }))
 app.use(express.static(path.join(__dirname, 'public')))
 

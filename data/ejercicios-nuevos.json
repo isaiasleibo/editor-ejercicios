@@ -3995,11 +3995,11 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Press de banca con barra",
+    "nombre_es": "Press banca con barra",
     "nombre_en": "Barbell Bench Press",
     "tipo": "Compound",
     "musculo": "Chest",
-    "equipo": "Barbell,bench",
+    "equipo": "Barbell, Bench",
     "como_hacerlo": [
       "Acuestate en el banco con los pies apoyados en el suelo.",
       "Agarrá la barra con las manos un poco más anchas que el ancho de los hombros.",
@@ -4023,13 +4023,14 @@
       "Press plano con barra",
       "Press banca plano",
       "Bench press con barra",
-      "Press de banco con barra"
+      "Press de banco con barra",
+      "Press de pecho en banco plano"
     ],
     "video": "Barbell-Bench-Press_Chest-FIX2_.mp4",
     "imagen": "Barbell-Bench-Press_Chest-FIX2_.webp",
     "id": "exercise-0134",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 10,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -4470,7 +4471,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Press de banca con agarre cerrado en Smith",
+    "nombre_es": "Press de banca con agarre cerrado",
     "nombre_en": "Close Grip Bench Press on Smith Machine",
     "tipo": "Compound",
     "musculo": "Triceps",
@@ -4495,15 +4496,15 @@
       }
     ],
     "nombres_alternativos": [
-      "Press cerrado en banco Smith",
-      "Pecho y tríceps con barra fija",
-      "Banca estrecha en máquina de poleas"
+      "Press de banca con barra con agarre cerrado",
+      "Banca estrecha",
+      "Press de pecho con agarre cerrado para triceps en banco plano"
     ],
     "video": "Barbell-Close-Grip-Bench-Press_Upper-Arms-FIX_.mp4",
     "imagen": "Barbell-Close-Grip-Bench-Press_Upper-Arms-FIX_.webp",
     "id": "exercise-0147",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 7,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -6046,7 +6047,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Press de banca inclinado con barra",
+    "nombre_es": "Press banca inclinado con barra",
     "nombre_en": "Incline Bench Press with Barbell",
     "tipo": "Compound",
     "musculo": "Chest",
@@ -6072,15 +6073,16 @@
       }
     ],
     "nombres_alternativos": [
-      "Press inclinado con barra en banco",
-      "Banca inclinada con barra olímpica",
-      "Press de pecho alto con barra"
+      "Press banca con barra en banco inclinado",
+      "Press de pecho con barra inclinada",
+      "Press de pecho alto con barra inclinada",
+      "press de pecho con barra en banco a 45 grados"
     ],
     "video": "Barbell-Incline-Bench-Press_Chest-FIX2_.mp4",
     "imagen": "Barbell-Incline-Bench-Press_Chest-FIX2_.webp",
     "id": "exercise-0193",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 8,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -7411,7 +7413,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Press de banca declinado con barra",
+    "nombre_es": "Press banca declinado con barra",
     "nombre_en": "Barbell Decline Bench Press",
     "tipo": "Compound",
     "musculo": "Chest",
@@ -7439,13 +7441,13 @@
     "nombres_alternativos": [
       "Press declinado con barra en banco",
       "Banca descendente con barra",
-      "Pecho bajo con barra olímpica"
+      "Press de pecho con barra en banco declinado"
     ],
     "video": "Barbell-Pause-Decline-Bench-Press_Chest_.mp4",
     "imagen": "Barbell-Pause-Decline-Bench-Press_Chest_.webp",
     "id": "exercise-0231",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 5,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -15991,7 +15993,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Extensión de tríceps en polea con cuerda",
+    "nombre_es": "Extensión de tríceps con soga en polea",
     "nombre_en": "Tricep Pushdown with Rope Attachment",
     "tipo": "Isolation",
     "musculo": "Triceps",
@@ -16009,18 +16011,18 @@
     "musculos_secundarios": [],
     "nombres_alternativos": [
       "Pushdown de tríceps con cordón",
-      "Tríceps descendente con cadena en máquina de poleas",
-      "Cuerda de triceps abajo en aparato de poleas"
+      "Empuje de triceps con cadena en máquina de poleas",
+      "extension de triceps en cable con cuerda"
     ],
     "video": "Cable-Pushdown-(with-rope-attachment)_Upper-Arms-FIX_.mp4",
     "imagen": "Cable-Pushdown-(with-rope-attachment)_Upper-Arms-FIX_.webp",
     "id": "exercise-0496",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 8,
+    "verificado": true,
     "variante_de": null
   },
   {
-    "nombre_es": "Extensión de tríceps en polea alta",
+    "nombre_es": "Extensión de tríceps en polea",
     "nombre_en": "Cable Tricep Pushdown",
     "tipo": "Isolation",
     "musculo": "Triceps",
@@ -16036,15 +16038,14 @@
     ],
     "musculos_secundarios": [],
     "nombres_alternativos": [
-      "Pushdown de tríceps con cable alto",
-      "Tríceps pushdown en polea superior",
-      "Baja de tríceps en máquina de poleas arriba"
+      "Extensión de triceps con cable",
+      "Empuje de triceps en polea con agarre plano"
     ],
     "video": "Cable-Pushdown_Upper-Arms-FIX_.mp4",
     "imagen": "Cable-Pushdown_Upper-Arms-FIX_.webp",
     "id": "exercise-0497",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 10,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -16413,7 +16414,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Extensión de tríceps en polea con agarre inverso",
+    "nombre_es": "Extensión de tríceps en polea con agarre supino",
     "nombre_en": "Reverse Grip Triceps Pushdown",
     "tipo": "Isolation",
     "musculo": "Triceps",
@@ -16431,13 +16432,14 @@
     "musculos_secundarios": [],
     "nombres_alternativos": [
       "Pushdown inverso de tríceps con cable",
-      "Tríceps pushdown con agarre supino en máquina de poleas"
+      "Empuje de triceps en cable con agarre supino",
+      "Extension de tricpes en polea con agarre inverso"
     ],
     "video": "Cable-Reverse-grip-Pushdown_Upper-Arms_.mp4",
     "imagen": "Cable-Reverse-grip-Pushdown_Upper-Arms_.webp",
     "id": "exercise-0510",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 4,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -18598,7 +18600,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Aperturas de pecho en polea de pie",
+    "nombre_es": "Cruces de poleas",
     "nombre_en": "Standing Cable Fly",
     "tipo": "Isolation",
     "musculo": "Chest",
@@ -18618,13 +18620,14 @@
       "Fly de pecho en máquina de poleas",
       "Apertura de pectorales en cable",
       "Pecho plano con cables",
-      "Vuelos de pecho en polea"
+      "Vuelos de pecho en polea",
+      "Aperturas de pecho en máquina de pie"
     ],
     "video": "Cable-Standing-Fly_Chest.mp4",
     "imagen": "Cable-Standing-Fly_Chest.webp",
     "id": "exercise-0580",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 8,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -22439,7 +22442,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Press de banca con mancuerna",
+    "nombre_es": "Press de pecho con mancuernas",
     "nombre_en": "Dumbbell Bench Press",
     "tipo": "Compound",
     "musculo": "Chest",
@@ -22464,15 +22467,15 @@
       }
     ],
     "nombres_alternativos": [
-      "Press de pecho con mancuernas",
-      "Apertura de banca con pesas",
-      "Banca plano con mancuerna en cada mano"
+      "Press de banca con mancuerna",
+      "Banca plano con mancuerna en cada mano",
+      "press de pecho en banco plano con mancuernas"
     ],
     "video": "Dumbbell-Bench-Press_Chest-FIX_.mp4",
     "imagen": "Dumbbell-Bench-Press_Chest-FIX_.webp",
     "id": "exercise-0701",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 8,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -23745,7 +23748,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Press de banca declinado con mancuerna",
+    "nombre_es": "Press de banca declinado con mancuernas",
     "nombre_en": "Dumbbell Decline Bench Press",
     "tipo": "Compound",
     "musculo": "Chest",
@@ -23762,14 +23765,14 @@
     "musculos_secundarios": [],
     "nombres_alternativos": [
       "Press declinado con mancuernas",
-      "Pecho descendente en banco plano con pesas",
-      "Banca inclinada a la baja con pesas"
+      "Press de pecho en banco declinado",
+      "Banca descendente con mancuernas"
     ],
     "video": "Dumbbell-Decline-Bench-Press_Chest-FIX_.mp4",
     "imagen": "Dumbbell-Decline-Bench-Press_Chest-FIX_.webp",
     "id": "exercise-0739",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 5,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -24339,7 +24342,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Aperturas con mancuerna en banco plano",
+    "nombre_es": "Aperturas con mancuernas",
     "nombre_en": "Dumbbell Fly on Flat Bench",
     "tipo": "Isolation",
     "musculo": "Chest",
@@ -24358,13 +24361,13 @@
       "Fly de pecho con mancuernas en banco recto",
       "Pecho abierto con pesas en banco plano",
       "Extensión lateral de pecho con mancuerna en banco",
-      "Banca plana: aperturas con pesas"
+      "Aperturas con pesas en banco plano"
     ],
     "video": "Dumbbell-Fly_Chest-FIX2_.mp4",
     "imagen": "Dumbbell-Fly_Chest-FIX2_.webp",
     "id": "exercise-0759",
     "importancia": 1,
-    "verificado": false,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -25956,7 +25959,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Press de banca inclinado con mancuernas",
+    "nombre_es": "Press inclinado con mancuernas",
     "nombre_en": "Incline Dumbbell Bench Press",
     "tipo": "Compound",
     "musculo": "Chest",
@@ -25985,13 +25988,14 @@
       "Press inclinado con pesas en banco inclinado",
       "Press de pecho inclinado con mancuernas",
       "Press banca inclinado con pesas libres",
-      "Press de banca con mancuernas en banco inclinado"
+      "Press de banca con mancuernas en banco inclinado",
+      "press de pecho con mancuernas en banco a 45 grados"
     ],
     "video": "Dumbbell-Incline-Bench-Press_Chest-FIX2_.mp4",
     "imagen": "Dumbbell-Incline-Bench-Press_Chest-FIX2_.webp",
     "id": "exercise-0808",
-    "importancia": 8,
-    "verificado": false,
+    "importancia": 10,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -26185,7 +26189,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Aperturas con mancuerna en banco inclinado",
+    "nombre_es": "Aperturas con mancuernas en banco inclinado",
     "nombre_en": "Incline Dumbbell Fly",
     "tipo": "Isolation",
     "musculo": "Chest",
@@ -26202,13 +26206,15 @@
     "musculos_secundarios": [],
     "nombres_alternativos": [
       "Aperturas inclinadas con pesas",
-      "Apertura de pecho con mancuerna en ángulo"
+      "Apertura de pecho con mancuerna en ángulo 45 grados",
+      "Fly de pecho en banco inclinado",
+      ""
     ],
     "video": "Dumbbell-Incline-Fly_Chest-FIX2_.mp4",
     "imagen": "Dumbbell-Incline-Fly_Chest-FIX2_.webp",
     "id": "exercise-0815",
     "importancia": 1,
-    "verificado": false,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -28801,7 +28807,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Extensión de tríceps con mancuerna a un brazo",
+    "nombre_es": "Patada de tricpes",
     "nombre_en": "One-Arm Dumbbell Kickback",
     "tipo": "Isolation",
     "musculo": "Triceps",
@@ -28816,15 +28822,15 @@
     ],
     "musculos_secundarios": [],
     "nombres_alternativos": [
-      "Extensión a un lado con mancuerna",
-      "Kickback unilateral con peso",
-      "Tríceps en reversa con mancuerna"
+      "Extensión de triceps a unilateral con mancuerna",
+      "Kickback unilateral con pesa",
+      "Extensión de tríceps con mancuerna a un brazo"
     ],
     "video": "Dumbbell-One-Arm-Kickback_Upper-Arms_.mp4",
     "imagen": "Dumbbell-One-Arm-Kickback_Upper-Arms_.webp",
     "id": "exercise-0898",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 3,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -37887,7 +37893,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Extensión de tríceps en banco con barra EZ",
+    "nombre_es": "Press francés con barra Z",
     "nombre_en": "EZ-Barbell Lying Triceps Extension",
     "tipo": "Isolation",
     "musculo": "Triceps",
@@ -37903,15 +37909,15 @@
     ],
     "musculos_secundarios": [],
     "nombres_alternativos": [
-      "Ejercicio de tríceps en banco plano con barra curvada",
-      "Tríceps lie con EZ-Barbell",
-      "Flexión invertida de tríceps con barra EZ"
+      "Extensión de triceps en banco planco con barra Z",
+      "Rompecraneos en banco plano con barra Z",
+      "Skull crushers en banco plano con barra Z"
     ],
     "video": "EZ-Barbell-Lying-Triceps-Extension-(male)_Upper-Arms_.mp4",
     "imagen": "EZ-Barbell-Lying-Triceps-Extension-(male)_Upper-Arms_.webp",
     "id": "exercise-1184",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 8,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -49070,14 +49076,14 @@
     "musculos_secundarios": [],
     "nombres_alternativos": [
       "Pecho plano con máquina",
-      "Chest press en banco inclinado",
-      "Empuje de pecho con dispositivo"
+      "Press banca en máquina",
+      "Empuje de pecho en máquina"
     ],
     "video": "Lever-Chest-Press-(VERSION-3)_Chest+.mp4",
     "imagen": "Lever-Chest-Press-(VERSION-3)_Chest+.webp",
     "id": "exercise-1518",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 8,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -51217,7 +51223,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Aperturas en máquina pec deck",
+    "nombre_es": "Aperturas de pecho en pec deck",
     "nombre_en": "Pec Deck Fly",
     "tipo": "Isolation",
     "musculo": "Chest",
@@ -51236,13 +51242,14 @@
       "Aperturas de pecho en aparato",
       "Fly de pecho en máquina",
       "Pec Deck con manijas",
-      "Apertura de pectorales en banco"
+      "Apertura de pectorales en banco",
+      "Aperturas mariposa en máquina peck deck"
     ],
     "video": "Lever-Pec-Deck-Fly_Chest_.mp4",
     "imagen": "Lever-Pec-Deck-Fly_Chest_.webp",
     "id": "exercise-1589",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 8,
+    "verificado": true,
     "variante_de": null
   },
   {
@@ -66200,7 +66207,7 @@
     "variante_de": null
   },
   {
-    "nombre_es": "Flexiones con disco de peso",
+    "nombre_es": "Flexiones con o sin peso",
     "nombre_en": "Weighted Plate Push-up",
     "tipo": "Compound",
     "musculo": "Chest",
@@ -66224,8 +66231,8 @@
     "video": "Weighted-Plate-Push-up-(male)_Chest_.mp4",
     "imagen": "Weighted-Plate-Push-up-(male)_Chest_.webp",
     "id": "exercise-2058",
-    "importancia": 1,
-    "verificado": false,
+    "importancia": 6,
+    "verificado": true,
     "variante_de": null
   },
   {

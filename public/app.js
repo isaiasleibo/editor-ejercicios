@@ -22,6 +22,13 @@ const equipmentMap = {
   'Dumbbell,bench': 'dumbbell', 'Cable': 'cable', 'Machine': 'machine',
   'Band': 'band', 'Bench': 'bodyweight', 'None': 'bodyweight'
 }
+// API base URL — uses dedicated api domain in production, relative in dev
+const API_BASE = (() => {
+  const h = location.hostname
+  if (h === 'editor-ejercicios.isaiasleibo.site') return 'https://api-editor-ejercicios.isaiasleibo.site'
+  return ''
+})()
+
 const muscleTranslations = {
   'Chest': 'Pecho', 'Upperback': 'Espalda superior', 'Lowerback': 'Espalda baja',
   'Shoulders': 'Hombros', 'Quadriceps': 'Cuádriceps', 'Hamstrings': 'Isquiotibiales',
@@ -47,7 +54,7 @@ const $ = (id) => document.getElementById(id)
 
 // ---------- Load ----------
 async function init() {
-  const r = await fetch('/api/exercises')
+  const r = await fetch(`${API_BASE}/api/exercises`)
   state.all = await r.json()
   for (const e of state.all) state.byId.set(e.id, e)
   buildSearchIndex()
@@ -192,7 +199,7 @@ function fillForm(ex) {
 
   // Image
   if (ex.imagen) {
-    $('f-imagen').src = `/images/${encodeURIComponent(ex.imagen)}`
+    $('f-imagen').src = `${API_BASE}/images/${encodeURIComponent(ex.imagen)}`
     $('f-imagen-name').textContent = ex.imagen
   } else {
     $('f-imagen').removeAttribute('src')
@@ -202,9 +209,9 @@ function fillForm(ex) {
   // Video
   const vid = $('f-video')
   if (ex.video) {
-    vid.src = `/videos/${encodeURIComponent(ex.video)}`
+    vid.src = `${API_BASE}/videos/${encodeURIComponent(ex.video)}`
     $('f-video-name').textContent = ex.video
-    fetch(`/api/video-exists/${encodeURIComponent(ex.video)}`)
+    fetch(`${API_BASE}/api/video-exists/${encodeURIComponent(ex.video)}`)
       .then(r => r.json())
       .then(d => {
         $('f-video-status').textContent = d.exists ? '' : '(no encontrado en /videos)'
@@ -408,7 +415,7 @@ function bindUI() {
     const id = state.currentId
     if (!id) return
     flushPendingPatch()
-    const r = await fetch(`/api/exercises/${id}/verify`, { method: 'POST' })
+    const r = await fetch(`${API_BASE}/api/exercises/${id}/verify`, { method: 'POST' })
     const updated = await r.json()
     state.byId.set(id, updated)
     const idx = state.all.findIndex(e => e.id === id)
@@ -498,7 +505,7 @@ function bindUI() {
     btn.textContent = '✨ Generando…'
     container.innerHTML = `<div class="ai-loading">Pidiéndole a la IA…</div>`
     try {
-      const r = await fetch(`/api/generate-alternativos/${ex.id}`, { method: 'POST' })
+      const r = await fetch(`${API_BASE}/api/generate-alternativos/${ex.id}`, { method: 'POST' })
       const data = await r.json()
       if (!r.ok) {
         container.innerHTML = `<div class="ai-error">${escapeHtml(data.error || 'Error desconocido')}</div>`
@@ -559,7 +566,7 @@ async function flushPendingPatch() {
   state.pendingPatch = {}
   $('save-status').textContent = 'Guardando…'
   try {
-    const r = await fetch(`/api/exercises/${id}`, {
+    const r = await fetch(`${API_BASE}/api/exercises/${id}`, {
       method: 'PATCH',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload),
@@ -614,7 +621,7 @@ function normalize(s) {
 // Save before leaving
 window.addEventListener('beforeunload', () => {
   if (Object.keys(state.pendingPatch).length > 0) {
-    navigator.sendBeacon(`/api/exercises/${state.currentId}`, new Blob([JSON.stringify(state.pendingPatch)], { type: 'application/json' }))
+    navigator.sendBeacon(`${API_BASE}/api/exercises/${state.currentId}`, new Blob([JSON.stringify(state.pendingPatch)], { type: 'application/json' }))
   }
 })
 

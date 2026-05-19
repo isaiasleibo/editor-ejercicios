@@ -1,0 +1,12 @@
+module.exports = {
+  apps: [{
+    name: "editor-ejercicios",
+    cwd: "/projects/editor-ejercicios",
+    script: "server.js",
+    env: {
+      PORT: "5174",
+      ALLOWED_ORIGINS: "https://editor-ejercicios.isaiasleibo.site",
+      IMAGES_DIR: "/projects/somatrack-project/somatrack-1.0.4/frontend/public/thumbnails"
+    }
+  }]
+}
