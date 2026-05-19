@@ -1,0 +1,14 @@
+{
+  "name": "editor-ejercicios",
+  "version": "1.0.0",
+  "description": "Editor visual para el JSON de ejercicios de SomaTrack",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
