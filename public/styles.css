@@ -406,19 +406,6 @@ main#editor { flex: 1; overflow-y: auto; -webkit-overflow-scrolling: touch; padd
 .vb-link:hover { background: #2a2350; }
 .vb-link.done { color: var(--green-fg); border-color: #14532d; }
 .vb-link.done::before { content: "✓ "; }
-.vb-copy {
-  margin-top: 10px;
-  width: 100%;
-  padding: 12px;
-  background: #3b2363;
-  color: #e9d5ff;
-  border: 1px solid #6b21a8;
-  border-radius: 8px;
-  font-weight: 700;
-  font-size: 14px;
-  cursor: pointer;
-}
-.vb-copy:hover { background: #4c1d95; }
 
 .c-details {
   margin-bottom: 18px;

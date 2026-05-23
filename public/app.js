@@ -122,26 +122,9 @@ function buildVariantMaps() {
   }
 }
 
-// Claude exercises in source order, each parent immediately followed by its variants
-function groupedClaude() {
-  const emitted = new Set()
-  const out = []
-  for (const e of state.claude) {
-    if (e.variante_de) continue
-    out.push(e); emitted.add(e.id)
-    for (const kidId of state.childrenOf.get(e.id) || []) {
-      const kid = state.claudeById.get(kidId)
-      if (kid && !emitted.has(kid.id)) { out.push(kid); emitted.add(kid.id) }
-    }
-  }
-  // variants whose parent isn't in the set
-  for (const e of state.claude) if (!emitted.has(e.id)) out.push(e)
-  return out
-}
-
 // ---------- List (left: Claude exercises) ----------
 function getFilteredList() {
-  let list = groupedClaude()
+  let list = state.claude
   if (state.filter === 'pending') list = list.filter(e => !isMatched(e))
   else if (state.filter === 'matched') list = list.filter(e => isMatched(e))
   if (state.muscleFilter) list = list.filter(e => e.musculo === state.muscleFilter)
@@ -256,9 +239,6 @@ function renderVariantBox(ex) {
     const pName = parent ? escapeHtml(parent.nombre_es) : '(padre no encontrado)'
     const pMatched = parent && isMatched(parent)
     html += `<div class="vb-row"><span class="vb-arrow">↳</span> Es variante de ${parent ? `<button class="vb-link" data-goto="${parent.id}">${pName}</button>` : pName}${pMatched ? ' <span class="vb-ok">✓ ya matcheado</span>' : ''}</div>`
-    if (pMatched && (parent.imagen || parent.video)) {
-      html += `<button id="vb-copy" class="vb-copy">Usar la misma imagen y video del padre</button>`
-    }
   }
   if (kids.length) {
     html += `<div class="vb-row">Tiene <strong>${kids.length}</strong> variante${kids.length === 1 ? '' : 's'}: ${kids.map(k => `<button class="vb-link ${isMatched(k) ? 'done' : ''}" data-goto="${k.id}">${escapeHtml(k.nombre_es)}</button>`).join(' ')}</div>`
@@ -267,12 +247,6 @@ function renderVariantBox(ex) {
 
   for (const b of c.querySelectorAll('[data-goto]')) {
     b.addEventListener('click', () => selectClaude(b.dataset.goto))
-  }
-  const copyBtn = c.querySelector('#vb-copy')
-  if (copyBtn) {
-    copyBtn.addEventListener('click', () => {
-      applyMatch({ imagen: parent.imagen || '', video: parent.video || '', matched_con: parent.matched_con })
-    })
   }
 }
 
