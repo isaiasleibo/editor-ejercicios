@@ -1,0 +1,1667 @@
+[
+  {
+    "id": "exercise-chest-0001",
+    "nombre_es": "Press de banca plano con barra",
+    "nombre_en": "Barbell Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Barbell",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Acostate boca arriba en el banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos un poco más anchas que los hombros, palmas hacia adelante.",
+      "Sacá la barra del soporte y mantenela sobre el pecho con los brazos extendidos.",
+      "Bajá la barra controladamente hasta tocar la parte media-baja del pecho.",
+      "Mantené los codos a unos 45-75 grados respecto al torso, no completamente abiertos.",
+      "Empujá la barra hacia arriba hasta extender los brazos sin bloquear los codos.",
+      "Mantené los omóplatos retraídos y el pecho elevado durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.1
+      }
+    ],
+    "nombres_alternativos": [
+      "Press banca con barra",
+      "Bench press plano",
+      "Press de pecho con barra"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "Barbell-Bench-Press_Chest-FIX2_.webp",
+    "video": "Barbell-Bench-Press_Chest-FIX2_.mp4",
+    "matched_con": "exercise-0134"
+  },
+  {
+    "id": "exercise-chest-0002",
+    "nombre_es": "Press de banca inclinado con barra",
+    "nombre_en": "Incline Barbell Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Barbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Ajustá el banco a una inclinación de entre 30 y 45 grados.",
+      "Acostate sobre el banco con los pies firmes en el suelo y la espalda apoyada.",
+      "Agarrá la barra con las manos un poco más anchas que los hombros.",
+      "Sacá la barra del soporte y posicionala sobre la parte superior del pecho.",
+      "Bajá la barra controladamente hasta tocar la zona clavicular o pecho superior.",
+      "Mantené los codos a unos 45-75 grados del torso.",
+      "Empujá la barra hacia arriba hasta extender los brazos sin bloquear los codos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.1
+      }
+    ],
+    "nombres_alternativos": [
+      "Press inclinado con barra",
+      "Incline bench press",
+      "Press de pecho superior con barra"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0003",
+    "nombre_es": "Press de banca declinado con barra",
+    "nombre_en": "Decline Barbell Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Barbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Ajustá el banco a una inclinación negativa de entre 15 y 30 grados.",
+      "Acostate y asegurá los pies bajo los rodillos del banco.",
+      "Agarrá la barra con las manos un poco más anchas que los hombros.",
+      "Sacá la barra del soporte y mantenela sobre la parte inferior del pecho.",
+      "Bajá la barra controladamente hasta tocar la zona baja del pecho.",
+      "Mantené los codos cerca del torso, no totalmente abiertos.",
+      "Empujá la barra hacia arriba hasta extender los brazos sin bloquear los codos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.1
+      }
+    ],
+    "nombres_alternativos": [
+      "Press declinado con barra",
+      "Decline bench press",
+      "Press de pecho inferior con barra"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0004",
+    "nombre_es": "Press de banca con barra agarre cerrado",
+    "nombre_en": "Close-Grip Barbell Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Barbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate boca arriba en el banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos a una distancia similar al ancho de los hombros o un poco menos.",
+      "Sacá la barra del soporte y mantenela sobre el pecho con los brazos extendidos.",
+      "Bajá la barra controladamente hasta el pecho medio-bajo manteniendo los codos cerca del torso.",
+      "Empujá la barra hacia arriba sin bloquear los codos al final.",
+      "Sentí el trabajo en tríceps y pecho interno.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.55
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.1
+      }
+    ],
+    "nombres_alternativos": [
+      "Press cerrado con barra",
+      "Close-grip bench press",
+      "Press de pecho interno con barra"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0005",
+    "nombre_es": "Press de banca con barra agarre amplio",
+    "nombre_en": "Wide-Grip Barbell Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Acostate boca arriba en el banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos bien separadas, más anchas que los hombros.",
+      "Sacá la barra del soporte y mantenela sobre el pecho con los brazos extendidos.",
+      "Bajá la barra controladamente hasta tocar el pecho medio.",
+      "Los codos quedarán más abiertos respecto al torso que en el agarre estándar.",
+      "Empujá la barra hacia arriba sin bloquear los codos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.1
+      }
+    ],
+    "nombres_alternativos": [
+      "Press amplio con barra",
+      "Wide-grip bench press",
+      "Press de pecho externo con barra"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0006",
+    "nombre_es": "Press de pecho plano con mancuernas",
+    "nombre_en": "Flat Dumbbell Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Dumbbell",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Sentate en un banco plano con una mancuerna en cada mano apoyada sobre los muslos.",
+      "Acostate impulsando las mancuernas hacia el pecho con ayuda de las piernas.",
+      "Posicioná las mancuernas a los lados del pecho con los codos flexionados a unos 90 grados.",
+      "Las palmas miran hacia los pies, los codos a unos 45-75 grados del torso.",
+      "Empujá las mancuernas hacia arriba hasta extender los brazos sin chocarlas.",
+      "Bajá controladamente hasta sentir el estiramiento en el pecho.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Press plano con mancuernas",
+      "Dumbbell bench press",
+      "Press de banca con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0007",
+    "nombre_es": "Press inclinado con mancuernas",
+    "nombre_en": "Incline Dumbbell Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Dumbbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Ajustá el banco a una inclinación de entre 30 y 45 grados.",
+      "Sentate con una mancuerna en cada mano apoyada sobre los muslos.",
+      "Acostate impulsando las mancuernas hacia el pecho con ayuda de las piernas.",
+      "Posicioná las mancuernas a los lados del pecho superior, palmas hacia los pies.",
+      "Empujá las mancuernas hacia arriba hasta extender los brazos.",
+      "Bajá controladamente hasta sentir el estiramiento en el pecho superior.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Press inclinado mancuernas",
+      "Incline dumbbell press",
+      "Press de pecho superior con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0006",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0008",
+    "nombre_es": "Press declinado con mancuernas",
+    "nombre_en": "Decline Dumbbell Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Dumbbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Ajustá el banco a una inclinación negativa de entre 15 y 30 grados.",
+      "Asegurá los pies bajo los rodillos del banco antes de acostarte.",
+      "Acostate con una mancuerna en cada mano sobre el pecho inferior.",
+      "Posicioná las mancuernas a los lados del pecho bajo, palmas hacia los pies.",
+      "Empujá las mancuernas hacia arriba hasta extender los brazos.",
+      "Bajá controladamente hasta sentir el estiramiento en la zona baja del pecho.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.1
+      }
+    ],
+    "nombres_alternativos": [
+      "Press declinado mancuernas",
+      "Decline dumbbell press",
+      "Press de pecho inferior con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0006",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0009",
+    "nombre_es": "Press con mancuernas agarre neutro",
+    "nombre_en": "Neutral-Grip Dumbbell Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate en un banco plano con una mancuerna en cada mano.",
+      "Posicioná las mancuernas a los lados del pecho con las palmas enfrentadas (agarre martillo).",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Empujá las mancuernas hacia arriba sin rotar las muñecas.",
+      "Bajá controladamente sintiendo el trabajo en pecho interno y tríceps.",
+      "Mantené el agarre neutro durante toda la serie.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Press martillo con mancuernas",
+      "Hammer press mancuernas",
+      "Press de pecho agarre paralelo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0006",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0010",
+    "nombre_es": "Aperturas planas con mancuernas",
+    "nombre_en": "Flat Dumbbell Flyes",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Dumbbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con una mancuerna en cada mano.",
+      "Extendé los brazos sobre el pecho con las palmas enfrentadas y una ligera flexión en los codos.",
+      "Mantené esa flexión fija durante todo el movimiento.",
+      "Bajá los brazos en arco hacia los lados hasta sentir un buen estiramiento en el pecho.",
+      "No bajes más allá de la línea del hombro para evitar lesiones.",
+      "Subí las mancuernas en el mismo arco controladamente, juntándolas arriba sin chocarlas.",
+      "Mantené el pecho elevado y los omóplatos retraídos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Aperturas con mancuernas plano",
+      "Dumbbell flyes",
+      "Vuelos de pecho con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0011",
+    "nombre_es": "Aperturas inclinadas con mancuernas",
+    "nombre_en": "Incline Dumbbell Flyes",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Dumbbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Ajustá el banco a una inclinación de entre 30 y 45 grados.",
+      "Acostate con una mancuerna en cada mano y los brazos extendidos sobre el pecho superior.",
+      "Mantené las palmas enfrentadas y una ligera flexión fija en los codos.",
+      "Bajá los brazos en arco hacia los lados hasta sentir estiramiento en el pecho superior.",
+      "No bajes más allá de la línea del hombro.",
+      "Subí las mancuernas en el mismo arco controladamente.",
+      "Mantené tensión constante en el pecho superior.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Aperturas inclinadas mancuernas",
+      "Incline flyes",
+      "Vuelos de pecho superior"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0010",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0012",
+    "nombre_es": "Aperturas declinadas con mancuernas",
+    "nombre_en": "Decline Dumbbell Flyes",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Dumbbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Ajustá el banco a una inclinación negativa de entre 15 y 30 grados.",
+      "Asegurá los pies bajo los rodillos del banco.",
+      "Acostate con una mancuerna en cada mano y los brazos extendidos sobre el pecho inferior.",
+      "Mantené las palmas enfrentadas y una ligera flexión fija en los codos.",
+      "Bajá los brazos en arco hacia los lados sintiendo estiramiento en pecho bajo.",
+      "Subí las mancuernas en el mismo arco controladamente.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Aperturas declinadas mancuernas",
+      "Decline flyes",
+      "Vuelos de pecho inferior"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0010",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0013",
+    "nombre_es": "Press de pecho plano en máquina",
+    "nombre_en": "Flat Machine Chest Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Machine",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Ajustá la altura del asiento de modo que los manerales queden a la altura del pecho medio.",
+      "Sentate con la espalda firme contra el respaldo y los pies apoyados en el suelo.",
+      "Agarrá los manerales con las palmas hacia adelante.",
+      "Empujá los manerales hacia adelante hasta extender los brazos sin bloquear los codos.",
+      "Mantené los omóplatos retraídos contra el respaldo durante todo el movimiento.",
+      "Volvé controladamente a la posición inicial sintiendo el estiramiento en el pecho.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      }
+    ],
+    "nombres_alternativos": [
+      "Press en máquina horizontal",
+      "Machine chest press",
+      "Press de pecho sentado en máquina"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0014",
+    "nombre_es": "Press inclinado en máquina",
+    "nombre_en": "Incline Machine Chest Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Machine",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Ajustá la máquina o el asiento para que los manerales queden alineados con el pecho superior.",
+      "Sentate con la espalda firme contra el respaldo inclinado.",
+      "Agarrá los manerales con las palmas hacia adelante.",
+      "Empujá los manerales hacia arriba y adelante hasta extender los brazos.",
+      "Mantené los omóplatos retraídos durante todo el movimiento.",
+      "Volvé controladamente sintiendo estiramiento en el pecho superior.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.25
+      }
+    ],
+    "nombres_alternativos": [
+      "Incline machine press",
+      "Press de pecho superior en máquina",
+      "Press inclinado sentado en máquina"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0013",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0015",
+    "nombre_es": "Press declinado en máquina",
+    "nombre_en": "Decline Machine Chest Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Machine",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Ajustá la máquina para que los manerales queden alineados con el pecho inferior.",
+      "Sentate con la espalda firme contra el respaldo declinado.",
+      "Agarrá los manerales con las palmas hacia adelante.",
+      "Empujá los manerales hacia abajo y adelante hasta extender los brazos.",
+      "Volvé controladamente sintiendo estiramiento en el pecho bajo.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Decline machine press",
+      "Press de pecho inferior en máquina",
+      "Press declinado sentado en máquina"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0013",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0016",
+    "nombre_es": "Press en máquina agarre neutro",
+    "nombre_en": "Neutral-Grip Machine Chest Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Machine",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Ajustá el asiento para que los manerales queden a la altura del pecho medio.",
+      "Sentate con la espalda firme contra el respaldo.",
+      "Agarrá los manerales verticales con las palmas enfrentadas (agarre neutro).",
+      "Empujá los manerales hacia adelante hasta extender los brazos.",
+      "Mantené los codos cerca del torso durante el empuje.",
+      "Volvé controladamente a la posición inicial.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Press neutro en máquina",
+      "Machine press martillo",
+      "Press de pecho agarre paralelo en máquina"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0013",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0017",
+    "nombre_es": "Cruces en polea alta",
+    "nombre_en": "High Cable Crossover",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Cable",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Colocá las poleas en la posición más alta y enganchá un maneral en cada lado.",
+      "Parate en el centro con un pie levemente adelantado para mayor estabilidad.",
+      "Agarrá los manerales con los brazos extendidos hacia arriba y a los lados.",
+      "Mantené una ligera flexión fija en los codos.",
+      "Tirá los manerales hacia abajo y al centro en arco hasta cruzarlos a la altura del abdomen.",
+      "Contraé el pecho al final del movimiento por un segundo.",
+      "Volvé controladamente sintiendo estiramiento en el pecho.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cruces de pecho polea alta",
+      "High-to-low cable fly",
+      "Aperturas polea alta"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0018",
+    "nombre_es": "Cruces en polea baja",
+    "nombre_en": "Low Cable Crossover",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocá las poleas en la posición más baja y enganchá un maneral en cada lado.",
+      "Parate en el centro con un pie levemente adelantado.",
+      "Agarrá los manerales con los brazos extendidos hacia abajo y a los lados.",
+      "Mantené una ligera flexión fija en los codos.",
+      "Subí los manerales en arco hacia arriba y al centro hasta cruzarlos a la altura del pecho superior.",
+      "Contraé el pecho superior al final del movimiento.",
+      "Volvé controladamente.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cruces de pecho polea baja",
+      "Low-to-high cable fly",
+      "Aperturas polea baja"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0017",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0019",
+    "nombre_es": "Cruces en polea media",
+    "nombre_en": "Mid Cable Crossover",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá las poleas a la altura del pecho y enganchá un maneral en cada lado.",
+      "Parate en el centro con un pie levemente adelantado.",
+      "Agarrá los manerales con los brazos extendidos hacia los lados a la altura del pecho.",
+      "Mantené una ligera flexión fija en los codos.",
+      "Llevá los manerales hacia adelante y al centro en arco hasta juntarlos frente al pecho.",
+      "Contraé el pecho al final del movimiento por un segundo.",
+      "Volvé controladamente sintiendo el estiramiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cruces de pecho horizontal",
+      "Mid cable fly",
+      "Aperturas polea media"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0017",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0020",
+    "nombre_es": "Cruce en polea unilateral",
+    "nombre_en": "Single-Arm Cable Crossover",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá una polea a la altura media o alta y enganchá un maneral.",
+      "Parate de costado a la polea con un pie levemente adelantado.",
+      "Agarrá el maneral con la mano más lejana a la polea con el brazo extendido al lado.",
+      "Mantené una ligera flexión fija en el codo.",
+      "Llevá el maneral en arco hacia el centro del cuerpo cruzando por delante del pecho.",
+      "Contraé el pecho al final del movimiento.",
+      "Volvé controladamente y completá todas las repeticiones antes de cambiar de lado.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cruce unilateral en polea",
+      "Single-arm cable fly",
+      "Apertura a un brazo en polea"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0017",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0021",
+    "nombre_es": "Contractor de pecho en máquina",
+    "nombre_en": "Pec Deck Machine",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Machine",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Ajustá la altura del asiento para que los manerales queden a la altura del pecho.",
+      "Sentate con la espalda firme contra el respaldo y los pies apoyados en el suelo.",
+      "Agarrá los manerales con los codos ligeramente flexionados y los brazos abiertos.",
+      "Juntá los manerales al frente contrayendo el pecho.",
+      "Mantené la contracción un segundo al final del movimiento.",
+      "Volvé controladamente sintiendo el estiramiento en el pecho.",
+      "No dejes que las pesas toquen al final del recorrido excéntrico.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Pec deck",
+      "Máquina de aperturas",
+      "Butterfly machine"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0022",
+    "nombre_es": "Fondos en paralelas con torso inclinado",
+    "nombre_en": "Chest Dips (Forward Lean)",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Subí a las paralelas y sostené tu peso con los brazos extendidos.",
+      "Inclina el torso hacia adelante unos 30 grados manteniendo esa postura.",
+      "Cruzá los pies por detrás y mantené las piernas levemente flexionadas.",
+      "Bajá controladamente flexionando los codos hasta que los hombros queden por debajo de los codos.",
+      "Mantené los codos ligeramente abiertos para enfocar el trabajo en el pecho.",
+      "Empujá con el pecho para volver a la posición inicial.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Dips de pecho",
+      "Fondos para pecho",
+      "Paralelas inclinadas adelante"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0023",
+    "nombre_es": "Fondos en paralelas torso vertical",
+    "nombre_en": "Upright Dips",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Subí a las paralelas y sostené tu peso con los brazos extendidos.",
+      "Mantené el torso lo más vertical posible durante todo el movimiento.",
+      "Cruzá los pies por detrás y flexioná ligeramente las piernas.",
+      "Bajá controladamente flexionando los codos manteniéndolos cerca del torso.",
+      "Bajá hasta que los codos formen un ángulo de aproximadamente 90 grados.",
+      "Empujá hacia arriba hasta extender los brazos sin bloquear los codos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.55
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Fondos verticales",
+      "Dips para tríceps en paralelas",
+      "Paralelas torso recto"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0022",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0024",
+    "nombre_es": "Flexiones de brazos estándar",
+    "nombre_en": "Standard Push-Up",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Bodyweight",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Colocate boca abajo con las manos a la altura del pecho un poco más anchas que los hombros.",
+      "Extendé los brazos para elevar el cuerpo, formando una línea recta desde la cabeza a los talones.",
+      "Apoyá las puntas de los pies en el suelo y contraé el core.",
+      "Bajá el cuerpo controladamente flexionando los codos a unos 45 grados del torso.",
+      "Bajá hasta que el pecho casi toque el suelo sin perder la línea del cuerpo.",
+      "Empujá hacia arriba hasta extender los brazos.",
+      "Mantené glúteos y abdomen activos durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
+    ],
+    "nombres_alternativos": [
+      "Push-up",
+      "Lagartijas",
+      "Flexiones de pecho"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0025",
+    "nombre_es": "Flexiones inclinadas (pies elevados)",
+    "nombre_en": "Decline Push-Up (Feet Elevated)",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Apoyá los pies sobre un banco o superficie elevada de unos 30-60 cm.",
+      "Colocá las manos en el suelo un poco más anchas que los hombros.",
+      "Mantené el cuerpo en línea recta desde la cabeza a los talones.",
+      "Bajá controladamente flexionando los codos hasta que el pecho casi toque el suelo.",
+      "El énfasis recae sobre el pecho superior por la inclinación del cuerpo.",
+      "Empujá hacia arriba hasta extender los brazos.",
+      "Mantené el core firme durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
+    ],
+    "nombres_alternativos": [
+      "Decline push-up",
+      "Flexiones con pies elevados",
+      "Lagartijas inclinadas"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0026",
+    "nombre_es": "Flexiones declinadas (manos elevadas)",
+    "nombre_en": "Incline Push-Up (Hands Elevated)",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Apoyá las manos sobre un banco o superficie elevada un poco más anchas que los hombros.",
+      "Apoyá las puntas de los pies en el suelo manteniendo el cuerpo en línea recta.",
+      "Bajá controladamente flexionando los codos hasta que el pecho casi toque la superficie.",
+      "El énfasis recae sobre el pecho inferior por la inclinación inversa.",
+      "Empujá hacia arriba hasta extender los brazos.",
+      "Es una variante más accesible para principiantes.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Incline push-up",
+      "Flexiones con manos elevadas",
+      "Lagartijas declinadas"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0027",
+    "nombre_es": "Flexiones diamante",
+    "nombre_en": "Diamond Push-Up",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocate boca abajo con las manos juntas bajo el pecho formando un diamante con los pulgares e índices.",
+      "Extendé los brazos elevando el cuerpo en línea recta.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Bajá controladamente hasta que el pecho casi toque las manos.",
+      "Empujá hacia arriba hasta extender los brazos.",
+      "El énfasis recae sobre el pecho interno y los tríceps.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.55
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Diamond push-up",
+      "Lagartijas diamante",
+      "Flexiones de pecho interno"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0028",
+    "nombre_es": "Flexiones agarre amplio",
+    "nombre_en": "Wide-Grip Push-Up",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocate boca abajo con las manos bien separadas, más anchas que los hombros.",
+      "Extendé los brazos elevando el cuerpo en línea recta.",
+      "Los codos quedarán más abiertos respecto al torso que en la versión estándar.",
+      "Bajá controladamente hasta que el pecho casi toque el suelo.",
+      "Empujá hacia arriba sintiendo el trabajo en el pecho externo.",
+      "Mantené el core firme durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Wide push-up",
+      "Lagartijas abiertas",
+      "Flexiones de pecho externo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0029",
+    "nombre_es": "Flexiones pliométricas con palmada",
+    "nombre_en": "Clap Push-Up",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Bodyweight",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Colocate en posición de flexión estándar con las manos a la altura de los hombros.",
+      "Bajá controladamente flexionando los codos hasta que el pecho casi toque el suelo.",
+      "Empujá explosivamente hacia arriba para despegar las manos del suelo.",
+      "Mientras estás en el aire, dá una palmada rápida.",
+      "Aterrizá con las manos en la posición inicial absorbiendo el impacto con los brazos.",
+      "Mantené el core firme y el cuerpo en línea recta durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
+    ],
+    "nombres_alternativos": [
+      "Clap push-up",
+      "Flexiones explosivas",
+      "Lagartijas con palmada"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0030",
+    "nombre_es": "Flexiones arquero",
+    "nombre_en": "Archer Push-Up",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Bodyweight",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Colocate en posición de flexión con las manos bien separadas.",
+      "Extendé los brazos elevando el cuerpo en línea recta.",
+      "Bajá el cuerpo hacia un lado flexionando solo el brazo de ese lado mientras el otro queda extendido.",
+      "El brazo extendido sirve solo como apoyo lateral.",
+      "Empujá con el brazo que se flexionó para volver al centro.",
+      "Alterná entre ambos lados.",
+      "Mantené el core y caderas estables durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      }
+    ],
+    "nombres_alternativos": [
+      "Archer push-up",
+      "Flexiones a un brazo asistidas",
+      "Lagartijas arquero"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0031",
+    "nombre_es": "Press en suelo con barra",
+    "nombre_en": "Barbell Floor Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las piernas extendidas o flexionadas.",
+      "Posicioná la barra a la altura del pecho con un agarre un poco más ancho que los hombros.",
+      "Agarrá la barra y sacala del soporte o pedila ayuda para entregártela.",
+      "Bajá la barra controladamente hasta que los codos toquen el suelo.",
+      "Pausá un segundo con los codos apoyados en el suelo.",
+      "Empujá la barra hacia arriba hasta extender los brazos.",
+      "El rango de movimiento es más corto que en banca tradicional.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Floor press con barra",
+      "Press en piso con barra",
+      "Press tumbado en suelo"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0032",
+    "nombre_es": "Press en suelo con barra agarre cerrado",
+    "nombre_en": "Close-Grip Barbell Floor Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Barbell",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las piernas extendidas o flexionadas.",
+      "Agarrá la barra con las manos a la altura de los hombros o un poco más cerca.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Bajá controladamente hasta que los codos toquen el suelo.",
+      "Pausá un segundo con los codos apoyados.",
+      "Empujá la barra hacia arriba hasta extender los brazos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.6
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Floor press cerrado",
+      "Press en piso cerrado con barra",
+      "Close-grip floor press"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0031",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0033",
+    "nombre_es": "Press en suelo con mancuernas",
+    "nombre_en": "Dumbbell Floor Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Dumbbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Sentate en el suelo con una mancuerna en cada mano apoyada sobre los muslos.",
+      "Acostate hacia atrás impulsando las mancuernas hacia el pecho.",
+      "Posicioná las mancuernas a los lados del pecho con los codos flexionados.",
+      "Empujá las mancuernas hacia arriba hasta extender los brazos.",
+      "Bajá controladamente hasta que los codos toquen el suelo.",
+      "Pausá un segundo con los codos apoyados.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.1
+      }
+    ],
+    "nombres_alternativos": [
+      "Floor press con mancuernas",
+      "Press en piso con mancuernas",
+      "Dumbbell floor press"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0034",
+    "nombre_es": "Pullover con mancuerna",
+    "nombre_en": "Dumbbell Pullover",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con los pies firmes en el suelo.",
+      "Sostené una mancuerna con ambas manos formando una copa con las palmas.",
+      "Extendé los brazos sobre el pecho con una ligera flexión fija en los codos.",
+      "Bajá la mancuerna en arco hacia atrás por detrás de la cabeza.",
+      "Bajá hasta sentir un buen estiramiento en el pecho y los dorsales.",
+      "Subí la mancuerna en el mismo arco hasta volver sobre el pecho.",
+      "Mantené los codos con la misma flexión durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Back",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Pullover con mancuerna",
+      "Dumbbell pullover",
+      "Jalón pullover con mancuerna"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0035",
+    "nombre_es": "Pullover con barra",
+    "nombre_en": "Barbell Pullover",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Barbell",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos a la altura de los hombros, palmas hacia los pies.",
+      "Extendé los brazos sobre el pecho con una ligera flexión fija en los codos.",
+      "Bajá la barra en arco hacia atrás por detrás de la cabeza.",
+      "Bajá hasta sentir un buen estiramiento en el pecho y los dorsales.",
+      "Subí la barra en el mismo arco hasta volver sobre el pecho.",
+      "Mantené el agarre y la flexión de codos constantes.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Back",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Pullover con barra",
+      "Barbell pullover",
+      "Jalón pullover con barra"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0036",
+    "nombre_es": "Pullover en polea alta de pie",
+    "nombre_en": "Standing Cable Pullover",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Cable",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más alta y enganchá una barra recta.",
+      "Parate frente a la polea a una distancia de aproximadamente un paso.",
+      "Agarrá la barra con las palmas hacia abajo y los brazos extendidos hacia arriba.",
+      "Mantené una ligera flexión fija en los codos y el torso firme.",
+      "Tirá la barra en arco hacia abajo hasta la altura de las caderas.",
+      "Contraé el pecho y dorsales al final del movimiento.",
+      "Volvé controladamente a la posición inicial.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable pullover de pie",
+      "Standing cable pullover",
+      "Jalón pullover en polea"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0037",
+    "nombre_es": "Svend press de pie",
+    "nombre_en": "Standing Svend Press",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Plate",
+    "importancia": 3,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Sostené una placa de peso entre las palmas a la altura del pecho.",
+      "Apretá las palmas con fuerza para mantener la placa firme.",
+      "Empujá la placa hacia adelante extendiendo los brazos completamente.",
+      "Mantené la presión constante sobre la placa durante todo el movimiento.",
+      "Contraé el pecho al final del movimiento.",
+      "Volvé controladamente al pecho.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Svend press",
+      "Press con placa",
+      "Plate press de pie"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0038",
+    "nombre_es": "Svend press acostado",
+    "nombre_en": "Lying Svend Press",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Plate",
+    "importancia": 3,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con los pies firmes en el suelo.",
+      "Sostené una placa de peso entre las palmas a la altura del pecho.",
+      "Apretá las palmas con fuerza para mantener la placa firme.",
+      "Empujá la placa hacia arriba extendiendo los brazos.",
+      "Mantené presión constante sobre la placa durante todo el movimiento.",
+      "Bajá controladamente hasta el pecho sin perder la presión.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Svend press acostado",
+      "Press con placa acostado",
+      "Lying plate press"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0037",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0039",
+    "nombre_es": "Press Larsen plano",
+    "nombre_en": "Flat Larsen Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Barbell",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano.",
+      "Levantá las piernas extendidas hacia adelante sin apoyarlas en el suelo.",
+      "Agarrá la barra con las manos un poco más anchas que los hombros.",
+      "Sacá la barra del soporte y mantenela sobre el pecho.",
+      "Bajá la barra controladamente hasta el pecho medio.",
+      "Empujá la barra hacia arriba sin usar el impulso de las piernas.",
+      "Mantené el core extremadamente firme durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      }
+    ],
+    "nombres_alternativos": [
+      "Larsen press",
+      "Press sin piernas",
+      "Bench press piernas elevadas"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0040",
+    "nombre_es": "Aperturas planas en polea acostado",
+    "nombre_en": "Flat Cable Flyes (Lying)",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá un banco plano en el centro entre dos poleas bajas.",
+      "Enganchá un maneral en cada polea.",
+      "Acostate en el banco y agarrá un maneral con cada mano.",
+      "Extendé los brazos sobre el pecho con una ligera flexión fija en los codos y las palmas enfrentadas.",
+      "Bajá los brazos en arco hacia los lados hasta sentir estiramiento en el pecho.",
+      "Subí los manerales en el mismo arco hasta juntarlos sobre el pecho.",
+      "Mantené tensión constante durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable flyes acostado",
+      "Aperturas en polea plano",
+      "Lying cable fly"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0041",
+    "nombre_es": "Aperturas inclinadas en polea acostado",
+    "nombre_en": "Incline Cable Flyes (Lying)",
+    "tipo": "Isolation",
+    "musculo": "Chest",
+    "equipo": "Cable",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Colocá un banco inclinado a 30-45 grados en el centro entre dos poleas bajas.",
+      "Enganchá un maneral en cada polea.",
+      "Acostate en el banco y agarrá un maneral con cada mano.",
+      "Extendé los brazos sobre el pecho superior con una ligera flexión fija en los codos.",
+      "Bajá los brazos en arco hacia los lados hasta sentir estiramiento en el pecho superior.",
+      "Subí los manerales en el mismo arco hasta juntarlos sobre el pecho.",
+      "Mantené tensión constante durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable flyes inclinado",
+      "Aperturas en polea inclinado",
+      "Incline cable fly"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0040",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0042",
+    "nombre_es": "Press en máquina Smith plano",
+    "nombre_en": "Flat Smith Machine Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Smith Machine",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá un banco plano debajo de la barra de la máquina Smith.",
+      "Acostate y posicioná los hombros bajo la barra.",
+      "Agarrá la barra con las manos un poco más anchas que los hombros.",
+      "Desbloqueá la barra rotando las muñecas.",
+      "Bajá la barra controladamente hasta el pecho medio.",
+      "Empujá la barra hacia arriba hasta extender los brazos.",
+      "Mantené los codos a unos 45-75 grados del torso.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      }
+    ],
+    "nombres_alternativos": [
+      "Press banca Smith",
+      "Smith machine bench press",
+      "Press de pecho guiado plano"
+    ],
+    "verificado": false,
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0043",
+    "nombre_es": "Press en máquina Smith inclinado",
+    "nombre_en": "Incline Smith Machine Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Smith Machine",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá un banco inclinado a 30-45 grados debajo de la barra de la máquina Smith.",
+      "Acostate y posicioná los hombros de modo que la barra quede sobre el pecho superior.",
+      "Agarrá la barra con las manos un poco más anchas que los hombros.",
+      "Desbloqueá la barra rotando las muñecas.",
+      "Bajá controladamente hasta tocar el pecho superior.",
+      "Empujá la barra hacia arriba hasta extender los brazos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      }
+    ],
+    "nombres_alternativos": [
+      "Press inclinado Smith",
+      "Incline Smith press",
+      "Press de pecho superior guiado"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0042",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  },
+  {
+    "id": "exercise-chest-0044",
+    "nombre_es": "Press en máquina Smith declinado",
+    "nombre_en": "Decline Smith Machine Bench Press",
+    "tipo": "Compound",
+    "musculo": "Chest",
+    "equipo": "Smith Machine",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Colocá un banco declinado debajo de la barra de la máquina Smith.",
+      "Asegurá los pies bajo los rodillos del banco antes de acostarte.",
+      "Posicioná los hombros de modo que la barra quede sobre el pecho inferior.",
+      "Agarrá la barra con las manos un poco más anchas que los hombros.",
+      "Desbloqueá la barra rotando las muñecas.",
+      "Bajá controladamente hasta tocar el pecho inferior.",
+      "Empujá la barra hacia arriba hasta extender los brazos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Press declinado Smith",
+      "Decline Smith press",
+      "Press de pecho inferior guiado"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-chest-0042",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
+  }
+]

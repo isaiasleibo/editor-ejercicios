@@ -7,7 +7,8 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
 const PORT = parseInt(process.env.PORT || '5174', 10)
-const JSON_PATH = path.join(__dirname, 'data', 'ejercicios-nuevos.json')
+const OLD_JSON = path.join(__dirname, 'data', 'ejercicios-nuevos.json')
+const CLAUDE_DIR = process.env.CLAUDE_DIR || path.join(__dirname, 'jsons-ejercicios-claude')
 const VIDEOS_DIR = process.env.VIDEOS_DIR || path.join(__dirname, 'videos')
 const IMAGES_DIR = process.env.IMAGES_DIR || '/home/isaiasleibo/Desktop/somatrack-project/somatrack-1.0.4/frontend/public/thumbnails'
 const ALLOWED_ORIGINS = (process.env.ALLOWED_ORIGINS || '').split(',').map(s => s.trim()).filter(Boolean)
@@ -30,67 +31,101 @@ app.use((req, res, next) => {
 app.use(express.json({ limit: '50mb' }))
 app.use(express.static(path.join(__dirname, 'public')))
 
-let exercises = []
-let saveTimer = null
-let pendingSave = false
+// ---------- Old exercises (source of media — read only) ----------
+let oldExercises = []
 
-function loadExercises() {
-  const raw = fs.readFileSync(JSON_PATH, 'utf-8')
-  exercises = JSON.parse(raw)
-  let mutated = false
-  for (const ex of exercises) {
-    if (typeof ex.importancia !== 'number') { ex.importancia = 1; mutated = true }
-    if (typeof ex.verificado !== 'boolean') { ex.verificado = false; mutated = true }
-    if (!('variante_de' in ex)) { ex.variante_de = null; mutated = true }
+function loadOldExercises() {
+  const raw = fs.readFileSync(OLD_JSON, 'utf-8')
+  oldExercises = JSON.parse(raw)
+  console.log(`[load] ${oldExercises.length} ejercicios viejos (fuente de imagen/video)`)
+}
+
+// ---------- Claude exercises (target — we copy media into these) ----------
+// Each file in CLAUDE_DIR is a list of exercises. We track which file each
+// exercise belongs to so we can write changes back to the right file.
+let claudeFiles = new Map()      // filename -> array of exercises
+let claudeIndex = new Map()      // id -> { ex, file }
+
+function loadClaudeExercises() {
+  claudeFiles = new Map()
+  claudeIndex = new Map()
+  if (!fs.existsSync(CLAUDE_DIR)) {
+    console.warn(`[warn] no existe la carpeta ${CLAUDE_DIR}`)
+    return
   }
-  if (mutated) saveExercisesSync()
-  console.log(`[load] ${exercises.length} ejercicios cargados${mutated ? ' (campos nuevos inicializados)' : ''}`)
-}
-
-function saveExercisesSync() {
-  fs.writeFileSync(JSON_PATH, JSON.stringify(exercises, null, 2), 'utf-8')
-}
-
-function scheduleSave() {
-  pendingSave = true
-  if (saveTimer) return
-  saveTimer = setTimeout(() => {
-    if (pendingSave) {
-      saveExercisesSync()
-      pendingSave = false
-      console.log(`[save] JSON guardado @ ${new Date().toISOString()}`)
+  const files = fs.readdirSync(CLAUDE_DIR).filter(f => f.endsWith('.json'))
+  let total = 0
+  for (const file of files) {
+    const raw = fs.readFileSync(path.join(CLAUDE_DIR, file), 'utf-8')
+    const list = JSON.parse(raw)
+    let mutated = false
+    for (const ex of list) {
+      if (typeof ex.imagen !== 'string') { ex.imagen = ''; mutated = true }
+      if (typeof ex.video !== 'string') { ex.video = ''; mutated = true }
+      if (!('matched_con' in ex)) { ex.matched_con = null; mutated = true }
+      claudeIndex.set(ex.id, { ex, file })
     }
-    saveTimer = null
-  }, 400)
+    claudeFiles.set(file, list)
+    if (mutated) saveClaudeFile(file)
+    total += list.length
+  }
+  console.log(`[load] ${total} ejercicios de Claude desde ${files.length} archivo(s)`)
 }
 
-// GET all exercises (lightweight summary first then full on demand? send all - 2MB is fine locally)
-app.get('/api/exercises', (req, res) => {
-  res.json(exercises)
+function saveClaudeFile(file) {
+  const list = claudeFiles.get(file)
+  if (!list) return
+  fs.writeFileSync(path.join(CLAUDE_DIR, file), JSON.stringify(list, null, 2), 'utf-8')
+}
+
+// All claude exercises, flat, each tagged with its source file
+app.get('/api/claude', (req, res) => {
+  const out = []
+  for (const [file, list] of claudeFiles) {
+    for (const ex of list) out.push({ ...ex, _file: file })
+  }
+  res.json(out)
 })
 
-app.get('/api/exercises/:id', (req, res) => {
-  const ex = exercises.find(e => e.id === req.params.id)
-  if (!ex) return res.status(404).json({ error: 'not found' })
-  res.json(ex)
+// All old exercises (for search / media lookup)
+app.get('/api/old', (req, res) => {
+  res.json(oldExercises)
 })
 
-// PATCH single exercise (partial update)
-app.patch('/api/exercises/:id', (req, res) => {
-  const idx = exercises.findIndex(e => e.id === req.params.id)
-  if (idx < 0) return res.status(404).json({ error: 'not found' })
-  exercises[idx] = { ...exercises[idx], ...req.body }
-  scheduleSave()
-  res.json(exercises[idx])
+// Apply / update a match on a claude exercise (copy media + record source)
+app.patch('/api/claude/:id', (req, res) => {
+  const entry = claudeIndex.get(req.params.id)
+  if (!entry) return res.status(404).json({ error: 'not found' })
+  const allowed = ['imagen', 'video', 'matched_con']
+  for (const key of allowed) {
+    if (key in req.body) entry.ex[key] = req.body[key]
+  }
+  saveClaudeFile(entry.file)
+  res.json(entry.ex)
 })
 
-// Toggle verified
-app.post('/api/exercises/:id/verify', (req, res) => {
-  const idx = exercises.findIndex(e => e.id === req.params.id)
-  if (idx < 0) return res.status(404).json({ error: 'not found' })
-  exercises[idx].verificado = !exercises[idx].verificado
-  scheduleSave()
-  res.json(exercises[idx])
+// Clear a match on a claude exercise
+app.post('/api/claude/:id/clear', (req, res) => {
+  const entry = claudeIndex.get(req.params.id)
+  if (!entry) return res.status(404).json({ error: 'not found' })
+  entry.ex.imagen = ''
+  entry.ex.video = ''
+  entry.ex.matched_con = null
+  saveClaudeFile(entry.file)
+  res.json(entry.ex)
+})
+
+// Progress stats over claude exercises
+app.get('/api/stats', (req, res) => {
+  let total = 0
+  let matched = 0
+  for (const list of claudeFiles.values()) {
+    for (const ex of list) {
+      total++
+      if (ex.matched_con) matched++
+    }
+  }
+  res.json({ total, matched, pending: total - matched })
 })
 
 // Serve images from the somatrack frontend thumbnails folder
@@ -111,86 +146,9 @@ app.get('/videos/:filename', (req, res) => {
   res.sendFile(full)
 })
 
-// Check if a video file exists in the local videos folder
-app.get('/api/video-exists/:filename', (req, res) => {
-  const filename = req.params.filename
-  const full = path.join(VIDEOS_DIR, filename)
-  if (!full.startsWith(VIDEOS_DIR)) return res.status(400).json({ error: 'bad path' })
-  res.json({ exists: fs.existsSync(full) })
-})
-
-// Stats endpoint
-app.get('/api/stats', (req, res) => {
-  const total = exercises.length
-  const verified = exercises.filter(e => e.verificado).length
-  res.json({ total, verified, unverified: total - verified })
-})
-
-// Generate alternative names via LM Studio (OpenAI-compatible local API)
-app.post('/api/generate-alternativos/:id', async (req, res) => {
-  const ex = exercises.find(e => e.id === req.params.id)
-  if (!ex) return res.status(404).json({ error: 'not found' })
-
-  const existentes = (ex.nombres_alternativos || []).join(', ') || '(ninguno)'
-  const prompt = `Sos un experto en entrenamiento de gimnasio. Te paso un ejercicio y necesito que generes nombres alternativos en español que la gente usaría para buscarlo. Incluí variantes con sinónimos, abreviaciones, jerga de gimnasio (ej: "biceps" en vez de "bíceps", "press banca" en vez de "press de banca"), y traducciones del nombre en inglés.
-
-Ejercicio:
-- Nombre en español: ${ex.nombre_es}
-- Nombre en inglés: ${ex.nombre_en || '(sin)'}
-- Músculo principal: ${ex.musculo}
-- Equipamiento: ${ex.equipo}
-- Tipo: ${ex.tipo}
-- Nombres alternativos ya existentes: ${existentes}
-
-Devolveme SOLO un JSON array con 8 nombres alternativos nuevos (que NO sean iguales a los existentes ni al nombre principal). Ejemplo de formato exacto:
-["nombre 1", "nombre 2", "nombre 3", "nombre 4", "nombre 5", "nombre 6", "nombre 7", "nombre 8"]
-
-No agregues texto antes ni después del array. Solo el JSON.`
-
-  try {
-    const lmRes = await fetch('http://localhost:1234/v1/chat/completions', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: 'openai/gpt-oss-20b',
-        messages: [
-          { role: 'system', content: 'Sos un asistente que devuelve únicamente JSON válido, sin explicaciones.' },
-          { role: 'user', content: prompt },
-        ],
-        temperature: 0.8,
-        max_tokens: 600,
-      }),
-    })
-    if (!lmRes.ok) {
-      const text = await lmRes.text()
-      return res.status(502).json({ error: `LM Studio respondió ${lmRes.status}: ${text.slice(0, 200)}` })
-    }
-    const data = await lmRes.json()
-    const content = data.choices?.[0]?.message?.content || ''
-    // Extract JSON array — accept fenced code blocks or plain
-    let names = []
-    const match = content.match(/\[[\s\S]*?\]/)
-    if (match) {
-      try { names = JSON.parse(match[0]) } catch { names = [] }
-    }
-    if (!Array.isArray(names)) names = []
-    names = names
-      .map(n => String(n || '').trim())
-      .filter(n => n.length > 0 && n.length < 200)
-    res.json({ names, raw: content })
-  } catch (err) {
-    res.status(500).json({ error: `Error llamando a LM Studio: ${err.message}` })
-  }
-})
-
-loadExercises()
+loadOldExercises()
+loadClaudeExercises()
 
 app.listen(PORT, () => {
-  console.log(`\n  Editor ejercicios → http://localhost:${PORT}\n`)
-})
-
-// Ensure save on shutdown
-process.on('SIGINT', () => {
-  if (pendingSave) { saveExercisesSync(); console.log('[save] guardado en SIGINT') }
-  process.exit(0)
+  console.log(`\n  Matcher de ejercicios → http://localhost:${PORT}\n`)
 })

@@ -4,23 +4,23 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="theme-color" content="#0b0f14" />
-<title>Editor de Ejercicios</title>
+<title>Matcher de Ejercicios</title>
 <link rel="stylesheet" href="/styles.css" />
 </head>
 <body>
   <header id="topbar" class="topbar">
     <button id="menu-toggle" class="menu-toggle" aria-label="Abrir lista">☰</button>
-    <span class="topbar-title">Ejercicios</span>
+    <span class="topbar-title">Matcher</span>
   </header>
 
   <aside id="sidebar">
     <div class="side-head">
-      <h1>Ejercicios</h1>
+      <h1>Ejercicios de Claude</h1>
       <div id="stats" class="stats">cargando…</div>
-      <input id="search" type="text" placeholder="Buscar por nombre…" autocomplete="off" />
+      <input id="search" type="text" placeholder="Buscar en la lista…" autocomplete="off" />
       <div class="filters">
-        <button data-filter="unverified" class="active">No verif.</button>
-        <button data-filter="verified">Verif.</button>
+        <button data-filter="pending" class="active">Sin matchear</button>
+        <button data-filter="matched">Matcheados</button>
         <button data-filter="all">Todos</button>
       </div>
       <div class="filters">
@@ -35,91 +35,37 @@
   <div id="sidebar-backdrop" class="sidebar-backdrop"></div>
 
   <main id="editor">
-    <div id="empty" class="empty">Seleccioná un ejercicio para editar</div>
-    <div id="form" class="form hidden">
+    <div id="empty" class="empty">Seleccioná un ejercicio de Claude para buscarle imagen y video</div>
+
+    <div id="panel" class="panel hidden">
       <header class="form-head">
         <div class="title-row">
-          <input id="f-nombre_es" class="title-input" placeholder="Nombre en español" />
-          <button id="btn-verify" class="verify-btn">Marcar verificado</button>
+          <span id="c-nombre_es" class="title-input static"></span>
+          <button id="btn-next" class="next-btn">Siguiente sin matchear →</button>
         </div>
         <div class="sub-row">
-          <input id="f-nombre_en" class="sub-input" placeholder="Nombre en inglés" />
-          <span id="f-id" class="muted"></span>
+          <span id="c-nombre_en" class="muted"></span>
+          <span id="c-meta" class="muted"></span>
+          <span id="c-id" class="muted"></span>
         </div>
       </header>
 
-      <section class="grid-2">
-        <div class="media">
-          <div class="media-block">
-            <label>Imagen</label>
-            <img id="f-imagen" alt="" />
-            <div id="f-imagen-name" class="muted small"></div>
-          </div>
-          <div class="media-block">
-            <label>Video <span id="f-video-status" class="muted small"></span></label>
-            <video id="f-video" controls loop muted></video>
-            <div id="f-video-name" class="muted small"></div>
-          </div>
-        </div>
+      <!-- Current match (shown when this exercise already has media copied) -->
+      <section id="current-match" class="current-match"></section>
 
-        <div class="fields">
-          <div class="field">
-            <label>Importancia (1 = sin verificar, 10 = ejercicio top)</label>
-            <div class="importance-row">
-              <input id="f-importancia" type="range" min="1" max="10" step="1" />
-              <span id="f-importancia-val" class="imp-badge">1</span>
-            </div>
-          </div>
+      <section class="match-search">
+        <input id="old-search" type="text" placeholder="Buscar ejercicio viejo que coincida…" autocomplete="off" />
+      </section>
 
-          <div class="field">
-            <label>Tipo</label>
-            <select id="f-tipo">
-              <option value="Compound">Compound</option>
-              <option value="Isolation">Isolation</option>
-            </select>
-          </div>
-
-          <div class="field">
-            <label>Músculo principal</label>
-            <select id="f-musculo"></select>
-          </div>
-
-          <div class="field">
-            <label>Equipamiento</label>
-            <input id="f-equipo" type="text" placeholder="Ej: Barbell, Bench" />
-            <div class="chip-row" id="equipo-chips"></div>
-          </div>
-
-          <div class="field">
-            <label>Variante de (ID de otro ejercicio)</label>
-            <input id="f-variante-search" type="text" placeholder="Buscar ejercicio padre…" autocomplete="off" />
-            <div id="variante-suggestions" class="suggestions"></div>
-            <div id="variante-current" class="variante-current"></div>
-          </div>
-
-          <div class="field">
-            <label>Nombres alternativos
-              <button class="mini-btn" id="add-alt">+ agregar</button>
-              <button class="mini-btn ai" id="gen-alt">✨ Generar con IA</button>
-            </label>
-            <div id="f-alternativos" class="list-edit"></div>
-            <div id="ai-suggestions" class="ai-suggestions"></div>
-          </div>
-
-          <div class="field">
-            <label>Músculos secundarios <button class="mini-btn" id="add-sec">+ agregar</button></label>
-            <div id="f-secundarios" class="list-edit"></div>
-          </div>
-
-          <div class="field">
-            <label>Cómo hacerlo <button class="mini-btn" id="add-step">+ agregar paso</button></label>
-            <div id="f-pasos" class="list-edit"></div>
-          </div>
+      <section class="match-body">
+        <div id="candidates" class="candidates"></div>
+        <div id="preview" class="preview">
+          <div class="preview-empty">Elegí un candidato de la izquierda para ver imagen y video</div>
         </div>
       </section>
 
       <footer class="form-foot">
-        <span id="save-status" class="muted">Guardado</span>
+        <span id="save-status" class="muted"></span>
       </footer>
     </div>
   </main>
