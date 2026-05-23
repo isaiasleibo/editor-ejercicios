@@ -1,0 +1,919 @@
+[
+  {
+    "id": "exercise-triceps-0001",
+    "nombre_es": "Extensión de tríceps en polea con barra agarre prono",
+    "nombre_en": "Cable Triceps Pushdown with Bar",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Cable",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más alta y enganchá una barra recta.",
+      "Parate frente a la polea con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo (prono), manos al ancho de los hombros.",
+      "Mantené los codos pegados al torso durante todo el movimiento.",
+      "Comenzá con los codos flexionados a 90 grados, antebrazos hacia arriba.",
+      "Extendé los brazos hacia abajo empujando la barra hasta extender los codos.",
+      "Contraé los tríceps al final del movimiento.",
+      "Volvé controladamente a la posición inicial."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Triceps pushdown",
+      "Jalón de tríceps en polea",
+      "Extensión de tríceps en polea alta"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0002",
+    "nombre_es": "Extensión de tríceps en polea con barra agarre supino",
+    "nombre_en": "Reverse-Grip Cable Triceps Pushdown",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más alta y enganchá una barra recta.",
+      "Parate frente a la polea con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia arriba (supino), manos al ancho de los hombros.",
+      "Mantené los codos pegados al torso durante todo el movimiento.",
+      "Comenzá con los codos flexionados a 90 grados.",
+      "Extendé los brazos hacia abajo empujando la barra.",
+      "El agarre supino enfatiza más la cabeza medial del tríceps.",
+      "Volvé controladamente a la posición inicial."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Reverse pushdown",
+      "Jalón de tríceps supino",
+      "Pushdown agarre invertido"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-triceps-0001"
+  },
+  {
+    "id": "exercise-triceps-0003",
+    "nombre_es": "Extensión de tríceps en polea con soga",
+    "nombre_en": "Cable Triceps Pushdown with Rope",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Cable",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más alta y enganchá una soga.",
+      "Parate frente a la polea con los pies a la altura de los hombros.",
+      "Agarrá los extremos de la soga con las palmas enfrentadas (agarre neutro).",
+      "Mantené los codos pegados al torso durante todo el movimiento.",
+      "Comenzá con los codos flexionados a 90 grados.",
+      "Extendé los brazos hacia abajo separando las manos al final del movimiento.",
+      "Contraé los tríceps con un giro hacia afuera al final.",
+      "Volvé controladamente a la posición inicial."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Rope pushdown",
+      "Jalón de tríceps con soga",
+      "Pushdown con cuerda"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0004",
+    "nombre_es": "Extensión de tríceps en polea unilateral",
+    "nombre_en": "Single-Arm Cable Triceps Pushdown",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más alta y enganchá un maneral.",
+      "Parate frente a la polea con los pies a la altura de los hombros.",
+      "Agarrá el maneral con una mano, palma hacia abajo o supino según preferencia.",
+      "Mantené el codo pegado al torso durante todo el movimiento.",
+      "Comenzá con el codo flexionado a 90 grados.",
+      "Extendé el brazo hacia abajo hasta extender el codo.",
+      "Contraé el tríceps al final del movimiento.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Single-arm pushdown",
+      "Pushdown unilateral",
+      "Extensión de tríceps a un brazo en polea"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-triceps-0001"
+  },
+  {
+    "id": "exercise-triceps-0005",
+    "nombre_es": "Extensión de tríceps en polea agarre amplio con barra",
+    "nombre_en": "Wide-Grip Cable Triceps Pushdown",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Cable",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más alta y enganchá una barra recta.",
+      "Parate frente a la polea con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos bien separadas más anchas que los hombros.",
+      "Mantené los codos pegados al torso durante todo el movimiento.",
+      "Comenzá con los codos flexionados a 90 grados.",
+      "Extendé los brazos hacia abajo empujando la barra.",
+      "El agarre amplio enfatiza más la cabeza lateral del tríceps.",
+      "Volvé controladamente a la posición inicial."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Wide-grip pushdown",
+      "Pushdown amplio",
+      "Extensión de tríceps amplio en polea"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-triceps-0001"
+  },
+  {
+    "id": "exercise-triceps-0006",
+    "nombre_es": "Press francés con barra acostado",
+    "nombre_en": "Lying Barbell Triceps Extension (Skullcrusher)",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Barbell",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos al ancho de los hombros, palmas hacia adelante.",
+      "Extendé los brazos sobre el pecho con los codos ligeramente angulados hacia atrás.",
+      "Mantené los codos en su lugar sin moverlos durante el movimiento.",
+      "Bajá la barra controladamente flexionando solo los codos hacia la frente.",
+      "Pará justo antes de tocar la frente o un poco más atrás de la cabeza.",
+      "Extendé los brazos volviendo a la posición inicial.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Skullcrusher",
+      "Rompecráneos con barra",
+      "Press francés con barra"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0007",
+    "nombre_es": "Press francés con barra EZ acostado",
+    "nombre_en": "Lying EZ-Bar Triceps Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "EZ Bar",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra EZ por las curvas internas con agarre semi-supino.",
+      "Extendé los brazos sobre el pecho con los codos ligeramente angulados hacia atrás.",
+      "Mantené los codos en su lugar sin moverlos durante el movimiento.",
+      "Bajá la barra controladamente flexionando solo los codos hacia la frente.",
+      "Pará justo antes de tocar la frente o un poco más atrás de la cabeza.",
+      "Extendé los brazos volviendo a la posición inicial.",
+      "La barra EZ es más cómoda para las muñecas."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "EZ-bar skullcrusher",
+      "Rompecráneos con barra Z",
+      "Press francés con barra EZ"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0008",
+    "nombre_es": "Press francés con mancuernas acostado",
+    "nombre_en": "Lying Dumbbell Triceps Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Dumbbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con una mancuerna en cada mano.",
+      "Extendé los brazos sobre el pecho con las palmas enfrentadas (agarre neutro).",
+      "Mantené los codos ligeramente angulados hacia atrás y en su lugar.",
+      "Bajá las mancuernas controladamente flexionando solo los codos hacia los lados de la cabeza.",
+      "Bajá hasta sentir un buen estiramiento en los tríceps.",
+      "Extendé los brazos volviendo a la posición inicial.",
+      "El agarre neutro es más amigable para los codos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Dumbbell skullcrusher",
+      "Press francés con mancuernas",
+      "Rompecráneos con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0009",
+    "nombre_es": "Press francés inclinado con barra",
+    "nombre_en": "Incline Barbell Triceps Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Barbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Ajustá un banco a 30-45 grados de inclinación.",
+      "Acostate sobre el banco con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos al ancho de los hombros.",
+      "Extendé los brazos sobre la cara con los codos angulados hacia atrás.",
+      "Bajá la barra controladamente hacia la frente o por detrás de la cabeza.",
+      "Mantené los codos en su lugar durante todo el movimiento.",
+      "La inclinación estira más la cabeza larga del tríceps.",
+      "Extendé los brazos volviendo a la posición inicial."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Incline skullcrusher",
+      "Press francés inclinado",
+      "Rompecráneos inclinado con barra"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-triceps-0006"
+  },
+  {
+    "id": "exercise-triceps-0010",
+    "nombre_es": "Press francés declinado con barra",
+    "nombre_en": "Decline Barbell Triceps Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Ajustá un banco a una inclinación negativa de 15-30 grados.",
+      "Asegurá los pies bajo los rodillos del banco antes de acostarte.",
+      "Agarrá la barra con las manos al ancho de los hombros.",
+      "Extendé los brazos sobre el pecho con los codos angulados hacia atrás.",
+      "Bajá la barra controladamente hacia la frente o por detrás de la cabeza.",
+      "Mantené los codos en su lugar durante todo el movimiento.",
+      "Extendé los brazos volviendo a la posición inicial.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Decline skullcrusher",
+      "Press francés declinado",
+      "Rompecráneos declinado con barra"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-triceps-0006"
+  },
+  {
+    "id": "exercise-triceps-0011",
+    "nombre_es": "Extensión de tríceps por encima de la cabeza con barra sentado",
+    "nombre_en": "Seated Overhead Barbell Triceps Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Barbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos al ancho de los hombros.",
+      "Extendé los brazos verticalmente sobre la cabeza.",
+      "Mantené los codos cerca de la cabeza y apuntando hacia arriba.",
+      "Bajá la barra controladamente por detrás de la cabeza flexionando los codos.",
+      "Bajá hasta sentir un buen estiramiento en la cabeza larga del tríceps.",
+      "Extendé los brazos volviendo a la posición inicial.",
+      "La posición overhead enfatiza la cabeza larga del tríceps."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Overhead barbell extension",
+      "Extensión sobre la cabeza con barra",
+      "French press sentado"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0012",
+    "nombre_es": "Extensión de tríceps por encima de la cabeza con barra EZ sentado",
+    "nombre_en": "Seated Overhead EZ-Bar Triceps Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "EZ Bar",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical con los pies firmes en el suelo.",
+      "Agarrá la barra EZ por las curvas internas con agarre semi-supino.",
+      "Extendé los brazos verticalmente sobre la cabeza.",
+      "Mantené los codos cerca de la cabeza y apuntando hacia arriba.",
+      "Bajá la barra controladamente por detrás de la cabeza flexionando los codos.",
+      "Bajá hasta sentir un buen estiramiento en la cabeza larga del tríceps.",
+      "Extendé los brazos volviendo a la posición inicial.",
+      "La barra EZ es más cómoda para las muñecas."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Overhead EZ extension",
+      "Extensión sobre la cabeza con barra Z",
+      "French press con EZ"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0013",
+    "nombre_es": "Extensión de tríceps por encima de la cabeza con mancuerna a dos manos",
+    "nombre_en": "Seated Overhead Dumbbell Triceps Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Dumbbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical con los pies firmes en el suelo.",
+      "Sostené una mancuerna con ambas manos formando una copa con las palmas.",
+      "Extendé los brazos verticalmente sobre la cabeza.",
+      "Mantené los codos cerca de la cabeza y apuntando hacia arriba.",
+      "Bajá la mancuerna controladamente por detrás de la cabeza flexionando los codos.",
+      "Bajá hasta sentir un buen estiramiento en la cabeza larga del tríceps.",
+      "Extendé los brazos volviendo a la posición inicial.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Overhead dumbbell extension",
+      "Extensión sobre la cabeza con mancuerna",
+      "Dumbbell French press"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0014",
+    "nombre_es": "Extensión de tríceps por encima de la cabeza con mancuerna unilateral",
+    "nombre_en": "Single-Arm Overhead Dumbbell Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Dumbbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical o parate erguido.",
+      "Sostené una mancuerna con una mano por encima de la cabeza, brazo extendido.",
+      "Mantené el codo cerca de la cabeza apuntando hacia arriba.",
+      "Bajá la mancuerna controladamente por detrás de la cabeza flexionando el codo.",
+      "Bajá hasta sentir un buen estiramiento en la cabeza larga del tríceps.",
+      "Extendé el brazo volviendo a la posición inicial.",
+      "La otra mano puede sostener el codo del brazo que trabaja para mayor estabilidad.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Single-arm overhead extension",
+      "Extensión overhead unilateral",
+      "French press a un brazo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-triceps-0013"
+  },
+  {
+    "id": "exercise-triceps-0015",
+    "nombre_es": "Extensión de tríceps en polea por encima de la cabeza con soga",
+    "nombre_en": "Overhead Cable Triceps Extension with Rope",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Cable",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá una soga.",
+      "Parate de espaldas a la polea agarrando los extremos de la soga.",
+      "Da un paso hacia adelante y llevá las manos por detrás de la cabeza.",
+      "Inclinate ligeramente hacia adelante con los codos apuntando al frente.",
+      "Extendé los brazos al frente sobre la cabeza separando las manos al final.",
+      "Mantené los codos en su lugar durante todo el movimiento.",
+      "Volvé controladamente sintiendo el estiramiento de la cabeza larga.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Overhead rope extension",
+      "Extensión overhead con soga en polea",
+      "French press en polea"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0016",
+    "nombre_es": "Extensión de tríceps en polea por encima de la cabeza con barra",
+    "nombre_en": "Overhead Cable Triceps Extension with Bar",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá una barra recta.",
+      "Parate de espaldas a la polea agarrando la barra con las palmas hacia arriba.",
+      "Da un paso hacia adelante y llevá las manos por detrás de la cabeza.",
+      "Inclinate ligeramente hacia adelante con los codos apuntando al frente.",
+      "Extendé los brazos al frente sobre la cabeza.",
+      "Mantené los codos en su lugar durante todo el movimiento.",
+      "Volvé controladamente sintiendo el estiramiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Overhead cable extension",
+      "Extensión overhead con barra en polea",
+      "French press en polea con barra"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-triceps-0015"
+  },
+  {
+    "id": "exercise-triceps-0017",
+    "nombre_es": "Patada de tríceps con mancuerna inclinado",
+    "nombre_en": "Dumbbell Triceps Kickback",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Dumbbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en cada mano.",
+      "Flexioná las caderas hasta que el torso quede casi paralelo al suelo.",
+      "Mantené las rodillas levemente flexionadas y la espalda recta.",
+      "Flexioná los codos a 90 grados con los brazos pegados al torso.",
+      "Extendé los brazos hacia atrás manteniendo los codos en su lugar.",
+      "Contraé los tríceps al final del movimiento cuando los brazos quedan paralelos al suelo.",
+      "Volvé controladamente a la posición de 90 grados.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Triceps kickback",
+      "Patada de tríceps",
+      "Kickback con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0018",
+    "nombre_es": "Patada de tríceps con mancuerna unilateral con apoyo",
+    "nombre_en": "Single-Arm Dumbbell Triceps Kickback",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Apoyá una mano y una rodilla en un banco plano para estabilidad.",
+      "Sostené una mancuerna en la mano del brazo libre.",
+      "Mantené la espalda paralela al suelo y el core firme.",
+      "Flexioná el codo del brazo libre a 90 grados con el brazo pegado al torso.",
+      "Extendé el brazo hacia atrás manteniendo el codo en su lugar.",
+      "Contraé el tríceps al final del movimiento.",
+      "Volvé controladamente a la posición de 90 grados.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Single-arm kickback",
+      "Kickback con apoyo en banco",
+      "Patada de tríceps a un brazo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-triceps-0017"
+  },
+  {
+    "id": "exercise-triceps-0019",
+    "nombre_es": "Patada de tríceps en polea unilateral",
+    "nombre_en": "Single-Arm Cable Triceps Kickback",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá la polea en la posición media-baja y enganchá un maneral.",
+      "Parate frente a la polea e inclinate hacia adelante desde las caderas.",
+      "Agarrá el maneral con la mano contraria al lado de la polea.",
+      "Flexioná el codo a 90 grados con el brazo pegado al torso.",
+      "Extendé el brazo hacia atrás manteniendo el codo en su lugar.",
+      "Contraé el tríceps al final del movimiento.",
+      "Volvé controladamente manteniendo la tensión del cable.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable kickback",
+      "Patada de tríceps en polea",
+      "Kickback con cable"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0020",
+    "nombre_es": "Press de banca con barra agarre cerrado",
+    "nombre_en": "Close-Grip Barbell Bench Press",
+    "tipo": "Compound",
+    "musculo": "Triceps",
+    "equipo": "Barbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos al ancho de los hombros o un poco más cerca.",
+      "Sacá la barra del soporte y mantenela sobre el pecho con los brazos extendidos.",
+      "Bajá la barra controladamente hasta el pecho medio-bajo.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Empujá la barra hacia arriba enfocándote en activar los tríceps.",
+      "No bloquees los codos al final del movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Chest",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Close-grip bench press",
+      "Press cerrado con barra para tríceps",
+      "Press de banca agarre estrecho"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0021",
+    "nombre_es": "Press en suelo con barra agarre cerrado",
+    "nombre_en": "Close-Grip Barbell Floor Press",
+    "tipo": "Compound",
+    "musculo": "Triceps",
+    "equipo": "Barbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las piernas extendidas o flexionadas.",
+      "Agarrá la barra con las manos al ancho de los hombros o un poco más cerca.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Bajá controladamente hasta que los codos toquen el suelo.",
+      "Pausá un segundo con los codos apoyados.",
+      "Empujá la barra hacia arriba activando los tríceps.",
+      "El rango de movimiento limitado enfatiza el lockout de los tríceps.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Chest",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Close-grip floor press",
+      "Floor press cerrado",
+      "Press en piso para tríceps"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-triceps-0020"
+  },
+  {
+    "id": "exercise-triceps-0022",
+    "nombre_es": "Fondos en paralelas torso vertical",
+    "nombre_en": "Upright Triceps Dips",
+    "tipo": "Compound",
+    "musculo": "Triceps",
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Subí a las paralelas y sostené tu peso con los brazos extendidos.",
+      "Mantené el torso lo más vertical posible durante todo el movimiento.",
+      "Cruzá los pies por detrás y flexioná ligeramente las piernas.",
+      "Bajá controladamente flexionando los codos manteniéndolos cerca del torso.",
+      "Bajá hasta que los codos formen un ángulo de aproximadamente 90 grados.",
+      "Empujá hacia arriba hasta extender los brazos sin bloquear los codos.",
+      "El torso vertical enfatiza el trabajo del tríceps sobre el pecho.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Chest",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Dips para tríceps",
+      "Fondos verticales en paralelas",
+      "Upright dips"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0023",
+    "nombre_es": "Fondos en banco",
+    "nombre_en": "Bench Triceps Dips",
+    "tipo": "Compound",
+    "musculo": "Triceps",
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Sentate al borde de un banco plano con las manos apoyadas a los lados.",
+      "Apoyá las manos al ancho de las caderas con los dedos hacia adelante.",
+      "Extendé las piernas hacia adelante apoyando los talones en el suelo.",
+      "Deslizate hacia adelante hasta que los glúteos queden flotando.",
+      "Bajá controladamente flexionando los codos hasta 90 grados.",
+      "Mantené los codos apuntando hacia atrás, no hacia los lados.",
+      "Empujá hacia arriba hasta extender los brazos.",
+      "Para mayor dificultad podés apoyar los pies en otro banco elevado."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Chest",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      }
+    ],
+    "nombres_alternativos": [
+      "Bench dips",
+      "Fondos en banco",
+      "Dips en banco"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0024",
+    "nombre_es": "Flexiones diamante",
+    "nombre_en": "Diamond Push-Up",
+    "tipo": "Compound",
+    "musculo": "Triceps",
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocate boca abajo con las manos juntas bajo el pecho formando un diamante con los pulgares e índices.",
+      "Extendé los brazos elevando el cuerpo en línea recta.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Bajá controladamente hasta que el pecho casi toque las manos.",
+      "Empujá hacia arriba hasta extender los brazos.",
+      "Mantené el core firme y el cuerpo en línea recta.",
+      "El agarre cerrado enfatiza el trabajo del tríceps.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Chest",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Diamond push-up",
+      "Lagartijas diamante",
+      "Flexiones para tríceps"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0025",
+    "nombre_es": "Extensión de tríceps en máquina",
+    "nombre_en": "Machine Triceps Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Machine",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Ajustá el asiento de la máquina para que los codos queden alineados con el eje de rotación.",
+      "Sentate con la espalda firme contra el respaldo y los pies apoyados.",
+      "Agarrá los manerales con las palmas según el diseño de la máquina.",
+      "Mantené los codos pegados al cuerpo o en el soporte de la máquina.",
+      "Extendé los brazos empujando los manerales hacia abajo o adelante.",
+      "Contraé los tríceps al final del movimiento.",
+      "Volvé controladamente a la posición inicial.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Machine triceps extension",
+      "Extensión de tríceps en máquina",
+      "Tríceps en máquina específica"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0026",
+    "nombre_es": "Fondos en máquina asistida",
+    "nombre_en": "Machine Triceps Dips",
+    "tipo": "Compound",
+    "musculo": "Triceps",
+    "equipo": "Machine",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Sentate en la máquina de fondos asistidos con los manerales a los lados.",
+      "Ajustá el peso de asistencia según necesites.",
+      "Apoyá las rodillas o los pies sobre el almohadón de asistencia.",
+      "Agarrá los manerales con los brazos extendidos.",
+      "Bajá controladamente flexionando los codos hasta 90 grados.",
+      "Mantené los codos apuntando hacia atrás.",
+      "Empujá hacia arriba hasta extender los brazos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Chest",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Assisted dips",
+      "Fondos asistidos en máquina",
+      "Dips asistidos"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0027",
+    "nombre_es": "Press JM con barra",
+    "nombre_en": "JM Press",
+    "tipo": "Compound",
+    "musculo": "Triceps",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos al ancho de los hombros.",
+      "Sacá la barra del soporte y mantenela sobre el pecho con los brazos extendidos.",
+      "Bajá la barra controladamente hacia la parte superior del pecho/cuello en un movimiento híbrido.",
+      "Mantené los codos cerca del torso pero permitiéndolos viajar un poco adelante.",
+      "Es una mezcla entre press de banca cerrado y extensión de tríceps.",
+      "Empujá la barra hacia arriba activando fuertemente los tríceps.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Chest",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "JM press",
+      "Press JM con barra",
+      "Press híbrido de tríceps"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0028",
+    "nombre_es": "Pull-over tríceps acostado con barra",
+    "nombre_en": "Lying Barbell Triceps Pullover Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos al ancho de los hombros.",
+      "Extendé los brazos sobre el pecho.",
+      "Bajá la barra en un arco combinando extensión de hombros con flexión de codos.",
+      "La barra debe pasar por detrás de la cabeza al final del movimiento.",
+      "Subí la barra en el camino inverso extendiendo los codos.",
+      "Combina trabajo de tríceps con estiramiento de la cabeza larga.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Triceps pullover extension",
+      "Skullcrusher con extensión",
+      "Pullover de tríceps"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0029",
+    "nombre_es": "Patada de tríceps a dos brazos con mancuernas",
+    "nombre_en": "Bent-Over Double Dumbbell Kickback",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Dumbbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en cada mano.",
+      "Flexioná las caderas hasta que el torso quede casi paralelo al suelo.",
+      "Mantené las rodillas levemente flexionadas y la espalda recta.",
+      "Flexioná ambos codos a 90 grados con los brazos pegados al torso.",
+      "Extendé ambos brazos hacia atrás simultáneamente.",
+      "Contraé los tríceps cuando los brazos queden paralelos al suelo.",
+      "Volvé controladamente a 90 grados.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Double kickback",
+      "Patada bilateral de tríceps",
+      "Kickback con dos mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-triceps-0017"
+  },
+  {
+    "id": "exercise-triceps-0030",
+    "nombre_es": "Press cerrado en máquina Smith",
+    "nombre_en": "Close-Grip Smith Machine Bench Press",
+    "tipo": "Compound",
+    "musculo": "Triceps",
+    "equipo": "Smith Machine",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá un banco plano debajo de la barra de la máquina Smith.",
+      "Acostate y posicioná los hombros bajo la barra.",
+      "Agarrá la barra con las manos al ancho de los hombros o un poco más cerca.",
+      "Desbloqueá la barra rotando las muñecas.",
+      "Bajá controladamente hasta el pecho medio-bajo.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Empujá la barra hacia arriba enfocándote en los tríceps.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Chest",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Close-grip Smith press",
+      "Press cerrado guiado",
+      "Smith machine close-grip"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-triceps-0031",
+    "nombre_es": "Extensión de tríceps en polea acostado con barra",
+    "nombre_en": "Lying Cable Triceps Extension",
+    "tipo": "Isolation",
+    "musculo": "Triceps",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá una barra recta.",
+      "Colocá un banco plano frente a la polea.",
+      "Acostate en el banco con la cabeza hacia la polea.",
+      "Agarrá la barra con las manos al ancho de los hombros.",
+      "Extendé los brazos sobre el pecho con los codos angulados hacia la polea.",
+      "Bajá la barra controladamente hacia la frente flexionando solo los codos.",
+      "Mantené los codos en su lugar durante el movimiento.",
+      "Extendé los brazos volviendo a la posición inicial con tensión constante."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Lying cable skullcrusher",
+      "Press francés en polea acostado",
+      "Cable lying extension"
+    ],
+    "verificado": false,
+    "variante_de": null
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "exercise-forearms-0001",
+    "nombre_es": "Curl de muñeca con barra agarre supino",
+    "nombre_en": "Barbell Wrist Curl",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "equipo": "Barbell",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Sentate en un banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las palmas hacia arriba (supino), manos a la altura de los hombros.",
+      "Apoyá los antebrazos sobre los muslos con las muñecas sobresaliendo por las rodillas.",
+      "Dejá que la barra baje rodando hacia las puntas de los dedos.",
+      "Cerrá los dedos sobre la barra y flexioná las muñecas hacia arriba lo máximo posible.",
+      "Contraé los flexores del antebrazo en el punto más alto.",
+      "Bajá la barra controladamente hasta sentir el estiramiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Wrist curl con barra",
+      "Flexión de muñeca con barra",
+      "Curl de antebrazo supino"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-forearms-0002",
+    "nombre_es": "Curl de muñeca con barra agarre prono",
+    "nombre_en": "Reverse Barbell Wrist Curl",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "equipo": "Barbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Sentate en un banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las palmas hacia abajo (prono), manos a la altura de los hombros.",
+      "Apoyá los antebrazos sobre los muslos con las muñecas sobresaliendo por las rodillas.",
+      "Dejá que las muñecas caigan hacia abajo manteniendo el agarre firme.",
+      "Extendé las muñecas hacia arriba elevando los nudillos lo máximo posible.",
+      "Contraé los extensores del antebrazo en el punto más alto.",
+      "Bajá controladamente hasta el estiramiento completo.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Reverse wrist curl",
+      "Extensión de muñeca con barra",
+      "Curl de antebrazo prono"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-forearms-0003",
+    "nombre_es": "Curl de muñeca con mancuernas agarre supino",
+    "nombre_en": "Dumbbell Wrist Curl",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "equipo": "Dumbbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Sentate en un banco plano con una mancuerna en cada mano.",
+      "Agarrá las mancuernas con las palmas hacia arriba (supino).",
+      "Apoyá los antebrazos sobre los muslos con las muñecas sobresaliendo por las rodillas.",
+      "Dejá que las mancuernas bajen rodando hacia las puntas de los dedos.",
+      "Cerrá los dedos y flexioná las muñecas hacia arriba lo máximo posible.",
+      "Contraé los flexores del antebrazo en el punto más alto.",
+      "Bajá controladamente hasta sentir el estiramiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Dumbbell wrist curl",
+      "Flexión de muñeca con mancuernas",
+      "Curl de antebrazo con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-forearms-0004",
+    "nombre_es": "Curl de muñeca con mancuernas agarre prono",
+    "nombre_en": "Reverse Dumbbell Wrist Curl",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "equipo": "Dumbbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en un banco plano con una mancuerna en cada mano.",
+      "Agarrá las mancuernas con las palmas hacia abajo (prono).",
+      "Apoyá los antebrazos sobre los muslos con las muñecas sobresaliendo por las rodillas.",
+      "Dejá que las muñecas caigan hacia abajo manteniendo el agarre firme.",
+      "Extendé las muñecas hacia arriba elevando los nudillos lo máximo posible.",
+      "Contraé los extensores del antebrazo en el punto más alto.",
+      "Bajá controladamente hasta el estiramiento completo.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Reverse dumbbell wrist curl",
+      "Extensión de muñeca con mancuernas",
+      "Curl prono con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-forearms-0003"
+  },
+  {
+    "id": "exercise-forearms-0005",
+    "nombre_es": "Curl de muñeca con barra detrás de la espalda",
+    "nombre_en": "Behind-the-Back Barbell Wrist Curl",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Agarrá la barra por detrás de la espalda con las palmas hacia atrás.",
+      "Mantené los brazos extendidos y los codos pegados al torso.",
+      "Dejá que la barra ruede hacia las puntas de los dedos.",
+      "Cerrá los dedos y flexioná las muñecas hacia arriba.",
+      "Contraé los flexores en el punto más alto del movimiento.",
+      "Bajá controladamente sintiendo el estiramiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Behind-the-back wrist curl",
+      "Wrist curl detrás de la espalda",
+      "Curl de muñeca por detrás con barra"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-forearms-0001"
+  },
+  {
+    "id": "exercise-forearms-0006",
+    "nombre_es": "Curl de muñeca en polea agarre supino",
+    "nombre_en": "Cable Wrist Curl",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá una barra recta.",
+      "Sentate en un banco frente a la polea con los pies firmes en el suelo.",
+      "Agarrá la barra con las palmas hacia arriba (supino).",
+      "Apoyá los antebrazos sobre los muslos con las muñecas sobresaliendo.",
+      "Dejá que las muñecas bajen sintiendo el estiramiento.",
+      "Flexioná las muñecas hacia arriba lo máximo posible.",
+      "Contraé los flexores en el punto más alto.",
+      "Bajá controladamente manteniendo la tensión del cable."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable wrist curl",
+      "Curl de muñeca en polea",
+      "Flexión de muñeca con cable"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-forearms-0007",
+    "nombre_es": "Curl de muñeca en polea agarre prono",
+    "nombre_en": "Reverse Cable Wrist Curl",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "equipo": "Cable",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá una barra recta.",
+      "Sentate en un banco frente a la polea con los pies firmes en el suelo.",
+      "Agarrá la barra con las palmas hacia abajo (prono).",
+      "Apoyá los antebrazos sobre los muslos con las muñecas sobresaliendo.",
+      "Dejá que las muñecas caigan hacia abajo.",
+      "Extendé las muñecas hacia arriba elevando los nudillos lo máximo posible.",
+      "Contraé los extensores en el punto más alto.",
+      "Bajá controladamente manteniendo la tensión del cable."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Reverse cable wrist curl",
+      "Curl prono en polea",
+      "Extensión de muñeca con cable"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-forearms-0006"
+  },
+  {
+    "id": "exercise-forearms-0008",
+    "nombre_es": "Caminata del granjero con mancuernas",
+    "nombre_en": "Dumbbell Farmer's Walk",
+    "tipo": "Compound",
+    "musculo": "Forearms",
+    "equipo": "Dumbbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna pesada en cada mano, brazos extendidos a los lados.",
+      "Mantené los hombros hacia atrás y el pecho elevado.",
+      "Activá el core y mantené la espalda recta.",
+      "Caminá hacia adelante con pasos cortos y controlados.",
+      "Mantené el agarre firme durante toda la caminata.",
+      "Caminá una distancia o tiempo determinado.",
+      "Bajá las mancuernas controladamente al terminar.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Core", "peso": 0.4 },
+      { "musculo": "Back", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Farmer's walk",
+      "Caminata del granjero",
+      "Paseo del granjero con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-forearms-0009",
+    "nombre_es": "Caminata del granjero con barra",
+    "nombre_en": "Barbell Farmer's Walk",
+    "tipo": "Compound",
+    "musculo": "Forearms",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Parate entre dos barras o usá barras tipo trap/hex con peso a los lados.",
+      "Agachate y agarrá las barras con un agarre firme.",
+      "Levantá el peso extendiendo las piernas y caderas, manteniendo la espalda recta.",
+      "Mantené los hombros hacia atrás y el pecho elevado.",
+      "Caminá hacia adelante con pasos cortos y controlados.",
+      "Mantené el agarre firme durante toda la caminata.",
+      "Bajá las barras controladamente al terminar.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Core", "peso": 0.4 },
+      { "musculo": "Back", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Barbell farmer's walk",
+      "Caminata del granjero con barra",
+      "Trap bar carry"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-forearms-0010",
+    "nombre_es": "Colgada en barra fija",
+    "nombre_en": "Dead Hang",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Agarrá una barra fija con las palmas hacia adelante (prono), manos a la altura de los hombros.",
+      "Colgate con los brazos completamente extendidos.",
+      "Mantené los hombros activos hacia abajo, no totalmente relajados.",
+      "Cruzá los pies por detrás o mantenelos relajados.",
+      "Sostené la posición el mayor tiempo posible apretando la barra.",
+      "Concentrate en mantener el agarre firme sin balancear el cuerpo.",
+      "Trabaja la fuerza de prensión y los flexores del antebrazo.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Dead hang",
+      "Suspensión en barra",
+      "Colgada de antebrazos"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-forearms-0011",
+    "nombre_es": "Rotación de muñeca con mancuerna",
+    "nombre_en": "Dumbbell Wrist Rotation",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "equipo": "Dumbbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Sentate en un banco con una mancuerna en una mano.",
+      "Apoyá el antebrazo sobre el muslo con la muñeca sobresaliendo por la rodilla.",
+      "Agarrá la mancuerna por un extremo (no por el centro) para crear palanca.",
+      "Comenzá con la palma hacia arriba.",
+      "Rotá la muñeca lentamente hasta que la palma quede hacia abajo.",
+      "Volvé controladamente rotando la muñeca a la posición inicial.",
+      "El movimiento debe ser lento y controlado.",
+      "Completá todas las repeticiones antes de cambiar de mano."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Wrist rotation",
+      "Pronosupinación con mancuerna",
+      "Rotación de antebrazo"
+    ],
+    "verificado": false,
+    "variante_de": null
+  }
+]

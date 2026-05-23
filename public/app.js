@@ -62,6 +62,7 @@ async function init() {
   state.old = await ro.json()
   for (const e of state.claude) state.claudeById.set(e.id, e)
   for (const e of state.old) state.oldById.set(e.id, e)
+  buildVariantMaps()
   buildOldSearchIndex()
   populateMuscleSelect()
   bindUI()
@@ -111,24 +112,47 @@ function populateMuscleSelect() {
 
 const isMatched = (ex) => !!ex.matched_con
 
+// Map parentId -> [childId, ...] for variant relationships
+function buildVariantMaps() {
+  state.childrenOf = new Map()
+  for (const e of state.claude) {
+    if (!e.variante_de) continue
+    if (!state.childrenOf.has(e.variante_de)) state.childrenOf.set(e.variante_de, [])
+    state.childrenOf.get(e.variante_de).push(e.id)
+  }
+}
+
+// Claude exercises in source order, each parent immediately followed by its variants
+function groupedClaude() {
+  const emitted = new Set()
+  const out = []
+  for (const e of state.claude) {
+    if (e.variante_de) continue
+    out.push(e); emitted.add(e.id)
+    for (const kidId of state.childrenOf.get(e.id) || []) {
+      const kid = state.claudeById.get(kidId)
+      if (kid && !emitted.has(kid.id)) { out.push(kid); emitted.add(kid.id) }
+    }
+  }
+  // variants whose parent isn't in the set
+  for (const e of state.claude) if (!emitted.has(e.id)) out.push(e)
+  return out
+}
+
 // ---------- List (left: Claude exercises) ----------
 function getFilteredList() {
-  let list = state.claude
+  let list = groupedClaude()
   if (state.filter === 'pending') list = list.filter(e => !isMatched(e))
   else if (state.filter === 'matched') list = list.filter(e => isMatched(e))
   if (state.muscleFilter) list = list.filter(e => e.musculo === state.muscleFilter)
-  const q = state.search.trim().toLowerCase()
+  const q = state.search.trim()
   if (q) {
     const qn = normalize(q)
     list = list.filter(e =>
       normalize(e.nombre_es || '').includes(qn) ||
       normalize(e.nombre_en || '').includes(qn))
   }
-  // Keep source order, but show pending first when "all"
-  return list.slice().sort((a, b) => {
-    if (state.filter !== 'all') return 0
-    return (isMatched(a) ? 1 : 0) - (isMatched(b) ? 1 : 0)
-  })
+  return list
 }
 
 function renderList() {
@@ -138,14 +162,18 @@ function renderList() {
   $('list-count').textContent = q
     ? `${list.length} resultado${list.length === 1 ? '' : 's'} para "${q}"`
     : `${list.length} ejercicio${list.length === 1 ? '' : 's'}`
-  container.innerHTML = list.map(e => `
-    <div class="list-item ${isMatched(e) ? 'matched' : ''} ${e.id === state.currentId ? 'active' : ''}" data-id="${e.id}">
+  container.innerHTML = list.map(e => {
+    const isVar = !!e.variante_de
+    const kids = (state.childrenOf.get(e.id) || []).length
+    return `
+    <div class="list-item ${isMatched(e) ? 'matched' : ''} ${isVar ? 'is-variant' : ''} ${e.id === state.currentId ? 'active' : ''}" data-id="${e.id}">
       <div class="li-info">
-        <div class="li-name">${escapeHtml(e.nombre_es || '(sin nombre)')}</div>
+        <div class="li-name">${isVar ? '<span class="li-arrow">↳</span>' : ''}${escapeHtml(e.nombre_es || '(sin nombre)')}</div>
         <div class="li-meta">${escapeHtml(e.musculo || '?')} · ${escapeHtml(e.equipo || '?')}</div>
       </div>
-    </div>
-  `).join('')
+      ${isVar ? '<span class="li-tag var">variante</span>' : (kids ? `<span class="li-tag">${kids} var.</span>` : '')}
+    </div>`
+  }).join('')
   for (const node of container.querySelectorAll('.list-item')) {
     node.addEventListener('click', () => selectClaude(node.dataset.id))
   }
@@ -173,6 +201,7 @@ function selectClaude(id) {
   $('c-id').textContent = ex.id
 
   renderClaudeDetails(ex)
+  renderVariantBox(ex)
   renderCurrentMatch(ex)
   resetPreview()
 
@@ -214,6 +243,37 @@ function renderClaudeDetails(ex) {
         <ol class="cd-steps">${pasos.map(p => `<li>${escapeHtml(p)}</li>`).join('')}</ol>
       </div>` : ''}
   `
+}
+
+function renderVariantBox(ex) {
+  const c = $('variant-box')
+  const parent = ex.variante_de ? state.claudeById.get(ex.variante_de) : null
+  const kids = (state.childrenOf.get(ex.id) || []).map(id => state.claudeById.get(id)).filter(Boolean)
+  if (!parent && kids.length === 0 && !ex.variante_de) { c.innerHTML = ''; return }
+
+  let html = ''
+  if (ex.variante_de) {
+    const pName = parent ? escapeHtml(parent.nombre_es) : '(padre no encontrado)'
+    const pMatched = parent && isMatched(parent)
+    html += `<div class="vb-row"><span class="vb-arrow">↳</span> Es variante de ${parent ? `<button class="vb-link" data-goto="${parent.id}">${pName}</button>` : pName}${pMatched ? ' <span class="vb-ok">✓ ya matcheado</span>' : ''}</div>`
+    if (pMatched && (parent.imagen || parent.video)) {
+      html += `<button id="vb-copy" class="vb-copy">Usar la misma imagen y video del padre</button>`
+    }
+  }
+  if (kids.length) {
+    html += `<div class="vb-row">Tiene <strong>${kids.length}</strong> variante${kids.length === 1 ? '' : 's'}: ${kids.map(k => `<button class="vb-link ${isMatched(k) ? 'done' : ''}" data-goto="${k.id}">${escapeHtml(k.nombre_es)}</button>`).join(' ')}</div>`
+  }
+  c.innerHTML = html
+
+  for (const b of c.querySelectorAll('[data-goto]')) {
+    b.addEventListener('click', () => selectClaude(b.dataset.goto))
+  }
+  const copyBtn = c.querySelector('#vb-copy')
+  if (copyBtn) {
+    copyBtn.addEventListener('click', () => {
+      applyMatch({ imagen: parent.imagen || '', video: parent.video || '', matched_con: parent.matched_con })
+    })
+  }
 }
 
 function renderCurrentMatch(ex) {
@@ -296,11 +356,15 @@ function resetPreview() {
 }
 
 // ---------- Apply match ----------
-async function confirmMatch(oldId) {
-  const ex = state.claudeById.get(state.currentId)
+function confirmMatch(oldId) {
   const old = state.oldById.get(oldId)
-  if (!ex || !old) return
-  const payload = { imagen: old.imagen || '', video: old.video || '', matched_con: old.id }
+  if (!old) return
+  applyMatch({ imagen: old.imagen || '', video: old.video || '', matched_con: old.id })
+}
+
+async function applyMatch(payload) {
+  const ex = state.claudeById.get(state.currentId)
+  if (!ex) return
   $('save-status').textContent = 'Guardando…'
   try {
     const r = await fetch(`${API_BASE}/api/claude/${ex.id}`, {
@@ -352,6 +416,7 @@ async function deleteCurrent() {
     // Remove from local state
     state.claude = state.claude.filter(e => e.id !== id)
     state.claudeById.delete(id)
+    buildVariantMaps()
     renderStats()
     if (nextEx && nextEx.id !== id) {
       selectClaude(nextEx.id)

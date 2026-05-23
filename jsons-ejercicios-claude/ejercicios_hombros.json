@@ -1,0 +1,1439 @@
+[
+  {
+    "id": "exercise-shoulders-0001",
+    "nombre_es": "Press militar con barra de pie",
+    "nombre_en": "Standing Overhead Barbell Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Agarrá la barra con las manos un poco más anchas que los hombros, palmas hacia adelante.",
+      "Posicioná la barra a la altura de los hombros, apoyada sobre los deltoides anteriores.",
+      "Mantené los codos ligeramente adelantados respecto a la barra.",
+      "Activá el core y empujá la barra hacia arriba pasando frente a la cara.",
+      "Extendé los brazos completamente sin bloquear los codos, con la barra sobre la cabeza.",
+      "Bajá controladamente hasta los hombros sin perder la postura.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.35 },
+      { "musculo": "Core", "peso": 0.25 },
+      { "musculo": "Chest", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "OHP",
+      "Press de hombros con barra",
+      "Standing barbell press"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0002",
+    "nombre_es": "Press militar con barra sentado",
+    "nombre_en": "Seated Overhead Barbell Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical o casi vertical (80-90 grados).",
+      "Agarrá la barra con las manos un poco más anchas que los hombros.",
+      "Apoyá la espalda firmemente contra el respaldo.",
+      "Posicioná la barra a la altura de los hombros.",
+      "Empujá la barra hacia arriba pasando frente a la cara hasta extender los brazos.",
+      "La posición sentada elimina el uso de las piernas para impulsar.",
+      "Bajá controladamente hasta los hombros.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.4 },
+      { "musculo": "Chest", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Seated barbell press",
+      "Press sentado con barra",
+      "Press militar sentado"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0001"
+  },
+  {
+    "id": "exercise-shoulders-0003",
+    "nombre_es": "Press militar con barra detrás de la nuca",
+    "nombre_en": "Behind-the-Neck Barbell Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical o parate erguido.",
+      "Agarrá la barra con las manos más anchas que los hombros.",
+      "Posicioná la barra detrás del cuello, apoyada sobre los trapecios.",
+      "Mantené el torso erguido y el core firme.",
+      "Empujá la barra hacia arriba hasta extender los brazos.",
+      "Bajá controladamente detrás del cuello sin pasar de los oídos.",
+      "Requiere buena movilidad de hombros, no es para principiantes.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.35 },
+      { "musculo": "Core", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Behind-the-neck press",
+      "Press tras nuca con barra",
+      "Press nuca con barra"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0001"
+  },
+  {
+    "id": "exercise-shoulders-0004",
+    "nombre_es": "Press con mancuernas sentado",
+    "nombre_en": "Seated Dumbbell Shoulder Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical y una mancuerna en cada mano.",
+      "Apoyá las mancuernas sobre los muslos e impulsalas hasta los hombros usando las piernas.",
+      "Posicioná las mancuernas a los lados de los hombros con las palmas hacia adelante.",
+      "Empujá las mancuernas hacia arriba hasta extender los brazos.",
+      "Las mancuernas pueden converger ligeramente arriba sin chocarlas.",
+      "Bajá controladamente hasta la altura de los hombros.",
+      "Mantené el core firme y la espalda apoyada en el respaldo.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.2 },
+      { "musculo": "Chest", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Press de hombros con mancuernas sentado",
+      "Seated dumbbell press",
+      "Press militar con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0005",
+    "nombre_es": "Press con mancuernas de pie",
+    "nombre_en": "Standing Dumbbell Shoulder Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros y una mancuerna en cada mano.",
+      "Posicioná las mancuernas a los lados de los hombros con las palmas hacia adelante.",
+      "Mantené el core activado y el torso firme.",
+      "Empujá las mancuernas hacia arriba hasta extender los brazos.",
+      "Bajá controladamente hasta la altura de los hombros.",
+      "Evitá arquear excesivamente la espalda baja durante el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.25 },
+      { "musculo": "Chest", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Standing dumbbell press",
+      "Press de pie con mancuernas",
+      "OHP con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0004"
+  },
+  {
+    "id": "exercise-shoulders-0006",
+    "nombre_es": "Press Arnold con mancuernas sentado",
+    "nombre_en": "Seated Arnold Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical y una mancuerna en cada mano.",
+      "Comenzá con las mancuernas frente al pecho, palmas hacia vos (supino).",
+      "Mientras empujás las mancuernas hacia arriba, rotá las muñecas.",
+      "Al final del movimiento las palmas deben quedar hacia adelante.",
+      "Extendé los brazos completamente arriba sin bloquear los codos.",
+      "Bajá controladamente rotando las muñecas en el camino inverso.",
+      "Al llegar al pecho las palmas deben volver a estar hacia vos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.3 },
+      { "musculo": "Chest", "peso": 0.2 },
+      { "musculo": "Core", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Arnold press",
+      "Press Arnold sentado",
+      "Press con rotación de muñeca"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0004"
+  },
+  {
+    "id": "exercise-shoulders-0007",
+    "nombre_es": "Press con mancuernas agarre neutro",
+    "nombre_en": "Neutral-Grip Dumbbell Shoulder Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical y una mancuerna en cada mano.",
+      "Posicioná las mancuernas a los lados de los hombros con las palmas enfrentadas (agarre neutro).",
+      "Mantené las palmas enfrentadas durante todo el movimiento.",
+      "Empujá las mancuernas hacia arriba sin rotar las muñecas.",
+      "Las mancuernas pueden converger arriba sin chocarlas.",
+      "Bajá controladamente hasta la altura de los hombros.",
+      "El agarre neutro es más amigable para los hombros con problemas.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.35 },
+      { "musculo": "Chest", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Press martillo de hombros",
+      "Neutral-grip press",
+      "Press de hombros agarre paralelo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0004"
+  },
+  {
+    "id": "exercise-shoulders-0008",
+    "nombre_es": "Press de hombros en máquina",
+    "nombre_en": "Machine Shoulder Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Machine",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Ajustá la altura del asiento para que los manerales queden a la altura de los hombros.",
+      "Sentate con la espalda firme contra el respaldo y los pies apoyados.",
+      "Agarrá los manerales con las palmas hacia adelante.",
+      "Empujá los manerales hacia arriba hasta extender los brazos sin bloquear codos.",
+      "Bajá controladamente hasta la altura de los hombros.",
+      "Mantené los omóplatos retraídos contra el respaldo.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.3 },
+      { "musculo": "Chest", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Machine press",
+      "Press de hombros sentado en máquina",
+      "Press militar en máquina"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0009",
+    "nombre_es": "Press de hombros en máquina agarre neutro",
+    "nombre_en": "Neutral-Grip Machine Shoulder Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Machine",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Ajustá la altura del asiento para que los manerales queden a la altura de los hombros.",
+      "Sentate con la espalda firme contra el respaldo.",
+      "Agarrá los manerales verticales con las palmas enfrentadas (agarre neutro).",
+      "Empujá los manerales hacia arriba hasta extender los brazos.",
+      "Bajá controladamente hasta la altura de los hombros.",
+      "El agarre neutro es más amigable para hombros con problemas.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.35 },
+      { "musculo": "Chest", "peso": 0.1 }
+    ],
+    "nombres_alternativos": [
+      "Machine press neutro",
+      "Press de hombros martillo en máquina",
+      "Neutral-grip machine press"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0008"
+  },
+  {
+    "id": "exercise-shoulders-0010",
+    "nombre_es": "Press de hombros en máquina Smith",
+    "nombre_en": "Smith Machine Shoulder Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Smith Machine",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá un banco con respaldo vertical bajo la barra de la máquina Smith.",
+      "Sentate con la espalda firme contra el respaldo.",
+      "Agarrá la barra con las manos un poco más anchas que los hombros.",
+      "Desbloqueá la barra rotando las muñecas.",
+      "Empujá la barra hacia arriba hasta extender los brazos.",
+      "Bajá controladamente hasta la altura de los hombros.",
+      "El recorrido fijo de la Smith ayuda a estabilizar el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.35 },
+      { "musculo": "Chest", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Smith press de hombros",
+      "Press militar en Smith",
+      "Smith shoulder press"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0011",
+    "nombre_es": "Push press con barra",
+    "nombre_en": "Barbell Push Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Agarrá la barra con las manos un poco más anchas que los hombros.",
+      "Posicioná la barra sobre los deltoides anteriores.",
+      "Flexioná ligeramente las rodillas en un cuarto de sentadilla.",
+      "Empujá explosivamente con las piernas y al mismo tiempo empujá la barra hacia arriba.",
+      "Extendé los brazos completamente arriba.",
+      "Bajá controladamente hasta los hombros.",
+      "Es un movimiento explosivo que permite mover más peso que el press militar estricto."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.3 },
+      { "musculo": "Quadriceps", "peso": 0.25 },
+      { "musculo": "Core", "peso": 0.25 }
+    ],
+    "nombres_alternativos": [
+      "Push press",
+      "Press con impulso de piernas",
+      "Barbell push press"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0012",
+    "nombre_es": "Elevaciones laterales con mancuernas de pie",
+    "nombre_en": "Standing Dumbbell Lateral Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en cada mano, brazos extendidos a los lados.",
+      "Mantené las palmas hacia el cuerpo y una ligera flexión fija en los codos.",
+      "Activá el core y mantené el torso firme sin balancear.",
+      "Levantá las mancuernas hacia los lados en arco hasta la altura de los hombros.",
+      "Imaginá que estás vertiendo agua de las mancuernas (meñique ligeramente arriba).",
+      "Contraé los deltoides laterales en el punto más alto.",
+      "Bajá controladamente hasta los lados del cuerpo.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Lateral raise",
+      "Elevaciones laterales",
+      "Vuelos laterales con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0013",
+    "nombre_es": "Elevaciones laterales con mancuernas sentado",
+    "nombre_en": "Seated Dumbbell Lateral Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate al borde de un banco con los pies firmes en el suelo.",
+      "Sostené una mancuerna en cada mano con los brazos extendidos a los lados.",
+      "Mantené la espalda recta y el core activado.",
+      "Levantá las mancuernas en arco hasta la altura de los hombros.",
+      "La posición sentada elimina el impulso del cuerpo.",
+      "Contraé los deltoides laterales en el punto alto.",
+      "Bajá controladamente.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Seated lateral raise",
+      "Elevaciones laterales sentado",
+      "Lateral raise sentado"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0012"
+  },
+  {
+    "id": "exercise-shoulders-0014",
+    "nombre_es": "Elevaciones laterales con mancuernas inclinado",
+    "nombre_en": "Incline Dumbbell Lateral Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Ajustá un banco inclinado a 45-60 grados.",
+      "Apoyate de costado sobre el respaldo con una mancuerna en la mano del brazo libre.",
+      "Dejá el brazo colgando con la palma hacia el cuerpo.",
+      "Levantá la mancuerna en arco hasta la altura del hombro.",
+      "La inclinación aumenta la tensión en el punto bajo del movimiento.",
+      "Contraé el deltoides lateral en el punto alto.",
+      "Bajá controladamente hasta el estiramiento completo.",
+      "Completá todas las repeticiones antes de cambiar de lado."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Incline lateral raise",
+      "Elevación lateral inclinada",
+      "Lateral raise de costado"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0012"
+  },
+  {
+    "id": "exercise-shoulders-0015",
+    "nombre_es": "Elevaciones laterales con mancuerna unilateral",
+    "nombre_en": "Single-Arm Dumbbell Lateral Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en una mano y la otra mano agarrada a un soporte.",
+      "Mantené el cuerpo ligeramente inclinado en dirección opuesta al brazo que trabaja.",
+      "Levantá la mancuerna en arco hasta la altura del hombro.",
+      "La posición lateral inclinada aumenta el rango de movimiento.",
+      "Contraé el deltoides lateral en el punto alto.",
+      "Bajá controladamente hasta el lado del cuerpo.",
+      "Completá todas las repeticiones antes de cambiar de brazo.",
+      "Permite enfocarte mejor en un lado a la vez."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Single-arm lateral raise",
+      "Elevación lateral unilateral",
+      "Lateral raise a un brazo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0012"
+  },
+  {
+    "id": "exercise-shoulders-0016",
+    "nombre_es": "Elevaciones laterales en polea baja",
+    "nombre_en": "Cable Lateral Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Cable",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá un maneral.",
+      "Parate de costado a la polea con el maneral en la mano más lejana.",
+      "Pasá el cable por delante del cuerpo cruzándolo al lado opuesto.",
+      "Mantené una ligera flexión fija en el codo.",
+      "Levantá el maneral en arco hacia el lado hasta la altura del hombro.",
+      "El cable mantiene tensión constante durante todo el movimiento.",
+      "Bajá controladamente al lado opuesto del cuerpo.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable lateral raise",
+      "Elevación lateral en polea",
+      "Lateral raise con cable"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0017",
+    "nombre_es": "Elevaciones laterales en polea detrás del cuerpo",
+    "nombre_en": "Behind-the-Body Cable Lateral Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá un maneral.",
+      "Parate de costado a la polea con el maneral en la mano más lejana.",
+      "Pasá el cable por detrás del cuerpo.",
+      "Mantené una ligera flexión fija en el codo.",
+      "Levantá el maneral en arco hacia el lado hasta la altura del hombro.",
+      "Esta variante enfatiza más la cabeza posterior del deltoides lateral.",
+      "Bajá controladamente.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Behind-the-back cable lateral raise",
+      "Lateral raise por detrás",
+      "Cable lateral detrás del cuerpo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0016"
+  },
+  {
+    "id": "exercise-shoulders-0018",
+    "nombre_es": "Elevaciones laterales en máquina",
+    "nombre_en": "Machine Lateral Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Machine",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Ajustá el asiento para que los almohadones queden a la altura justo debajo de los codos.",
+      "Sentate con el pecho contra el almohadón frontal o la espalda contra el respaldo.",
+      "Agarrá los manerales con los brazos a los lados.",
+      "Levantá los almohadones con los brazos hacia los lados hasta la altura de los hombros.",
+      "Empujá con la parte externa del brazo (deltoides lateral), no con las manos.",
+      "Contraé en el punto alto del movimiento.",
+      "Bajá controladamente hasta el estiramiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Machine lateral raise",
+      "Lateral raise en máquina",
+      "Elevación lateral sentado en máquina"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0019",
+    "nombre_es": "Elevaciones frontales con mancuernas",
+    "nombre_en": "Front Dumbbell Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en cada mano, brazos extendidos al frente del cuerpo.",
+      "Mantené las palmas hacia el cuerpo (agarre neutro) o hacia abajo (prono).",
+      "Mantené una ligera flexión fija en los codos y el core activado.",
+      "Levantá las mancuernas al frente en arco hasta la altura de los hombros.",
+      "Podés alternar brazos o subir ambos simultáneamente.",
+      "Contraé el deltoides anterior en el punto alto.",
+      "Bajá controladamente hasta los muslos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Front raise",
+      "Elevación frontal con mancuernas",
+      "Vuelos frontales"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0020",
+    "nombre_es": "Elevaciones frontales con mancuernas alternadas",
+    "nombre_en": "Alternating Front Dumbbell Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en cada mano, brazos extendidos al frente.",
+      "Mantené las palmas hacia el cuerpo o hacia abajo.",
+      "Mantené el core activado y el torso firme.",
+      "Levantá una mancuerna al frente en arco hasta la altura del hombro.",
+      "Mientras un brazo sube, el otro permanece abajo.",
+      "Bajá controladamente y alterná con el otro brazo.",
+      "Mantené el torso estable sin balancear.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Alternating front raise",
+      "Elevación frontal alternada",
+      "Front raise brazo por brazo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0019"
+  },
+  {
+    "id": "exercise-shoulders-0021",
+    "nombre_es": "Elevaciones frontales con barra",
+    "nombre_en": "Barbell Front Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Agarrá la barra con las manos al ancho de los hombros, palmas hacia abajo.",
+      "Comenzá con la barra apoyada sobre los muslos.",
+      "Mantené una ligera flexión fija en los codos.",
+      "Levantá la barra al frente en arco hasta la altura de los hombros.",
+      "Contraé el deltoides anterior en el punto alto.",
+      "Bajá controladamente hasta los muslos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Barbell front raise",
+      "Elevación frontal con barra",
+      "Front raise con barra"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0022",
+    "nombre_es": "Elevaciones frontales con disco",
+    "nombre_en": "Plate Front Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Plate",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Sostené un disco con ambas manos por los lados, brazos extendidos abajo.",
+      "Mantené una ligera flexión fija en los codos.",
+      "Levantá el disco al frente en arco hasta la altura de los hombros.",
+      "Contraé el deltoides anterior en el punto alto.",
+      "Bajá controladamente hasta los muslos.",
+      "Mantené el torso firme y el core activado.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Plate front raise",
+      "Elevación frontal con placa",
+      "Front raise con disco"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0023",
+    "nombre_es": "Elevaciones frontales en polea baja",
+    "nombre_en": "Cable Front Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá un maneral o barra recta.",
+      "Parate de espaldas a la polea con el cable pasando entre las piernas.",
+      "Agarrá el maneral con las palmas hacia abajo, brazos extendidos abajo.",
+      "Mantené una ligera flexión fija en los codos.",
+      "Levantá el maneral al frente en arco hasta la altura de los hombros.",
+      "El cable mantiene tensión constante durante todo el movimiento.",
+      "Bajá controladamente hasta los muslos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable front raise",
+      "Elevación frontal en polea",
+      "Front raise con cable"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0024",
+    "nombre_es": "Aperturas inversas con mancuernas inclinado",
+    "nombre_en": "Bent-Over Dumbbell Reverse Fly",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en cada mano.",
+      "Flexioná las caderas hasta que el torso quede casi paralelo al suelo.",
+      "Mantené las rodillas levemente flexionadas y la espalda recta.",
+      "Dejá los brazos colgando hacia el suelo con las palmas enfrentadas.",
+      "Mantené una ligera flexión fija en los codos.",
+      "Abrí los brazos en arco hacia los lados hasta la altura de los hombros.",
+      "Contraé los deltoides posteriores apretando los omóplatos.",
+      "Bajá controladamente hasta el estiramiento."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Reverse fly",
+      "Vuelos invertidos",
+      "Apertura posterior con mancuernas inclinado"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0025",
+    "nombre_es": "Aperturas inversas con mancuernas sentado",
+    "nombre_en": "Seated Bent-Over Dumbbell Reverse Fly",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Sentate al borde de un banco con los pies firmes en el suelo.",
+      "Inclinate hacia adelante hasta que el pecho casi toque los muslos.",
+      "Sostené una mancuerna en cada mano con los brazos colgando hacia el suelo.",
+      "Mantené las palmas enfrentadas y una ligera flexión fija en los codos.",
+      "Abrí los brazos en arco hacia los lados hasta la altura de los hombros.",
+      "Contraé los deltoides posteriores apretando los omóplatos.",
+      "Bajá controladamente hasta el estiramiento.",
+      "La posición sentada elimina el uso de las piernas."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Seated reverse fly",
+      "Vuelos invertidos sentado",
+      "Reverse fly sentado en banco"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0024"
+  },
+  {
+    "id": "exercise-shoulders-0026",
+    "nombre_es": "Aperturas inversas con mancuernas en banco inclinado boca abajo",
+    "nombre_en": "Chest-Supported Dumbbell Reverse Fly",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Ajustá un banco inclinado a 30-45 grados.",
+      "Apoyate boca abajo sobre el respaldo con el pecho contra el banco.",
+      "Sostené una mancuerna en cada mano con los brazos colgando hacia el suelo.",
+      "Mantené las palmas enfrentadas y una ligera flexión fija en los codos.",
+      "Abrí los brazos en arco hacia los lados hasta la altura de los hombros.",
+      "Contraé los deltoides posteriores en el punto alto.",
+      "Bajá controladamente hasta el estiramiento.",
+      "Esta posición elimina por completo el impulso del cuerpo."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Chest-supported reverse fly",
+      "Reverse fly en banco inclinado boca abajo",
+      "Aperturas inversas pecho apoyado"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0024"
+  },
+  {
+    "id": "exercise-shoulders-0027",
+    "nombre_es": "Aperturas inversas en máquina (rear delt fly)",
+    "nombre_en": "Reverse Pec Deck",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Machine",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Ajustá la máquina pec deck en la posición de rear delt (manerales adelante).",
+      "Sentate con el pecho contra el almohadón frontal y los pies firmes en el suelo.",
+      "Agarrá los manerales con las palmas enfrentadas o hacia abajo.",
+      "Comenzá con los brazos extendidos al frente.",
+      "Mantené una ligera flexión fija en los codos.",
+      "Abrí los brazos hacia los lados hasta sentir contracción en los deltoides posteriores.",
+      "Apretá los omóplatos al final del movimiento.",
+      "Volvé controladamente al frente."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Reverse pec deck",
+      "Rear delt machine",
+      "Aperturas posteriores en máquina"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0028",
+    "nombre_es": "Face pulls en polea con soga",
+    "nombre_en": "Cable Face Pull",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Cable",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Colocá la polea a la altura de la cara o un poco más arriba y enganchá una soga.",
+      "Parate frente a la polea agarrando los extremos de la soga con las palmas enfrentadas.",
+      "Da un paso hacia atrás manteniendo tensión en el cable.",
+      "Tirá de la soga hacia la cara separando las manos al final del movimiento.",
+      "Los codos deben terminar a la altura de los hombros o un poco más arriba.",
+      "Apretá los omóplatos y contraé los deltoides posteriores.",
+      "Volvé controladamente a la posición inicial.",
+      "Mantené el torso firme sin inclinarte hacia atrás."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Face pull",
+      "Jalón a la cara",
+      "Cable face pull con soga"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0029",
+    "nombre_es": "Aperturas inversas en polea cruzada",
+    "nombre_en": "Cable Reverse Fly",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocá dos poleas en la posición media o alta y enganchá un maneral en cada una.",
+      "Parate en el centro entre las poleas.",
+      "Agarrá el maneral de la polea izquierda con la mano derecha y viceversa (cables cruzados).",
+      "Comenzá con los brazos extendidos al frente, palmas hacia abajo.",
+      "Mantené una ligera flexión fija en los codos.",
+      "Abrí los brazos en arco hacia los lados hasta más allá de los hombros.",
+      "Contraé los deltoides posteriores apretando los omóplatos.",
+      "Volvé controladamente al frente."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable reverse fly",
+      "Aperturas posteriores cruzadas",
+      "Reverse cable fly"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0030",
+    "nombre_es": "Remo al mentón con barra agarre amplio",
+    "nombre_en": "Wide-Grip Barbell Upright Row",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos más anchas que los hombros.",
+      "Comenzá con la barra apoyada en los muslos.",
+      "Tirá de la barra hacia arriba pegada al cuerpo elevando los codos.",
+      "Los codos deben terminar a la altura de los hombros, no más arriba.",
+      "El agarre amplio enfatiza el deltoides lateral.",
+      "Bajá controladamente hasta los muslos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.25 },
+      { "musculo": "Back", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Upright row amplio",
+      "Remo al mentón abierto",
+      "Wide-grip upright row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0031",
+    "nombre_es": "Remo al mentón con barra agarre cerrado",
+    "nombre_en": "Close-Grip Barbell Upright Row",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos juntas al centro.",
+      "Comenzá con la barra apoyada en los muslos.",
+      "Tirá de la barra hacia arriba pegada al cuerpo elevando los codos al máximo.",
+      "El agarre cerrado enfatiza más los trapecios.",
+      "Bajá controladamente hasta los muslos.",
+      "Esta variante es más estresante para los hombros, hacela con cuidado.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Back", "peso": 0.3 }
+    ],
+    "nombres_alternativos": [
+      "Upright row cerrado",
+      "Remo al mentón estrecho",
+      "Close-grip upright row"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0030"
+  },
+  {
+    "id": "exercise-shoulders-0032",
+    "nombre_es": "Remo al mentón con mancuernas",
+    "nombre_en": "Dumbbell Upright Row",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en cada mano frente a los muslos.",
+      "Agarrá las mancuernas con las palmas hacia abajo.",
+      "Tirá de las mancuernas hacia arriba pegadas al cuerpo elevando los codos.",
+      "Los codos deben terminar a la altura de los hombros, no más arriba.",
+      "Las mancuernas permiten un poco más de libertad para las muñecas.",
+      "Bajá controladamente hasta los muslos.",
+      "Mantené el torso firme y el core activado.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.25 },
+      { "musculo": "Back", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Dumbbell upright row",
+      "Remo al mentón con mancuernas",
+      "Upright row con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0033",
+    "nombre_es": "Remo al mentón en polea baja",
+    "nombre_en": "Cable Upright Row",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá una barra recta.",
+      "Parate frente a la polea con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos al ancho de los hombros.",
+      "Da un paso hacia atrás manteniendo tensión en el cable.",
+      "Tirá de la barra hacia arriba pegada al cuerpo elevando los codos.",
+      "Los codos deben terminar a la altura de los hombros.",
+      "Bajá controladamente manteniendo la tensión del cable.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.25 },
+      { "musculo": "Back", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Cable upright row",
+      "Remo al mentón en polea",
+      "Upright row con cable"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0034",
+    "nombre_es": "Encogimientos con barra",
+    "nombre_en": "Barbell Shrug",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos al ancho de los hombros.",
+      "Mantené los brazos extendidos abajo y la barra apoyada en los muslos.",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Contraé los trapecios en el punto más alto por un segundo.",
+      "Bajá controladamente hasta el estiramiento completo.",
+      "Mantené el torso recto y el core activado.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Barbell shrug",
+      "Encogimientos para trapecio con barra",
+      "Shrugs con barra"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0035",
+    "nombre_es": "Encogimientos con barra detrás del cuerpo",
+    "nombre_en": "Behind-the-Back Barbell Shrug",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Parate erguido con la barra por detrás del cuerpo a la altura de los glúteos.",
+      "Agarrá la barra con las palmas hacia atrás, manos al ancho de los hombros.",
+      "Mantené los brazos extendidos abajo.",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Esta variante enfatiza la parte media-baja de los trapecios.",
+      "Bajá controladamente hasta el estiramiento.",
+      "Mantené el pecho elevado y los hombros hacia atrás.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Behind-the-back shrug",
+      "Shrugs por detrás",
+      "Encogimientos con barra atrás"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0034"
+  },
+  {
+    "id": "exercise-shoulders-0036",
+    "nombre_es": "Encogimientos con mancuernas",
+    "nombre_en": "Dumbbell Shrug",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en cada mano, brazos extendidos a los lados.",
+      "Mantené las palmas hacia el cuerpo (agarre neutro).",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Contraé los trapecios en el punto más alto por un segundo.",
+      "Bajá controladamente hasta el estiramiento completo.",
+      "Mantené el torso recto y el core activado.",
+      "Las mancuernas permiten más rango de movimiento que la barra.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Dumbbell shrug",
+      "Encogimientos con mancuernas",
+      "Shrugs con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0037",
+    "nombre_es": "Encogimientos en polea",
+    "nombre_en": "Cable Shrug",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá una barra recta.",
+      "Parate frente a la polea con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos al ancho de los hombros.",
+      "Da un paso hacia atrás manteniendo tensión en el cable.",
+      "Mantené los brazos extendidos abajo.",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Bajá controladamente manteniendo la tensión del cable.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable shrug",
+      "Encogimientos en polea",
+      "Shrugs con cable"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0038",
+    "nombre_es": "Encogimientos en máquina Smith",
+    "nombre_en": "Smith Machine Shrug",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Smith Machine",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá la barra de la máquina Smith a la altura de los muslos.",
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos al ancho de los hombros.",
+      "Desbloqueá la barra rotando las muñecas.",
+      "Mantené los brazos extendidos abajo.",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Contraé los trapecios en el punto más alto.",
+      "Bajá controladamente hasta el estiramiento."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Smith machine shrug",
+      "Encogimientos en Smith",
+      "Shrugs en máquina Smith"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0039",
+    "nombre_es": "Encogimientos en máquina",
+    "nombre_en": "Machine Shrug",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Machine",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Ajustá la máquina de encogimientos a la altura adecuada.",
+      "Parate o sentate según el diseño de la máquina con los manerales a los lados.",
+      "Agarrá los manerales con los brazos extendidos abajo.",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Contraé los trapecios en el punto más alto por un segundo.",
+      "Bajá controladamente hasta el estiramiento completo.",
+      "Mantené el torso firme durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Machine shrug",
+      "Encogimientos en máquina",
+      "Shrugs en máquina específica"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0040",
+    "nombre_es": "Y raise con mancuernas en banco inclinado",
+    "nombre_en": "Dumbbell Y Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Ajustá un banco inclinado a 30-45 grados.",
+      "Apoyate boca abajo sobre el respaldo con el pecho contra el banco.",
+      "Sostené una mancuerna ligera en cada mano con los brazos colgando.",
+      "Mantené las palmas enfrentadas y una ligera flexión fija en los codos.",
+      "Levantá los brazos hacia adelante y arriba formando una Y con el cuerpo.",
+      "Mantené la contracción al final del movimiento.",
+      "Bajá controladamente hasta el estiramiento.",
+      "Trabaja deltoides posterior, trapecio inferior y manguito rotador."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Y raise",
+      "Elevación en Y",
+      "Y raise inclinado con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0041",
+    "nombre_es": "T raise con mancuernas en banco inclinado",
+    "nombre_en": "Dumbbell T Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Ajustá un banco inclinado a 30-45 grados.",
+      "Apoyate boca abajo sobre el respaldo con el pecho contra el banco.",
+      "Sostené una mancuerna ligera en cada mano con los brazos colgando.",
+      "Mantené las palmas hacia abajo y una ligera flexión fija en los codos.",
+      "Abrí los brazos hacia los lados formando una T con el cuerpo.",
+      "Contraé los deltoides posteriores y trapecios apretando los omóplatos.",
+      "Bajá controladamente hasta el estiramiento.",
+      "Trabaja deltoides posterior y trapecio medio."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "T raise",
+      "Elevación en T",
+      "T raise inclinado con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0042",
+    "nombre_es": "Rotación externa de hombro con mancuerna acostado",
+    "nombre_en": "Lying Dumbbell External Rotation",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Acostate de costado en un banco o en el suelo.",
+      "Sostené una mancuerna ligera con la mano del brazo de arriba.",
+      "Flexioná el codo a 90 grados con el brazo apoyado contra el costado.",
+      "El antebrazo comienza apoyado contra el abdomen.",
+      "Rotá el brazo hacia arriba manteniendo el codo pegado al costado.",
+      "Llevá la mancuerna lo más alto posible sin perder la posición del codo.",
+      "Bajá controladamente hasta el abdomen.",
+      "Trabaja el manguito rotador (infraespinoso y redondo menor)."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "External rotation",
+      "Rotación externa acostado",
+      "Rotación de manguito rotador"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0043",
+    "nombre_es": "Rotación externa en polea",
+    "nombre_en": "Cable External Rotation",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Cable",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Colocá la polea a la altura del codo y enganchá un maneral.",
+      "Parate de costado a la polea con el brazo más lejano agarrando el maneral.",
+      "Flexioná el codo a 90 grados con el brazo apoyado contra el costado.",
+      "El antebrazo comienza cruzando frente al abdomen.",
+      "Rotá el brazo hacia afuera manteniendo el codo pegado al costado.",
+      "Llevá el maneral lo más lejos posible del cuerpo.",
+      "Volvé controladamente al frente.",
+      "Completá todas las repeticiones antes de cambiar de lado."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable external rotation",
+      "Rotación externa en polea",
+      "Manguito rotador en cable"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0044",
+    "nombre_es": "Pull-apart con banda elástica",
+    "nombre_en": "Band Pull-Apart",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Band",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Parate erguido con los pies a la altura de los hombros.",
+      "Sostené una banda elástica con ambas manos al ancho de los hombros, brazos extendidos al frente.",
+      "Mantené las palmas hacia abajo y los brazos a la altura de los hombros.",
+      "Abrí los brazos hacia los lados estirando la banda hasta abrirla completamente.",
+      "Contraé los deltoides posteriores apretando los omóplatos.",
+      "Volvé controladamente al frente sin perder la tensión.",
+      "Mantené el torso firme y el core activado.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Band pull-apart",
+      "Apertura con banda elástica",
+      "Pull-apart con banda"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0045",
+    "nombre_es": "Landmine press unilateral",
+    "nombre_en": "Single-Arm Landmine Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá un extremo de la barra en un soporte landmine o en una esquina.",
+      "Parate frente al extremo libre con los pies a la altura de los hombros.",
+      "Agarrá el extremo libre con una mano a la altura del hombro.",
+      "Mantené el otro brazo a un lado para equilibrio.",
+      "Empujá la barra hacia arriba y al frente extendiendo el brazo en diagonal.",
+      "Mantené el core firme durante todo el movimiento.",
+      "Bajá controladamente hasta el hombro.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.3 },
+      { "musculo": "Chest", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Landmine press",
+      "Press landmine a un brazo",
+      "Single-arm landmine press"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0046",
+    "nombre_es": "Z press con mancuernas",
+    "nombre_en": "Seated Floor Dumbbell Z Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Sentate en el suelo con las piernas extendidas al frente formando una L con el cuerpo.",
+      "Sostené una mancuerna en cada mano a la altura de los hombros.",
+      "Mantené el torso completamente vertical sin apoyar la espalda.",
+      "Empujá las mancuernas hacia arriba hasta extender los brazos.",
+      "Bajá controladamente hasta la altura de los hombros.",
+      "La posición sin apoyo exige máxima activación del core.",
+      "Mantené las piernas extendidas durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Core", "peso": 0.4 },
+      { "musculo": "Triceps", "peso": 0.3 }
+    ],
+    "nombres_alternativos": [
+      "Z press",
+      "Press sentado en el suelo con mancuernas",
+      "Floor seated press"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0047",
+    "nombre_es": "Z press con barra",
+    "nombre_en": "Seated Floor Barbell Z Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Barbell",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Sentate en el suelo con las piernas extendidas al frente formando una L con el cuerpo.",
+      "Agarrá una barra con las manos un poco más anchas que los hombros.",
+      "Posicioná la barra a la altura de los hombros, apoyada en deltoides anteriores.",
+      "Mantené el torso completamente vertical sin apoyar la espalda.",
+      "Empujá la barra hacia arriba hasta extender los brazos.",
+      "Bajá controladamente hasta los hombros.",
+      "La posición sin apoyo exige máxima activación del core.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Core", "peso": 0.4 },
+      { "musculo": "Triceps", "peso": 0.3 }
+    ],
+    "nombres_alternativos": [
+      "Z press con barra",
+      "Barbell Z press",
+      "Press sentado en el suelo con barra"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0048",
+    "nombre_es": "Elevación lateral con disco",
+    "nombre_en": "Plate Lateral Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Plate",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Parate erguido con un disco en cada mano agarrándolo por el borde.",
+      "Mantené los brazos extendidos a los lados con las palmas hacia el cuerpo.",
+      "Activá el core y mantené el torso firme.",
+      "Levantá los discos hacia los lados en arco hasta la altura de los hombros.",
+      "Contraé los deltoides laterales en el punto más alto.",
+      "Bajá controladamente hasta los lados del cuerpo.",
+      "El agarre del disco demanda más a los antebrazos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Plate lateral raise",
+      "Elevación lateral con placa",
+      "Lateral raise con disco"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0049",
+    "nombre_es": "Lu raise con mancuernas",
+    "nombre_en": "Dumbbell Lu Raise",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical y una mancuerna ligera en cada mano.",
+      "Posicioná las mancuernas a la altura de los hombros con los codos hacia adelante.",
+      "Las palmas miran hacia atrás (las mancuernas casi tocan los hombros).",
+      "Rotá los hombros hacia afuera y arriba simultáneamente.",
+      "Las mancuernas terminan arriba de la cabeza con los codos extendidos.",
+      "El movimiento combina rotación externa con press en el plano escapular.",
+      "Bajá controladamente al inicio.",
+      "Es un ejercicio popularizado por Lu Xiaojun para hombros."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Lu raise",
+      "Elevación Lu Xiaojun",
+      "Lu raise sentado"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-shoulders-0050",
+    "nombre_es": "Encogimientos con mancuernas inclinado",
+    "nombre_en": "Incline Dumbbell Shrug",
+    "tipo": "Isolation",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Ajustá un banco inclinado a 30-45 grados.",
+      "Apoyate boca abajo sobre el respaldo con el pecho contra el banco.",
+      "Sostené una mancuerna en cada mano con los brazos colgando.",
+      "Mantené las palmas enfrentadas y los brazos extendidos.",
+      "Levantá los hombros hacia atrás y arriba juntando los omóplatos.",
+      "Esta variante enfatiza el trapecio medio y bajo.",
+      "Bajá controladamente hasta el estiramiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Incline shrug",
+      "Encogimientos inclinado boca abajo",
+      "Shrugs en banco inclinado"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0036"
+  },
+  {
+    "id": "exercise-shoulders-0051",
+    "nombre_es": "Press militar con mancuernas alternado",
+    "nombre_en": "Alternating Dumbbell Shoulder Press",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "equipo": "Dumbbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Sentate en un banco con respaldo vertical y una mancuerna en cada mano.",
+      "Posicioná las mancuernas a los lados de los hombros con las palmas hacia adelante.",
+      "Empujá una mancuerna hacia arriba hasta extender el brazo.",
+      "Mientras un brazo sube, el otro permanece a la altura del hombro.",
+      "Bajá controladamente y alterná con el otro brazo.",
+      "Mantené el torso estable sin rotar ni inclinar.",
+      "Esta variante exige más estabilidad del core.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Triceps", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.3 }
+    ],
+    "nombres_alternativos": [
+      "Alternating dumbbell press",
+      "Press de hombros alternado",
+      "Shoulder press brazo por brazo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-shoulders-0004"
+  }
+]
