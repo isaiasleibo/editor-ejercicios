@@ -78,8 +78,11 @@ function saveClaudeFile(file) {
   fs.writeFileSync(path.join(CLAUDE_DIR, file), JSON.stringify(list, null, 2), 'utf-8')
 }
 
-// All claude exercises, flat, each tagged with its source file
+// All claude exercises, flat, each tagged with its source file.
+// Re-scan the folder on each request so newly added JSON files show up
+// without needing to restart the server.
 app.get('/api/claude', (req, res) => {
+  loadClaudeExercises()
   const out = []
   for (const [file, list] of claudeFiles) {
     for (const ex of list) out.push({ ...ex, _file: file })
