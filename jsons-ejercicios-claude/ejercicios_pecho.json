@@ -81,9 +81,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0001",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Barbell-Incline-Bench-Press_Chest-FIX2_.webp",
+    "video": "Barbell-Incline-Bench-Press_Chest-FIX2_.mp4",
+    "matched_con": "exercise-0193"
   },
   {
     "id": "exercise-chest-0003",
@@ -124,9 +124,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0001",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Barbell-Decline-Bench-Press_Chest-FIX_.webp",
+    "video": "Barbell-Decline-Bench-Press_Chest-FIX_.mp4",
+    "matched_con": "exercise-0158"
   },
   {
     "id": "exercise-chest-0004",
@@ -166,9 +166,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0001",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Barbell-Close-Grip-Bench-Press_Upper-Arms-FIX_.webp",
+    "video": "Barbell-Close-Grip-Bench-Press_Upper-Arms-FIX_.mp4",
+    "matched_con": "exercise-0147"
   },
   {
     "id": "exercise-chest-0005",
@@ -208,9 +208,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0001",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Barbell-Wide-Bench-Press_Chest.webp",
+    "video": "Barbell-Wide-Bench-Press_Chest.mp4",
+    "matched_con": "exercise-0334"
   },
   {
     "id": "exercise-chest-0006",
@@ -250,9 +250,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Bench-Press_Chest-FIX_.webp",
+    "video": "Dumbbell-Bench-Press_Chest-FIX_.mp4",
+    "matched_con": "exercise-0701"
   },
   {
     "id": "exercise-chest-0007",
@@ -292,9 +292,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0006",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Incline-Bench-Press_Chest-FIX2_.webp",
+    "video": "Dumbbell-Incline-Bench-Press_Chest-FIX2_.mp4",
+    "matched_con": "exercise-0808"
   },
   {
     "id": "exercise-chest-0008",
@@ -334,9 +334,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0006",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Decline-Bench-Press_Chest-FIX_.webp",
+    "video": "Dumbbell-Decline-Bench-Press_Chest-FIX_.mp4",
+    "matched_con": "exercise-0739"
   },
   {
     "id": "exercise-chest-0009",
@@ -376,9 +376,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0006",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Close-Grip-Press_Upper-Arms.webp",
+    "video": "Dumbbell-Close-Grip-Press_Upper-Arms.mp4",
+    "matched_con": "exercise-0727"
   },
   {
     "id": "exercise-chest-0010",
@@ -406,9 +406,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Fly_Chest-FIX2_.webp",
+    "video": "Dumbbell-Fly_Chest-FIX2_.mp4",
+    "matched_con": "exercise-0759"
   },
   {
     "id": "exercise-chest-0011",
@@ -436,9 +436,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0010",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Incline-Fly_Chest-FIX2_.webp",
+    "video": "Dumbbell-Incline-Fly_Chest-FIX2_.mp4",
+    "matched_con": "exercise-0815"
   },
   {
     "id": "exercise-chest-0012",
@@ -465,9 +465,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0010",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Decline-Fly_Chest-FIX_.webp",
+    "video": "Dumbbell-Decline-Fly_Chest-FIX_.mp4",
+    "matched_con": "exercise-0740"
   },
   {
     "id": "exercise-chest-0013",
@@ -503,9 +503,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Lever-Chest-Press-(VERSION-5)_Chest.webp",
+    "video": "Lever-Chest-Press-(VERSION-5)_Chest.mp4",
+    "matched_con": "exercise-1520"
   },
   {
     "id": "exercise-chest-0014",
@@ -541,9 +541,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0013",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Lever-Incline-Chest-Press_Chest-FIX2_.webp",
+    "video": "Lever-Incline-Chest-Press_Chest-FIX2_.mp4",
+    "matched_con": "exercise-1547"
   },
   {
     "id": "exercise-chest-0015",
@@ -578,9 +578,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0013",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Lever-Lying-Decline-Chest-Press-(plate-loaded)_Che.webp",
+    "video": "Lever-Lying-Decline-Chest-Press-(plate-loaded)_Che.mp4",
+    "matched_con": "exercise-1568"
   },
   {
     "id": "exercise-chest-0016",
@@ -616,9 +616,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0013",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Lever-Parallel-Chest-Press_Chest_.webp",
+    "video": "Lever-Parallel-Chest-Press_Chest_.mp4",
+    "matched_con": "exercise-1588"
   },
   {
     "id": "exercise-chest-0017",
@@ -646,9 +646,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Cable-Standing-Fly_Chest.webp",
+    "video": "Cable-Standing-Fly_Chest.mp4",
+    "matched_con": "exercise-0580"
   },
   {
     "id": "exercise-chest-0018",
@@ -676,9 +676,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0017",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Cable-Low-Fly_Chest-FIX2_.webp",
+    "video": "Cable-Low-Fly_Chest-FIX2_.mp4",
+    "matched_con": "exercise-0451"
   },
   {
     "id": "exercise-chest-0019",
@@ -706,9 +706,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0017",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Cable-Middle-Fly_Chest-FIX_.webp",
+    "video": "Cable-Middle-Fly_Chest-FIX_.mp4",
+    "matched_con": "exercise-0464"
   },
   {
     "id": "exercise-chest-0020",
@@ -736,9 +736,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0017",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Cable-One-Arm-Lateral-Bent-over.webp",
+    "video": "Cable-One-Arm-Lateral-Bent-over.mp4",
+    "matched_con": "exercise-0477"
   },
   {
     "id": "exercise-chest-0021",
@@ -766,9 +766,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Lever-Pec-Deck-Fly_Chest_.webp",
+    "video": "Lever-Pec-Deck-Fly_Chest_.mp4",
+    "matched_con": "exercise-1589"
   },
   {
     "id": "exercise-chest-0022",
@@ -808,9 +808,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Chest-Dip-(on-dip-pull-up-cage)_Chest-FIX_.webp",
+    "video": "Chest-Dip-(on-dip-pull-up-cage)_Chest-FIX_.mp4",
+    "matched_con": "exercise-0651"
   },
   {
     "id": "exercise-chest-0023",
@@ -850,9 +850,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0022",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Triceps-Dip_Upper-Arms-FIX_.webp",
+    "video": "Triceps-Dip_Upper-Arms-FIX_.mp4",
+    "matched_con": "exercise-2001"
   },
   {
     "id": "exercise-chest-0024",
@@ -1186,9 +1186,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Barbell-Floor-Chest-Press_Chest_.webp",
+    "video": "Barbell-Floor-Chest-Press_Chest_.mp4",
+    "matched_con": "exercise-0169"
   },
   {
     "id": "exercise-chest-0032",
@@ -1266,9 +1266,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Lying-on-Floor-Chest-Press_Chest.webp",
+    "video": "Dumbbell-Lying-on-Floor-Chest-Press_Chest.mp4",
+    "matched_con": "exercise-0889"
   },
   {
     "id": "exercise-chest-0034",
@@ -1309,9 +1309,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Pullover_Chest.webp",
+    "video": "Dumbbell-Pullover_Chest.mp4",
+    "matched_con": "exercise-0948"
   },
   {
     "id": "exercise-chest-0035",
@@ -1352,9 +1352,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Barbell-Bent-Arm-Pullover-(male)_Back_.webp",
+    "video": "Barbell-Bent-Arm-Pullover-(male)_Back_.mp4",
+    "matched_con": "exercise-0136"
   },
   {
     "id": "exercise-chest-0036",
@@ -1382,9 +1382,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Cable-Straight-Arm-Pulldown_Back-FIX_.webp",
+    "video": "Cable-Straight-Arm-Pulldown_Back-FIX_.mp4",
+    "matched_con": "exercise-0622"
   },
   {
     "id": "exercise-chest-0037",
@@ -1484,9 +1484,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Barbell-Larsen-Press-(male)_Chest_.webp",
+    "video": "Barbell-Larsen-Press-(male)_Chest_.mp4",
+    "matched_con": "exercise-0204"
   },
   {
     "id": "exercise-chest-0040",
@@ -1514,9 +1514,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Cable-Lying-Fly_Chest-FIX_.webp",
+    "video": "Cable-Lying-Fly_Chest-FIX_.mp4",
+    "matched_con": "exercise-0457"
   },
   {
     "id": "exercise-chest-0041",
@@ -1544,9 +1544,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0040",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Cable-Incline-Fly_Chest-FIX_.webp",
+    "video": "Cable-Incline-Fly_Chest-FIX_.mp4",
+    "matched_con": "exercise-0418"
   },
   {
     "id": "exercise-chest-0042",
@@ -1583,9 +1583,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Smith-Bench-Press_Chest-FIX_.webp",
+    "video": "Smith-Bench-Press_Chest-FIX_.mp4",
+    "matched_con": "exercise-1873"
   },
   {
     "id": "exercise-chest-0043",
@@ -1621,9 +1621,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0042",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Smith-Incline-Bench-Press_Chest-FIX_.webp",
+    "video": "Smith-Incline-Bench-Press_Chest-FIX_.mp4",
+    "matched_con": "exercise-1897"
   },
   {
     "id": "exercise-chest-0044",
@@ -1660,8 +1660,8 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0042",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Smith-Decline-Bench-Press_Chest-FIX_.webp",
+    "video": "Smith-Decline-Bench-Press_Chest-FIX_.mp4",
+    "matched_con": "exercise-1882"
   }
 ]
