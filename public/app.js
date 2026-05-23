@@ -122,10 +122,21 @@ function buildVariantMaps() {
   }
 }
 
+// A matched parent stays in "pending" until all its variants are matched too,
+// so it remains visible as an anchor above its still-pending variants.
+function hasUnmatchedChildren(e) {
+  const kids = state.childrenOf.get(e.id)
+  if (!kids || kids.length === 0) return false
+  return kids.some(id => {
+    const k = state.claudeById.get(id)
+    return k && !isMatched(k)
+  })
+}
+
 // ---------- List (left: Claude exercises) ----------
 function getFilteredList() {
   let list = state.claude
-  if (state.filter === 'pending') list = list.filter(e => !isMatched(e))
+  if (state.filter === 'pending') list = list.filter(e => !isMatched(e) || hasUnmatchedChildren(e))
   else if (state.filter === 'matched') list = list.filter(e => isMatched(e))
   if (state.muscleFilter) list = list.filter(e => e.musculo === state.muscleFilter)
   const q = state.search.trim()
@@ -148,15 +159,11 @@ function renderList() {
   container.innerHTML = list.map(e => {
     const isVar = !!e.variante_de
     const kids = (state.childrenOf.get(e.id) || []).length
-    const parent = isVar ? state.claudeById.get(e.variante_de) : null
-    const meta = isVar
-      ? `<span class="li-arrow">↳</span> variante de ${escapeHtml(parent ? parent.nombre_es : '(padre no encontrado)')}`
-      : `${escapeHtml(e.musculo || '?')} · ${escapeHtml(e.equipo || '?')}`
     return `
     <div class="list-item ${isMatched(e) ? 'matched' : ''} ${isVar ? 'is-variant' : ''} ${e.id === state.currentId ? 'active' : ''}" data-id="${e.id}">
       <div class="li-info">
-        <div class="li-name">${escapeHtml(e.nombre_es || '(sin nombre)')}</div>
-        <div class="li-meta">${meta}</div>
+        <div class="li-name">${isVar ? '<span class="li-arrow">↳</span>' : ''}${escapeHtml(e.nombre_es || '(sin nombre)')}</div>
+        <div class="li-meta">${escapeHtml(e.musculo || '?')} · ${escapeHtml(e.equipo || '?')}</div>
       </div>
       ${isVar ? '<span class="li-tag var">variante</span>' : (kids ? `<span class="li-tag">${kids} var.</span>` : '')}
     </div>`
