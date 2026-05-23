@@ -45,6 +45,7 @@ const state = {
   filter: 'pending',
   search: '',
   muscleFilter: '',
+  candMuscle: '',         // muscle filter for the candidate (old) search
   currentId: null,        // selected claude exercise
   selectedOldId: null,    // candidate currently previewed
 }
@@ -102,9 +103,9 @@ function scoreExercise(ex, queryNorm, words) {
 }
 
 function populateMuscleSelect() {
-  const muscleFilter = $('filter-muscle')
   for (const m of MUSCLES) {
-    muscleFilter.insertAdjacentHTML('beforeend', `<option value="${m}">${m}</option>`)
+    $('filter-muscle').insertAdjacentHTML('beforeend', `<option value="${m}">${m}</option>`)
+    $('old-muscle').insertAdjacentHTML('beforeend', `<option value="${m}">${m}</option>`)
   }
 }
 
@@ -133,6 +134,10 @@ function getFilteredList() {
 function renderList() {
   const list = getFilteredList()
   const container = $('list')
+  const q = state.search.trim()
+  $('list-count').textContent = q
+    ? `${list.length} resultado${list.length === 1 ? '' : 's'} para "${q}"`
+    : `${list.length} ejercicio${list.length === 1 ? '' : 's'}`
   container.innerHTML = list.map(e => `
     <div class="list-item ${isMatched(e) ? 'matched' : ''} ${e.id === state.currentId ? 'active' : ''}" data-id="${e.id}">
       <div class="li-info">
@@ -167,15 +172,48 @@ function selectClaude(id) {
   $('c-meta').textContent = `${ex.musculo || '?'} · ${ex.equipo || '?'}`
   $('c-id').textContent = ex.id
 
+  renderClaudeDetails(ex)
   renderCurrentMatch(ex)
   resetPreview()
 
-  // Auto-suggest candidates using the exercise name
+  // Default the candidate filter to this exercise's muscle, then auto-suggest
+  state.candMuscle = MUSCLES.includes(ex.musculo) ? ex.musculo : ''
+  $('old-muscle').value = state.candMuscle
   $('old-search').value = ex.nombre_es || ''
   runSearch(ex.nombre_es || '')
 
   renderList()
   document.body.classList.remove('sidebar-open')
+}
+
+function renderClaudeDetails(ex) {
+  const c = $('c-details')
+  const sec = Array.isArray(ex.musculos_secundarios) ? ex.musculos_secundarios : []
+  const alt = Array.isArray(ex.nombres_alternativos) ? ex.nombres_alternativos : []
+  const pasos = Array.isArray(ex.como_hacerlo) ? ex.como_hacerlo : []
+  c.innerHTML = `
+    <div class="cd-chips">
+      <span class="cd-chip">${escapeHtml(ex.tipo || '?')}</span>
+      <span class="cd-chip">${escapeHtml(ex.musculo || '?')}</span>
+      <span class="cd-chip">${escapeHtml(ex.equipo || '?')}</span>
+      <span class="cd-chip imp">Importancia ${escapeHtml(String(ex.importancia ?? '?'))}</span>
+    </div>
+    ${sec.length ? `
+      <div class="cd-block">
+        <h4>Músculos secundarios</h4>
+        <div class="cd-tags">${sec.map(s => `<span class="cd-tag">${escapeHtml(s.musculo)} <span class="muted">${escapeHtml(String(s.peso ?? ''))}</span></span>`).join('')}</div>
+      </div>` : ''}
+    ${alt.length ? `
+      <div class="cd-block">
+        <h4>Nombres alternativos</h4>
+        <div class="cd-tags">${alt.map(n => `<span class="cd-tag">${escapeHtml(n)}</span>`).join('')}</div>
+      </div>` : ''}
+    ${pasos.length ? `
+      <div class="cd-block">
+        <h4>Cómo hacerlo</h4>
+        <ol class="cd-steps">${pasos.map(p => `<li>${escapeHtml(p)}</li>`).join('')}</ol>
+      </div>` : ''}
+  `
 }
 
 function renderCurrentMatch(ex) {
@@ -208,7 +246,9 @@ function runSearch(q) {
   const ranked = hits
     .map(h => ({ item: h.item, rank: h.score * 1000 - scoreExercise(h.item, queryNorm, words) }))
   ranked.sort((a, b) => a.rank - b.rank)
-  const top = ranked.slice(0, 30).map(r => state.oldById.get(r.item.id)).filter(Boolean)
+  let top = ranked.map(r => state.oldById.get(r.item.id)).filter(Boolean)
+  if (state.candMuscle) top = top.filter(m => m.musculo === state.candMuscle)
+  top = top.slice(0, 30)
   if (top.length === 0) { c.innerHTML = '<div class="cand-empty">Sin resultados</div>'; return }
   c.innerHTML = top.map(m => `
     <div class="cand ${m.id === state.selectedOldId ? 'sel' : ''}" data-id="${m.id}">
@@ -297,6 +337,36 @@ async function clearMatch() {
   }
 }
 
+async function deleteCurrent() {
+  const ex = state.claudeById.get(state.currentId)
+  if (!ex) return
+  if (!confirm(`¿Eliminar "${ex.nombre_es}"?\n\nSe borra del archivo de ejercicios de Claude. Esta acción no se puede deshacer.`)) return
+  const id = ex.id
+  try {
+    const r = await fetch(`${API_BASE}/api/claude/${id}`, { method: 'DELETE' })
+    if (!r.ok) throw new Error('delete failed')
+    // Decide which exercise to show next before mutating state
+    const order = state.claude
+    const curIdx = order.findIndex(e => e.id === id)
+    const nextEx = order[curIdx + 1] || order[curIdx - 1] || null
+    // Remove from local state
+    state.claude = state.claude.filter(e => e.id !== id)
+    state.claudeById.delete(id)
+    renderStats()
+    if (nextEx && nextEx.id !== id) {
+      selectClaude(nextEx.id)
+    } else {
+      state.currentId = null
+      $('panel').classList.add('hidden')
+      $('empty').classList.remove('hidden')
+      renderList()
+    }
+  } catch (err) {
+    $('save-status').textContent = 'Error al eliminar'
+    $('save-status').style.color = '#ef4444'
+  }
+}
+
 function advanceToNext() {
   const pending = state.claude.filter(e => !isMatched(e))
   if (pending.length === 0) {
@@ -340,8 +410,13 @@ function bindUI() {
     const v = e.target.value
     searchTimer = setTimeout(() => runSearch(v), 150)
   })
+  $('old-muscle').addEventListener('change', e => {
+    state.candMuscle = e.target.value
+    runSearch($('old-search').value)
+  })
 
   $('btn-next').addEventListener('click', advanceToNext)
+  $('btn-delete').addEventListener('click', deleteCurrent)
 
   // Mobile sidebar toggle
   const closeSidebar = () => document.body.classList.remove('sidebar-open')

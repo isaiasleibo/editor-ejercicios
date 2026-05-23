@@ -28,6 +28,7 @@
           <option value="">Todos los músculos</option>
         </select>
       </div>
+      <div id="list-count" class="list-count"></div>
     </div>
     <div id="list" class="list"></div>
   </aside>
@@ -41,6 +42,7 @@
       <header class="form-head">
         <div class="title-row">
           <span id="c-nombre_es" class="title-input static"></span>
+          <button id="btn-delete" class="delete-btn">🗑 Eliminar</button>
           <button id="btn-next" class="next-btn">Siguiente sin matchear →</button>
         </div>
         <div class="sub-row">
@@ -50,11 +52,17 @@
         </div>
       </header>
 
+      <!-- Full info of the Claude exercise -->
+      <section id="c-details" class="c-details"></section>
+
       <!-- Current match (shown when this exercise already has media copied) -->
       <section id="current-match" class="current-match"></section>
 
       <section class="match-search">
         <input id="old-search" type="text" placeholder="Buscar ejercicio viejo que coincida…" autocomplete="off" />
+        <select id="old-muscle">
+          <option value="">Todos los músculos</option>
+        </select>
       </section>
 
       <section class="match-body">

@@ -24,7 +24,10 @@
       "Flexión de bíceps con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0002",
@@ -51,7 +54,10 @@
       "Curl bíceps agarre abierto"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0001"
+    "variante_de": "exercise-biceps-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0003",
@@ -78,7 +84,10 @@
       "Curl bíceps agarre estrecho"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0001"
+    "variante_de": "exercise-biceps-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0004",
@@ -105,7 +114,10 @@
       "Curl prono con barra"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0001"
+    "variante_de": "exercise-biceps-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0005",
@@ -132,7 +144,10 @@
       "Curl bíceps con barra angulada"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0006",
@@ -159,7 +174,10 @@
       "Curl Z agarre abierto"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0005"
+    "variante_de": "exercise-biceps-0005",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0007",
@@ -186,7 +204,10 @@
       "Curl prono con barra Z"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0005"
+    "variante_de": "exercise-biceps-0005",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0008",
@@ -213,7 +234,10 @@
       "Flexión de bíceps con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0009",
@@ -240,7 +264,10 @@
       "Curl bíceps brazo por brazo"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0008"
+    "variante_de": "exercise-biceps-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0010",
@@ -267,7 +294,10 @@
       "Curl bíceps con rotación"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0008"
+    "variante_de": "exercise-biceps-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0011",
@@ -294,7 +324,10 @@
       "Curl agarre neutro con mancuernas"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0008"
+    "variante_de": "exercise-biceps-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0012",
@@ -321,7 +354,10 @@
       "Alternating neutral grip curl"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0008"
+    "variante_de": "exercise-biceps-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0013",
@@ -348,7 +384,10 @@
       "Curl bíceps sentado en banco"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0008"
+    "variante_de": "exercise-biceps-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0014",
@@ -375,7 +414,10 @@
       "Curl bíceps banco inclinado"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0008"
+    "variante_de": "exercise-biceps-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0015",
@@ -402,7 +444,10 @@
       "Hammer curl en banco inclinado"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0008"
+    "variante_de": "exercise-biceps-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0016",
@@ -429,7 +474,10 @@
       "Curl bíceps apoyado en muslo"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0017",
@@ -456,7 +504,10 @@
       "Curl en banco predicador"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0018",
@@ -483,7 +534,10 @@
       "Curl Scott cerrado"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0017"
+    "variante_de": "exercise-biceps-0017",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0019",
@@ -510,7 +564,10 @@
       "Curl Scott con barra EZ"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0020",
@@ -537,7 +594,10 @@
       "Single-arm preacher curl"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0021",
@@ -564,7 +624,10 @@
       "Standing cable curl"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0022",
@@ -591,7 +654,10 @@
       "Curl prono en polea baja"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0021"
+    "variante_de": "exercise-biceps-0021",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0023",
@@ -618,7 +684,10 @@
       "Curl bíceps con cuerda"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0024",
@@ -645,7 +714,10 @@
       "Curl unilateral con polea"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0021"
+    "variante_de": "exercise-biceps-0021",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0025",
@@ -672,7 +744,10 @@
       "Bicep cross curl"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0026",
@@ -699,7 +774,10 @@
       "Curl en máquina específica"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0027",
@@ -726,7 +804,10 @@
       "Machine hammer curl"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0026"
+    "variante_de": "exercise-biceps-0026",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0028",
@@ -747,8 +828,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Back", "peso": 0.5 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Back",
+        "peso": 0.5
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Chin-up cerrado",
@@ -756,7 +843,10 @@
       "Close-grip chin-up"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0029",
@@ -783,7 +873,10 @@
       "Curl supino-prono"
     ],
     "verificado": false,
-    "variante_de": "exercise-biceps-0008"
+    "variante_de": "exercise-biceps-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-biceps-0030",
@@ -810,6 +903,9 @@
       "Curl boca abajo en banco inclinado"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   }
 ]

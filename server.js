@@ -104,6 +104,18 @@ app.patch('/api/claude/:id', (req, res) => {
   res.json(entry.ex)
 })
 
+// Delete a claude exercise entirely from its source file
+app.delete('/api/claude/:id', (req, res) => {
+  const entry = claudeIndex.get(req.params.id)
+  if (!entry) return res.status(404).json({ error: 'not found' })
+  const list = claudeFiles.get(entry.file)
+  const idx = list.findIndex(e => e.id === req.params.id)
+  if (idx >= 0) list.splice(idx, 1)
+  claudeIndex.delete(req.params.id)
+  saveClaudeFile(entry.file)
+  res.json({ ok: true, id: req.params.id })
+})
+
 // Clear a match on a claude exercise
 app.post('/api/claude/:id/clear', (req, res) => {
   const entry = claudeIndex.get(req.params.id)
