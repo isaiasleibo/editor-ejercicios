@@ -1,6 +1,10 @@
 import Fuse from '/fuse.min.mjs'
 
-const MUSCLES = ['Biceps','Calves','Chest','Core','Forearms','Glutes','Hamstrings','Lowerback','Quadriceps','Shoulders','Triceps','Upperback']
+const MUSCLES = ['Adductors','Back','Biceps','Calves','Chest','Core','Forearms','Glutes','Hamstrings','Quadriceps','Shoulders','Triceps']
+
+// La data vieja (candidatos) todavía usa Upperback/Lowerback; los agrupamos bajo "Back"
+// para que matcheen con los ejercicios de Claude, que ya usan un único "Back".
+const muscleGroup = (m) => (m === 'Lowerback' || m === 'Upperback') ? 'Back' : m
 
 // Same Fuse config as the real app (somatrack frontend exerciseDB.js)
 const FUSE_OPTIONS = {
@@ -156,7 +160,7 @@ function getFilteredList() {
   let list = groupedClaude()
   if (state.filter === 'pending') list = list.filter(e => !isMatched(e) || hasUnmatchedChildren(e))
   else if (state.filter === 'matched') list = list.filter(e => isMatched(e))
-  if (state.muscleFilter) list = list.filter(e => e.musculo === state.muscleFilter)
+  if (state.muscleFilter) list = list.filter(e => muscleGroup(e.musculo) === state.muscleFilter)
   const q = state.search.trim()
   if (q) {
     const qn = normalize(q)
@@ -218,7 +222,7 @@ function selectClaude(id) {
   resetPreview()
 
   // Default the candidate filter to this exercise's muscle, then auto-suggest
-  state.candMuscle = MUSCLES.includes(ex.musculo) ? ex.musculo : ''
+  state.candMuscle = MUSCLES.includes(muscleGroup(ex.musculo)) ? muscleGroup(ex.musculo) : ''
   $('old-muscle').value = state.candMuscle
   $('old-search').value = ex.nombre_es || ''
   runSearch(ex.nombre_es || '')
@@ -310,7 +314,7 @@ function runSearch(q) {
     .map(h => ({ item: h.item, rank: h.score * 1000 - scoreExercise(h.item, queryNorm, words) }))
   ranked.sort((a, b) => a.rank - b.rank)
   let top = ranked.map(r => state.oldById.get(r.item.id)).filter(Boolean)
-  if (state.candMuscle) top = top.filter(m => m.musculo === state.candMuscle)
+  if (state.candMuscle) top = top.filter(m => muscleGroup(m.musculo) === state.candMuscle)
   top = top.slice(0, 30)
   if (top.length === 0) { c.innerHTML = '<div class="cand-empty">Sin resultados</div>'; return }
   c.innerHTML = top.map(m => `
