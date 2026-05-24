@@ -122,6 +122,24 @@ function buildVariantMaps() {
   }
 }
 
+// Claude exercises reordered so each parent is immediately followed by its
+// variants (the source files aren't ordered parent→variants).
+function groupedClaude() {
+  const emitted = new Set()
+  const out = []
+  for (const e of state.claude) {
+    if (e.variante_de) continue
+    out.push(e); emitted.add(e.id)
+    for (const kidId of state.childrenOf.get(e.id) || []) {
+      const kid = state.claudeById.get(kidId)
+      if (kid && !emitted.has(kid.id)) { out.push(kid); emitted.add(kid.id) }
+    }
+  }
+  // variants whose parent isn't in the set (dangling refs) go at the end
+  for (const e of state.claude) if (!emitted.has(e.id)) out.push(e)
+  return out
+}
+
 // A matched parent stays in "pending" until all its variants are matched too,
 // so it remains visible as an anchor above its still-pending variants.
 function hasUnmatchedChildren(e) {
@@ -135,7 +153,7 @@ function hasUnmatchedChildren(e) {
 
 // ---------- List (left: Claude exercises) ----------
 function getFilteredList() {
-  let list = state.claude
+  let list = groupedClaude()
   if (state.filter === 'pending') list = list.filter(e => !isMatched(e) || hasUnmatchedChildren(e))
   else if (state.filter === 'matched') list = list.filter(e => isMatched(e))
   if (state.muscleFilter) list = list.filter(e => e.musculo === state.muscleFilter)
