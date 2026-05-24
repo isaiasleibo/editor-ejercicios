@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "exercise-core-0001",
+    "nombre_es": "Crunch en el suelo",
+    "nombre_en": "Crunch",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados.",
+      "Colocá las manos detrás de la cabeza o cruzadas sobre el pecho.",
+      "Mantené la espalda baja apoyada en el suelo durante todo el movimiento.",
+      "Elevá la parte superior del torso despegando los omóplatos del suelo.",
+      "Contraé el recto abdominal al máximo en el punto más alto.",
+      "No tires del cuello con las manos.",
+      "Bajá controladamente hasta casi tocar el suelo con los omóplatos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Crunch",
+      "Abdominales clásicos",
+      "Crunch básico"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0002",
+    "nombre_es": "Crunch con piernas elevadas",
+    "nombre_en": "Crunch with Legs Elevated",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo.",
+      "Elevá las piernas con las rodillas flexionadas a 90 grados.",
+      "Mantené las espinillas paralelas al suelo durante todo el movimiento.",
+      "Colocá las manos detrás de la cabeza o cruzadas sobre el pecho.",
+      "Elevá la parte superior del torso despegando los omóplatos del suelo.",
+      "Contraé el recto abdominal al máximo.",
+      "La posición de piernas elevadas aumenta la tensión sobre los abdominales.",
+      "Bajá controladamente."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Elevated legs crunch",
+      "Crunch piernas en alto",
+      "Crunch tabletop"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0001"
+  },
+  {
+    "id": "exercise-core-0003",
+    "nombre_es": "Crunch con peso",
+    "nombre_en": "Weighted Crunch",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Plate",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados.",
+      "Sostené un disco o mancuerna contra el pecho o detrás de la cabeza.",
+      "Mantené la espalda baja apoyada en el suelo.",
+      "Elevá la parte superior del torso despegando los omóplatos.",
+      "Contraé el recto abdominal al máximo.",
+      "El peso agregado aumenta la carga sobre los abdominales.",
+      "Bajá controladamente hasta casi tocar el suelo con los omóplatos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Weighted crunch",
+      "Crunch con peso",
+      "Loaded crunch"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0001"
+  },
+  {
+    "id": "exercise-core-0004",
+    "nombre_es": "Crunch en polea (cable crunch)",
+    "nombre_en": "Cable Crunch",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Cable",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más alta y enganchá una soga.",
+      "Arrodillate frente a la polea agarrando los extremos de la soga.",
+      "Llevá las manos al lado de la cabeza o frente, manteniendo la soga firme.",
+      "Mantené las caderas fijas durante todo el movimiento.",
+      "Flexioná la columna hacia abajo contrayendo los abdominales.",
+      "Llevá los codos hacia las rodillas o las caderas.",
+      "Contraé el recto abdominal al máximo en el punto más bajo.",
+      "Volvé controladamente sin perder la tensión."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable crunch",
+      "Crunch en polea con soga",
+      "Rope cable crunch"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0005",
+    "nombre_es": "Sit-up",
+    "nombre_en": "Sit-Up",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados.",
+      "Colocá las manos detrás de la cabeza o cruzadas sobre el pecho.",
+      "Elevá el torso completo hasta quedar sentado.",
+      "El movimiento involucra tanto recto abdominal como flexores de cadera.",
+      "Bajá controladamente hasta que la espalda toque el suelo.",
+      "No tires del cuello con las manos.",
+      "Mantené el movimiento controlado sin usar impulso.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Sit-up",
+      "Abdominales completos",
+      "Sit-up clásico"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0006",
+    "nombre_es": "Sit-up declinado en banco",
+    "nombre_en": "Decline Sit-Up",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Ajustá un banco a una inclinación negativa de 15-30 grados.",
+      "Asegurá los pies bajo los rodillos del banco.",
+      "Acostate sobre el banco con las rodillas flexionadas.",
+      "Colocá las manos detrás de la cabeza o cruzadas sobre el pecho.",
+      "Elevá el torso completo hasta quedar casi sentado.",
+      "La inclinación aumenta la dificultad del ejercicio.",
+      "Bajá controladamente hasta que la espalda toque el banco.",
+      "No tires del cuello con las manos."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Decline sit-up",
+      "Sit-up declinado",
+      "Sit-up en banco declinado"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0005"
+  },
+  {
+    "id": "exercise-core-0007",
+    "nombre_es": "Sit-up declinado con peso",
+    "nombre_en": "Weighted Decline Sit-Up",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Plate",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Ajustá un banco a una inclinación negativa de 15-30 grados.",
+      "Asegurá los pies bajo los rodillos del banco.",
+      "Acostate sobre el banco con las rodillas flexionadas.",
+      "Sostené un disco o mancuerna contra el pecho o detrás de la cabeza.",
+      "Elevá el torso completo hasta quedar casi sentado.",
+      "El peso adicional aumenta la carga sobre los abdominales.",
+      "Bajá controladamente hasta que la espalda toque el banco.",
+      "Mantené el movimiento controlado sin impulso."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Weighted decline sit-up",
+      "Sit-up declinado con peso",
+      "Loaded decline sit-up"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0005"
+  },
+  {
+    "id": "exercise-core-0008",
+    "nombre_es": "Elevación de piernas acostado",
+    "nombre_en": "Lying Leg Raise",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las piernas extendidas.",
+      "Colocá las manos a los lados del cuerpo o debajo de los glúteos para soporte lumbar.",
+      "Mantené las piernas juntas y extendidas.",
+      "Elevá las piernas hasta formar 90 grados con el torso.",
+      "Mantené la espalda baja apoyada en el suelo durante todo el movimiento.",
+      "Bajá las piernas controladamente sin tocar el suelo.",
+      "Concentrate en usar los abdominales bajos para el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Lying leg raise",
+      "Elevación de piernas",
+      "Leg raises acostado"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0009",
+    "nombre_es": "Elevación de piernas con rodillas flexionadas",
+    "nombre_en": "Bent-Knee Lying Leg Raise",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las rodillas flexionadas.",
+      "Colocá las manos a los lados del cuerpo o debajo de los glúteos.",
+      "Mantené las rodillas flexionadas a 90 grados durante todo el movimiento.",
+      "Elevá las rodillas hacia el pecho contrayendo los abdominales.",
+      "Mantené la espalda baja apoyada en el suelo.",
+      "Bajá las piernas controladamente hasta casi tocar el suelo.",
+      "Es una variante más accesible que con piernas extendidas.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Bent-knee leg raise",
+      "Elevación rodillas flexionadas",
+      "Knee raise acostado"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0008"
+  },
+  {
+    "id": "exercise-core-0010",
+    "nombre_es": "Elevación de piernas colgado en barra",
+    "nombre_en": "Hanging Leg Raise",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Agarrá una barra fija con las palmas hacia adelante.",
+      "Colgate con los brazos completamente extendidos y los hombros activos.",
+      "Mantené las piernas juntas y extendidas.",
+      "Elevá las piernas hacia adelante hasta formar 90 grados con el torso.",
+      "Mantené el movimiento controlado sin balancear el cuerpo.",
+      "Contraé los abdominales al máximo en el punto más alto.",
+      "Bajá las piernas controladamente hasta extender completamente.",
+      "Evitá usar impulso para subir."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Hanging leg raise",
+      "Elevación colgado",
+      "Hanging leg raise piernas extendidas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0011",
+    "nombre_es": "Elevación de rodillas colgado en barra",
+    "nombre_en": "Hanging Knee Raise",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Agarrá una barra fija con las palmas hacia adelante.",
+      "Colgate con los brazos completamente extendidos.",
+      "Mantené las piernas juntas con las rodillas flexionadas a 90 grados.",
+      "Elevá las rodillas hacia el pecho contrayendo los abdominales.",
+      "Mantené el movimiento controlado sin balancear el cuerpo.",
+      "Contraé los abdominales al máximo en el punto más alto.",
+      "Bajá las rodillas controladamente hasta extender las piernas.",
+      "Es una variante más accesible que con piernas extendidas."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Hanging knee raise",
+      "Elevación de rodillas colgado",
+      "Knee raise en barra"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0010"
+  },
+  {
+    "id": "exercise-core-0012",
+    "nombre_es": "Elevación de piernas colgado a la barra (toes to bar)",
+    "nombre_en": "Toes to Bar",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Agarrá una barra fija con las palmas hacia adelante.",
+      "Colgate con los brazos completamente extendidos.",
+      "Mantené las piernas juntas y extendidas.",
+      "Elevá las piernas en arco hacia adelante y arriba hasta que los dedos toquen la barra.",
+      "Requiere fuerza, flexibilidad y coordinación.",
+      "Bajá las piernas controladamente hasta extender completamente.",
+      "Mantené el movimiento controlado sin balancear excesivamente.",
+      "Es un ejercicio avanzado de core."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Back",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Toes to bar",
+      "Dedos a la barra",
+      "T2B"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0010"
+  },
+  {
+    "id": "exercise-core-0013",
+    "nombre_es": "Elevación de piernas en máquina captain's chair",
+    "nombre_en": "Captain's Chair Leg Raise",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Machine",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Subí a la máquina captain's chair (silla romana) apoyando los antebrazos en los almohadones.",
+      "Apoyá la espalda contra el respaldo y agarrate de los manerales.",
+      "Dejá las piernas colgando con los pies juntos.",
+      "Elevá las piernas extendidas hacia adelante hasta que queden paralelas al suelo.",
+      "Mantené el movimiento controlado sin balancear.",
+      "Contraé los abdominales al máximo en el punto más alto.",
+      "Bajá las piernas controladamente.",
+      "Es una excelente alternativa al hanging leg raise."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Captain's chair leg raise",
+      "Silla romana",
+      "Vertical leg raise"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0014",
+    "nombre_es": "Plancha frontal",
+    "nombre_en": "Front Plank",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Apoyate boca abajo en el suelo sobre los antebrazos y las puntas de los pies.",
+      "Mantené los codos directamente debajo de los hombros formando 90 grados.",
+      "Mantené el cuerpo en línea recta desde la cabeza hasta los talones.",
+      "Activá el core, los glúteos y los cuádriceps.",
+      "Mantené el cuello en posición neutral mirando hacia el suelo.",
+      "No dejes que las caderas caigan ni se eleven.",
+      "Sostené la posición isométrica el mayor tiempo posible.",
+      "Mantené la respiración controlada durante todo el movimiento."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Plank",
+      "Plancha",
+      "Plancha sobre antebrazos"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0015",
+    "nombre_es": "Plancha con manos extendidas",
+    "nombre_en": "High Plank",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Apoyate boca abajo en el suelo sobre las palmas extendidas y las puntas de los pies.",
+      "Mantené las manos directamente debajo de los hombros.",
+      "Mantené el cuerpo en línea recta desde la cabeza hasta los talones.",
+      "Activá el core, los glúteos y los cuádriceps.",
+      "Mantené el cuello en posición neutral.",
+      "No dejes que las caderas caigan ni se eleven.",
+      "Sostené la posición isométrica el mayor tiempo posible.",
+      "Mantené la respiración controlada."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "High plank",
+      "Plancha alta",
+      "Plancha sobre manos"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0014"
+  },
+  {
+    "id": "exercise-core-0016",
+    "nombre_es": "Plancha lateral",
+    "nombre_en": "Side Plank",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Acostate de costado en el suelo apoyando el antebrazo bajo el hombro.",
+      "Apoyá el pie de abajo en el suelo y el de arriba sobre el de abajo.",
+      "Elevá la cadera del suelo formando línea recta desde la cabeza hasta los pies.",
+      "Mantené el brazo libre extendido hacia arriba o apoyado en la cadera.",
+      "Activá los oblicuos y todo el lateral del cuerpo.",
+      "No dejes que la cadera caiga hacia el suelo.",
+      "Sostené la posición isométrica el mayor tiempo posible.",
+      "Cambiá de lado y completá el otro lateral."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Side plank",
+      "Plancha lateral",
+      "Plancha de costado"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0017",
+    "nombre_es": "Plancha lateral con elevación de cadera",
+    "nombre_en": "Side Plank Hip Dip",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Acostate de costado en el suelo apoyando el antebrazo bajo el hombro.",
+      "Apoyá el pie de abajo en el suelo y el de arriba sobre el de abajo.",
+      "Elevá la cadera del suelo formando línea recta desde la cabeza hasta los pies.",
+      "Bajá la cadera lentamente hacia el suelo sin tocarlo.",
+      "Subí la cadera con fuerza contrayendo los oblicuos.",
+      "Mantené el cuerpo alineado durante todo el movimiento.",
+      "Es una versión dinámica de la plancha lateral.",
+      "Completá las repeticiones antes de cambiar de lado."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Side plank hip dip",
+      "Plancha lateral con dip",
+      "Side plank dynamic"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0016"
+  },
+  {
+    "id": "exercise-core-0018",
+    "nombre_es": "Plancha con movimiento (plank up-down)",
+    "nombre_en": "Plank Up-Down",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Comenzá en posición de plancha alta sobre las manos.",
+      "Bajá un brazo a la posición de plancha sobre antebrazo.",
+      "Bajá el otro brazo a la posición de plancha sobre antebrazo.",
+      "Subí el primer brazo de vuelta a la posición de plancha alta.",
+      "Subí el otro brazo de vuelta a la posición de plancha alta.",
+      "Mantené el core firme durante todo el movimiento.",
+      "Evitá rotar las caderas durante las transiciones.",
+      "Alterná el brazo que inicia el movimiento."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Plank up-down",
+      "Plancha con cambios",
+      "Plank to push-up"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0019",
+    "nombre_es": "Mountain climbers",
+    "nombre_en": "Mountain Climbers",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Posicionate en plancha alta sobre las manos.",
+      "Mantené las manos directamente debajo de los hombros.",
+      "Mantené el cuerpo en línea recta desde la cabeza hasta los talones.",
+      "Llevá una rodilla hacia el pecho rápidamente.",
+      "Volvé la pierna a la posición inicial mientras llevás la otra rodilla hacia el pecho.",
+      "Alterná las piernas rápidamente como si estuvieras corriendo en el lugar.",
+      "Mantené las caderas niveladas durante todo el movimiento.",
+      "Mantené el core firme y los hombros estables."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Mountain climbers",
+      "Escaladores",
+      "Escalador en plancha"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0020",
+    "nombre_es": "Russian twist",
+    "nombre_en": "Russian Twist",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en el suelo con las rodillas flexionadas y los pies apoyados o elevados.",
+      "Inclinate hacia atrás hasta formar una V con el cuerpo.",
+      "Mantené la espalda recta y el core firme.",
+      "Junta las manos al frente del pecho.",
+      "Rotá el torso hacia un lado tocando el suelo con las manos.",
+      "Rotá hacia el otro lado tocando el suelo del lado opuesto.",
+      "Mantené las caderas relativamente fijas, el movimiento viene del torso.",
+      "Repetí alternando lados."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Russian twist",
+      "Giros rusos",
+      "Twist ruso"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0021",
+    "nombre_es": "Russian twist con peso",
+    "nombre_en": "Weighted Russian Twist",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Plate",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en el suelo con las rodillas flexionadas y los pies apoyados o elevados.",
+      "Inclinate hacia atrás hasta formar una V con el cuerpo.",
+      "Sostené un disco o mancuerna con ambas manos frente al pecho.",
+      "Mantené la espalda recta y el core firme.",
+      "Rotá el torso hacia un lado llevando el peso al lado del cuerpo.",
+      "Rotá hacia el otro lado tocando el suelo con el peso del lado opuesto.",
+      "Mantené las caderas relativamente fijas.",
+      "Repetí alternando lados."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Weighted Russian twist",
+      "Russian twist con peso",
+      "Loaded Russian twist"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0020"
+  },
+  {
+    "id": "exercise-core-0022",
+    "nombre_es": "Bicicleta en el suelo",
+    "nombre_en": "Bicycle Crunch",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las manos detrás de la cabeza.",
+      "Elevá las piernas con las rodillas flexionadas a 90 grados.",
+      "Levantá la parte superior del torso despegando los omóplatos del suelo.",
+      "Llevá el codo derecho hacia la rodilla izquierda extendiendo la pierna derecha.",
+      "Alterná llevando el codo izquierdo hacia la rodilla derecha.",
+      "Mantené el movimiento controlado, no rápido.",
+      "Trabaja recto abdominal y oblicuos simultáneamente.",
+      "Mantené las piernas elevadas durante todo el movimiento."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Bicycle crunch",
+      "Bicicleta abdominal",
+      "Cross crunch"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0023",
+    "nombre_es": "Toques de talón (heel touch)",
+    "nombre_en": "Heel Touch",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados.",
+      "Elevá ligeramente la parte superior del torso despegando los omóplatos.",
+      "Mantené los brazos extendidos a los lados.",
+      "Flexioná el torso hacia un lado tocando el talón con la mano del mismo lado.",
+      "Volvé al centro y flexioná hacia el otro lado.",
+      "Mantené el movimiento controlado y los omóplatos elevados.",
+      "Trabaja específicamente los oblicuos.",
+      "Repetí alternando lados."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Heel touch",
+      "Toques de talón",
+      "Side crunch"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0024",
+    "nombre_es": "Inclinación lateral con mancuerna (side bend)",
+    "nombre_en": "Dumbbell Side Bend",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Dumbbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en una mano, el otro brazo a un costado o tras la cabeza.",
+      "Mantené los pies al ancho de los hombros y el core firme.",
+      "Inclinate lateralmente hacia el lado de la mancuerna bajándola por el costado.",
+      "Bajá hasta sentir un estiramiento en el oblicuo del lado opuesto.",
+      "Volvé a la posición vertical contrayendo el oblicuo del lado contrario.",
+      "Mantené el torso en el plano frontal, sin rotar hacia adelante o atrás.",
+      "Completá todas las repeticiones antes de cambiar de lado.",
+      "Trabaja específicamente los oblicuos."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Side bend",
+      "Inclinaciones laterales",
+      "Dumbbell side bend"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0025",
+    "nombre_es": "Side bend en polea",
+    "nombre_en": "Cable Side Bend",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Cable",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá un maneral.",
+      "Parate de costado a la polea agarrando el maneral con la mano más cercana.",
+      "Mantené el brazo extendido al costado del cuerpo.",
+      "Mantené el core firme y los pies al ancho de los hombros.",
+      "Inclinate lateralmente hacia el lado contrario de la polea contrayendo el oblicuo.",
+      "Volvé controladamente sintiendo el estiramiento del oblicuo del lado de la polea.",
+      "Mantené el torso en el plano frontal.",
+      "Completá todas las repeticiones antes de cambiar de lado."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable side bend",
+      "Inclinación lateral en polea",
+      "Cable lateral flexion"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0024"
+  },
+  {
+    "id": "exercise-core-0026",
+    "nombre_es": "Wood chopper en polea alta",
+    "nombre_en": "High to Low Cable Woodchopper",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más alta y enganchá un maneral.",
+      "Parate de costado a la polea con los pies bien separados.",
+      "Agarrá el maneral con ambas manos extendiendo los brazos.",
+      "Mantené los brazos relativamente extendidos durante todo el movimiento.",
+      "Tirá del maneral en diagonal hacia abajo y al lado opuesto.",
+      "El movimiento debe venir principalmente del torso rotando.",
+      "Permite una ligera rotación de los pies para acompañar.",
+      "Volvé controladamente sintiendo el estiramiento."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Woodchopper",
+      "Hacha en polea alta",
+      "Cable chop"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0027",
+    "nombre_es": "Wood chopper en polea baja (reverse)",
+    "nombre_en": "Low to High Cable Woodchopper",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá un maneral.",
+      "Parate de costado a la polea con los pies bien separados.",
+      "Agarrá el maneral con ambas manos abajo, brazos extendidos.",
+      "Mantené los brazos relativamente extendidos durante todo el movimiento.",
+      "Tirá del maneral en diagonal hacia arriba y al lado opuesto.",
+      "El movimiento debe venir principalmente del torso rotando.",
+      "Permite una ligera rotación de los pies para acompañar.",
+      "Volvé controladamente sintiendo el estiramiento."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Reverse woodchopper",
+      "Hacha invertida en polea",
+      "Low to high chop"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0026"
+  },
+  {
+    "id": "exercise-core-0028",
+    "nombre_es": "Pallof press en polea",
+    "nombre_en": "Cable Pallof Press",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocá la polea a la altura del pecho y enganchá un maneral.",
+      "Parate de costado a la polea agarrando el maneral con ambas manos al pecho.",
+      "Da un paso lateral alejándote de la polea para generar tensión.",
+      "Posicioná los pies al ancho de los hombros.",
+      "Empujá el maneral hacia adelante extendiendo los brazos.",
+      "Mantené la posición unos segundos sintiendo la rotación contra la que resistís.",
+      "Volvé controladamente al pecho.",
+      "Es un ejercicio anti-rotación que estabiliza el core."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Pallof press",
+      "Pallof press en polea",
+      "Anti-rotation press"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0029",
+    "nombre_es": "Dead bug",
+    "nombre_en": "Dead Bug",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con los brazos extendidos hacia el techo.",
+      "Elevá las piernas con las rodillas flexionadas a 90 grados.",
+      "Mantené las espinillas paralelas al suelo.",
+      "Mantené la espalda baja apoyada en el suelo durante todo el movimiento.",
+      "Extendé el brazo derecho hacia atrás y la pierna izquierda hacia adelante simultáneamente.",
+      "Volvé a la posición inicial y alterná con el brazo izquierdo y pierna derecha.",
+      "Mantené el core firme para evitar arquear la espalda.",
+      "Es excelente para estabilización profunda."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Dead bug",
+      "Bicho muerto",
+      "Dead bug exercise"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0030",
+    "nombre_es": "Bird dog",
+    "nombre_en": "Bird Dog",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Apoyate en cuadrupedia con manos bajo los hombros y rodillas bajo las caderas.",
+      "Mantené la espalda neutra y el core activado.",
+      "Extendé el brazo derecho hacia adelante y la pierna izquierda hacia atrás simultáneamente.",
+      "Llegá hasta formar una línea recta desde la mano hasta el pie extendido.",
+      "Mantené la cadera nivelada sin rotar.",
+      "Mantené la posición 1-2 segundos.",
+      "Volvé controladamente a cuadrupedia y alterná lados.",
+      "Trabaja core, glúteos y estabilización."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Glutes",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Bird dog",
+      "Perro pájaro",
+      "Quadruped extension"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0031",
+    "nombre_es": "Hollow body hold",
+    "nombre_en": "Hollow Body Hold",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las piernas extendidas.",
+      "Extendé los brazos por encima de la cabeza.",
+      "Apretá la espalda baja contra el suelo activando el core.",
+      "Elevá ligeramente las piernas y los brazos del suelo.",
+      "El cuerpo debe formar una posición de banana con la espalda baja apoyada.",
+      "Sostené la posición isométrica el mayor tiempo posible.",
+      "Mantené la respiración controlada.",
+      "Es excelente para gimnastas y core profundo."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Hollow body",
+      "Hollow hold",
+      "Posición hueca"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0032",
+    "nombre_es": "V-up",
+    "nombre_en": "V-Up",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Acostate boca arriba en el suelo con las piernas extendidas y los brazos por encima de la cabeza.",
+      "Elevá simultáneamente piernas y torso encontrándolos arriba.",
+      "Tocá los pies con las manos formando una V con el cuerpo.",
+      "Mantené las piernas y los brazos extendidos durante todo el movimiento.",
+      "Bajá controladamente hasta la posición inicial.",
+      "Es un ejercicio dinámico que combina sit-up con elevación de piernas.",
+      "Mantené el control durante todo el movimiento.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "V-up",
+      "V-sit up",
+      "Jackknife"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0033",
+    "nombre_es": "Pike crunch con balón suizo",
+    "nombre_en": "Stability Ball Pike",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Stability Ball",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Posicionate en plancha alta con las espinillas apoyadas sobre un balón suizo.",
+      "Mantené las manos directamente debajo de los hombros y los brazos extendidos.",
+      "Mantené el cuerpo en línea recta desde la cabeza hasta los pies.",
+      "Llevá las caderas hacia arriba rodando el balón hacia las manos.",
+      "Formá una V invertida con el cuerpo en el punto más alto.",
+      "Mantené los brazos extendidos durante todo el movimiento.",
+      "Volvé controladamente a la posición de plancha.",
+      "Mantené el core firme y estable."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      }
+    ],
+    "nombres_alternativos": [
+      "Stability ball pike",
+      "Pike con pelota",
+      "Swiss ball pike"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0034",
+    "nombre_es": "Ab wheel rollout",
+    "nombre_en": "Ab Wheel Rollout",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "equipo": "Ab Wheel",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Arrodillate en el suelo agarrando la rueda abdominal con ambas manos.",
+      "Mantené las manos directamente debajo de los hombros.",
+      "Mantené el core firme y la espalda en posición neutral.",
+      "Rodá la rueda hacia adelante extendiendo el cuerpo.",
+      "Bajá hasta donde puedas mantener el control sin que la cadera caiga.",
+      "Mantené las caderas alineadas con la columna durante todo el movimiento.",
+      "Volvé a la posición inicial contrayendo los abdominales.",
+      "Es uno de los ejercicios más efectivos para core."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Ab wheel",
+      "Rueda abdominal",
+      "Ab roller"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-core-0035",
+    "nombre_es": "Plancha con peso en la espalda",
+    "nombre_en": "Weighted Plank",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Plate",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Apoyate boca abajo en el suelo sobre los antebrazos y las puntas de los pies.",
+      "Pedile a alguien que coloque un disco o peso sobre tu espalda alta.",
+      "Mantené los codos directamente debajo de los hombros.",
+      "Mantené el cuerpo en línea recta desde la cabeza hasta los talones.",
+      "Activá el core, los glúteos y los cuádriceps.",
+      "Sostené la posición isométrica el mayor tiempo posible.",
+      "El peso adicional aumenta la dificultad de la plancha.",
+      "Mantené la respiración controlada."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Weighted plank",
+      "Plancha con peso",
+      "Loaded plank"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-core-0014"
+  },
+  {
+    "id": "exercise-core-0036",
+    "nombre_es": "Plancha en máquina ab coaster",
+    "nombre_en": "Ab Coaster",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "equipo": "Machine",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Subí a la máquina ab coaster apoyando las rodillas en los almohadones.",
+      "Agarrate de los manerales superiores con los brazos extendidos.",
+      "Comenzá con las piernas extendidas hacia abajo.",
+      "Llevá las rodillas hacia el pecho contrayendo los abdominales.",
+      "La máquina permite un movimiento curvilíneo.",
+      "Volvé controladamente a la posición inicial.",
+      "Mantené el torso firme contra los almohadones.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Ab coaster",
+      "Máquina ab coaster",
+      "Knee raise machine"
+    ],
+    "verificado": false,
+    "variante_de": null
+  }
+]

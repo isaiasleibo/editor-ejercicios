@@ -1,0 +1,1793 @@
+[
+  {
+    "id": "exercise-back-0001",
+    "nombre_es": "Dominadas pronas",
+    "nombre_en": "Pull-Up",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Bodyweight",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Agarrá la barra fija con las palmas hacia adelante (prono), manos un poco más anchas que los hombros.",
+      "Colgate con los brazos completamente extendidos y los hombros activos.",
+      "Cruzá los pies por detrás y mantené las piernas levemente flexionadas.",
+      "Tirá del cuerpo hacia arriba apretando los omóplatos.",
+      "Subí hasta que el mentón pase la barra.",
+      "Enfocate en usar la espalda, no solo los brazos, llevando los codos hacia abajo.",
+      "Bajá controladamente hasta extender los brazos.",
+      "Evitá balancear el cuerpo durante el movimiento."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.35 },
+      { "musculo": "Core", "peso": 0.2 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Pull-up",
+      "Dominadas",
+      "Dominadas con agarre prono"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0002",
+    "nombre_es": "Dominadas pronas agarre amplio",
+    "nombre_en": "Wide-Grip Pull-Up",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Agarrá la barra fija con las palmas hacia adelante, manos bien separadas, más anchas que los hombros.",
+      "Colgate con los brazos completamente extendidos.",
+      "Cruzá los pies por detrás.",
+      "Tirá del cuerpo hacia arriba apretando los omóplatos.",
+      "Subí hasta que el mentón pase la barra.",
+      "El agarre amplio enfatiza más el dorsal ancho exterior.",
+      "Bajá controladamente hasta extender los brazos.",
+      "Mantené los codos apuntando hacia abajo durante todo el movimiento."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.25 },
+      { "musculo": "Shoulders", "peso": 0.25 },
+      { "musculo": "Core", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Wide-grip pull-up",
+      "Dominadas amplias",
+      "Pull-up agarre abierto"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0001"
+  },
+  {
+    "id": "exercise-back-0003",
+    "nombre_es": "Dominadas supinas (chin-up)",
+    "nombre_en": "Chin-Up",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Agarrá la barra fija con las palmas hacia vos (supino), manos al ancho de los hombros.",
+      "Colgate con los brazos completamente extendidos.",
+      "Cruzá los pies por detrás.",
+      "Tirá del cuerpo hacia arriba flexionando los codos.",
+      "Subí hasta que el mentón pase la barra.",
+      "El agarre supino involucra más el bíceps pero también trabaja muy bien el dorsal.",
+      "Bajá controladamente hasta extender los brazos.",
+      "Evitá balancear el cuerpo durante el movimiento."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.45 },
+      { "musculo": "Core", "peso": 0.2 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Chin-up",
+      "Dominadas supinas",
+      "Dominadas con agarre supino"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0004",
+    "nombre_es": "Dominadas agarre neutro",
+    "nombre_en": "Neutral-Grip Pull-Up",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Agarrá los manerales paralelos de la barra de dominadas con las palmas enfrentadas.",
+      "Colgate con los brazos completamente extendidos.",
+      "Cruzá los pies por detrás.",
+      "Tirá del cuerpo hacia arriba apretando los omóplatos.",
+      "Subí hasta que el mentón pase los manerales.",
+      "El agarre neutro es más amigable para los hombros y combina bien dorsal con bíceps/braquial.",
+      "Bajá controladamente hasta extender los brazos.",
+      "Es una excelente variante intermedia entre pull-up y chin-up."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.35 },
+      { "musculo": "Core", "peso": 0.2 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Neutral-grip pull-up",
+      "Dominadas neutras",
+      "Dominadas agarre paralelo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0001"
+  },
+  {
+    "id": "exercise-back-0005",
+    "nombre_es": "Dominadas con peso",
+    "nombre_en": "Weighted Pull-Up",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocate un cinturón de dominadas con un disco o una mancuerna entre las piernas.",
+      "Agarrá la barra fija con las palmas hacia adelante.",
+      "Colgate con los brazos completamente extendidos.",
+      "Tirá del cuerpo hacia arriba apretando los omóplatos.",
+      "Subí hasta que el mentón pase la barra.",
+      "Bajá controladamente hasta extender los brazos.",
+      "Agregar peso permite progresar en fuerza una vez dominas la versión sin peso.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.35 },
+      { "musculo": "Core", "peso": 0.25 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Weighted pull-up",
+      "Dominadas con peso adicional",
+      "Pull-up con lastre"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0001"
+  },
+  {
+    "id": "exercise-back-0006",
+    "nombre_es": "Dominadas asistidas con banda",
+    "nombre_en": "Band-Assisted Pull-Up",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Band",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Pasá una banda elástica por encima de la barra fija formando un lazo.",
+      "Agarrá la barra fija con las palmas hacia adelante.",
+      "Apoyá una rodilla o ambos pies en el lazo de la banda para asistencia.",
+      "Colgate con los brazos completamente extendidos.",
+      "Tirá del cuerpo hacia arriba aprovechando la asistencia de la banda.",
+      "Subí hasta que el mentón pase la barra.",
+      "La banda asiste más en la parte baja (más débil) del movimiento.",
+      "Es ideal para progresar hacia dominadas sin asistencia."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.35 },
+      { "musculo": "Core", "peso": 0.2 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Band-assisted pull-up",
+      "Dominadas asistidas",
+      "Pull-up con banda"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0001"
+  },
+  {
+    "id": "exercise-back-0007",
+    "nombre_es": "Dominadas en máquina asistida",
+    "nombre_en": "Assisted Pull-Up Machine",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Machine",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Ajustá el peso de asistencia en la máquina (más peso = más asistencia).",
+      "Subí a la máquina apoyando las rodillas en el almohadón.",
+      "Agarrá las manijas superiores con las palmas hacia adelante.",
+      "Estirá los brazos completamente al principio del movimiento.",
+      "Tirá del cuerpo hacia arriba apretando los omóplatos.",
+      "Subí hasta que el mentón pase las manijas.",
+      "Bajá controladamente hasta extender los brazos.",
+      "Permite hacer dominadas con menos peso corporal del que tendrías que cargar."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.35 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Assisted pull-up machine",
+      "Dominadas asistidas en máquina",
+      "Gravitron"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0008",
+    "nombre_es": "Jalón al pecho con barra agarre prono",
+    "nombre_en": "Lat Pulldown",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Sentate en la máquina de jalones ajustando los almohadones para los muslos.",
+      "Agarrá la barra con las palmas hacia adelante (prono), manos un poco más anchas que los hombros.",
+      "Inclinate ligeramente hacia atrás manteniendo el pecho elevado.",
+      "Tirá de la barra hacia abajo apretando los omóplatos.",
+      "Bajá la barra hasta tocar la parte superior del pecho.",
+      "Enfocate en usar el dorsal, no solo los brazos.",
+      "Volvé controladamente hasta extender los brazos.",
+      "Mantené el torso firme sin balancear."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 },
+      { "musculo": "Core", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Lat pulldown",
+      "Jalón al pecho",
+      "Pulldown con barra"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0009",
+    "nombre_es": "Jalón al pecho con barra agarre amplio",
+    "nombre_en": "Wide-Grip Lat Pulldown",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en la máquina de jalones ajustando los almohadones para los muslos.",
+      "Agarrá la barra con las palmas hacia adelante, manos bien separadas más anchas que los hombros.",
+      "Inclinate ligeramente hacia atrás manteniendo el pecho elevado.",
+      "Tirá de la barra hacia abajo apretando los omóplatos.",
+      "Bajá la barra hasta tocar la parte superior del pecho.",
+      "El agarre amplio enfatiza más el dorsal exterior.",
+      "Volvé controladamente hasta extender los brazos.",
+      "Mantené los codos apuntando hacia abajo durante el movimiento."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.25 },
+      { "musculo": "Shoulders", "peso": 0.25 },
+      { "musculo": "Core", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Wide-grip pulldown",
+      "Jalón amplio al pecho",
+      "Lat pulldown agarre abierto"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0008"
+  },
+  {
+    "id": "exercise-back-0010",
+    "nombre_es": "Jalón al pecho con barra agarre cerrado",
+    "nombre_en": "Close-Grip Lat Pulldown",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en la máquina de jalones ajustando los almohadones para los muslos.",
+      "Agarrá la barra con las palmas hacia adelante, manos al ancho de los hombros o más cerca.",
+      "Inclinate ligeramente hacia atrás manteniendo el pecho elevado.",
+      "Tirá de la barra hacia abajo apretando los omóplatos.",
+      "Bajá la barra hasta tocar la parte superior del pecho.",
+      "El agarre cerrado enfatiza más la parte baja del dorsal y aumenta el rango de movimiento.",
+      "Volvé controladamente hasta extender los brazos.",
+      "Mantené los codos cerca del torso al bajar."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.35 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Close-grip pulldown",
+      "Jalón cerrado al pecho",
+      "Lat pulldown agarre estrecho"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0008"
+  },
+  {
+    "id": "exercise-back-0011",
+    "nombre_es": "Jalón al pecho con barra agarre supino",
+    "nombre_en": "Reverse-Grip Lat Pulldown",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en la máquina de jalones ajustando los almohadones para los muslos.",
+      "Agarrá la barra con las palmas hacia vos (supino), manos al ancho de los hombros.",
+      "Inclinate ligeramente hacia atrás manteniendo el pecho elevado.",
+      "Tirá de la barra hacia abajo apretando los omóplatos.",
+      "Bajá la barra hasta tocar la parte superior del pecho.",
+      "El agarre supino involucra más el bíceps y enfatiza la parte baja del dorsal.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Volvé controladamente hasta extender los brazos."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.45 },
+      { "musculo": "Shoulders", "peso": 0.1 }
+    ],
+    "nombres_alternativos": [
+      "Reverse-grip pulldown",
+      "Jalón supino",
+      "Underhand pulldown"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0008"
+  },
+  {
+    "id": "exercise-back-0012",
+    "nombre_es": "Jalón al pecho agarre neutro con triángulo",
+    "nombre_en": "Neutral-Grip Lat Pulldown",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Enganchá un agarre tipo triángulo o V-bar a la polea alta.",
+      "Sentate en la máquina ajustando los almohadones para los muslos.",
+      "Agarrá los manerales con las palmas enfrentadas (agarre neutro).",
+      "Inclinate ligeramente hacia atrás manteniendo el pecho elevado.",
+      "Tirá del agarre hacia abajo apretando los omóplatos.",
+      "Bajá hasta tocar la parte superior del pecho.",
+      "El agarre neutro es muy amigable para los hombros y excelente para el dorsal.",
+      "Volvé controladamente hasta extender los brazos."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.35 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Neutral-grip pulldown",
+      "Jalón con triángulo",
+      "V-bar pulldown"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0013",
+    "nombre_es": "Jalón a un brazo en polea alta",
+    "nombre_en": "Single-Arm Lat Pulldown",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Enganchá un maneral simple a la polea alta.",
+      "Sentate en la máquina ajustando los almohadones para los muslos.",
+      "Agarrá el maneral con una mano, palma hacia adelante o neutra.",
+      "Inclinate ligeramente hacia atrás.",
+      "Tirá del maneral hacia abajo y al costado del cuerpo apretando el dorsal.",
+      "Bajá hasta el lado del torso.",
+      "Volvé controladamente hasta extender el brazo.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.2 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Single-arm pulldown",
+      "Jalón unilateral",
+      "One-arm lat pulldown"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0014",
+    "nombre_es": "Jalón en polea alta con soga",
+    "nombre_en": "Rope Lat Pulldown",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Enganchá una soga a la polea alta.",
+      "Sentate en la máquina ajustando los almohadones para los muslos.",
+      "Agarrá los extremos de la soga con las palmas enfrentadas.",
+      "Inclinate ligeramente hacia atrás.",
+      "Tirá de la soga hacia abajo separando las manos al final.",
+      "Llevá las manos a los costados del torso.",
+      "El movimiento con soga permite una contracción más profunda.",
+      "Volvé controladamente hasta extender los brazos."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Rope pulldown",
+      "Jalón con soga",
+      "Cable rope pulldown"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0015",
+    "nombre_es": "Jalón al pecho detrás de la nuca",
+    "nombre_en": "Behind-the-Neck Lat Pulldown",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Sentate en la máquina de jalones ajustando los almohadones para los muslos.",
+      "Agarrá la barra con las palmas hacia adelante, manos más anchas que los hombros.",
+      "Mantené el torso completamente vertical o levemente inclinado hacia adelante.",
+      "Tirá de la barra hacia abajo por detrás de la cabeza.",
+      "Bajá hasta la base del cuello o trapecios superiores.",
+      "Requiere buena movilidad de hombros, no es para principiantes.",
+      "Volvé controladamente hasta extender los brazos.",
+      "Mantené los codos apuntando hacia abajo."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Shoulders", "peso": 0.25 },
+      { "musculo": "Biceps", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Behind-the-neck pulldown",
+      "Jalón detrás de la nuca",
+      "Pulldown tras nuca"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0008"
+  },
+  {
+    "id": "exercise-back-0016",
+    "nombre_es": "Pull-over en polea alta de pie",
+    "nombre_en": "Standing Cable Pullover",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más alta y enganchá una barra recta o soga.",
+      "Parate frente a la polea a una distancia de aproximadamente un paso.",
+      "Agarrá la barra con las palmas hacia abajo y los brazos extendidos hacia arriba.",
+      "Inclinate ligeramente hacia adelante manteniendo el torso firme.",
+      "Mantené una ligera flexión fija en los codos durante todo el movimiento.",
+      "Tirá la barra en arco hacia abajo hasta la altura de las caderas.",
+      "Contraé el dorsal al final del movimiento.",
+      "Volvé controladamente a la posición inicial sin perder la tensión."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Standing cable pullover",
+      "Pullover en polea de pie",
+      "Straight-arm pulldown"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0017",
+    "nombre_es": "Pull-over con mancuerna acostado",
+    "nombre_en": "Dumbbell Pullover",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con los pies firmes en el suelo.",
+      "Sostené una mancuerna con ambas manos formando una copa con las palmas.",
+      "Extendé los brazos sobre el pecho con una ligera flexión fija en los codos.",
+      "Bajá la mancuerna en arco hacia atrás por detrás de la cabeza.",
+      "Bajá hasta sentir un buen estiramiento en el dorsal y el pecho.",
+      "Subí la mancuerna en el mismo arco hasta volver sobre el pecho.",
+      "Mantené los codos con la misma flexión durante todo el movimiento.",
+      "Trabaja tanto pecho como dorsal según el enfoque."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Chest", "peso": 0.4 },
+      { "musculo": "Triceps", "peso": 0.2 },
+      { "musculo": "Core", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Dumbbell pullover",
+      "Pullover con mancuerna",
+      "Pullover acostado"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0018",
+    "nombre_es": "Pull-over en máquina",
+    "nombre_en": "Machine Pullover",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Machine",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Sentate en la máquina de pullover ajustando el asiento.",
+      "Apoyá la espalda firme contra el respaldo y el pecho contra el almohadón frontal.",
+      "Agarrá los manerales por encima de la cabeza.",
+      "Tirá de los manerales hacia abajo y al frente contrayendo el dorsal.",
+      "Mantené los codos relativamente extendidos durante el movimiento.",
+      "Bajá hasta que los brazos queden a la altura del pecho.",
+      "Volvé controladamente hasta el estiramiento.",
+      "La máquina aísla el trabajo del dorsal eliminando otros músculos."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Machine pullover",
+      "Pullover en máquina específica",
+      "Nautilus pullover"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0019",
+    "nombre_es": "Remo con barra inclinado",
+    "nombre_en": "Bent-Over Barbell Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Parate frente a la barra con los pies al ancho de las caderas.",
+      "Flexioná las caderas hasta que el torso quede casi paralelo al suelo.",
+      "Agarrá la barra con las palmas hacia abajo, manos un poco más anchas que los hombros.",
+      "Mantené la espalda recta, el core firme y las rodillas levemente flexionadas.",
+      "Tirá de la barra hacia el abdomen apretando los omóplatos.",
+      "Llevá la barra hacia la zona del ombligo o pecho bajo.",
+      "Bajá controladamente extendiendo los brazos.",
+      "Mantené el torso firme sin balancear durante el movimiento."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.35 },
+      { "musculo": "Shoulders", "peso": 0.2 },
+      { "musculo": "Core", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Bent-over row",
+      "Remo inclinado con barra",
+      "Barbell row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0020",
+    "nombre_es": "Remo con barra inclinado agarre supino",
+    "nombre_en": "Reverse-Grip Bent-Over Barbell Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Parate frente a la barra con los pies al ancho de las caderas.",
+      "Flexioná las caderas hasta que el torso quede casi paralelo al suelo.",
+      "Agarrá la barra con las palmas hacia arriba (supino), manos al ancho de los hombros.",
+      "Mantené la espalda recta, el core firme y las rodillas levemente flexionadas.",
+      "Tirá de la barra hacia el abdomen apretando los omóplatos.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "El agarre supino enfatiza más la parte baja del dorsal y el bíceps.",
+      "Bajá controladamente extendiendo los brazos."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.45 },
+      { "musculo": "Shoulders", "peso": 0.15 },
+      { "musculo": "Core", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Reverse-grip row",
+      "Remo supino con barra",
+      "Yates row"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0019"
+  },
+  {
+    "id": "exercise-back-0021",
+    "nombre_es": "Remo con barra inclinado agarre amplio",
+    "nombre_en": "Wide-Grip Bent-Over Barbell Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Parate frente a la barra con los pies al ancho de las caderas.",
+      "Flexioná las caderas hasta que el torso quede casi paralelo al suelo.",
+      "Agarrá la barra con las palmas hacia abajo, manos bien separadas más anchas que los hombros.",
+      "Mantené la espalda recta y el core firme.",
+      "Tirá de la barra hacia la zona del pecho bajo apretando los omóplatos.",
+      "Los codos quedarán más abiertos respecto al torso que en el agarre estándar.",
+      "El agarre amplio enfatiza más la parte alta del dorsal y el trapecio medio.",
+      "Bajá controladamente extendiendo los brazos."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.25 },
+      { "musculo": "Shoulders", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Wide-grip row",
+      "Remo amplio con barra",
+      "Wide-grip barbell row"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0019"
+  },
+  {
+    "id": "exercise-back-0022",
+    "nombre_es": "Remo Pendlay con barra",
+    "nombre_en": "Pendlay Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Parate frente a la barra que descansa en el suelo, con los pies al ancho de las caderas.",
+      "Flexioná las caderas hasta que el torso quede paralelo al suelo.",
+      "Agarrá la barra con las palmas hacia abajo, manos un poco más anchas que los hombros.",
+      "Mantené la espalda completamente recta y el core firme.",
+      "Tirá de la barra desde el suelo de forma explosiva hacia el pecho/abdomen.",
+      "Apretá los omóplatos al final del movimiento.",
+      "Bajá la barra controladamente hasta tocar el suelo nuevamente.",
+      "Cada repetición comienza desde el suelo eliminando el rebote."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 },
+      { "musculo": "Core", "peso": 0.25 }
+    ],
+    "nombres_alternativos": [
+      "Pendlay row",
+      "Remo Pendlay",
+      "Remo desde el suelo"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0023",
+    "nombre_es": "Remo con mancuerna a un brazo",
+    "nombre_en": "Single-Arm Dumbbell Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Dumbbell",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Apoyá una mano y una rodilla en un banco plano para estabilidad.",
+      "La pierna contraria queda extendida en el suelo apoyada firmemente.",
+      "Sostené una mancuerna en la mano del brazo libre con el brazo extendido.",
+      "Mantené la espalda paralela al suelo y el core firme.",
+      "Tirá de la mancuerna hacia la cadera apretando el omóplato.",
+      "Llevá el codo lo más atrás posible cerca del torso.",
+      "Bajá controladamente hasta extender el brazo.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 },
+      { "musculo": "Core", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Dumbbell row",
+      "Remo con mancuerna",
+      "Single-arm row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0024",
+    "nombre_es": "Remo con mancuernas inclinado a dos brazos",
+    "nombre_en": "Bent-Over Dumbbell Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Dumbbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en cada mano.",
+      "Flexioná las caderas hasta que el torso quede casi paralelo al suelo.",
+      "Mantené las rodillas levemente flexionadas y la espalda recta.",
+      "Dejá las mancuernas colgando hacia el suelo con las palmas enfrentadas o hacia atrás.",
+      "Tirá de las mancuernas hacia las caderas apretando los omóplatos.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Bajá controladamente extendiendo los brazos.",
+      "Mantené el torso firme sin balancear."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 },
+      { "musculo": "Core", "peso": 0.25 }
+    ],
+    "nombres_alternativos": [
+      "Bent-over dumbbell row",
+      "Remo con mancuernas inclinado",
+      "Two-arm dumbbell row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0025",
+    "nombre_es": "Remo con mancuerna en banco inclinado boca abajo",
+    "nombre_en": "Chest-Supported Dumbbell Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Dumbbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Ajustá un banco inclinado a 30-45 grados.",
+      "Apoyate boca abajo sobre el respaldo con el pecho contra el banco.",
+      "Sostené una mancuerna en cada mano con los brazos colgando hacia el suelo.",
+      "Mantené las palmas enfrentadas o hacia atrás.",
+      "Tirá de las mancuernas hacia las caderas apretando los omóplatos.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Esta posición elimina por completo el impulso del cuerpo.",
+      "Bajá controladamente hasta el estiramiento."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Chest-supported row",
+      "Remo en banco inclinado boca abajo",
+      "Incline dumbbell row"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0024"
+  },
+  {
+    "id": "exercise-back-0026",
+    "nombre_es": "Remo con mancuerna agarre supino en banco inclinado",
+    "nombre_en": "Supinated Chest-Supported Dumbbell Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Ajustá un banco inclinado a 30-45 grados.",
+      "Apoyate boca abajo sobre el respaldo con el pecho contra el banco.",
+      "Sostené una mancuerna en cada mano con los brazos colgando.",
+      "Mantené las palmas hacia adelante (supino) durante todo el movimiento.",
+      "Tirá de las mancuernas hacia las caderas apretando los omóplatos.",
+      "Mantené los codos cerca del torso.",
+      "El agarre supino enfatiza la parte baja del dorsal y los bíceps.",
+      "Bajá controladamente hasta el estiramiento."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.4 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Supinated chest-supported row",
+      "Remo supino en banco inclinado",
+      "Underhand incline row"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0024"
+  },
+  {
+    "id": "exercise-back-0027",
+    "nombre_es": "Remo Meadows",
+    "nombre_en": "Meadows Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá un extremo de una barra en una esquina o landmine.",
+      "Posicionate de costado a la barra con los pies separados.",
+      "Agarrá el extremo libre de la barra con la mano más lejana del soporte.",
+      "Apoyá la otra mano sobre el muslo o la rodilla del mismo lado para estabilidad.",
+      "Inclinate hacia adelante hasta que el torso quede casi paralelo al suelo.",
+      "Tirá de la barra hacia la cadera apretando el omóplato.",
+      "Bajá controladamente extendiendo el brazo.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 },
+      { "musculo": "Core", "peso": 0.25 }
+    ],
+    "nombres_alternativos": [
+      "Meadows row",
+      "Remo Meadows",
+      "Landmine row unilateral"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0028",
+    "nombre_es": "Remo T-bar con pecho apoyado",
+    "nombre_en": "Chest-Supported T-Bar Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Machine",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Subí a la máquina T-bar row apoyando el pecho contra el almohadón.",
+      "Apoyá los pies firmes en la plataforma.",
+      "Agarrá los manerales con las palmas enfrentadas o hacia abajo.",
+      "Mantené los brazos extendidos al principio del movimiento.",
+      "Tirá de los manerales hacia el pecho apretando los omóplatos.",
+      "Mantené el pecho contra el almohadón durante todo el movimiento.",
+      "Bajá controladamente extendiendo los brazos.",
+      "Elimina el uso de la espalda baja para más enfoque en el dorsal."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Chest-supported T-bar row",
+      "T-bar row con pecho apoyado",
+      "Supported T-bar"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0029",
+    "nombre_es": "Remo T-bar de pie",
+    "nombre_en": "Standing T-Bar Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocá un extremo de una barra en una esquina o landmine.",
+      "Colocá un agarre tipo V o cerca del otro extremo de la barra.",
+      "Parate con un pie a cada lado de la barra.",
+      "Flexioná las caderas y rodillas para agarrar el accesorio.",
+      "Mantené la espalda recta y el pecho elevado.",
+      "Tirá del accesorio hacia el pecho apretando los omóplatos.",
+      "Bajá controladamente extendiendo los brazos.",
+      "Mantené el torso firme sin balancear."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 },
+      { "musculo": "Core", "peso": 0.25 }
+    ],
+    "nombres_alternativos": [
+      "T-bar row",
+      "Remo T-bar",
+      "Landmine row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0030",
+    "nombre_es": "Remo en polea baja sentado con triángulo",
+    "nombre_en": "Seated Cable Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Sentate en la máquina de remo en polea baja con un agarre tipo triángulo o V-bar.",
+      "Apoyá los pies firmes en la plataforma con las rodillas levemente flexionadas.",
+      "Agarrá los manerales con las palmas enfrentadas.",
+      "Mantené la espalda recta y el torso casi vertical.",
+      "Tirá del agarre hacia el abdomen apretando los omóplatos.",
+      "Llevá el agarre hasta tocar el abdomen bajo.",
+      "Volvé controladamente extendiendo los brazos sin redondear la espalda.",
+      "Mantené el pecho elevado durante todo el movimiento."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 },
+      { "musculo": "Core", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Seated cable row",
+      "Remo sentado en polea",
+      "Cable row con triángulo"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0031",
+    "nombre_es": "Remo en polea baja con barra recta",
+    "nombre_en": "Seated Cable Row with Straight Bar",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en la máquina de remo en polea baja con una barra recta enganchada.",
+      "Apoyá los pies firmes en la plataforma.",
+      "Agarrá la barra con las palmas hacia abajo, manos al ancho de los hombros.",
+      "Mantené la espalda recta y el torso casi vertical.",
+      "Tirá de la barra hacia el abdomen apretando los omóplatos.",
+      "Los codos quedarán más abiertos que con el triángulo.",
+      "Enfatiza más la parte alta del dorsal y trapecio medio.",
+      "Volvé controladamente extendiendo los brazos."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.25 },
+      { "musculo": "Shoulders", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Cable row con barra",
+      "Seated row con barra recta",
+      "Straight bar cable row"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0030"
+  },
+  {
+    "id": "exercise-back-0032",
+    "nombre_es": "Remo en polea baja con barra agarre amplio",
+    "nombre_en": "Wide-Grip Seated Cable Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Sentate en la máquina de remo en polea baja con una barra recta o larga enganchada.",
+      "Apoyá los pies firmes en la plataforma.",
+      "Agarrá la barra con las palmas hacia abajo, manos bien separadas.",
+      "Mantené la espalda recta y el torso casi vertical.",
+      "Tirá de la barra hacia el pecho bajo apretando los omóplatos.",
+      "Los codos quedarán bien abiertos a los lados.",
+      "Enfatiza el dorsal exterior y trapecio medio.",
+      "Volvé controladamente extendiendo los brazos."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.2 },
+      { "musculo": "Shoulders", "peso": 0.35 },
+      { "musculo": "Core", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Wide-grip seated row",
+      "Remo amplio en polea",
+      "Wide cable row"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0030"
+  },
+  {
+    "id": "exercise-back-0033",
+    "nombre_es": "Remo en polea baja a un brazo",
+    "nombre_en": "Single-Arm Seated Cable Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en la máquina de remo en polea baja con un maneral simple.",
+      "Apoyá los pies firmes en la plataforma.",
+      "Agarrá el maneral con una mano, palma hacia el cuerpo o neutra.",
+      "Mantené la espalda recta y el torso casi vertical.",
+      "Tirá del maneral hacia el costado del torso apretando el omóplato.",
+      "Permitía una ligera rotación natural del torso para mayor rango.",
+      "Volvé controladamente extendiendo el brazo.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.25 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Single-arm cable row",
+      "Remo unilateral en polea",
+      "One-arm seated row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0034",
+    "nombre_es": "Remo en polea baja con soga",
+    "nombre_en": "Cable Row with Rope",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Sentate en la máquina de remo en polea baja con una soga enganchada.",
+      "Apoyá los pies firmes en la plataforma.",
+      "Agarrá los extremos de la soga con las palmas enfrentadas.",
+      "Mantené la espalda recta y el torso casi vertical.",
+      "Tirá de la soga hacia el abdomen separando las manos al final.",
+      "Llevá las manos a los costados del torso.",
+      "Apretá los omóplatos al final del movimiento.",
+      "Volvé controladamente extendiendo los brazos."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Rope cable row",
+      "Remo con soga en polea",
+      "Cable rope row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0035",
+    "nombre_es": "Remo en máquina sentado",
+    "nombre_en": "Machine Seated Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Machine",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Sentate en la máquina de remo con el pecho contra el almohadón frontal.",
+      "Ajustá el asiento para que los manerales queden a la altura del pecho.",
+      "Agarrá los manerales con las palmas según el diseño (prono o neutro).",
+      "Tirá de los manerales hacia el torso apretando los omóplatos.",
+      "Llevá los codos lo más atrás posible.",
+      "Bajá controladamente extendiendo los brazos.",
+      "El pecho apoyado elimina el uso de la espalda baja.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.25 }
+    ],
+    "nombres_alternativos": [
+      "Machine row",
+      "Remo sentado en máquina",
+      "Seated row machine"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0036",
+    "nombre_es": "Remo en máquina sentado agarre neutro",
+    "nombre_en": "Neutral-Grip Machine Seated Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Machine",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en la máquina de remo con el pecho contra el almohadón frontal.",
+      "Ajustá el asiento para que los manerales queden a la altura del pecho.",
+      "Agarrá los manerales verticales con las palmas enfrentadas.",
+      "Tirá de los manerales hacia el torso apretando los omóplatos.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "El agarre neutro enfatiza más la parte media del dorsal.",
+      "Bajá controladamente extendiendo los brazos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.35 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Neutral-grip machine row",
+      "Remo neutro en máquina",
+      "Hammer row"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0035"
+  },
+  {
+    "id": "exercise-back-0037",
+    "nombre_es": "Remo en máquina a un brazo",
+    "nombre_en": "Single-Arm Machine Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Machine",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en la máquina de remo con el pecho contra el almohadón frontal.",
+      "Ajustá el asiento para que los manerales queden a la altura del pecho.",
+      "Agarrá un maneral con una mano, la otra mano podés apoyarla en el banco.",
+      "Tirá del maneral hacia el torso apretando el omóplato del mismo lado.",
+      "Permitía una ligera rotación natural del torso para mayor rango.",
+      "Llevá el codo lo más atrás posible.",
+      "Bajá controladamente extendiendo el brazo.",
+      "Completá todas las repeticiones antes de cambiar de brazo."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.2 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Single-arm machine row",
+      "Remo unilateral en máquina",
+      "Machine row a un brazo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0035"
+  },
+  {
+    "id": "exercise-back-0038",
+    "nombre_es": "Remo invertido (australiano)",
+    "nombre_en": "Inverted Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocá una barra fija a la altura de la cintura en un rack o máquina Smith.",
+      "Pasá por debajo de la barra y agarrala con las palmas hacia adelante.",
+      "Extendé el cuerpo en línea recta apoyando solo los talones en el suelo.",
+      "Mantené el core firme y el cuerpo rígido.",
+      "Tirá del cuerpo hacia la barra apretando los omóplatos.",
+      "Llevá el pecho hasta tocar la barra.",
+      "Bajá controladamente extendiendo los brazos.",
+      "Mantené el cuerpo en línea recta durante todo el movimiento."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Inverted row",
+      "Remo australiano",
+      "Body row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0039",
+    "nombre_es": "Remo invertido pies elevados",
+    "nombre_en": "Feet-Elevated Inverted Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá una barra fija a la altura de la cintura en un rack o máquina Smith.",
+      "Apoyá los pies sobre un banco o cajón elevado.",
+      "Pasá por debajo de la barra y agarrala con las palmas hacia adelante.",
+      "Extendé el cuerpo en línea recta entre el cajón y la barra.",
+      "Mantené el core firme y el cuerpo rígido.",
+      "Tirá del cuerpo hacia la barra apretando los omóplatos.",
+      "La elevación de los pies aumenta la dificultad del ejercicio.",
+      "Bajá controladamente extendiendo los brazos."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.35 },
+      { "musculo": "Shoulders", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Feet-elevated inverted row",
+      "Remo australiano pies elevados",
+      "Elevated inverted row"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0038"
+  },
+  {
+    "id": "exercise-back-0040",
+    "nombre_es": "Pull-over con barra acostado",
+    "nombre_en": "Barbell Pullover",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Acostate boca arriba en un banco plano con los pies firmes en el suelo.",
+      "Agarrá la barra con las manos al ancho de los hombros, palmas hacia los pies.",
+      "Extendé los brazos sobre el pecho con una ligera flexión fija en los codos.",
+      "Bajá la barra en arco hacia atrás por detrás de la cabeza.",
+      "Bajá hasta sentir un buen estiramiento en el dorsal y el pecho.",
+      "Subí la barra en el mismo arco hasta volver sobre el pecho.",
+      "Mantené el agarre y la flexión de codos constantes.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Chest", "peso": 0.4 },
+      { "musculo": "Triceps", "peso": 0.25 },
+      { "musculo": "Core", "peso": 0.15 }
+    ],
+    "nombres_alternativos": [
+      "Barbell pullover",
+      "Pullover con barra",
+      "Pullover acostado con barra"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0041",
+    "nombre_es": "Hiperextensión 45 grados",
+    "nombre_en": "45-Degree Back Extension",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Machine",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Subí al banco de hiperextensiones a 45 grados.",
+      "Ajustá el almohadón para que la cadera quede justo por encima del borde.",
+      "Apoyá los pies firmes en la plataforma.",
+      "Cruzá los brazos sobre el pecho o sostené un peso.",
+      "Bajá el torso flexionando las caderas hasta donde te permita la flexibilidad.",
+      "Subí contrayendo glúteos, isquios y lumbares hasta formar línea recta.",
+      "No hiperextiendas la espalda al final del movimiento.",
+      "Mantené el movimiento controlado."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Glutes", "peso": 0.4 },
+      { "musculo": "Hamstrings", "peso": 0.35 }
+    ],
+    "nombres_alternativos": [
+      "45-degree hyperextension",
+      "Hiperextensión inclinada",
+      "Back extension 45°"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0042",
+    "nombre_es": "Hiperextensión horizontal",
+    "nombre_en": "Horizontal Back Extension",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Machine",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Subí al banco de hiperextensiones horizontal.",
+      "Ajustá el almohadón para que la cadera quede justo por encima del borde.",
+      "Apoyá los tobillos bajo los rodillos.",
+      "Cruzá los brazos sobre el pecho o detrás de la cabeza.",
+      "Bajá el torso flexionando las caderas.",
+      "Subí contrayendo glúteos, isquios y lumbares hasta formar línea recta.",
+      "No hiperextiendas la espalda al final.",
+      "Mantené el movimiento controlado durante toda la repetición."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Glutes", "peso": 0.4 },
+      { "musculo": "Hamstrings", "peso": 0.3 }
+    ],
+    "nombres_alternativos": [
+      "Horizontal hyperextension",
+      "Hiperextensión horizontal",
+      "Back extension horizontal"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0041"
+  },
+  {
+    "id": "exercise-back-0043",
+    "nombre_es": "Hiperextensión con peso",
+    "nombre_en": "Weighted Back Extension",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Machine",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Subí al banco de hiperextensiones a 45 grados.",
+      "Ajustá el almohadón para que la cadera quede justo por encima del borde.",
+      "Sostené un disco o mancuerna contra el pecho o detrás de la cabeza.",
+      "Apoyá los pies firmes en la plataforma.",
+      "Bajá el torso flexionando las caderas.",
+      "Subí contrayendo glúteos, isquios y lumbares hasta formar línea recta.",
+      "El peso adicional aumenta la carga de los lumbares y glúteos.",
+      "No hiperextiendas la espalda al final del movimiento."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Glutes", "peso": 0.4 },
+      { "musculo": "Hamstrings", "peso": 0.3 }
+    ],
+    "nombres_alternativos": [
+      "Weighted hyperextension",
+      "Hiperextensión con peso",
+      "Loaded back extension"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0041"
+  },
+  {
+    "id": "exercise-back-0044",
+    "nombre_es": "Reverse hyperextension",
+    "nombre_en": "Reverse Hyperextension",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Machine",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Acostate boca abajo sobre la máquina de reverse hyper o un banco plano alto.",
+      "Las caderas deben quedar justo en el borde del banco.",
+      "Agarrate firmemente con las manos del banco o de los manerales.",
+      "Mantené las piernas extendidas colgando hacia el suelo.",
+      "Elevá las piernas hacia arriba contrayendo glúteos y lumbares.",
+      "Subí hasta que las piernas queden paralelas al suelo o un poco más.",
+      "Bajá controladamente hasta el estiramiento.",
+      "Mantené el torso firme contra el banco."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Glutes", "peso": 0.5 },
+      { "musculo": "Hamstrings", "peso": 0.35 }
+    ],
+    "nombres_alternativos": [
+      "Reverse hyper",
+      "Hiperextensión inversa",
+      "Back extension inversa"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0045",
+    "nombre_es": "Superman",
+    "nombre_en": "Superman",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Bodyweight",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Acostate boca abajo en el suelo con los brazos extendidos al frente.",
+      "Mantené las piernas extendidas y juntas.",
+      "Apoyá la frente en el suelo en posición neutral del cuello.",
+      "Elevá simultáneamente brazos, pecho y piernas del suelo.",
+      "Contraé los lumbares y glúteos en el punto más alto.",
+      "Mantené la contracción por 1-2 segundos.",
+      "Bajá controladamente hasta tocar el suelo.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Superman",
+      "Superman para espalda",
+      "Bird stretch"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0046",
+    "nombre_es": "Encogimientos de espalda con barra",
+    "nombre_en": "Barbell Shrug",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Parate erguido con los pies al ancho de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos al ancho de los hombros.",
+      "Mantené los brazos extendidos abajo y la barra apoyada en los muslos.",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Contraé los trapecios en el punto más alto por un segundo.",
+      "Bajá controladamente hasta el estiramiento completo.",
+      "Mantené el torso recto y el core activado.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Barbell shrug",
+      "Encogimientos con barra",
+      "Shrugs con barra"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0047",
+    "nombre_es": "Encogimientos de espalda con mancuernas",
+    "nombre_en": "Dumbbell Shrug",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Dumbbell",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Parate erguido con una mancuerna en cada mano, brazos extendidos a los lados.",
+      "Mantené las palmas hacia el cuerpo (agarre neutro).",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Contraé los trapecios en el punto más alto por un segundo.",
+      "Bajá controladamente hasta el estiramiento completo.",
+      "Mantené el torso recto y el core activado.",
+      "Las mancuernas permiten más rango de movimiento que la barra.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Dumbbell shrug",
+      "Encogimientos con mancuernas",
+      "Shrugs con mancuernas"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0048",
+    "nombre_es": "Encogimientos en banco inclinado boca abajo",
+    "nombre_en": "Chest-Supported Shrug",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Ajustá un banco inclinado a 30-45 grados.",
+      "Apoyate boca abajo sobre el respaldo con el pecho contra el banco.",
+      "Sostené una mancuerna en cada mano con los brazos colgando.",
+      "Mantené las palmas enfrentadas y los brazos extendidos.",
+      "Levantá los hombros hacia atrás y arriba juntando los omóplatos.",
+      "Esta variante enfatiza el trapecio medio y bajo.",
+      "Bajá controladamente hasta el estiramiento.",
+      "Mantené los brazos extendidos durante todo el movimiento."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Chest-supported shrug",
+      "Incline shrug",
+      "Encogimientos boca abajo"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0047"
+  },
+  {
+    "id": "exercise-back-0049",
+    "nombre_es": "Encogimientos en polea",
+    "nombre_en": "Cable Shrug",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más baja y enganchá una barra recta.",
+      "Parate frente a la polea con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos al ancho de los hombros.",
+      "Da un paso hacia atrás manteniendo tensión en el cable.",
+      "Mantené los brazos extendidos abajo.",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Bajá controladamente manteniendo la tensión del cable.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Cable shrug",
+      "Encogimientos en polea",
+      "Shrugs con cable"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0050",
+    "nombre_es": "Encogimientos en máquina Smith",
+    "nombre_en": "Smith Machine Shrug",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Smith Machine",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá la barra de la máquina Smith a la altura de los muslos.",
+      "Parate erguido con los pies al ancho de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos al ancho de los hombros.",
+      "Desbloqueá la barra rotando las muñecas.",
+      "Mantené los brazos extendidos abajo.",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Contraé los trapecios en el punto más alto.",
+      "Bajá controladamente hasta el estiramiento."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Smith machine shrug",
+      "Encogimientos en Smith",
+      "Shrugs en máquina Smith"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0051",
+    "nombre_es": "Encogimientos detrás del cuerpo con barra",
+    "nombre_en": "Behind-the-Back Barbell Shrug",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Parate erguido con la barra por detrás del cuerpo a la altura de los glúteos.",
+      "Agarrá la barra con las palmas hacia atrás, manos al ancho de los hombros.",
+      "Mantené los brazos extendidos abajo.",
+      "Levantá los hombros hacia las orejas sin flexionar los codos.",
+      "Esta variante enfatiza la parte media-baja de los trapecios.",
+      "Bajá controladamente hasta el estiramiento.",
+      "Mantené el pecho elevado y los hombros hacia atrás.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Behind-the-back shrug",
+      "Shrugs por detrás",
+      "Encogimientos con barra atrás"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0046"
+  },
+  {
+    "id": "exercise-back-0052",
+    "nombre_es": "Face pulls en polea con soga",
+    "nombre_en": "Cable Face Pull",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Colocá la polea a la altura de la cara o un poco más arriba y enganchá una soga.",
+      "Parate frente a la polea agarrando los extremos de la soga con las palmas enfrentadas.",
+      "Da un paso hacia atrás manteniendo tensión en el cable.",
+      "Tirá de la soga hacia la cara separando las manos al final del movimiento.",
+      "Los codos deben terminar a la altura de los hombros o un poco más arriba.",
+      "Apretá los omóplatos y contraé los deltoides posteriores y trapecio medio.",
+      "Volvé controladamente a la posición inicial.",
+      "Mantené el torso firme sin inclinarte hacia atrás."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Face pull",
+      "Jalón a la cara",
+      "Cable face pull con soga"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0053",
+    "nombre_es": "Remo en polea alta con soga",
+    "nombre_en": "High Cable Row with Rope",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocá la polea a la altura del pecho o un poco más arriba y enganchá una soga.",
+      "Parate o sentate frente a la polea agarrando los extremos de la soga.",
+      "Mantené las palmas enfrentadas y los brazos extendidos al frente.",
+      "Tirá de la soga hacia el pecho/cuello separando las manos al final.",
+      "Apretá los omóplatos al final del movimiento.",
+      "Trabaja la parte alta de la espalda y trapecio medio.",
+      "Volvé controladamente extendiendo los brazos.",
+      "Es como un face pull pero con un ángulo de jalón más horizontal."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.25 }
+    ],
+    "nombres_alternativos": [
+      "High cable row",
+      "Remo alto en polea",
+      "Cable row with rope alto"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0054",
+    "nombre_es": "Remo Kroc con mancuerna",
+    "nombre_en": "Kroc Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Dumbbell",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Apoyá una mano y una rodilla en un banco plano para estabilidad.",
+      "Sostené una mancuerna pesada (más pesada que un remo regular) con el brazo libre.",
+      "Mantené la espalda paralela al suelo y el core firme.",
+      "Tirá de la mancuerna hacia la cadera con un movimiento más explosivo.",
+      "Permite un poco de uso de la cadera para mover más peso.",
+      "Llevá el codo lo más atrás posible cerca del torso.",
+      "Bajá controladamente extendiendo el brazo.",
+      "Completá todas las repeticiones de alto número (15-20+) antes de cambiar."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.25 },
+      { "musculo": "Core", "peso": 0.25 }
+    ],
+    "nombres_alternativos": [
+      "Kroc row",
+      "Remo Kroc",
+      "Heavy dumbbell row"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0023"
+  },
+  {
+    "id": "exercise-back-0055",
+    "nombre_es": "Remo Seal con mancuernas",
+    "nombre_en": "Seal Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate boca abajo sobre un banco alto o un banco apoyado en cajones.",
+      "Mantené el pecho firme contra el banco con los brazos colgando hacia el suelo.",
+      "Sostené una mancuerna en cada mano.",
+      "Tirá de las mancuernas hacia el banco apretando los omóplatos.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Bajá controladamente hasta el estiramiento.",
+      "Elimina por completo el impulso del cuerpo y el uso de la espalda baja.",
+      "Aísla muy bien el trabajo del dorsal y trapecio medio."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Seal row",
+      "Remo de foca",
+      "Bench-supported row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0056",
+    "nombre_es": "Remo Seal con barra",
+    "nombre_en": "Barbell Seal Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Acostate boca abajo sobre un banco alto o un banco apoyado en cajones.",
+      "Mantené el pecho firme contra el banco con los brazos colgando hacia el suelo.",
+      "Agarrá la barra que tendrás colgando debajo, con las manos al ancho de los hombros.",
+      "Tirá de la barra hacia el banco apretando los omóplatos.",
+      "Mantené los codos cerca del torso durante todo el movimiento.",
+      "Bajá controladamente extendiendo los brazos.",
+      "Elimina por completo el impulso del cuerpo y el uso de la espalda baja.",
+      "Permite cargar más peso que con mancuernas."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Barbell seal row",
+      "Seal row con barra",
+      "Bench-supported barbell row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0057",
+    "nombre_es": "Encogimientos con mancuernas en banco inclinado",
+    "nombre_en": "Incline Dumbbell Shrug",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Ajustá un banco inclinado a 30-45 grados.",
+      "Apoyate boca abajo sobre el respaldo con el pecho contra el banco.",
+      "Sostené una mancuerna en cada mano con los brazos colgando.",
+      "Mantené las palmas enfrentadas y los brazos extendidos.",
+      "Levantá los hombros hacia atrás y arriba juntando los omóplatos.",
+      "Esta variante enfatiza el trapecio medio y bajo (lower traps).",
+      "Bajá controladamente hasta el estiramiento.",
+      "Mantené los brazos extendidos durante todo el movimiento."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Incline shrug",
+      "Encogimientos inclinado boca abajo",
+      "Shrugs en banco inclinado"
+    ],
+    "verificado": false,
+    "variante_de": "exercise-back-0047"
+  },
+  {
+    "id": "exercise-back-0058",
+    "nombre_es": "Pulldown con brazos extendidos en polea",
+    "nombre_en": "Straight-Arm Lat Pulldown",
+    "tipo": "Isolation",
+    "musculo": "Back",
+    "equipo": "Cable",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocá la polea en la posición más alta y enganchá una barra recta.",
+      "Parate frente a la polea con los pies a la altura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo, manos al ancho de los hombros.",
+      "Da un paso hacia atrás manteniendo los brazos extendidos arriba.",
+      "Mantené una ligera flexión fija en los codos durante todo el movimiento.",
+      "Tirá la barra en arco hacia abajo hasta los muslos.",
+      "Contraé el dorsal al final del movimiento.",
+      "Volvé controladamente a la posición inicial sin perder la tensión."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Straight-arm pulldown",
+      "Pulldown brazos rectos",
+      "Cable lat pullover de pie"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0059",
+    "nombre_es": "Remo invertido en anillas",
+    "nombre_en": "Ring Inverted Row",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Colocá anillas o TRX a la altura de la cintura.",
+      "Pasá por debajo y agarrá las anillas con las palmas enfrentadas o hacia adelante.",
+      "Extendé el cuerpo en línea recta apoyando solo los talones en el suelo.",
+      "Mantené el core firme y el cuerpo rígido.",
+      "Tirá del cuerpo hacia las anillas apretando los omóplatos.",
+      "Llevá el pecho hasta la altura de las anillas.",
+      "Bajá controladamente extendiendo los brazos.",
+      "Las anillas exigen más estabilidad que una barra fija."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Biceps", "peso": 0.3 },
+      { "musculo": "Core", "peso": 0.35 },
+      { "musculo": "Shoulders", "peso": 0.2 }
+    ],
+    "nombres_alternativos": [
+      "Ring row",
+      "Remo en anillas",
+      "TRX row"
+    ],
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "exercise-back-0060",
+    "nombre_es": "Buenos días sentado con barra",
+    "nombre_en": "Seated Good Morning",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "equipo": "Barbell",
+    "importancia": 4,
+    "como_hacerlo": [
+      "Sentate al borde de un banco plano con una barra apoyada sobre los trapecios.",
+      "Mantené los pies firmes en el suelo y la espalda recta.",
+      "Inclinate hacia adelante desde las caderas bajando el torso.",
+      "Mantené la espalda completamente recta durante todo el descenso.",
+      "Bajá hasta donde te permita la flexibilidad sin redondear la espalda.",
+      "Volvé a la posición erguida contrayendo los lumbares.",
+      "Aísla más el trabajo de los lumbares al eliminar las piernas.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      { "musculo": "Core", "peso": 0.3 }
+    ],
+    "nombres_alternativos": [
+      "Seated good morning",
+      "Buenos días sentado",
+      "Good morning en banco"
+    ],
+    "verificado": false,
+    "variante_de": null
+  }
+]
