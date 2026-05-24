@@ -18,9 +18,18 @@
       "Evitá balancear el cuerpo durante el movimiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.2 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Pull-up",
@@ -28,7 +37,10 @@
       "Dominadas con agarre prono"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0002",
@@ -49,9 +61,18 @@
       "Mantené los codos apuntando hacia abajo durante todo el movimiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.25 },
-      { "musculo": "Shoulders", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Wide-grip pull-up",
@@ -59,7 +80,10 @@
       "Pull-up agarre abierto"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0001"
+    "variante_de": "exercise-back-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0003",
@@ -80,9 +104,18 @@
       "Evitá balancear el cuerpo durante el movimiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.45 },
-      { "musculo": "Core", "peso": 0.2 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Chin-up",
@@ -90,7 +123,10 @@
       "Dominadas con agarre supino"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0004",
@@ -111,9 +147,18 @@
       "Es una excelente variante intermedia entre pull-up y chin-up."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.2 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Neutral-grip pull-up",
@@ -121,7 +166,10 @@
       "Dominadas agarre paralelo"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0001"
+    "variante_de": "exercise-back-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0005",
@@ -142,9 +190,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.25 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Weighted pull-up",
@@ -152,7 +209,10 @@
       "Pull-up con lastre"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0001"
+    "variante_de": "exercise-back-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0006",
@@ -173,9 +233,18 @@
       "Es ideal para progresar hacia dominadas sin asistencia."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.2 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Band-assisted pull-up",
@@ -183,7 +252,10 @@
       "Pull-up con banda"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0001"
+    "variante_de": "exercise-back-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0007",
@@ -204,8 +276,14 @@
       "Permite hacer dominadas con menos peso corporal del que tendrías que cargar."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.35 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Assisted pull-up machine",
@@ -213,7 +291,10 @@
       "Gravitron"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0008",
@@ -234,9 +315,18 @@
       "Mantené el torso firme sin balancear."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Lat pulldown",
@@ -244,7 +334,10 @@
       "Pulldown con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0009",
@@ -265,9 +358,18 @@
       "Mantené los codos apuntando hacia abajo durante el movimiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.25 },
-      { "musculo": "Shoulders", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Wide-grip pulldown",
@@ -275,7 +377,10 @@
       "Lat pulldown agarre abierto"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0008"
+    "variante_de": "exercise-back-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0010",
@@ -296,8 +401,14 @@
       "Mantené los codos cerca del torso al bajar."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.35 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Close-grip pulldown",
@@ -305,7 +416,10 @@
       "Lat pulldown agarre estrecho"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0008"
+    "variante_de": "exercise-back-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0011",
@@ -326,8 +440,14 @@
       "Volvé controladamente hasta extender los brazos."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.45 },
-      { "musculo": "Shoulders", "peso": 0.1 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.1
+      }
     ],
     "nombres_alternativos": [
       "Reverse-grip pulldown",
@@ -335,7 +455,10 @@
       "Underhand pulldown"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0008"
+    "variante_de": "exercise-back-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0012",
@@ -356,8 +479,14 @@
       "Volvé controladamente hasta extender los brazos."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.35 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Neutral-grip pulldown",
@@ -365,7 +494,10 @@
       "V-bar pulldown"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0013",
@@ -386,9 +518,18 @@
       "Completá todas las repeticiones antes de cambiar de brazo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.2 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Single-arm pulldown",
@@ -396,7 +537,10 @@
       "One-arm lat pulldown"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0014",
@@ -417,8 +561,14 @@
       "Volvé controladamente hasta extender los brazos."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Rope pulldown",
@@ -426,7 +576,10 @@
       "Cable rope pulldown"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0015",
@@ -447,8 +600,14 @@
       "Mantené los codos apuntando hacia abajo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Shoulders", "peso": 0.25 },
-      { "musculo": "Biceps", "peso": 0.2 }
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Biceps",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Behind-the-neck pulldown",
@@ -456,7 +615,10 @@
       "Pulldown tras nuca"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0008"
+    "variante_de": "exercise-back-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0016",
@@ -483,7 +645,10 @@
       "Straight-arm pulldown"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0017",
@@ -504,9 +669,18 @@
       "Trabaja tanto pecho como dorsal según el enfoque."
     ],
     "musculos_secundarios": [
-      { "musculo": "Chest", "peso": 0.4 },
-      { "musculo": "Triceps", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Chest",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Dumbbell pullover",
@@ -514,7 +688,10 @@
       "Pullover acostado"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0018",
@@ -541,7 +718,10 @@
       "Nautilus pullover"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0019",
@@ -562,9 +742,18 @@
       "Mantené el torso firme sin balancear durante el movimiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.35 },
-      { "musculo": "Shoulders", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Bent-over row",
@@ -572,7 +761,10 @@
       "Barbell row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0020",
@@ -593,9 +785,18 @@
       "Bajá controladamente extendiendo los brazos."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.45 },
-      { "musculo": "Shoulders", "peso": 0.15 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Reverse-grip row",
@@ -603,7 +804,10 @@
       "Yates row"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0019"
+    "variante_de": "exercise-back-0019",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0021",
@@ -624,9 +828,18 @@
       "Bajá controladamente extendiendo los brazos."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.25 },
-      { "musculo": "Shoulders", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Wide-grip row",
@@ -634,7 +847,10 @@
       "Wide-grip barbell row"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0019"
+    "variante_de": "exercise-back-0019",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0022",
@@ -655,9 +871,18 @@
       "Cada repetición comienza desde el suelo eliminando el rebote."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Pendlay row",
@@ -665,7 +890,10 @@
       "Remo desde el suelo"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0023",
@@ -686,9 +914,18 @@
       "Completá todas las repeticiones antes de cambiar de brazo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Dumbbell row",
@@ -696,7 +933,10 @@
       "Single-arm row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0024",
@@ -717,9 +957,18 @@
       "Mantené el torso firme sin balancear."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Bent-over dumbbell row",
@@ -727,7 +976,10 @@
       "Two-arm dumbbell row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0025",
@@ -748,8 +1000,14 @@
       "Bajá controladamente hasta el estiramiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Chest-supported row",
@@ -757,7 +1015,10 @@
       "Incline dumbbell row"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0024"
+    "variante_de": "exercise-back-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0026",
@@ -778,8 +1039,14 @@
       "Bajá controladamente hasta el estiramiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.4 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Supinated chest-supported row",
@@ -787,7 +1054,10 @@
       "Underhand incline row"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0024"
+    "variante_de": "exercise-back-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0027",
@@ -808,9 +1078,18 @@
       "Completá todas las repeticiones antes de cambiar de brazo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Meadows row",
@@ -818,7 +1097,10 @@
       "Landmine row unilateral"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0028",
@@ -839,8 +1121,14 @@
       "Elimina el uso de la espalda baja para más enfoque en el dorsal."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Chest-supported T-bar row",
@@ -848,7 +1136,10 @@
       "Supported T-bar"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0029",
@@ -869,9 +1160,18 @@
       "Mantené el torso firme sin balancear."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "T-bar row",
@@ -879,7 +1179,10 @@
       "Landmine row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0030",
@@ -900,9 +1203,18 @@
       "Mantené el pecho elevado durante todo el movimiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Seated cable row",
@@ -910,7 +1222,10 @@
       "Cable row con triángulo"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0031",
@@ -931,9 +1246,18 @@
       "Volvé controladamente extendiendo los brazos."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.25 },
-      { "musculo": "Shoulders", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Cable row con barra",
@@ -941,7 +1265,10 @@
       "Straight bar cable row"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0030"
+    "variante_de": "exercise-back-0030",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0032",
@@ -962,9 +1289,18 @@
       "Volvé controladamente extendiendo los brazos."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.2 },
-      { "musculo": "Shoulders", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Wide-grip seated row",
@@ -972,7 +1308,10 @@
       "Wide cable row"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0030"
+    "variante_de": "exercise-back-0030",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0033",
@@ -993,9 +1332,18 @@
       "Completá todas las repeticiones antes de cambiar de brazo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.25 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Single-arm cable row",
@@ -1003,7 +1351,10 @@
       "One-arm seated row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0034",
@@ -1024,8 +1375,14 @@
       "Volvé controladamente extendiendo los brazos."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Rope cable row",
@@ -1033,7 +1390,10 @@
       "Cable rope row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0035",
@@ -1054,8 +1414,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.25 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Machine row",
@@ -1063,7 +1429,10 @@
       "Seated row machine"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0036",
@@ -1084,8 +1453,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.35 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Neutral-grip machine row",
@@ -1093,7 +1468,10 @@
       "Hammer row"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0035"
+    "variante_de": "exercise-back-0035",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0037",
@@ -1114,9 +1492,18 @@
       "Completá todas las repeticiones antes de cambiar de brazo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.2 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Single-arm machine row",
@@ -1124,7 +1511,10 @@
       "Machine row a un brazo"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0035"
+    "variante_de": "exercise-back-0035",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0038",
@@ -1145,9 +1535,18 @@
       "Mantené el cuerpo en línea recta durante todo el movimiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Inverted row",
@@ -1155,7 +1554,10 @@
       "Body row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0039",
@@ -1176,9 +1578,18 @@
       "Bajá controladamente extendiendo los brazos."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.35 },
-      { "musculo": "Shoulders", "peso": 0.15 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Feet-elevated inverted row",
@@ -1186,7 +1597,10 @@
       "Elevated inverted row"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0038"
+    "variante_de": "exercise-back-0038",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0040",
@@ -1207,9 +1621,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Chest", "peso": 0.4 },
-      { "musculo": "Triceps", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Chest",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Barbell pullover",
@@ -1217,7 +1640,10 @@
       "Pullover acostado con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0041",
@@ -1238,8 +1664,14 @@
       "Mantené el movimiento controlado."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Hamstrings", "peso": 0.35 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.35
+      }
     ],
     "nombres_alternativos": [
       "45-degree hyperextension",
@@ -1247,7 +1679,10 @@
       "Back extension 45°"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0042",
@@ -1268,8 +1703,14 @@
       "Mantené el movimiento controlado durante toda la repetición."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Hamstrings", "peso": 0.3 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "Horizontal hyperextension",
@@ -1277,7 +1718,10 @@
       "Back extension horizontal"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0041"
+    "variante_de": "exercise-back-0041",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0043",
@@ -1298,8 +1742,14 @@
       "No hiperextiendas la espalda al final del movimiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Hamstrings", "peso": 0.3 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "Weighted hyperextension",
@@ -1307,7 +1757,10 @@
       "Loaded back extension"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0041"
+    "variante_de": "exercise-back-0041",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0044",
@@ -1328,8 +1781,14 @@
       "Mantené el torso firme contra el banco."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.5 },
-      { "musculo": "Hamstrings", "peso": 0.35 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.5
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.35
+      }
     ],
     "nombres_alternativos": [
       "Reverse hyper",
@@ -1337,7 +1796,10 @@
       "Back extension inversa"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0045",
@@ -1364,7 +1826,10 @@
       "Bird stretch"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0046",
@@ -1391,7 +1856,10 @@
       "Shrugs con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0047",
@@ -1418,7 +1886,10 @@
       "Shrugs con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0048",
@@ -1445,7 +1916,10 @@
       "Encogimientos boca abajo"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0047"
+    "variante_de": "exercise-back-0047",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0049",
@@ -1472,7 +1946,10 @@
       "Shrugs con cable"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0050",
@@ -1499,7 +1976,10 @@
       "Shrugs en máquina Smith"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0051",
@@ -1526,7 +2006,10 @@
       "Encogimientos con barra atrás"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0046"
+    "variante_de": "exercise-back-0046",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0052",
@@ -1553,7 +2036,10 @@
       "Cable face pull con soga"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0053",
@@ -1574,8 +2060,14 @@
       "Es como un face pull pero con un ángulo de jalón más horizontal."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.25 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "High cable row",
@@ -1583,7 +2075,10 @@
       "Cable row with rope alto"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0054",
@@ -1604,9 +2099,18 @@
       "Completá todas las repeticiones de alto número (15-20+) antes de cambiar."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Kroc row",
@@ -1614,7 +2118,10 @@
       "Heavy dumbbell row"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0023"
+    "variante_de": "exercise-back-0023",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0055",
@@ -1635,8 +2142,14 @@
       "Aísla muy bien el trabajo del dorsal y trapecio medio."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Seal row",
@@ -1644,7 +2157,10 @@
       "Bench-supported row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0056",
@@ -1665,8 +2181,14 @@
       "Permite cargar más peso que con mancuernas."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Barbell seal row",
@@ -1674,7 +2196,10 @@
       "Bench-supported barbell row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0057",
@@ -1701,7 +2226,10 @@
       "Shrugs en banco inclinado"
     ],
     "verificado": false,
-    "variante_de": "exercise-back-0047"
+    "variante_de": "exercise-back-0047",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0058",
@@ -1728,7 +2256,10 @@
       "Cable lat pullover de pie"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0059",
@@ -1749,9 +2280,18 @@
       "Las anillas exigen más estabilidad que una barra fija."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.35 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Ring row",
@@ -1759,7 +2299,10 @@
       "TRX row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-back-0060",
@@ -1780,7 +2323,10 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Core", "peso": 0.3 }
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "Seated good morning",
@@ -1788,6 +2334,9 @@
       "Good morning en banco"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   }
 ]

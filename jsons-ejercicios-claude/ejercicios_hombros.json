@@ -18,9 +18,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.25 },
-      { "musculo": "Chest", "peso": 0.15 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "OHP",
@@ -28,7 +37,10 @@
       "Standing barbell press"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0002",
@@ -49,8 +61,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.4 },
-      { "musculo": "Chest", "peso": 0.15 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Seated barbell press",
@@ -58,7 +76,10 @@
       "Press militar sentado"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0001"
+    "variante_de": "exercise-shoulders-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0003",
@@ -79,8 +100,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Behind-the-neck press",
@@ -88,7 +115,10 @@
       "Press nuca con barra"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0001"
+    "variante_de": "exercise-shoulders-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0004",
@@ -109,9 +139,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.2 },
-      { "musculo": "Chest", "peso": 0.15 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Press de hombros con mancuernas sentado",
@@ -119,7 +158,10 @@
       "Press militar con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0005",
@@ -139,9 +181,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.25 },
-      { "musculo": "Chest", "peso": 0.15 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Standing dumbbell press",
@@ -149,7 +200,10 @@
       "OHP con mancuernas"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0004"
+    "variante_de": "exercise-shoulders-0004",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0006",
@@ -170,9 +224,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.3 },
-      { "musculo": "Chest", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Arnold press",
@@ -180,7 +243,10 @@
       "Press con rotación de muñeca"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0004"
+    "variante_de": "exercise-shoulders-0004",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0007",
@@ -201,8 +267,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.35 },
-      { "musculo": "Chest", "peso": 0.15 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Press martillo de hombros",
@@ -210,7 +282,10 @@
       "Press de hombros agarre paralelo"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0004"
+    "variante_de": "exercise-shoulders-0004",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0008",
@@ -230,8 +305,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.3 },
-      { "musculo": "Chest", "peso": 0.15 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Machine press",
@@ -239,7 +320,10 @@
       "Press militar en máquina"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0009",
@@ -259,8 +343,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.35 },
-      { "musculo": "Chest", "peso": 0.1 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.1
+      }
     ],
     "nombres_alternativos": [
       "Machine press neutro",
@@ -268,7 +358,10 @@
       "Neutral-grip machine press"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0008"
+    "variante_de": "exercise-shoulders-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0010",
@@ -289,8 +382,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.35 },
-      { "musculo": "Chest", "peso": 0.15 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Smith press de hombros",
@@ -298,7 +397,10 @@
       "Smith shoulder press"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0011",
@@ -319,9 +421,18 @@
       "Es un movimiento explosivo que permite mover más peso que el press militar estricto."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.3 },
-      { "musculo": "Quadriceps", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Push press",
@@ -329,7 +440,10 @@
       "Barbell push press"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0012",
@@ -356,7 +470,10 @@
       "Vuelos laterales con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0013",
@@ -383,7 +500,10 @@
       "Lateral raise sentado"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0012"
+    "variante_de": "exercise-shoulders-0012",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0014",
@@ -410,7 +530,10 @@
       "Lateral raise de costado"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0012"
+    "variante_de": "exercise-shoulders-0012",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0015",
@@ -437,7 +560,10 @@
       "Lateral raise a un brazo"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0012"
+    "variante_de": "exercise-shoulders-0012",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0016",
@@ -464,7 +590,10 @@
       "Lateral raise con cable"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0017",
@@ -491,7 +620,10 @@
       "Cable lateral detrás del cuerpo"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0016"
+    "variante_de": "exercise-shoulders-0016",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0018",
@@ -518,7 +650,10 @@
       "Elevación lateral sentado en máquina"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0019",
@@ -545,7 +680,10 @@
       "Vuelos frontales"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0020",
@@ -572,7 +710,10 @@
       "Front raise brazo por brazo"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0019"
+    "variante_de": "exercise-shoulders-0019",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0021",
@@ -599,7 +740,10 @@
       "Front raise con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0022",
@@ -626,7 +770,10 @@
       "Front raise con disco"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0023",
@@ -653,7 +800,10 @@
       "Front raise con cable"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0024",
@@ -680,7 +830,10 @@
       "Apertura posterior con mancuernas inclinado"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0025",
@@ -707,7 +860,10 @@
       "Reverse fly sentado en banco"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0024"
+    "variante_de": "exercise-shoulders-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0026",
@@ -734,7 +890,10 @@
       "Aperturas inversas pecho apoyado"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0024"
+    "variante_de": "exercise-shoulders-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0027",
@@ -761,7 +920,10 @@
       "Aperturas posteriores en máquina"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0028",
@@ -788,7 +950,10 @@
       "Cable face pull con soga"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0029",
@@ -815,7 +980,10 @@
       "Reverse cable fly"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0030",
@@ -836,8 +1004,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.25 },
-      { "musculo": "Back", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Upright row amplio",
@@ -845,7 +1019,10 @@
       "Wide-grip upright row"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0031",
@@ -866,8 +1043,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.3 },
-      { "musculo": "Back", "peso": 0.3 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "Upright row cerrado",
@@ -875,7 +1058,10 @@
       "Close-grip upright row"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0030"
+    "variante_de": "exercise-shoulders-0030",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0032",
@@ -896,8 +1082,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.25 },
-      { "musculo": "Back", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Dumbbell upright row",
@@ -905,7 +1097,10 @@
       "Upright row con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0033",
@@ -926,8 +1121,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Biceps", "peso": 0.25 },
-      { "musculo": "Back", "peso": 0.2 }
+      {
+        "musculo": "Biceps",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Cable upright row",
@@ -935,7 +1136,10 @@
       "Upright row con cable"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0034",
@@ -962,7 +1166,10 @@
       "Shrugs con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0035",
@@ -989,7 +1196,10 @@
       "Encogimientos con barra atrás"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0034"
+    "variante_de": "exercise-shoulders-0034",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0036",
@@ -1016,7 +1226,10 @@
       "Shrugs con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0037",
@@ -1043,7 +1256,10 @@
       "Shrugs con cable"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0038",
@@ -1070,7 +1286,10 @@
       "Shrugs en máquina Smith"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0039",
@@ -1097,7 +1316,10 @@
       "Shrugs en máquina específica"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0040",
@@ -1124,7 +1346,10 @@
       "Y raise inclinado con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0041",
@@ -1151,7 +1376,10 @@
       "T raise inclinado con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0042",
@@ -1178,7 +1406,10 @@
       "Rotación de manguito rotador"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0043",
@@ -1205,7 +1436,10 @@
       "Manguito rotador en cable"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0044",
@@ -1232,7 +1466,10 @@
       "Pull-apart con banda"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0045",
@@ -1253,9 +1490,18 @@
       "Completá todas las repeticiones antes de cambiar de brazo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.3 },
-      { "musculo": "Chest", "peso": 0.15 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Landmine press",
@@ -1263,7 +1509,10 @@
       "Single-arm landmine press"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0046",
@@ -1284,8 +1533,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Core", "peso": 0.4 },
-      { "musculo": "Triceps", "peso": 0.3 }
+      {
+        "musculo": "Core",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "Z press",
@@ -1293,7 +1548,10 @@
       "Floor seated press"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0047",
@@ -1314,8 +1572,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Core", "peso": 0.4 },
-      { "musculo": "Triceps", "peso": 0.3 }
+      {
+        "musculo": "Core",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "Z press con barra",
@@ -1323,7 +1587,10 @@
       "Press sentado en el suelo con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0048",
@@ -1350,7 +1617,10 @@
       "Lateral raise con disco"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0049",
@@ -1377,7 +1647,10 @@
       "Lu raise sentado"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0050",
@@ -1404,7 +1677,10 @@
       "Shrugs en banco inclinado"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0036"
+    "variante_de": "exercise-shoulders-0036",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-shoulders-0051",
@@ -1425,8 +1701,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Triceps", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.3 }
+      {
+        "musculo": "Triceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "Alternating dumbbell press",
@@ -1434,6 +1716,9 @@
       "Shoulder press brazo por brazo"
     ],
     "verificado": false,
-    "variante_de": "exercise-shoulders-0004"
+    "variante_de": "exercise-shoulders-0004",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   }
 ]

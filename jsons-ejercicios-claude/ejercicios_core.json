@@ -24,7 +24,10 @@
       "Crunch básico"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0002",
@@ -51,7 +54,10 @@
       "Crunch tabletop"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0001"
+    "variante_de": "exercise-core-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0003",
@@ -78,7 +84,10 @@
       "Loaded crunch"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0001"
+    "variante_de": "exercise-core-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0004",
@@ -105,7 +114,10 @@
       "Rope cable crunch"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0005",
@@ -137,7 +149,10 @@
       "Sit-up clásico"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0006",
@@ -169,7 +184,10 @@
       "Sit-up en banco declinado"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0005"
+    "variante_de": "exercise-core-0005",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0007",
@@ -201,7 +219,10 @@
       "Loaded decline sit-up"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0005"
+    "variante_de": "exercise-core-0005",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0008",
@@ -228,7 +249,10 @@
       "Leg raises acostado"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0009",
@@ -255,7 +279,10 @@
       "Knee raise acostado"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0008"
+    "variante_de": "exercise-core-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0010",
@@ -282,7 +309,10 @@
       "Hanging leg raise piernas extendidas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0011",
@@ -309,7 +339,10 @@
       "Knee raise en barra"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0010"
+    "variante_de": "exercise-core-0010",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0012",
@@ -345,7 +378,10 @@
       "T2B"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0010"
+    "variante_de": "exercise-core-0010",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0013",
@@ -372,7 +408,10 @@
       "Vertical leg raise"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0014",
@@ -399,7 +438,10 @@
       "Plancha sobre antebrazos"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0015",
@@ -426,7 +468,10 @@
       "Plancha sobre manos"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0014"
+    "variante_de": "exercise-core-0014",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0016",
@@ -453,7 +498,10 @@
       "Plancha de costado"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0017",
@@ -480,7 +528,10 @@
       "Side plank dynamic"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0016"
+    "variante_de": "exercise-core-0016",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0018",
@@ -516,7 +567,10 @@
       "Plank to push-up"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0019",
@@ -552,7 +606,10 @@
       "Escalador en plancha"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0020",
@@ -579,7 +636,10 @@
       "Twist ruso"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0021",
@@ -606,7 +666,10 @@
       "Loaded Russian twist"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0020"
+    "variante_de": "exercise-core-0020",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0022",
@@ -633,7 +696,10 @@
       "Cross crunch"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0023",
@@ -660,7 +726,10 @@
       "Side crunch"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0024",
@@ -687,7 +756,10 @@
       "Dumbbell side bend"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0025",
@@ -714,7 +786,10 @@
       "Cable lateral flexion"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0024"
+    "variante_de": "exercise-core-0024",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0026",
@@ -746,7 +821,10 @@
       "Cable chop"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0027",
@@ -778,7 +856,10 @@
       "Low to high chop"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0026"
+    "variante_de": "exercise-core-0026",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0028",
@@ -805,7 +886,10 @@
       "Anti-rotation press"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0029",
@@ -832,7 +916,10 @@
       "Dead bug exercise"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0030",
@@ -868,7 +955,10 @@
       "Quadruped extension"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0031",
@@ -895,7 +985,10 @@
       "Posición hueca"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0032",
@@ -922,7 +1015,10 @@
       "Jackknife"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0033",
@@ -954,7 +1050,10 @@
       "Swiss ball pike"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0034",
@@ -990,7 +1089,10 @@
       "Ab roller"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0035",
@@ -1017,7 +1119,10 @@
       "Loaded plank"
     ],
     "verificado": false,
-    "variante_de": "exercise-core-0014"
+    "variante_de": "exercise-core-0014",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-core-0036",
@@ -1044,6 +1149,9 @@
       "Knee raise machine"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   }
 ]

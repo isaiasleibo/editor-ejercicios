@@ -25,69 +25,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
-  },
-  {
-    "id": "exercise-calves-0002",
-    "nombre_es": "Elevación de talones de pie puntas hacia afuera",
-    "nombre_en": "Standing Calf Raise Toes Out",
-    "tipo": "Isolation",
-    "musculo": "Calves",
-    "equipo": "Machine",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Posicioná los hombros bajo los almohadones de la máquina.",
-      "Apoyá las puntas de los pies en la plataforma con los talones colgando.",
-      "Rotá las puntas de los pies hacia afuera formando una V (~45 grados).",
-      "Mantené las rodillas levemente flexionadas durante todo el movimiento.",
-      "Empujá hacia arriba elevando los talones lo más alto posible.",
-      "Esta posición enfatiza la cabeza interna (medial) del gastrocnemio.",
-      "Bajá controladamente hasta el estiramiento completo.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Calf raise puntas afuera",
-      "Standing calf raise toes out",
-      "Gemelos puntas en V"
-    ],
-    "verificado": false,
-    "variante_de": "exercise-calves-0001",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
-  },
-  {
-    "id": "exercise-calves-0003",
-    "nombre_es": "Elevación de talones de pie puntas hacia adentro",
-    "nombre_en": "Standing Calf Raise Toes In",
-    "tipo": "Isolation",
-    "musculo": "Calves",
-    "equipo": "Machine",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Posicioná los hombros bajo los almohadones de la máquina.",
-      "Apoyá las puntas de los pies en la plataforma con los talones colgando.",
-      "Rotá las puntas de los pies hacia adentro formando una V invertida.",
-      "Mantené las rodillas levemente flexionadas durante todo el movimiento.",
-      "Empujá hacia arriba elevando los talones lo más alto posible.",
-      "Esta posición enfatiza la cabeza externa (lateral) del gastrocnemio.",
-      "Bajá controladamente hasta el estiramiento completo.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Calf raise puntas adentro",
-      "Standing calf raise toes in",
-      "Gemelos puntas convergentes"
-    ],
-    "verificado": false,
-    "variante_de": "exercise-calves-0001",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Lever-Standing-Calf-Raise_Calf-FIX_.webp",
+    "video": "Lever-Standing-Calf-Raise_Calf-FIX_.mp4",
+    "matched_con": "exercise-1660"
   },
   {
     "id": "exercise-calves-0004",
@@ -115,67 +55,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
-  },
-  {
-    "id": "exercise-calves-0005",
-    "nombre_es": "Elevación de talones sentado puntas hacia afuera",
-    "nombre_en": "Seated Calf Raise Toes Out",
-    "tipo": "Isolation",
-    "musculo": "Calves",
-    "equipo": "Machine",
-    "importancia": 4,
-    "como_hacerlo": [
-      "Sentate en la máquina con los almohadones sobre los muslos.",
-      "Apoyá las puntas en la plataforma con los talones colgando.",
-      "Rotá las puntas de los pies hacia afuera formando una V.",
-      "Mantené las rodillas a 90 grados.",
-      "Empujá las puntas hacia abajo elevando los talones.",
-      "Bajá controladamente hasta el estiramiento completo.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Seated calf raise toes out",
-      "Gemelos sentado puntas afuera",
-      "Sóleo puntas en V"
-    ],
-    "verificado": false,
-    "variante_de": "exercise-calves-0004",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
-  },
-  {
-    "id": "exercise-calves-0006",
-    "nombre_es": "Elevación de talones sentado puntas hacia adentro",
-    "nombre_en": "Seated Calf Raise Toes In",
-    "tipo": "Isolation",
-    "musculo": "Calves",
-    "equipo": "Machine",
-    "importancia": 4,
-    "como_hacerlo": [
-      "Sentate en la máquina con los almohadones sobre los muslos.",
-      "Apoyá las puntas en la plataforma con los talones colgando.",
-      "Rotá las puntas de los pies hacia adentro formando una V invertida.",
-      "Mantené las rodillas a 90 grados.",
-      "Empujá las puntas hacia abajo elevando los talones.",
-      "Bajá controladamente hasta el estiramiento completo.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Seated calf raise toes in",
-      "Gemelos sentado puntas adentro",
-      "Sóleo puntas convergentes"
-    ],
-    "verificado": false,
-    "variante_de": "exercise-calves-0004",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Lever-Seated-Calf-Raise-(plate-loaded)-(VERSION-2).webp",
+    "video": "Lever-Seated-Calf-Raise-(plate-loaded)-(VERSION-2).mp4",
+    "matched_con": "exercise-1612"
   },
   {
     "id": "exercise-calves-0007",
@@ -203,9 +85,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Barbell-Standing-Calf-Raise_Calves.webp",
+    "video": "Barbell-Standing-Calf-Raise_Calves.mp4",
+    "matched_con": "exercise-0305"
   },
   {
     "id": "exercise-calves-0008",
@@ -233,9 +115,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Single-Leg-Calf-Raise_Calves.webp",
+    "video": "Dumbbell-Single-Leg-Calf-Raise_Calves.mp4",
+    "matched_con": "exercise-1043"
   },
   {
     "id": "exercise-calves-0009",
@@ -263,9 +145,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Dumbbell-Standing-Calf-Raise_Calves-FIX_.webp",
+    "video": "Dumbbell-Standing-Calf-Raise_Calves-FIX_.mp4",
+    "matched_con": "exercise-1085"
   },
   {
     "id": "exercise-calves-0010",
@@ -293,97 +175,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
-  },
-  {
-    "id": "exercise-calves-0011",
-    "nombre_es": "Elevación de talones en prensa puntas hacia afuera",
-    "nombre_en": "Leg Press Calf Raise Toes Out",
-    "tipo": "Isolation",
-    "musculo": "Calves",
-    "equipo": "Machine",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Sentate en la prensa de piernas con la espalda firme contra el respaldo.",
-      "Apoyá las puntas de los pies en la parte inferior de la plataforma con los talones colgando.",
-      "Rotá las puntas hacia afuera formando una V (~45 grados).",
-      "Extendé las piernas casi por completo.",
-      "Empujá la plataforma con las puntas extendiendo los tobillos al máximo.",
-      "Bajá controladamente hasta el estiramiento completo.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Calf raise prensa puntas afuera",
-      "Leg press calf raise toes out",
-      "Gemelos prensa V abierta"
-    ],
-    "verificado": false,
-    "variante_de": "exercise-calves-0010",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
-  },
-  {
-    "id": "exercise-calves-0012",
-    "nombre_es": "Elevación de talones en prensa puntas hacia adentro",
-    "nombre_en": "Leg Press Calf Raise Toes In",
-    "tipo": "Isolation",
-    "musculo": "Calves",
-    "equipo": "Machine",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Sentate en la prensa de piernas con la espalda firme contra el respaldo.",
-      "Apoyá las puntas de los pies en la parte inferior de la plataforma con los talones colgando.",
-      "Rotá las puntas hacia adentro formando una V invertida.",
-      "Extendé las piernas casi por completo.",
-      "Empujá la plataforma con las puntas extendiendo los tobillos al máximo.",
-      "Bajá controladamente hasta el estiramiento completo.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Calf raise prensa puntas adentro",
-      "Leg press calf raise toes in",
-      "Gemelos prensa V invertida"
-    ],
-    "verificado": false,
-    "variante_de": "exercise-calves-0010",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
-  },
-  {
-    "id": "exercise-calves-0013",
-    "nombre_es": "Burro de gemelos",
-    "nombre_en": "Donkey Calf Raise",
-    "tipo": "Isolation",
-    "musculo": "Calves",
-    "equipo": "Machine",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Posicionate en la máquina de burro con los almohadones apoyados sobre la zona lumbar/cadera.",
-      "Apoyá las puntas de los pies sobre la plataforma con los talones colgando.",
-      "Inclinate hacia adelante apoyando los antebrazos o las manos sobre el soporte.",
-      "Mantené las rodillas levemente flexionadas y la espalda recta.",
-      "Empujá hacia arriba elevando los talones lo más alto posible.",
-      "La posición inclinada estira más el gastrocnemio.",
-      "Bajá controladamente hasta el estiramiento completo.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Donkey calf raise",
-      "Calf raise burro",
-      "Gemelos inclinado adelante"
-    ],
-    "verificado": false,
-    "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Sled-45-Calf-Press_Calves-FIX_.webp",
+    "video": "Sled-45-Calf-Press_Calves-FIX_.mp4",
+    "matched_con": "exercise-1854"
   },
   {
     "id": "exercise-calves-0014",
@@ -408,36 +202,6 @@
       "Single-leg calf raise sin peso",
       "Gemelos a una pierna peso corporal",
       "Calf raise unilateral bodyweight"
-    ],
-    "verificado": false,
-    "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
-  },
-  {
-    "id": "exercise-calves-0015",
-    "nombre_es": "Saltos en el lugar para gemelos",
-    "nombre_en": "Calf Jumps",
-    "tipo": "Isolation",
-    "musculo": "Calves",
-    "equipo": "Bodyweight",
-    "importancia": 4,
-    "como_hacerlo": [
-      "Parate con los pies a la altura de las caderas y el core firme.",
-      "Mantené las rodillas casi extendidas con una ligera flexión fija.",
-      "Saltá hacia arriba usando solo la fuerza de los gemelos, sin doblar las rodillas.",
-      "Aterrizá sobre las puntas de los pies absorbiendo el impacto con los tobillos.",
-      "Reboté inmediatamente sin pausa entre saltos.",
-      "Mantené el torso vertical y los brazos relajados.",
-      "Es un ejercicio explosivo que trabaja la potencia del gemelo.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Calf jumps",
-      "Saltos de gemelos",
-      "Pogo jumps"
     ],
     "verificado": false,
     "variante_de": null,

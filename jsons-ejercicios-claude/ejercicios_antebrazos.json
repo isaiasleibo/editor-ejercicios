@@ -24,7 +24,10 @@
       "Curl de antebrazo supino"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Barbell-Wrist-Curl-(VERSION-2)_Forearms-FIX2_.webp",
+    "video": "Barbell-Wrist-Curl-(VERSION-2)_Forearms-FIX2_.mp4",
+    "matched_con": "exercise-0339"
   },
   {
     "id": "exercise-forearms-0002",
@@ -51,7 +54,10 @@
       "Curl de antebrazo prono"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Barbell-Wrist-Reverse-Curl-(VERSION-2)_Forearms-FI.webp",
+    "video": "Barbell-Wrist-Reverse-Curl-(VERSION-2)_Forearms-FI.mp4",
+    "matched_con": "exercise-0340"
   },
   {
     "id": "exercise-forearms-0003",
@@ -78,7 +84,10 @@
       "Curl de antebrazo con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Kettlebell-Wrist-Curl_Forearms_.webp",
+    "video": "Kettlebell-Wrist-Curl_Forearms_.mp4",
+    "matched_con": "exercise-1453"
   },
   {
     "id": "exercise-forearms-0004",
@@ -105,7 +114,10 @@
       "Curl prono con mancuernas"
     ],
     "verificado": false,
-    "variante_de": "exercise-forearms-0003"
+    "variante_de": "exercise-forearms-0003",
+    "imagen": "Dumbbell-Reverse-Wrist-Curl_Forearms_.webp",
+    "video": "Dumbbell-Reverse-Wrist-Curl_Forearms_.mp4",
+    "matched_con": "exercise-0970"
   },
   {
     "id": "exercise-forearms-0005",
@@ -132,7 +144,10 @@
       "Curl de muñeca por detrás con barra"
     ],
     "verificado": false,
-    "variante_de": "exercise-forearms-0001"
+    "variante_de": "exercise-forearms-0001",
+    "imagen": "Barbell-Standing-Back-Wrist-Curl_Forearms.webp",
+    "video": "Barbell-Standing-Back-Wrist-Curl_Forearms.mp4",
+    "matched_con": "exercise-0303"
   },
   {
     "id": "exercise-forearms-0006",
@@ -159,7 +174,10 @@
       "Flexión de muñeca con cable"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Cable-Standing-Wrist-Curl_Forearms_.webp",
+    "video": "Cable-Standing-Wrist-Curl_Forearms_.mp4",
+    "matched_con": "exercise-0614"
   },
   {
     "id": "exercise-forearms-0007",
@@ -186,7 +204,10 @@
       "Extensión de muñeca con cable"
     ],
     "verificado": false,
-    "variante_de": "exercise-forearms-0006"
+    "variante_de": "exercise-forearms-0006",
+    "imagen": "Cable-Standing-Wrist-Reverse-Curl_Forearms_.webp",
+    "video": "Cable-Standing-Wrist-Reverse-Curl_Forearms_.mp4",
+    "matched_con": "exercise-0615"
   },
   {
     "id": "exercise-forearms-0008",
@@ -207,9 +228,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Core", "peso": 0.4 },
-      { "musculo": "Back", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 }
+      {
+        "musculo": "Core",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Farmer's walk",
@@ -217,38 +247,10 @@
       "Paseo del granjero con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-forearms-0009",
-    "nombre_es": "Caminata del granjero con barra",
-    "nombre_en": "Barbell Farmer's Walk",
-    "tipo": "Compound",
-    "musculo": "Forearms",
-    "equipo": "Barbell",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Parate entre dos barras o usá barras tipo trap/hex con peso a los lados.",
-      "Agachate y agarrá las barras con un agarre firme.",
-      "Levantá el peso extendiendo las piernas y caderas, manteniendo la espalda recta.",
-      "Mantené los hombros hacia atrás y el pecho elevado.",
-      "Caminá hacia adelante con pasos cortos y controlados.",
-      "Mantené el agarre firme durante toda la caminata.",
-      "Bajá las barras controladamente al terminar.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [
-      { "musculo": "Core", "peso": 0.4 },
-      { "musculo": "Back", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.2 }
-    ],
-    "nombres_alternativos": [
-      "Barbell farmer's walk",
-      "Caminata del granjero con barra",
-      "Trap bar carry"
-    ],
-    "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Farmers-walk_Cardio-FIX_.webp",
+    "video": "Farmers-walk_Cardio-FIX_.mp4",
+    "matched_con": "exercise-1207"
   },
   {
     "id": "exercise-forearms-0010",
@@ -275,7 +277,10 @@
       "Colgada de antebrazos"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Dead-Hang-Stretch_Stretching_.webp",
+    "video": "Dead-Hang-Stretch_Stretching_.mp4",
+    "matched_con": "exercise-0663"
   },
   {
     "id": "exercise-forearms-0011",
@@ -302,6 +307,9 @@
       "Rotación de antebrazo"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Dumbbell-Standing-Arms-Rotate_Forearms_.webp",
+    "video": "Dumbbell-Standing-Arms-Rotate_Forearms_.mp4",
+    "matched_con": "exercise-1078"
   }
 ]

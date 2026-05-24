@@ -18,9 +18,18 @@
       "Empujá con los talones volviendo a la posición inicial."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Sentadilla alta",
@@ -28,7 +37,10 @@
       "Back squat barra alta"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0002",
@@ -49,9 +61,18 @@
       "Empujá con los talones volviendo a la posición inicial."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Hamstrings", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Sentadilla baja",
@@ -59,7 +80,10 @@
       "Back squat barra baja"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0001"
+    "variante_de": "exercise-legs-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0003",
@@ -80,9 +104,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Paused squat",
@@ -90,7 +123,10 @@
       "Pause squat con barra"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0001"
+    "variante_de": "exercise-legs-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0004",
@@ -111,9 +147,18 @@
       "Empujá con los talones volviendo a la posición inicial."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Front squat",
@@ -121,7 +166,10 @@
       "Front squat con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0005",
@@ -142,9 +190,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.25 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Goblet squat",
@@ -152,7 +209,10 @@
       "Dumbbell goblet squat"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0006",
@@ -173,9 +233,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Dumbbell squat",
@@ -183,7 +252,10 @@
       "Squat con mancuernas a los lados"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0007",
@@ -204,9 +276,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Smith squat",
@@ -214,7 +295,10 @@
       "Squat en máquina Smith"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0008",
@@ -235,8 +319,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Hack squat",
@@ -244,7 +334,10 @@
       "Hack squat en máquina"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0009",
@@ -265,8 +358,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Hamstrings", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Reverse hack squat",
@@ -274,7 +373,10 @@
       "Hack inverso"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0008"
+    "variante_de": "exercise-legs-0008",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0010",
@@ -295,8 +397,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Leg press",
@@ -304,7 +412,10 @@
       "Leg press 45°"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0011",
@@ -325,8 +436,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.5 },
-      { "musculo": "Hamstrings", "peso": 0.3 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.5
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "High-foot leg press",
@@ -334,7 +451,10 @@
       "Leg press posición alta"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0010"
+    "variante_de": "exercise-legs-0010",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0012",
@@ -355,8 +475,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.2 },
-      { "musculo": "Hamstrings", "peso": 0.1 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.1
+      }
     ],
     "nombres_alternativos": [
       "Low-foot leg press",
@@ -364,7 +490,10 @@
       "Leg press posición baja"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0010"
+    "variante_de": "exercise-legs-0010",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0013",
@@ -385,9 +514,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Adductors", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Adductors",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Wide-stance leg press",
@@ -395,7 +533,10 @@
       "Leg press stance ancho"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0010"
+    "variante_de": "exercise-legs-0010",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0014",
@@ -416,9 +557,18 @@
       "Permite trabajar desbalances entre piernas."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Single-leg leg press",
@@ -426,7 +576,10 @@
       "Leg press a una pierna"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0010"
+    "variante_de": "exercise-legs-0010",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0015",
@@ -447,8 +600,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Horizontal leg press",
@@ -456,7 +615,10 @@
       "Seated leg press"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0016",
@@ -483,7 +645,10 @@
       "Cuádriceps en máquina"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0017",
@@ -510,7 +675,10 @@
       "Leg extension a una pierna"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0016"
+    "variante_de": "exercise-legs-0016",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0018",
@@ -537,7 +705,10 @@
       "Leg extension vasto medial"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0016"
+    "variante_de": "exercise-legs-0016",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0019",
@@ -564,7 +735,10 @@
       "Leg extension vasto lateral"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0016"
+    "variante_de": "exercise-legs-0016",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0020",
@@ -591,7 +765,10 @@
       "Sissy squat con apoyo"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0021",
@@ -618,7 +795,10 @@
       "Sissy squat con plataforma"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0022",
@@ -639,9 +819,18 @@
       "Mantené el torso erguido y el core firme."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Barbell lunge",
@@ -649,7 +838,10 @@
       "Estocadas con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0023",
@@ -670,9 +862,18 @@
       "Completá todas las repeticiones antes de cambiar de pierna."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Reverse barbell lunge",
@@ -680,7 +881,10 @@
       "Lunge atrás con barra"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0022"
+    "variante_de": "exercise-legs-0022",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0024",
@@ -701,9 +905,18 @@
       "La posición fija permite enfocarte más en la tensión y el equilibrio."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Split squat",
@@ -711,7 +924,10 @@
       "Split squat con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0025",
@@ -732,9 +948,18 @@
       "Completá todas las repeticiones antes de cambiar de pierna."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Hamstrings", "peso": 0.15 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Barbell step-up",
@@ -742,7 +967,10 @@
       "Subida al cajón con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0026",
@@ -763,9 +991,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.25 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Kettlebell goblet squat",
@@ -773,7 +1010,10 @@
       "Sentadilla con pesa rusa"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0027",
@@ -794,9 +1034,18 @@
       "La posición sumo enfatiza glúteos y aductores."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Adductors", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Adductors",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Sumo kettlebell squat",
@@ -804,7 +1053,10 @@
       "Kettlebell sumo squat"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0026"
+    "variante_de": "exercise-legs-0026",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0028",
@@ -825,9 +1077,18 @@
       "Es la variante para progresar hacia el pistol squat completo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.15 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Assisted pistol squat",
@@ -835,7 +1096,10 @@
       "Pistol squat con apoyo"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0029",
@@ -856,9 +1120,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Air squat",
@@ -866,7 +1139,10 @@
       "Squat sin peso"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0030",
@@ -887,9 +1163,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Calves", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Calves",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Jump squat",
@@ -897,7 +1182,10 @@
       "Squat jump"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0029"
+    "variante_de": "exercise-legs-0029",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0031",
@@ -924,7 +1212,10 @@
       "Sentadilla isométrica"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0032",
@@ -945,9 +1236,18 @@
       "Trabaja fuertemente cuádriceps, glúteos y core."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Zercher squat",
@@ -955,7 +1255,10 @@
       "Squat zercher"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0033",
@@ -976,9 +1279,18 @@
       "Requiere excelente movilidad de hombros y caderas."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.3 },
-      { "musculo": "Shoulders", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.3 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "Overhead squat",
@@ -986,7 +1298,10 @@
       "Squat con barra sobre la cabeza"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0034",
@@ -1007,9 +1322,18 @@
       "Bajá controladamente con la misma técnica inversa."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Back", "peso": 0.4 },
-      { "musculo": "Quadriceps", "peso": 0.25 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Deadlift",
@@ -1017,7 +1341,10 @@
       "Conventional deadlift"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Barbell-Deadlift_Hips-FIX.webp",
+    "video": "Barbell-Deadlift_Hips-FIX.mp4",
+    "matched_con": "exercise-0157"
   },
   {
     "id": "exercise-legs-0035",
@@ -1038,9 +1365,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Back", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Romanian deadlift",
@@ -1048,7 +1384,10 @@
       "Peso muerto rumano"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Barbell-Romanian-Deadlift_Hips-FIX_.webp",
+    "video": "Barbell-Romanian-Deadlift_Hips-FIX_.mp4",
+    "matched_con": "exercise-0270"
   },
   {
     "id": "exercise-legs-0036",
@@ -1069,9 +1408,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Back", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Dumbbell RDL",
@@ -1079,7 +1427,10 @@
       "RDL con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Dumbbell-Stiff-Leg-Deadlift_Waist.webp",
+    "video": "Dumbbell-Stiff-Leg-Deadlift_Waist.mp4",
+    "matched_con": "exercise-1128"
   },
   {
     "id": "exercise-legs-0037",
@@ -1100,9 +1451,18 @@
       "Completá todas las repeticiones antes de cambiar de pierna."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Core", "peso": 0.3 },
-      { "musculo": "Back", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Single-leg RDL",
@@ -1110,38 +1470,10 @@
       "RDL a una pierna con mancuerna"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0036"
-  },
-  {
-    "id": "exercise-legs-0038",
-    "nombre_es": "Peso muerto rumano con déficit",
-    "nombre_en": "Deficit Romanian Deadlift",
-    "tipo": "Compound",
-    "musculo": "Hamstrings",
-    "equipo": "Barbell",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Parate sobre una plataforma o discos de 5-10 cm de altura.",
-      "Agarrá la barra con las manos al ancho de los hombros, palmas hacia abajo.",
-      "Flexioná levemente las rodillas y mantené esa flexión fija.",
-      "Inclinate hacia adelante desde las caderas bajando la barra por debajo del nivel de los pies.",
-      "El déficit aumenta el rango de movimiento y el estiramiento de los isquios.",
-      "Mantené la espalda recta durante todo el descenso.",
-      "Volvé a la posición inicial empujando las caderas hacia adelante.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Back", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.15 }
-    ],
-    "nombres_alternativos": [
-      "Deficit RDL",
-      "RDL con déficit",
-      "Peso muerto rumano elevado"
-    ],
-    "verificado": false,
-    "variante_de": "exercise-legs-0035"
+    "variante_de": "exercise-legs-0036",
+    "imagen": "Dumbbell-Single-Leg-Deadlift-(male)_Hips_.webp",
+    "video": "Dumbbell-Single-Leg-Deadlift-(male)_Hips_.mp4",
+    "matched_con": "exercise-1044"
   },
   {
     "id": "exercise-legs-0039",
@@ -1162,9 +1494,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Back", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Stiff-leg deadlift",
@@ -1172,7 +1513,10 @@
       "SLDL"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Barbell-Stiff-Legged-Deadlift_Hips-FIX_.webp",
+    "video": "Barbell-Stiff-Legged-Deadlift_Hips-FIX_.mp4",
+    "matched_con": "exercise-0320"
   },
   {
     "id": "exercise-legs-0040",
@@ -1199,7 +1543,10 @@
       "Femoral acostado en máquina"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Lever-Lying-Leg-Curl_Thighs-FIX_.webp",
+    "video": "Lever-Lying-Leg-Curl_Thighs-FIX_.mp4",
+    "matched_con": "exercise-1569"
   },
   {
     "id": "exercise-legs-0041",
@@ -1226,7 +1573,10 @@
       "Femoral sentado en máquina"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Lever-Seated-Leg-Curl_Thighs-FIX_.webp",
+    "video": "Lever-Seated-Leg-Curl_Thighs-FIX_.mp4",
+    "matched_con": "exercise-1624"
   },
   {
     "id": "exercise-legs-0042",
@@ -1253,7 +1603,10 @@
       "Femoral acostado a una pierna"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0040"
+    "variante_de": "exercise-legs-0040",
+    "imagen": "Lever-Lying-Single-Leg-Curl_Thighs_.webp",
+    "video": "Lever-Lying-Single-Leg-Curl_Thighs_.mp4",
+    "matched_con": "exercise-1572"
   },
   {
     "id": "exercise-legs-0043",
@@ -1280,7 +1633,10 @@
       "Femoral sentado a una pierna"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0041"
+    "variante_de": "exercise-legs-0041",
+    "imagen": "Lever-Seated-One-Leg-Curl_Thighs_.webp",
+    "video": "Lever-Seated-One-Leg-Curl_Thighs_.mp4",
+    "matched_con": "exercise-1630"
   },
   {
     "id": "exercise-legs-0044",
@@ -1307,34 +1663,10 @@
       "Femoral de pie unilateral"
     ],
     "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-legs-0045",
-    "nombre_es": "Curl femoral con balón suizo",
-    "nombre_en": "Stability Ball Leg Curl",
-    "tipo": "Isolation",
-    "musculo": "Hamstrings",
-    "equipo": "Stability Ball",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Acostate boca arriba en el suelo con los talones apoyados sobre un balón suizo.",
-      "Extendé las piernas y mantené los brazos a los lados para estabilidad.",
-      "Elevá la cadera del suelo formando línea recta con el cuerpo.",
-      "Flexioná las rodillas rodando el balón hacia los glúteos con los talones.",
-      "Mantené la cadera elevada durante todo el movimiento.",
-      "Contraé los isquios al máximo cuando el balón esté cerca.",
-      "Extendé las piernas volviendo controladamente a la posición inicial.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Stability ball curl",
-      "Curl femoral con pelota",
-      "Swiss ball hamstring curl"
-    ],
-    "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Lever-Standing-Single-Leg-Curl-(plate-loaded)_Thig.webp",
+    "video": "Lever-Standing-Single-Leg-Curl-(plate-loaded)_Thig.mp4",
+    "matched_con": "exercise-1665"
   },
   {
     "id": "exercise-legs-0046",
@@ -1361,7 +1693,10 @@
       "Nordic hamstring curl"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0047",
@@ -1382,9 +1717,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Calves", "peso": 0.15 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Calves",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "GHR",
@@ -1392,7 +1736,10 @@
       "Glute ham developer"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0048",
@@ -1413,9 +1760,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Back", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Good morning",
@@ -1423,7 +1779,10 @@
       "Good morning con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Barbell-Good-Morning_Thighs-FIX_.webp",
+    "video": "Barbell-Good-Morning_Thighs-FIX_.mp4",
+    "matched_con": "exercise-0181"
   },
   {
     "id": "exercise-legs-0049",
@@ -1444,8 +1803,14 @@
       "No hiperextiendas la espalda al final del movimiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Back", "peso": 0.3 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "45-degree hyper",
@@ -1453,37 +1818,10 @@
       "Back extension 45°"
     ],
     "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-legs-0050",
-    "nombre_es": "Hiperextensión horizontal",
-    "nombre_en": "Horizontal Back Extension",
-    "tipo": "Compound",
-    "musculo": "Hamstrings",
-    "equipo": "Machine",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Subí al banco de hiperextensiones horizontal.",
-      "Ajustá el almohadón para que la cadera quede justo por encima del borde.",
-      "Apoyá los tobillos bajo los rodillos.",
-      "Cruzá los brazos sobre el pecho o detrás de la cabeza.",
-      "Bajá el torso flexionando las caderas hasta donde te permita la flexibilidad.",
-      "Subí contrayendo isquios y glúteos hasta línea recta con las piernas.",
-      "No hiperextiendas la espalda al final.",
-      "Mantené el movimiento controlado durante toda la repetición."
-    ],
-    "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Back", "peso": 0.3 }
-    ],
-    "nombres_alternativos": [
-      "Horizontal hyper",
-      "Hiperextensión horizontal",
-      "Back extension horizontal"
-    ],
-    "verificado": false,
-    "variante_de": "exercise-legs-0049"
+    "variante_de": null,
+    "imagen": "45-degree-Hyperextension-(arms-in-front-of-chest)-.webp",
+    "video": "45-degree-Hyperextension-(arms-in-front-of-chest)-.mp4",
+    "matched_con": "exercise-0003"
   },
   {
     "id": "exercise-legs-0051",
@@ -1504,9 +1842,18 @@
       "Completá todas las repeticiones antes de cambiar de pierna."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Bulgarian split squat",
@@ -1514,7 +1861,10 @@
       "Split squat búlgaro con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0052",
@@ -1535,9 +1885,18 @@
       "Completá todas las repeticiones antes de cambiar de pierna."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Barbell Bulgarian split squat",
@@ -1545,7 +1904,10 @@
       "Split squat búlgaro con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0053",
@@ -1566,9 +1928,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Dumbbell lunge",
@@ -1576,7 +1947,10 @@
       "Estocadas con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0054",
@@ -1597,9 +1971,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Walking lunge",
@@ -1607,7 +1990,10 @@
       "Lunge caminando con mancuernas"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0053"
+    "variante_de": "exercise-legs-0053",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0055",
@@ -1628,9 +2014,18 @@
       "Alterná piernas o completá todas las repeticiones de un lado primero."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Reverse lunge",
@@ -1638,7 +2033,10 @@
       "Lunge inverso con mancuernas"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0053"
+    "variante_de": "exercise-legs-0053",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0056",
@@ -1659,9 +2057,18 @@
       "Alterná lados o completá todas las repeticiones de un lado."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Adductors", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Adductors",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Lateral lunge",
@@ -1669,7 +2076,10 @@
       "Side lunge con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0057",
@@ -1690,9 +2100,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.25 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Deficit goblet squat",
@@ -1700,7 +2119,10 @@
       "Sentadilla copa elevada"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0005"
+    "variante_de": "exercise-legs-0005",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0058",
@@ -1721,9 +2143,18 @@
       "Completá todas las repeticiones antes de cambiar de pierna."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.15 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Step-up con mancuernas",
@@ -1731,7 +2162,10 @@
       "Dumbbell step-up"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0059",
@@ -1752,8 +2186,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Lateral step-up",
@@ -1761,7 +2201,10 @@
       "Side step-up con mancuernas"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0058"
+    "variante_de": "exercise-legs-0058",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0060",
@@ -1782,9 +2225,18 @@
       "Empujá con los talones volviendo a la posición inicial."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Adductors", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Adductors",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Sumo squat",
@@ -1792,7 +2244,10 @@
       "Wide-stance squat"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0001"
+    "variante_de": "exercise-legs-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0061",
@@ -1813,9 +2268,18 @@
       "Bajá controladamente hasta el suelo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Hamstrings", "peso": 0.35 },
-      { "musculo": "Back", "peso": 0.3 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "Sumo deadlift",
@@ -1823,7 +2287,10 @@
       "Deadlift sumo con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0062",
@@ -1844,9 +2311,18 @@
       "Bajá controladamente hasta el suelo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Hamstrings", "peso": 0.35 },
-      { "musculo": "Back", "peso": 0.3 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.3
+      }
     ],
     "nombres_alternativos": [
       "Trap bar deadlift",
@@ -1854,7 +2330,10 @@
       "Peso muerto con trap bar"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0063",
@@ -1875,9 +2354,18 @@
       "Bajá controladamente hasta el suelo."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Back", "peso": 0.3 },
-      { "musculo": "Quadriceps", "peso": 0.25 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Dumbbell deadlift",
@@ -1885,7 +2373,10 @@
       "Deadlift con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0064",
@@ -1906,9 +2397,18 @@
       "Es una excelente entrada al patrón de peso muerto."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Back", "peso": 0.3 },
-      { "musculo": "Quadriceps", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Kettlebell deadlift",
@@ -1916,7 +2416,10 @@
       "KB deadlift"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0065",
@@ -1937,9 +2440,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Back", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Kettlebell RDL",
@@ -1947,7 +2459,10 @@
       "RDL con kettlebell"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0066",
@@ -1968,9 +2483,18 @@
       "Es un ejercicio explosivo que trabaja toda la cadena posterior."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.5 },
-      { "musculo": "Back", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.5
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "KB swing",
@@ -1978,7 +2502,10 @@
       "Russian swing"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0067",
@@ -1999,9 +2526,18 @@
       "Es una versión más exigente que requiere buena movilidad de hombros."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.5 },
-      { "musculo": "Shoulders", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.5
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "American swing",
@@ -2009,7 +2545,10 @@
       "Overhead kettlebell swing"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0066"
+    "variante_de": "exercise-legs-0066",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0068",
@@ -2036,7 +2575,10 @@
       "Máquina de aductores"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0069",
@@ -2063,7 +2605,10 @@
       "Cable inner thigh"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0070",
@@ -2090,7 +2635,10 @@
       "Band inner thigh"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0071",
@@ -2117,7 +2665,10 @@
       "Inner thigh raise"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0072",
@@ -2138,7 +2689,10 @@
       "Completá ambos lados."
     ],
     "musculos_secundarios": [
-      { "musculo": "Core", "peso": 0.4 }
+      {
+        "musculo": "Core",
+        "peso": 0.4
+      }
     ],
     "nombres_alternativos": [
       "Copenhagen plank",
@@ -2146,7 +2700,10 @@
       "Side plank con aductores"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0073",
@@ -2167,9 +2724,18 @@
       "Trabaja flexibilidad, aductores, glúteos y cuádriceps."
     ],
     "musculos_secundarios": [
-      { "musculo": "Quadriceps", "peso": 0.4 },
-      { "musculo": "Glutes", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.2 }
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Cossack squat",
@@ -2177,7 +2743,10 @@
       "Cossack lateral squat"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0074",
@@ -2198,9 +2767,18 @@
       "La mancuerna agrega carga adicional para fuerza."
     ],
     "musculos_secundarios": [
-      { "musculo": "Quadriceps", "peso": 0.4 },
-      { "musculo": "Glutes", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Loaded cossack squat",
@@ -2208,7 +2786,10 @@
       "Goblet cossack squat"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0073"
+    "variante_de": "exercise-legs-0073",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0075",
@@ -2229,9 +2810,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.15 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Chair squat",
@@ -2239,7 +2829,10 @@
       "Box squat sin peso"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0029"
+    "variante_de": "exercise-legs-0029",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0076",
@@ -2260,9 +2853,18 @@
       "Mantené el pecho elevado y la espalda recta."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Hamstrings", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Box squat",
@@ -2270,7 +2872,10 @@
       "Box back squat"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0001"
+    "variante_de": "exercise-legs-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0077",
@@ -2291,9 +2896,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Hamstrings", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.2 },
-      { "musculo": "Quadriceps", "peso": 0.15 }
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Barbell hip thrust",
@@ -2301,7 +2915,10 @@
       "Hip thrust con peso"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Barbell-Hip-Thrust_Hips-FIX_.webp",
+    "video": "Barbell-Hip-Thrust_Hips-FIX_.mp4",
+    "matched_con": "exercise-0190"
   },
   {
     "id": "exercise-legs-0078",
@@ -2322,8 +2939,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Hamstrings", "peso": 0.3 },
-      { "musculo": "Quadriceps", "peso": 0.15 }
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Machine hip thrust",
@@ -2331,7 +2954,10 @@
       "Empuje de cadera en máquina"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Lever-Hip-Thrust-(plate-loaded)-(male)_Hips_.webp",
+    "video": "Lever-Hip-Thrust-(plate-loaded)-(male)_Hips_.mp4",
+    "matched_con": "exercise-1543"
   },
   {
     "id": "exercise-legs-0079",
@@ -2358,7 +2984,10 @@
       "Glute kickback con cable"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Cable-Donkey-Kickback-(male)_Hips_.webp",
+    "video": "Cable-Donkey-Kickback-(male)_Hips_.mp4",
+    "matched_con": "exercise-0384"
   },
   {
     "id": "exercise-legs-0080",
@@ -2385,7 +3014,10 @@
       "Máquina de glúteo medio"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Lever-Seated-Hip-Abduction_Hips-FIX_.webp",
+    "video": "Lever-Seated-Hip-Abduction_Hips-FIX_.mp4",
+    "matched_con": "exercise-1621"
   },
   {
     "id": "exercise-legs-0081",
@@ -2406,8 +3038,14 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Pendulum squat",
@@ -2415,7 +3053,10 @@
       "Pendulum machine squat"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Lever-Pendulum-Squat-(plate-loaded)_Thighs_.webp",
+    "video": "Lever-Pendulum-Squat-(plate-loaded)_Thighs_.mp4",
+    "matched_con": "exercise-1590"
   },
   {
     "id": "exercise-legs-0082",
@@ -2436,8 +3077,14 @@
       "Excelente para gente con problemas de espalda."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Belt squat",
@@ -2445,7 +3092,10 @@
       "Belt squat machine"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0083",
@@ -2466,9 +3116,18 @@
       "Empujá con los talones manteniendo la técnica."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Chain squat",
@@ -2476,7 +3135,10 @@
       "Squat con cadenas"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0001"
+    "variante_de": "exercise-legs-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0084",
@@ -2497,9 +3159,18 @@
       "Empujá con los talones manteniendo la técnica."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Banded squat",
@@ -2507,7 +3178,10 @@
       "Squat con bandas elásticas"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0001"
+    "variante_de": "exercise-legs-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0085",
@@ -2528,9 +3202,18 @@
       "Completá todas las repeticiones antes de cambiar de pierna."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Barbell split squat",
@@ -2538,7 +3221,10 @@
       "Split squat estacionario"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0086",
@@ -2559,9 +3245,18 @@
       "Completá todas las repeticiones antes de cambiar de pierna."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Hamstrings", "peso": 0.15 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Pistol squat",
@@ -2569,7 +3264,10 @@
       "Single-leg squat"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0087",
@@ -2596,7 +3294,10 @@
       "Banded nordic"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0046"
+    "variante_de": "exercise-legs-0046",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0088",
@@ -2617,9 +3318,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.25 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "KB goblet squat",
@@ -2627,7 +3337,10 @@
       "Sentadilla con pesa rusa"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0089",
@@ -2648,9 +3361,18 @@
       "A diferencia del hip thrust, los hombros están en el suelo, no en un banco."
     ],
     "musculos_secundarios": [
-      { "musculo": "Hamstrings", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.2 },
-      { "musculo": "Quadriceps", "peso": 0.15 }
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Barbell glute bridge",
@@ -2658,7 +3380,10 @@
       "Glute bridge con peso"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Barbell-Glute-Bridge-(hands-on-bar)_Hips_.webp",
+    "video": "Barbell-Glute-Bridge-(hands-on-bar)_Hips_.mp4",
+    "matched_con": "exercise-0180"
   },
   {
     "id": "exercise-legs-0090",
@@ -2685,7 +3410,10 @@
       "Squat hold"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0091",
@@ -2706,9 +3434,18 @@
       "Es un ejercicio poco común pero útil para variaciones."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Adductors", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.25 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Adductors",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
     ],
     "nombres_alternativos": [
       "Jefferson squat",
@@ -2716,7 +3453,10 @@
       "Jefferson deadlift"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0092",
@@ -2737,9 +3477,18 @@
       "Elimina el rebote y desarrolla fuerza desde el punto débil."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.4 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.2 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Anderson squat",
@@ -2747,7 +3496,10 @@
       "Bottom-up squat"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0001"
+    "variante_de": "exercise-legs-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0093",
@@ -2768,9 +3520,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Double KB front squat",
@@ -2778,7 +3539,10 @@
       "Kettlebell front squat"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0094",
@@ -2799,9 +3563,18 @@
       "Volvé empujando las caderas hacia adelante."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.45 },
-      { "musculo": "Back", "peso": 0.25 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.45
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Smith RDL",
@@ -2809,7 +3582,10 @@
       "Smith machine RDL"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0095",
@@ -2830,9 +3606,18 @@
       "Combina trabajo de cuádriceps con core y movilidad."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.3 },
-      { "musculo": "Core", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Front-rack squat",
@@ -2840,7 +3625,10 @@
       "Clean grip squat"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0004"
+    "variante_de": "exercise-legs-0004",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0096",
@@ -2861,9 +3649,18 @@
       "Repetí según tu rutina."
     ],
     "musculos_secundarios": [
-      { "musculo": "Glutes", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.15 }
+      {
+        "musculo": "Glutes",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Paused goblet squat",
@@ -2871,37 +3668,10 @@
       "Sentadilla copa pausada"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0005"
-  },
-  {
-    "id": "exercise-legs-0097",
-    "nombre_es": "Step-up con mancuernas atrás (cross-step)",
-    "nombre_en": "Cross Step-Up",
-    "tipo": "Compound",
-    "musculo": "Glutes",
-    "equipo": "Dumbbell",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Parate de costado a un banco resistente con una mancuerna en cada mano.",
-      "Cruzá el pie más lejano al banco por delante del cuerpo subiendo al banco.",
-      "Empujá con el talón del pie cruzado subiendo al banco hasta extender la pierna.",
-      "La otra pierna debe quedar suspendida o tocar levemente arriba.",
-      "Bajá controladamente con la misma pierna que subiste.",
-      "Trabaja también glúteo medio por el movimiento cruzado.",
-      "Mantené el torso erguido durante todo el movimiento.",
-      "Completá todas las repeticiones antes de cambiar de lado."
-    ],
-    "musculos_secundarios": [
-      { "musculo": "Quadriceps", "peso": 0.35 },
-      { "musculo": "Core", "peso": 0.25 }
-    ],
-    "nombres_alternativos": [
-      "Cross step-up",
-      "Step-up cruzado",
-      "Curtsy step-up"
-    ],
-    "verificado": false,
-    "variante_de": "exercise-legs-0058"
+    "variante_de": "exercise-legs-0005",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-legs-0098",
@@ -2922,9 +3692,18 @@
       "Alterná lados o completá todas las repeticiones de un lado."
     ],
     "musculos_secundarios": [
-      { "musculo": "Quadriceps", "peso": 0.3 },
-      { "musculo": "Hamstrings", "peso": 0.2 },
-      { "musculo": "Core", "peso": 0.15 }
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
     ],
     "nombres_alternativos": [
       "Curtsy lunge",
@@ -2932,7 +3711,10 @@
       "Lunge cruzada"
     ],
     "verificado": false,
-    "variante_de": "exercise-legs-0053"
+    "variante_de": "exercise-legs-0053",
+    "imagen": "Dumbbell-Curtsey-Lunge-(male)_Thighs_.webp",
+    "video": "Dumbbell-Curtsey-Lunge-(male)_Thighs_.mp4",
+    "matched_con": "exercise-0737"
   },
   {
     "id": "exercise-legs-0099",
@@ -2959,7 +3741,10 @@
       "Glute kickback en máquina"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "Lever-Glute-Press-(male)_Hips_.webp",
+    "video": "Lever-Glute-Press-(male)_Hips_.mp4",
+    "matched_con": "exercise-1535"
   },
   {
     "id": "exercise-legs-0100",
@@ -2980,8 +3765,14 @@
       "No hiperextiendas la espalda al final del movimiento."
     ],
     "musculos_secundarios": [
-      { "musculo": "Hamstrings", "peso": 0.4 },
-      { "musculo": "Back", "peso": 0.2 }
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Back",
+        "peso": 0.2
+      }
     ],
     "nombres_alternativos": [
       "Glute hyperextension",
@@ -2989,6 +3780,9 @@
       "Hyper 45 para glúteos"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "45-degree-Hyperextension-(arms-in-front-of-chest)-.webp",
+    "video": "45-degree-Hyperextension-(arms-in-front-of-chest)-.mp4",
+    "matched_con": "exercise-0003"
   }
 ]

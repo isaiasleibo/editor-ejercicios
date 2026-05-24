@@ -24,7 +24,10 @@
       "Extensión de tríceps en polea alta"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0002",
@@ -51,7 +54,10 @@
       "Pushdown agarre invertido"
     ],
     "verificado": false,
-    "variante_de": "exercise-triceps-0001"
+    "variante_de": "exercise-triceps-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0003",
@@ -78,7 +84,10 @@
       "Pushdown con cuerda"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0004",
@@ -105,7 +114,10 @@
       "Extensión de tríceps a un brazo en polea"
     ],
     "verificado": false,
-    "variante_de": "exercise-triceps-0001"
+    "variante_de": "exercise-triceps-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0005",
@@ -132,7 +144,10 @@
       "Extensión de tríceps amplio en polea"
     ],
     "verificado": false,
-    "variante_de": "exercise-triceps-0001"
+    "variante_de": "exercise-triceps-0001",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0006",
@@ -159,7 +174,10 @@
       "Press francés con barra"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0007",
@@ -186,7 +204,10 @@
       "Press francés con barra EZ"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0008",
@@ -213,7 +234,10 @@
       "Rompecráneos con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0009",
@@ -240,7 +264,10 @@
       "Rompecráneos inclinado con barra"
     ],
     "verificado": false,
-    "variante_de": "exercise-triceps-0006"
+    "variante_de": "exercise-triceps-0006",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0010",
@@ -267,7 +294,10 @@
       "Rompecráneos declinado con barra"
     ],
     "verificado": false,
-    "variante_de": "exercise-triceps-0006"
+    "variante_de": "exercise-triceps-0006",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0011",
@@ -294,7 +324,10 @@
       "French press sentado"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0012",
@@ -321,7 +354,10 @@
       "French press con EZ"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0013",
@@ -348,7 +384,10 @@
       "Dumbbell French press"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0014",
@@ -375,7 +414,10 @@
       "French press a un brazo"
     ],
     "verificado": false,
-    "variante_de": "exercise-triceps-0013"
+    "variante_de": "exercise-triceps-0013",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0015",
@@ -402,7 +444,10 @@
       "French press en polea"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0016",
@@ -429,7 +474,10 @@
       "French press en polea con barra"
     ],
     "verificado": false,
-    "variante_de": "exercise-triceps-0015"
+    "variante_de": "exercise-triceps-0015",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0017",
@@ -456,7 +504,10 @@
       "Kickback con mancuernas"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0018",
@@ -483,7 +534,10 @@
       "Patada de tríceps a un brazo"
     ],
     "verificado": false,
-    "variante_de": "exercise-triceps-0017"
+    "variante_de": "exercise-triceps-0017",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0019",
@@ -510,7 +564,10 @@
       "Kickback con cable"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0020",
@@ -546,7 +603,10 @@
       "Press de banca agarre estrecho"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0021",
@@ -582,7 +642,10 @@
       "Press en piso para tríceps"
     ],
     "verificado": false,
-    "variante_de": "exercise-triceps-0020"
+    "variante_de": "exercise-triceps-0020",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0022",
@@ -622,7 +685,10 @@
       "Upright dips"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0023",
@@ -658,7 +724,10 @@
       "Dips en banco"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0024",
@@ -698,7 +767,10 @@
       "Flexiones para tríceps"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0025",
@@ -725,7 +797,10 @@
       "Tríceps en máquina específica"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0026",
@@ -761,7 +836,10 @@
       "Dips asistidos"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0027",
@@ -797,7 +875,10 @@
       "Press híbrido de tríceps"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0028",
@@ -824,7 +905,10 @@
       "Pullover de tríceps"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0029",
@@ -851,7 +935,10 @@
       "Kickback con dos mancuernas"
     ],
     "verificado": false,
-    "variante_de": "exercise-triceps-0017"
+    "variante_de": "exercise-triceps-0017",
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0030",
@@ -887,7 +974,10 @@
       "Smith machine close-grip"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   },
   {
     "id": "exercise-triceps-0031",
@@ -914,6 +1004,9 @@
       "Cable lying extension"
     ],
     "verificado": false,
-    "variante_de": null
+    "variante_de": null,
+    "imagen": "",
+    "video": "",
+    "matched_con": null
   }
 ]

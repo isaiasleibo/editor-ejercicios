@@ -1412,9 +1412,9 @@
     ],
     "verificado": false,
     "variante_de": null,
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Weighted-Svend-Press_Chest-FIX_.webp",
+    "video": "Weighted-Svend-Press_Chest-FIX_.mp4",
+    "matched_con": "exercise-2082"
   },
   {
     "id": "exercise-chest-0038",
@@ -1441,9 +1441,9 @@
     ],
     "verificado": false,
     "variante_de": "exercise-chest-0037",
-    "imagen": "",
-    "video": "",
-    "matched_con": null
+    "imagen": "Svend-Bench-Press_Upper-Arms_.webp",
+    "video": "Svend-Bench-Press_Upper-Arms_.mp4",
+    "matched_con": "exercise-1991"
   },
   {
     "id": "exercise-chest-0039",
