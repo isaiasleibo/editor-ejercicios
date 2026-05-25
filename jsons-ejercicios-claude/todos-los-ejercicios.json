@@ -2155,9 +2155,9 @@
       "Dominadas asistidas en máquina",
       "Gravitron"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Assisted-Pull-up_Back.webp",
+    "video": "Assisted-Pull-up_Back.mp4",
+    "matched_con": "exercise-0019",
     "verificado": false,
     "variante_de": null
   },
@@ -2202,9 +2202,9 @@
       "Jalón al pecho",
       "Pulldown con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Pulldown_Back_.webp",
+    "video": "Cable-Pulldown_Back_.mp4",
+    "matched_con": "exercise-0494",
     "verificado": false,
     "variante_de": null
   },
@@ -2248,9 +2248,9 @@
       "Jalón amplio al pecho",
       "Lat pulldown agarre abierto"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Pulldown-(pro-lat-bar)_Back_.webp",
+    "video": "Cable-Pulldown-(pro-lat-bar)_Back_.mp4",
+    "matched_con": "exercise-0493",
     "verificado": false,
     "variante_de": "exercise-0052"
   },
@@ -2291,9 +2291,9 @@
       "Jalón cerrado al pecho",
       "Lat pulldown agarre estrecho"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Close-Grip-Front-Lat-Pulldown_Back.webp",
+    "video": "Cable-Close-Grip-Front-Lat-Pulldown_Back.mp4",
+    "matched_con": "exercise-0371",
     "verificado": false,
     "variante_de": "exercise-0052"
   },
@@ -2334,9 +2334,9 @@
       "Jalón supino",
       "Underhand pulldown"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Reverse-Grip-Pulldown_Back_.webp",
+    "video": "Cable-Reverse-Grip-Pulldown_Back_.mp4",
+    "matched_con": "exercise-0504",
     "verificado": false,
     "variante_de": "exercise-0052"
   },
@@ -2424,9 +2424,9 @@
       "Jalón unilateral",
       "One-arm lat pulldown"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-one-arm-lat-pulldown_back.webp",
+    "video": "Cable-one-arm-lat-pulldown_back.mp4",
+    "matched_con": "exercise-0642",
     "verificado": false,
     "variante_de": null
   },
@@ -2509,9 +2509,9 @@
       "Jalón detrás de la nuca",
       "Pulldown tras nuca"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Wide-Grip-Rear-Pulldown-Behind-Neck_Back.webp",
+    "video": "Cable-Wide-Grip-Rear-Pulldown-Behind-Neck_Back.mp4",
+    "matched_con": "exercise-0636",
     "verificado": false,
     "variante_de": "exercise-0052"
   },
@@ -2542,9 +2542,9 @@
       "Pullover en máquina específica",
       "Nautilus pullover"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Pullover-(plate-loaded)_Back_.webp",
+    "video": "Lever-Pullover-(plate-loaded)_Back_.mp4",
+    "matched_con": "exercise-1598",
     "verificado": false,
     "variante_de": null
   },
@@ -2589,9 +2589,9 @@
       "Remo inclinado con barra",
       "Barbell row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Bent-Over-Row_Back_.webp",
+    "video": "Barbell-Bent-Over-Row_Back_.mp4",
+    "matched_con": "exercise-0138",
     "verificado": false,
     "variante_de": null
   },
@@ -2636,9 +2636,9 @@
       "Remo supino con barra",
       "Yates row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Underhand-Bent-Over-Row_Back-FIX_.webp",
+    "video": "Barbell-Underhand-Bent-Over-Row_Back-FIX_.mp4",
+    "matched_con": "exercise-0326",
     "verificado": false,
     "variante_de": "exercise-0061"
   },
@@ -2683,9 +2683,9 @@
       "Remo amplio con barra",
       "Wide-grip barbell row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Bent-Over-Wide-Grip-Row_Back_.webp",
+    "video": "Barbell-Bent-Over-Wide-Grip-Row_Back_.mp4",
+    "matched_con": "exercise-0139",
     "verificado": false,
     "variante_de": "exercise-0061"
   },
@@ -2730,9 +2730,9 @@
       "Remo Pendlay",
       "Remo desde el suelo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Pendlay-Row_Back_.webp",
+    "video": "Barbell-Pendlay-Row_Back_.mp4",
+    "matched_con": "exercise-0238",
     "verificado": false,
     "variante_de": null
   },
@@ -2777,9 +2777,9 @@
       "Remo con mancuerna",
       "Single-arm row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Bent-over-Row_Back-FIX_ 1.webp",
+    "video": "Dumbbell-Bent-over-Row_Back-FIX_ 1.mp4",
+    "matched_con": "exercise-0713",
     "verificado": false,
     "variante_de": null
   },
@@ -2824,9 +2824,9 @@
       "Remo con mancuernas inclinado",
       "Two-arm dumbbell row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Bent-Over-Row-against-Wall_Back_.webp",
+    "video": "Dumbbell-Bent-Over-Row-against-Wall_Back_.mp4",
+    "matched_con": "exercise-0709",
     "verificado": false,
     "variante_de": null
   },
@@ -2867,52 +2867,9 @@
       "Remo en banco inclinado boca abajo",
       "Incline dumbbell row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0066"
-  },
-  {
-    "id": "exercise-0068",
-    "nombre_es": "Remo con mancuerna agarre supino en banco inclinado",
-    "nombre_en": "Supinated Chest-Supported Dumbbell Row",
-    "tipo": "Compound",
-    "musculo": "Back",
-    "musculos_focus": [
-      "Back",
-      "Biceps"
-    ],
-    "equipo": "Dumbbell",
-    "importancia": 7,
-    "como_hacerlo": [
-      "Ajustá un banco inclinado a 30-45 grados.",
-      "Apoyate boca abajo sobre el respaldo con el pecho contra el banco.",
-      "Sostené una mancuerna en cada mano con los brazos colgando.",
-      "Mantené las palmas hacia adelante (supino) durante todo el movimiento.",
-      "Tirá de las mancuernas hacia las caderas apretando los omóplatos.",
-      "Mantené los codos cerca del torso.",
-      "El agarre supino enfatiza la parte baja del dorsal y los bíceps.",
-      "Bajá controladamente hasta el estiramiento."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Biceps",
-        "peso": 0.4
-      },
-      {
-        "musculo": "Shoulders",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Supinated chest-supported row",
-      "Remo supino en banco inclinado",
-      "Underhand incline row"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Hammer-Grip-Incline-Bench-Two-Arm-Row_Back.webp",
+    "video": "Dumbbell-Hammer-Grip-Incline-Bench-Two-Arm-Row_Back.mp4",
+    "matched_con": "exercise-0790",
     "verificado": false,
     "variante_de": "exercise-0066"
   },
@@ -2957,9 +2914,9 @@
       "Remo Meadows",
       "Landmine row unilateral"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Landmine-One-Arm-Bent-Over-Row_Back_.webp",
+    "video": "Landmine-One-Arm-Bent-Over-Row_Back_.mp4",
+    "matched_con": "exercise-1469",
     "verificado": false,
     "variante_de": null
   },
@@ -3000,9 +2957,9 @@
       "T-bar row con pecho apoyado",
       "Supported T-bar"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Lying-T-bar-Row_Back.webp",
+    "video": "Lever-Lying-T-bar-Row_Back.mp4",
+    "matched_con": "exercise-1573",
     "verificado": false,
     "variante_de": null
   },
@@ -3094,9 +3051,9 @@
       "Remo sentado en polea",
       "Cable row con triángulo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Seated-Row-with-V-bar_Back-FIX_.webp",
+    "video": "Cable-Seated-Row-with-V-bar_Back-FIX_.mp4",
+    "matched_con": "exercise-0538",
     "verificado": false,
     "variante_de": null
   },
@@ -3141,56 +3098,9 @@
       "Seated row con barra recta",
       "Straight bar cable row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0072"
-  },
-  {
-    "id": "exercise-0074",
-    "nombre_es": "Remo en polea baja con barra agarre amplio",
-    "nombre_en": "Wide-Grip Seated Cable Row",
-    "tipo": "Compound",
-    "musculo": "Back",
-    "musculos_focus": [
-      "Back",
-      "Shoulders"
-    ],
-    "equipo": "Cable",
-    "importancia": 7,
-    "como_hacerlo": [
-      "Sentate en la máquina de remo en polea baja con una barra recta o larga enganchada.",
-      "Apoyá los pies firmes en la plataforma.",
-      "Agarrá la barra con las palmas hacia abajo, manos bien separadas.",
-      "Mantené la espalda recta y el torso casi vertical.",
-      "Tirá de la barra hacia el pecho bajo apretando los omóplatos.",
-      "Los codos quedarán bien abiertos a los lados.",
-      "Enfatiza el dorsal exterior y trapecio medio.",
-      "Volvé controladamente extendiendo los brazos."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Biceps",
-        "peso": 0.2
-      },
-      {
-        "musculo": "Shoulders",
-        "peso": 0.35
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Wide-grip seated row",
-      "Remo amplio en polea",
-      "Wide cable row"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Low-Seated-Row_Back.webp",
+    "video": "Cable-Low-Seated-Row_Back.mp4",
+    "matched_con": "exercise-0452",
     "verificado": false,
     "variante_de": "exercise-0072"
   },
@@ -3235,52 +3145,9 @@
       "Remo unilateral en polea",
       "One-arm seated row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-0076",
-    "nombre_es": "Remo en polea baja con soga",
-    "nombre_en": "Cable Row with Rope",
-    "tipo": "Compound",
-    "musculo": "Back",
-    "musculos_focus": [
-      "Back",
-      "Biceps"
-    ],
-    "equipo": "Cable",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Sentate en la máquina de remo en polea baja con una soga enganchada.",
-      "Apoyá los pies firmes en la plataforma.",
-      "Agarrá los extremos de la soga con las palmas enfrentadas.",
-      "Mantené la espalda recta y el torso casi vertical.",
-      "Tirá de la soga hacia el abdomen separando las manos al final.",
-      "Llevá las manos a los costados del torso.",
-      "Apretá los omóplatos al final del movimiento.",
-      "Volvé controladamente extendiendo los brazos."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Biceps",
-        "peso": 0.3
-      },
-      {
-        "musculo": "Shoulders",
-        "peso": 0.2
-      }
-    ],
-    "nombres_alternativos": [
-      "Rope cable row",
-      "Remo con soga en polea",
-      "Cable rope row"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Half-Kneeling-Single-Arm-Row-(VERSION-2)-(ma.webp",
+    "video": "Cable-Half-Kneeling-Single-Arm-Row-(VERSION-2)-(ma.mp4",
+    "matched_con": "exercise-0401",
     "verificado": false,
     "variante_de": null
   },
@@ -3321,9 +3188,9 @@
       "Remo sentado en máquina",
       "Seated row machine"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Seated-Row_Back.webp",
+    "video": "Lever-Seated-Row_Back.mp4",
+    "matched_con": "exercise-1637",
     "verificado": false,
     "variante_de": null
   },
@@ -3364,9 +3231,9 @@
       "Remo neutro en máquina",
       "Hammer row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Neutral-Grip-Seated-Row-(plate-loaded)_Back-.webp",
+    "video": "Lever-Neutral-Grip-Seated-Row-(plate-loaded)_Back-.mp4",
+    "matched_con": "exercise-1575",
     "verificado": false,
     "variante_de": "exercise-0077"
   },
@@ -3411,9 +3278,9 @@
       "Remo unilateral en máquina",
       "Machine row a un brazo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Single-Arm-Neutral-Grip-Seated-Row-(plate-lo.webp",
+    "video": "Lever-Single-Arm-Neutral-Grip-Seated-Row-(plate-lo.mp4",
+    "matched_con": "exercise-1653",
     "verificado": false,
     "variante_de": "exercise-0077"
   },
@@ -3459,9 +3326,9 @@
       "Remo australiano",
       "Body row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Inverted-Row_Back-FIX_.webp",
+    "video": "Inverted-Row_Back-FIX_.mp4",
+    "matched_con": "exercise-1262",
     "verificado": false,
     "variante_de": null
   },
@@ -3507,9 +3374,9 @@
       "Remo australiano pies elevados",
       "Elevated inverted row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Inverted-Row-on-Bench_Back_.webp",
+    "video": "Inverted-Row-on-Bench_Back_.mp4",
+    "matched_con": "exercise-1260",
     "verificado": false,
     "variante_de": "exercise-0080"
   },
@@ -3551,9 +3418,9 @@
       "Hiperextensión inclinada",
       "Back extension 45°"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "45-degree-Hyperextension-(arms-in-front-of-chest)-.webp",
+    "video": "45-degree-Hyperextension-(arms-in-front-of-chest)-.mp4",
+    "matched_con": "exercise-0003",
     "verificado": false,
     "variante_de": null
   },
@@ -3595,9 +3462,9 @@
       "Hiperextensión horizontal",
       "Back extension horizontal"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Hyperextension-(VERSION-2)_Hips.webp",
+    "video": "Hyperextension-(VERSION-2)_Hips.mp4",
+    "matched_con": "exercise-1241",
     "verificado": false,
     "variante_de": "exercise-0082"
   },
@@ -3639,9 +3506,9 @@
       "Hiperextensión con peso",
       "Loaded back extension"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Weighted-Hyperextension_Hips_.webp",
+    "video": "Weighted-Hyperextension_Hips_.mp4",
+    "matched_con": "exercise-2039",
     "verificado": false,
     "variante_de": "exercise-0082"
   },
@@ -3716,9 +3583,9 @@
       "Superman para espalda",
       "Bird stretch"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Superman-W_Hips_.webp",
+    "video": "Superman-W_Hips_.mp4",
+    "matched_con": "exercise-1949",
     "verificado": false,
     "variante_de": null
   },
@@ -3750,9 +3617,9 @@
       "Encogimientos con barra",
       "Shrugs con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Shrug_Back.webp",
+    "video": "Barbell-Shrug_Back.mp4",
+    "matched_con": "exercise-0282",
     "verificado": false,
     "variante_de": null
   },
@@ -3784,9 +3651,9 @@
       "Encogimientos con mancuernas",
       "Shrugs con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Shrug_Back-FIX_.webp",
+    "video": "Dumbbell-Shrug_Back-FIX_.mp4",
+    "matched_con": "exercise-1015",
     "verificado": false,
     "variante_de": null
   },
@@ -3817,9 +3684,9 @@
       "Incline shrug",
       "Encogimientos boca abajo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Decline-Shrug_Back_.webp",
+    "video": "Barbell-Decline-Shrug_Back_.mp4",
+    "matched_con": "exercise-0160",
     "verificado": false,
     "variante_de": "exercise-0088"
   },
@@ -3885,9 +3752,9 @@
       "Encogimientos en Smith",
       "Shrugs en máquina Smith"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Smith-Shrug_Back.webp",
+    "video": "Smith-Shrug_Back.mp4",
+    "matched_con": "exercise-1914",
     "verificado": false,
     "variante_de": null
   },
@@ -3919,9 +3786,9 @@
       "Shrugs por detrás",
       "Encogimientos con barra atrás"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Behind-The-Back-Shrug_Back_.webp",
+    "video": "Barbell-Behind-The-Back-Shrug_Back_.mp4",
+    "matched_con": "exercise-0130",
     "verificado": false,
     "variante_de": "exercise-0087"
   },
@@ -3953,52 +3820,9 @@
       "Jalón a la cara",
       "Cable face pull con soga"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-0094",
-    "nombre_es": "Remo en polea alta con soga",
-    "nombre_en": "High Cable Row with Rope",
-    "tipo": "Compound",
-    "musculo": "Back",
-    "musculos_focus": [
-      "Back",
-      "Biceps"
-    ],
-    "equipo": "Cable",
-    "importancia": 7,
-    "como_hacerlo": [
-      "Colocá la polea a la altura del pecho o un poco más arriba y enganchá una soga.",
-      "Parate o sentate frente a la polea agarrando los extremos de la soga.",
-      "Mantené las palmas enfrentadas y los brazos extendidos al frente.",
-      "Tirá de la soga hacia el pecho/cuello separando las manos al final.",
-      "Apretá los omóplatos al final del movimiento.",
-      "Trabaja la parte alta de la espalda y trapecio medio.",
-      "Volvé controladamente extendiendo los brazos.",
-      "Es como un face pull pero con un ángulo de jalón más horizontal."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Biceps",
-        "peso": 0.3
-      },
-      {
-        "musculo": "Shoulders",
-        "peso": 0.25
-      }
-    ],
-    "nombres_alternativos": [
-      "High cable row",
-      "Remo alto en polea",
-      "Cable row with rope alto"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Standing-Face-Pull-(with-rope)_Shoulders.webp",
+    "video": "Cable-Standing-Face-Pull-(with-rope)_Shoulders.mp4",
+    "matched_con": "exercise-0578",
     "verificado": false,
     "variante_de": null
   },
@@ -4086,9 +3910,9 @@
       "Remo de foca",
       "Bench-supported row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Hammer-Grip-Incline-Bench-Two-Arm-Row_Back.webp",
+    "video": "Dumbbell-Hammer-Grip-Incline-Bench-Two-Arm-Row_Back.mp4",
+    "matched_con": "exercise-0790",
     "verificado": false,
     "variante_de": null
   },
@@ -4129,9 +3953,9 @@
       "Seal row con barra",
       "Bench-supported barbell row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Lying-Seal-Row-on-Rack_Back_.webp",
+    "video": "Barbell-Lying-Seal-Row-on-Rack_Back_.mp4",
+    "matched_con": "exercise-0215",
     "verificado": false,
     "variante_de": null
   },
@@ -4163,9 +3987,9 @@
       "Encogimientos inclinado boca abajo",
       "Shrugs en banco inclinado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Decline-Shrug_Back-FIX_.webp",
+    "video": "Dumbbell-Decline-Shrug_Back-FIX_.mp4",
+    "matched_con": "exercise-0746",
     "verificado": false,
     "variante_de": "exercise-0088"
   },
@@ -4196,9 +4020,9 @@
       "Pulldown brazos rectos",
       "Cable lat pullover de pie"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Straight-Arm-Pulldown_Back-FIX_.webp",
+    "video": "Cable-Straight-Arm-Pulldown_Back-FIX_.mp4",
+    "matched_con": "exercise-0622",
     "verificado": false,
     "variante_de": null
   },
@@ -4244,48 +4068,9 @@
       "Remo en anillas",
       "TRX row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-0101",
-    "nombre_es": "Buenos días sentado con barra",
-    "nombre_en": "Seated Good Morning",
-    "tipo": "Compound",
-    "musculo": "Back",
-    "musculos_focus": [
-      "Back",
-      "Core"
-    ],
-    "equipo": "Barbell",
-    "importancia": 4,
-    "como_hacerlo": [
-      "Sentate al borde de un banco plano con una barra apoyada sobre los trapecios.",
-      "Mantené los pies firmes en el suelo y la espalda recta.",
-      "Inclinate hacia adelante desde las caderas bajando el torso.",
-      "Mantené la espalda completamente recta durante todo el descenso.",
-      "Bajá hasta donde te permita la flexibilidad sin redondear la espalda.",
-      "Volvé a la posición erguida contrayendo los lumbares.",
-      "Aísla más el trabajo de los lumbares al eliminar las piernas.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Core",
-        "peso": 0.3
-      }
-    ],
-    "nombres_alternativos": [
-      "Seated good morning",
-      "Buenos días sentado",
-      "Good morning en banco"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Ring-Inverted-Row-parallel-to-the-floor-(male)_Bac.webp",
+    "video": "Ring-Inverted-Row-parallel-to-the-floor-(male)_Bac.mp4",
+    "matched_con": "exercise-1769",
     "verificado": false,
     "variante_de": null
   },
@@ -10013,39 +9798,6 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0254",
-    "nombre_es": "Curl nórdico (nordic curl)",
-    "nombre_en": "Nordic Curl",
-    "tipo": "Isolation",
-    "musculo": "Hamstrings",
-    "musculos_focus": [
-      "Hamstrings"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 7,
-    "como_hacerlo": [
-      "Arrodillate en una colchoneta con los tobillos asegurados (por un compañero o bajo un soporte).",
-      "Mantené el torso erguido y el cuerpo en línea recta desde las rodillas hasta la cabeza.",
-      "Bajá el torso hacia adelante lentamente flexionando solo las rodillas.",
-      "Resistí la caída con los isquios manteniendo el control.",
-      "Bajá lo más lentamente posible hasta que las manos toquen el suelo si es necesario.",
-      "Empujá con las manos para volver a la posición inicial.",
-      "Trabaja principalmente la fase excéntrica del isquio.",
-      "Es uno de los ejercicios más efectivos para los isquios."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Nordic curl",
-      "Curl nórdico de isquios",
-      "Nordic hamstring curl"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
-  },
-  {
     "id": "exercise-0255",
     "nombre_es": "Glute ham raise",
     "nombre_en": "Glute Ham Raise",
@@ -10792,9 +10544,9 @@
       "Peso muerto con mancuernas",
       "Deadlift con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Deadlift_Hips.webp",
+    "video": "Dumbbell-Deadlift_Hips.mp4",
+    "matched_con": "exercise-0738",
     "verificado": false,
     "variante_de": null
   },
@@ -10840,9 +10592,9 @@
       "Peso muerto con kettlebell",
       "KB deadlift"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Kettlebell-deadlift_Hips_.webp",
+    "video": "Kettlebell-deadlift_Hips_.mp4",
+    "matched_con": "exercise-1454",
     "verificado": false,
     "variante_de": null
   },
@@ -10887,9 +10639,9 @@
       "Peso muerto rumano con kettlebell",
       "RDL con kettlebell"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Kettlebell-Romanian-Deadlift_Hips_.webp",
+    "video": "Kettlebell-Romanian-Deadlift_Hips_.mp4",
+    "matched_con": "exercise-1395",
     "verificado": false,
     "variante_de": null
   },
@@ -10934,58 +10686,11 @@
       "Swing con kettlebell",
       "Russian swing"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Kettlebell-Swing_Hips-FIX2_.webp",
+    "video": "Kettlebell-Swing_Hips-FIX2_.mp4",
+    "matched_con": "exercise-1441",
     "verificado": false,
     "variante_de": null
-  },
-  {
-    "id": "exercise-0274",
-    "nombre_es": "Kettlebell swing americano",
-    "nombre_en": "American Kettlebell Swing",
-    "tipo": "Compound",
-    "musculo": "Hamstrings",
-    "musculos_focus": [
-      "Glutes",
-      "Hamstrings"
-    ],
-    "equipo": "Kettlebell",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Parate con una kettlebell entre los pies, separados al ancho de los hombros.",
-      "Agarrá la kettlebell con ambas manos extendiendo los brazos.",
-      "Hacé un swing inicial llevando la kettlebell entre las piernas.",
-      "Extendé explosivamente caderas y rodillas impulsando la kettlebell.",
-      "A diferencia del swing ruso, dejá que la kettlebell suba por encima de la cabeza.",
-      "Mantené los brazos extendidos durante todo el movimiento.",
-      "Dejá que caiga controladamente entre las piernas.",
-      "Es una versión más exigente que requiere buena movilidad de hombros."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.5
-      },
-      {
-        "musculo": "Shoulders",
-        "peso": 0.2
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.25
-      }
-    ],
-    "nombres_alternativos": [
-      "American swing",
-      "Swing americano",
-      "Overhead kettlebell swing"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0273"
   },
   {
     "id": "exercise-0275",
@@ -11014,9 +10719,9 @@
       "Aductores en máquina",
       "Máquina de aductores"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Seated-Hip-Adduction_Thighs.webp",
+    "video": "Lever-Seated-Hip-Adduction_Thighs.mp4",
+    "matched_con": "exercise-1622",
     "verificado": false,
     "variante_de": null
   },
@@ -11047,9 +10752,9 @@
       "Aducción en polea",
       "Cable inner thigh"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Hip-Adduction_Thighs.webp",
+    "video": "Cable-Hip-Adduction_Thighs.mp4",
+    "matched_con": "exercise-0412",
     "verificado": false,
     "variante_de": null
   },
@@ -11080,9 +10785,9 @@
       "Aducción con banda",
       "Band inner thigh"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Band-hip-adduction-(male)_Hips.webp",
+    "video": "Band-hip-adduction-(male)_Hips.mp4",
+    "matched_con": "exercise-0112",
     "verificado": false,
     "variante_de": null
   },
@@ -11113,9 +10818,9 @@
       "Aducción acostado",
       "Inner thigh raise"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Side-Plank-Hip-Adduction_Hips.webp",
+    "video": "Side-Plank-Hip-Adduction_Hips.mp4",
+    "matched_con": "exercise-1843",
     "verificado": false,
     "variante_de": null
   },
@@ -11248,9 +10953,9 @@
       "Sentadilla cosaca con peso",
       "Goblet cossack squat"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Cossack-Squats-(VERSION-2)-(male)_Thighs_.webp",
+    "video": "Dumbbell-Cossack-Squats-(VERSION-2)-(male)_Thighs_.mp4",
+    "matched_con": "exercise-0731",
     "verificado": false,
     "variante_de": "exercise-0280"
   },
@@ -11779,39 +11484,6 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0294",
-    "nombre_es": "Curl nórdico asistido con bandas",
-    "nombre_en": "Banded Nordic Curl",
-    "tipo": "Isolation",
-    "musculo": "Hamstrings",
-    "musculos_focus": [
-      "Hamstrings"
-    ],
-    "equipo": "Band",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Arrodillate en una colchoneta con los tobillos asegurados.",
-      "Anclá una banda elástica a un soporte alto frente a vos.",
-      "Pasá la banda por el pecho o las axilas para asistencia.",
-      "Mantené el cuerpo en línea recta desde las rodillas hasta la cabeza.",
-      "Bajá el torso hacia adelante lentamente flexionando solo las rodillas.",
-      "La banda ofrece asistencia en la parte más débil del movimiento.",
-      "Volvé a la posición inicial usando los isquios y la banda.",
-      "Permite progresar hacia el nordic curl sin asistencia."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Assisted nordic curl",
-      "Nórdico asistido",
-      "Banded nordic"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0254"
-  },
-  {
     "id": "exercise-0295",
     "nombre_es": "Glute bridge con barra",
     "nombre_en": "Barbell Glute Bridge",
@@ -12074,9 +11746,9 @@
       "Peso muerto rumano en Smith",
       "Smith machine RDL"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Smith-Deadlift_Hips.webp",
+    "video": "Smith-Deadlift_Hips.mp4",
+    "matched_con": "exercise-1881",
     "verificado": false,
     "variante_de": null
   },
