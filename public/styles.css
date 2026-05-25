@@ -466,6 +466,20 @@ main#editor { flex: 1; overflow-y: auto; -webkit-overflow-scrolling: touch; padd
 }
 .delete-btn:hover { background: #7f1d1d; color: #fee2e2; }
 
+.match-tabs { display: flex; gap: 8px; margin-bottom: 10px; }
+.match-tabs button {
+  flex: 1;
+  padding: 10px 12px;
+  background: var(--bg-3);
+  color: var(--text-dim);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.match-tabs button.active { background: var(--accent-2); color: #fff; border-color: var(--accent); }
+
 .match-search { margin-bottom: 14px; display: flex; gap: 8px; }
 #old-search {
   flex: 1;

@@ -42,10 +42,15 @@ const muscleTranslations = {
 const state = {
   claude: [],            // target exercises (from Claude JSONs)
   claudeById: new Map(),
-  old: [],               // old exercises (source of media)
+  old: [],               // old exercises (source of media) — sección Gym
   oldById: new Map(),
   oldSearchIndex: [],     // transformed entries used by Fuse
   fuse: null,
+  home: [],              // home workout media (built from filenames)
+  homeById: new Map(),
+  homeSearchIndex: [],    // { id, name, nameNorm }
+  homeFuse: null,
+  matchTab: 'gym',        // 'gym' | 'home'
   filter: 'pending',
   search: '',
   muscleFilter: '',
@@ -58,16 +63,20 @@ const $ = (id) => document.getElementById(id)
 
 // ---------- Load ----------
 async function init() {
-  const [rc, ro] = await Promise.all([
+  const [rc, ro, rh] = await Promise.all([
     fetch(`${API_BASE}/api/claude`),
     fetch(`${API_BASE}/api/old`),
+    fetch(`${API_BASE}/api/home`),
   ])
   state.claude = await rc.json()
   state.old = await ro.json()
+  state.home = await rh.json()
   for (const e of state.claude) state.claudeById.set(e.id, e)
   for (const e of state.old) state.oldById.set(e.id, e)
+  for (const e of state.home) state.homeById.set(e.id, e)
   buildVariantMaps()
   buildOldSearchIndex()
+  buildHomeSearchIndex()
   populateMuscleSelect()
   bindUI()
   renderStats()
@@ -93,6 +102,24 @@ function buildOldSearchIndex() {
   state.fuse = new Fuse(state.oldSearchIndex, FUSE_OPTIONS)
 }
 
+// Fuse config para la búsqueda de Home (solo nombre del video).
+const HOME_FUSE_OPTIONS = {
+  includeScore: true,
+  ignoreLocation: true,
+  threshold: 0.4,
+  minMatchCharLength: 2,
+  keys: [{ name: 'nameNorm', weight: 1 }],
+}
+
+function buildHomeSearchIndex() {
+  state.homeSearchIndex = state.home.map(h => ({
+    id: h.id,
+    name: h.nombre,
+    nameNorm: normalize(h.nombre),
+  }))
+  state.homeFuse = new Fuse(state.homeSearchIndex, HOME_FUSE_OPTIONS)
+}
+
 function scoreExercise(ex, queryNorm, words) {
   let score = 0
   if (ex.nameNorm === queryNorm) return 10000
@@ -104,6 +131,19 @@ function scoreExercise(ex, queryNorm, words) {
   if (allWholeWords) score += 200
   score += Math.max(0, 80 - ex.name.length)
   score += (commonEquipment[ex.equipment] || 0) * 10
+  return score
+}
+
+// Refinamiento de ranking para Home (solo nombre, sin equipo/músculo).
+function scoreHome(item, queryNorm, words) {
+  let score = 0
+  if (item.nameNorm === queryNorm) return 10000
+  if (item.nameNorm.startsWith(queryNorm)) score += 500
+  const nameWords = item.nameNorm.split(/\s+/)
+  if (nameWords[0] === words[0]) score += 100
+  const allWholeWords = words.every(w => nameWords.some(nw => nw === w))
+  if (allWholeWords) score += 200
+  score += Math.max(0, 80 - item.name.length)
   return score
 }
 
@@ -286,8 +326,8 @@ function renderVariantBox(ex) {
 function renderCurrentMatch(ex) {
   const c = $('current-match')
   if (!isMatched(ex)) { c.innerHTML = ''; return }
-  const old = state.oldById.get(ex.matched_con)
-  const oldName = old ? old.nombre_es : '(ejercicio no encontrado)'
+  const ref = state.oldById.get(ex.matched_con) || state.homeById.get(ex.matched_con)
+  const oldName = ref ? (ref.nombre_es || ref.nombre) : (ex.video || ex.imagen || '(referencia no encontrada)')
   c.innerHTML = `
     <div class="cm-head">
       <span>✓ Matcheado con <strong>${escapeHtml(oldName)}</strong> <span class="muted">${escapeHtml(ex.matched_con)}</span></span>
@@ -302,8 +342,47 @@ function renderCurrentMatch(ex) {
   $('cm-clear').addEventListener('click', clearMatch)
 }
 
-// ---------- Search candidates (old exercises) ----------
+// ---------- Search candidates ----------
+// Dispatch to the active tab's search.
 function runSearch(q) {
+  if (state.matchTab === 'home') return runHomeSearch(q)
+  return runGymSearch(q)
+}
+
+// Candidate lookup for the active tab.
+function getCandidate(id) {
+  return state.matchTab === 'home' ? state.homeById.get(id) : state.oldById.get(id)
+}
+
+// Home workout: Fuse search over the home-videos filenames (by name).
+function runHomeSearch(q) {
+  const c = $('candidates')
+  const query = (q || '').trim()
+  if (!query) { c.innerHTML = '<div class="cand-empty">Escribí el nombre del video…</div>'; return }
+  const queryNorm = normalize(query)
+  const words = queryNorm.split(/\s+/).filter(Boolean)
+  const hits = state.homeFuse.search(queryNorm)
+  const ranked = hits
+    .map(h => ({ item: h.item, rank: h.score * 1000 - scoreHome(h.item, queryNorm, words) }))
+  ranked.sort((a, b) => a.rank - b.rank)
+  const top = ranked.slice(0, 40).map(r => state.homeById.get(r.item.id)).filter(Boolean)
+  if (top.length === 0) { c.innerHTML = '<div class="cand-empty">Sin resultados</div>'; return }
+  c.innerHTML = top.map(m => `
+    <div class="cand ${m.id === state.selectedOldId ? 'sel' : ''}" data-id="${escapeHtml(m.id)}">
+      <div class="cand-thumb">${m.imagen ? `<img src="${API_BASE}/images/${encodeURIComponent(m.imagen)}" alt="" loading="lazy" />` : '<span class="noimg">—</span>'}</div>
+      <div class="cand-info">
+        <div class="cand-name">${escapeHtml(m.nombre)}</div>
+        <div class="cand-meta">Home workout</div>
+      </div>
+    </div>
+  `).join('')
+  for (const node of c.querySelectorAll('.cand')) {
+    node.addEventListener('click', () => selectCandidate(node.dataset.id))
+  }
+}
+
+// Gym workout: Fuse search over the old exercises (original behaviour).
+function runGymSearch(q) {
   const c = $('candidates')
   const query = (q || '').trim()
   if (!query) { c.innerHTML = '<div class="cand-empty">Escribí para buscar candidatos</div>'; return }
@@ -331,16 +410,17 @@ function runSearch(q) {
   }
 }
 
-function selectCandidate(oldId) {
-  state.selectedOldId = oldId
-  const old = state.oldById.get(oldId)
+function selectCandidate(candId) {
+  state.selectedOldId = candId
+  const old = getCandidate(candId)
   for (const node of $('candidates').querySelectorAll('.cand')) {
-    node.classList.toggle('sel', node.dataset.id === oldId)
+    node.classList.toggle('sel', node.dataset.id === candId)
   }
   const p = $('preview')
   if (!old) { resetPreview(); return }
+  const name = old.nombre_es || old.nombre || ''
   p.innerHTML = `
-    <div class="pv-title">${escapeHtml(old.nombre_es)} <span class="muted">${escapeHtml(old.nombre_en || '')}</span></div>
+    <div class="pv-title">${escapeHtml(name)} <span class="muted">${escapeHtml(old.nombre_en || '')}</span></div>
     <div class="pv-media">
       <div class="pv-block">
         <label>Imagen</label>
@@ -355,7 +435,7 @@ function selectCandidate(oldId) {
     </div>
     <button id="pv-confirm" class="pv-confirm">✓ Copiar imagen y video</button>
   `
-  $('pv-confirm').addEventListener('click', () => confirmMatch(oldId))
+  $('pv-confirm').addEventListener('click', () => confirmMatch(candId))
 }
 
 function resetPreview() {
@@ -363,8 +443,8 @@ function resetPreview() {
 }
 
 // ---------- Apply match ----------
-function confirmMatch(oldId) {
-  const old = state.oldById.get(oldId)
+function confirmMatch(candId) {
+  const old = getCandidate(candId)
   if (!old) return
   applyMatch({ imagen: old.imagen || '', video: old.video || '', matched_con: old.id })
 }
@@ -487,6 +567,10 @@ function bindUI() {
     runSearch($('old-search').value)
   })
 
+  for (const btn of document.querySelectorAll('.match-tabs [data-mtab]')) {
+    btn.addEventListener('click', () => switchTab(btn.dataset.mtab))
+  }
+
   $('btn-next').addEventListener('click', advanceToNext)
   $('btn-delete').addEventListener('click', deleteCurrent)
 
@@ -496,6 +580,23 @@ function bindUI() {
     document.body.classList.toggle('sidebar-open')
   })
   $('sidebar-backdrop').addEventListener('click', closeSidebar)
+}
+
+// Switch between the Gym (JSON viejo) and Home (archivos) candidate sections.
+function switchTab(tab) {
+  if (tab !== 'gym' && tab !== 'home') return
+  state.matchTab = tab
+  state.selectedOldId = null
+  for (const b of document.querySelectorAll('.match-tabs [data-mtab]')) {
+    b.classList.toggle('active', b.dataset.mtab === tab)
+  }
+  // Muscle filter only applies to the gym search.
+  $('old-muscle').classList.toggle('hidden', tab === 'home')
+  $('old-search').placeholder = tab === 'home'
+    ? 'Buscar por nombre del video…'
+    : 'Buscar ejercicio viejo que coincida…'
+  resetPreview()
+  runSearch($('old-search').value)
 }
 
 // ---------- Utils ----------

@@ -9,8 +9,14 @@ const __dirname = path.dirname(__filename)
 const PORT = parseInt(process.env.PORT || '5174', 10)
 const OLD_JSON = path.join(__dirname, 'data', 'ejercicios-nuevos.json')
 const CLAUDE_DIR = process.env.CLAUDE_DIR || path.join(__dirname, 'jsons-ejercicios-claude')
-const VIDEOS_DIR = process.env.VIDEOS_DIR || path.join(__dirname, 'videos')
-const IMAGES_DIR = process.env.IMAGES_DIR || '/home/isaiasleibo/Desktop/somatrack-project/somatrack-1.0.4/frontend/public/thumbnails'
+
+// Media folders. Gym = ejercicios viejos (mismo nombre que imagen/video del JSON
+// viejo). Home = solo archivos de video/thumb, sin JSON asociado.
+const GYM_THUMBS = process.env.GYM_THUMBS || path.join(__dirname, 'gym-thumbails')
+const GYM_VIDEOS = process.env.GYM_VIDEOS || path.join(__dirname, 'gym-videos')
+const HOME_THUMBS = process.env.HOME_THUMBS || path.join(__dirname, 'home-thumbails')
+const HOME_VIDEOS = process.env.HOME_VIDEOS || path.join(__dirname, 'home-videos')
+
 const ALLOWED_ORIGINS = (process.env.ALLOWED_ORIGINS || '').split(',').map(s => s.trim()).filter(Boolean)
 
 const app = express()
@@ -90,9 +96,30 @@ app.get('/api/claude', (req, res) => {
   res.json(out)
 })
 
-// All old exercises (for search / media lookup)
+// All old exercises (for search / media lookup) — sección "Gym workout"
 app.get('/api/old', (req, res) => {
   res.json(oldExercises)
+})
+
+// Home workout candidates — built from the home-videos filenames (no JSON).
+// Each video file has a matching thumbnail with the same basename in home-thumbails.
+app.get('/api/home', (req, res) => {
+  if (!fs.existsSync(HOME_VIDEOS)) return res.json([])
+  const out = fs.readdirSync(HOME_VIDEOS)
+    .filter(f => f.toLowerCase().endsWith('.mp4'))
+    .map(video => {
+      const base = video.replace(/\.mp4$/i, '')
+      const webp = base + '.webp'
+      const imagen = fs.existsSync(path.join(HOME_THUMBS, webp)) ? webp : ''
+      // Nombre legible a partir del archivo: separadores → espacios, sin sufijos basura.
+      const nombre = base
+        .replace(/_+$/g, '')
+        .replace(/[-_]+/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim()
+      return { id: base, video, imagen, nombre }
+    })
+  res.json(out)
 })
 
 // Apply / update a match on a claude exercise (copy media + record source)
@@ -143,22 +170,25 @@ app.get('/api/stats', (req, res) => {
   res.json({ total, matched, pending: total - matched })
 })
 
-// Serve images from the somatrack frontend thumbnails folder
+// Resolve a media file across several folders (first match wins). Since we don't
+// store the origin of a match, the gym folder takes priority, then home.
+function serveFromDirs(dirs, filename, res) {
+  for (const dir of dirs) {
+    const full = path.join(dir, filename)
+    if (!full.startsWith(dir)) continue
+    if (fs.existsSync(full)) return res.sendFile(full)
+  }
+  res.status(404).send('not found')
+}
+
+// Thumbnails: try gym then home.
 app.get('/images/:filename', (req, res) => {
-  const filename = req.params.filename
-  const full = path.join(IMAGES_DIR, filename)
-  if (!full.startsWith(IMAGES_DIR)) return res.status(400).send('bad path')
-  if (!fs.existsSync(full)) return res.status(404).send('not found')
-  res.sendFile(full)
+  serveFromDirs([GYM_THUMBS, HOME_THUMBS], req.params.filename, res)
 })
 
-// Serve videos from local videos folder
+// Videos: try gym then home.
 app.get('/videos/:filename', (req, res) => {
-  const filename = req.params.filename
-  const full = path.join(VIDEOS_DIR, filename)
-  if (!full.startsWith(VIDEOS_DIR)) return res.status(400).send('bad path')
-  if (!fs.existsSync(full)) return res.status(404).send('not found')
-  res.sendFile(full)
+  serveFromDirs([GYM_VIDEOS, HOME_VIDEOS], req.params.filename, res)
 })
 
 loadOldExercises()
