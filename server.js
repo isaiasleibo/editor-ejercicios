@@ -10,12 +10,10 @@ const PORT = parseInt(process.env.PORT || '5174', 10)
 const OLD_JSON = path.join(__dirname, 'data', 'ejercicios-nuevos.json')
 const CLAUDE_DIR = process.env.CLAUDE_DIR || path.join(__dirname, 'jsons-ejercicios-claude')
 
-// Media folders. Gym = ejercicios viejos (mismo nombre que imagen/video del JSON
-// viejo). Home = solo archivos de video/thumb, sin JSON asociado.
-const GYM_THUMBS = process.env.GYM_THUMBS || path.join(__dirname, 'gym-thumbails')
-const GYM_VIDEOS = process.env.GYM_VIDEOS || path.join(__dirname, 'gym-videos')
-const HOME_THUMBS = process.env.HOME_THUMBS || path.join(__dirname, 'home-thumbails')
-const HOME_VIDEOS = process.env.HOME_VIDEOS || path.join(__dirname, 'home-videos')
+// Media folders. Toda la biblioteca de videos vive junta: los .mp4 comprimidos
+// en VIDEOS_DIR y los thumbnails .webp (mismo basename) en THUMBS_DIR.
+const VIDEOS_DIR = process.env.VIDEOS_DIR || path.join(__dirname, 'todos-los-videos_compressed')
+const THUMBS_DIR = process.env.THUMBS_DIR || path.join(__dirname, 'todos-los-videos_thumbnails')
 
 const ALLOWED_ORIGINS = (process.env.ALLOWED_ORIGINS || '').split(',').map(s => s.trim()).filter(Boolean)
 
@@ -101,17 +99,17 @@ app.get('/api/old', (req, res) => {
   res.json(oldExercises)
 })
 
-// Home workout candidates — built from the home-videos filenames (no JSON).
-// Each video file has a matching thumbnail with the same basename in home-thumbails.
-app.get('/api/home', (req, res) => {
-  if (!fs.existsSync(HOME_VIDEOS)) return res.json([])
-  const out = fs.readdirSync(HOME_VIDEOS)
+// Build a candidate list from a video folder (no JSON). Each video file has a
+// matching thumbnail with the same basename in the thumbs folder. The display
+// name is the filename with separators turned into spaces.
+function buildMediaList(videosDir, thumbsDir) {
+  if (!fs.existsSync(videosDir)) return []
+  return fs.readdirSync(videosDir)
     .filter(f => f.toLowerCase().endsWith('.mp4'))
     .map(video => {
       const base = video.replace(/\.mp4$/i, '')
       const webp = base + '.webp'
-      const imagen = fs.existsSync(path.join(HOME_THUMBS, webp)) ? webp : ''
-      // Nombre legible a partir del archivo: separadores → espacios, sin sufijos basura.
+      const imagen = fs.existsSync(path.join(thumbsDir, webp)) ? webp : ''
       const nombre = base
         .replace(/_+$/g, '')
         .replace(/[-_]+/g, ' ')
@@ -119,7 +117,11 @@ app.get('/api/home', (req, res) => {
         .trim()
       return { id: base, video, imagen, nombre }
     })
-  res.json(out)
+}
+
+// Candidatos: toda la biblioteca de videos (un solo origen).
+app.get('/api/media', (req, res) => {
+  res.json(buildMediaList(VIDEOS_DIR, THUMBS_DIR))
 })
 
 // Apply / update a match on a claude exercise (copy media + record source)
@@ -170,25 +172,21 @@ app.get('/api/stats', (req, res) => {
   res.json({ total, matched, pending: total - matched })
 })
 
-// Resolve a media file across several folders (first match wins). Since we don't
-// store the origin of a match, the gym folder takes priority, then home.
-function serveFromDirs(dirs, filename, res) {
-  for (const dir of dirs) {
-    const full = path.join(dir, filename)
-    if (!full.startsWith(dir)) continue
-    if (fs.existsSync(full)) return res.sendFile(full)
-  }
+// Sirve un archivo de media desde una carpeta, evitando path traversal.
+function serveFromDir(dir, filename, res) {
+  const full = path.join(dir, filename)
+  if (full.startsWith(dir) && fs.existsSync(full)) return res.sendFile(full)
   res.status(404).send('not found')
 }
 
-// Thumbnails: try gym then home.
+// Thumbnails (.webp)
 app.get('/images/:filename', (req, res) => {
-  serveFromDirs([GYM_THUMBS, HOME_THUMBS], req.params.filename, res)
+  serveFromDir(THUMBS_DIR, req.params.filename, res)
 })
 
-// Videos: try gym then home.
+// Videos (.mp4)
 app.get('/videos/:filename', (req, res) => {
-  serveFromDirs([GYM_VIDEOS, HOME_VIDEOS], req.params.filename, res)
+  serveFromDir(VIDEOS_DIR, req.params.filename, res)
 })
 
 loadOldExercises()

@@ -2,29 +2,10 @@ import Fuse from '/fuse.min.mjs'
 
 const MUSCLES = ['Adductors','Back','Biceps','Calves','Chest','Core','Forearms','Glutes','Hamstrings','Quadriceps','Shoulders','Triceps']
 
-// La data vieja (candidatos) todavía usa Upperback/Lowerback; los agrupamos bajo "Back"
-// para que matcheen con los ejercicios de Claude, que ya usan un único "Back".
+// Los ejercicios de Claude todavía usan Upperback/Lowerback; los agrupamos bajo
+// "Back" para el filtro de músculo de la lista de la izquierda.
 const muscleGroup = (m) => (m === 'Lowerback' || m === 'Upperback') ? 'Back' : m
 
-// Same Fuse config as the real app (somatrack frontend exerciseDB.js)
-const FUSE_OPTIONS = {
-  includeScore: true,
-  ignoreLocation: true,
-  threshold: 0.4,
-  minMatchCharLength: 2,
-  keys: [
-    { name: 'nameNorm', weight: 2 },
-    { name: 'sinonimosNorm', weight: 1.5 },
-    { name: 'nameEnNorm', weight: 1.5 },
-    { name: 'primaryMuscleNorm', weight: 1 }
-  ]
-}
-const commonEquipment = { barbell: 3, dumbbell: 2, bodyweight: 1 }
-const equipmentMap = {
-  'Barbell': 'barbell', 'Barbell,bench': 'barbell', 'Dumbbell': 'dumbbell',
-  'Dumbbell,bench': 'dumbbell', 'Cable': 'cable', 'Machine': 'machine',
-  'Band': 'band', 'Bench': 'bodyweight', 'None': 'bodyweight'
-}
 // API base URL — uses dedicated api domain in production, relative in dev
 const API_BASE = (() => {
   const h = location.hostname
@@ -32,29 +13,26 @@ const API_BASE = (() => {
   return ''
 })()
 
-const muscleTranslations = {
-  'Chest': 'Pecho', 'Upperback': 'Espalda superior', 'Lowerback': 'Espalda baja',
-  'Shoulders': 'Hombros', 'Quadriceps': 'Cuádriceps', 'Hamstrings': 'Isquiotibiales',
-  'Glutes': 'Glúteos', 'Calves': 'Pantorrillas', 'Biceps': 'Bíceps',
-  'Triceps': 'Tríceps', 'Forearms': 'Antebrazos', 'Core': 'Core'
+// Fuse config para los candidatos (buscamos solo por nombre del video).
+const CAND_FUSE_OPTIONS = {
+  includeScore: true,
+  ignoreLocation: true,
+  threshold: 0.4,
+  minMatchCharLength: 2,
+  keys: [{ name: 'nameNorm', weight: 1 }],
 }
 
 const state = {
   claude: [],            // target exercises (from Claude JSONs)
   claudeById: new Map(),
-  old: [],               // old exercises (source of media) — sección Gym
-  oldById: new Map(),
-  oldSearchIndex: [],     // transformed entries used by Fuse
-  fuse: null,
-  home: [],              // home workout media (built from filenames)
-  homeById: new Map(),
-  homeSearchIndex: [],    // { id, name, nameNorm }
-  homeFuse: null,
-  matchTab: 'gym',        // 'gym' | 'home'
+  // Candidatos: toda la biblioteca de videos, construida desde los nombres de
+  // archivo. Forma { id, video, imagen, nombre }.
+  media: [],
+  mediaById: new Map(),
+  mediaFuse: null,
   filter: 'pending',
   search: '',
-  muscleFilter: '',
-  candMuscle: '',         // muscle filter for the candidate (old) search
+  muscleFilter: '',       // filtro de músculo de la lista de Claude (izquierda)
   currentId: null,        // selected claude exercise
   selectedOldId: null,    // candidate currently previewed
 }
@@ -63,79 +41,30 @@ const $ = (id) => document.getElementById(id)
 
 // ---------- Load ----------
 async function init() {
-  const [rc, ro, rh] = await Promise.all([
+  const [rc, rm] = await Promise.all([
     fetch(`${API_BASE}/api/claude`),
-    fetch(`${API_BASE}/api/old`),
-    fetch(`${API_BASE}/api/home`),
+    fetch(`${API_BASE}/api/media`),
   ])
   state.claude = await rc.json()
-  state.old = await ro.json()
-  state.home = await rh.json()
+  state.media = await rm.json()
   for (const e of state.claude) state.claudeById.set(e.id, e)
-  for (const e of state.old) state.oldById.set(e.id, e)
-  for (const e of state.home) state.homeById.set(e.id, e)
+  for (const e of state.media) state.mediaById.set(e.id, e)
   buildVariantMaps()
-  buildOldSearchIndex()
-  buildHomeSearchIndex()
+  state.mediaFuse = buildCandFuse(state.media)
   populateMuscleSelect()
   bindUI()
   renderStats()
   renderList()
 }
 
-function buildOldSearchIndex() {
-  state.oldSearchIndex = state.old.map(ex => {
-    const nombre_es = ex.nombre_es || ''
-    const nombre_en = ex.nombre_en || ''
-    const sinonimos = Array.isArray(ex.nombres_alternativos) ? ex.nombres_alternativos : []
-    const primaryMuscle = muscleTranslations[ex.musculo] || ex.musculo || ''
-    return {
-      id: ex.id,
-      name: nombre_es,
-      nameNorm: normalize(nombre_es),
-      nameEnNorm: normalize(nombre_en),
-      sinonimosNorm: sinonimos.map(s => normalize(s)),
-      primaryMuscleNorm: normalize(primaryMuscle),
-      equipment: equipmentMap[ex.equipo] || 'bodyweight',
-    }
-  })
-  state.fuse = new Fuse(state.oldSearchIndex, FUSE_OPTIONS)
+// Build a Fuse index over a candidate list (gym or home) keyed by video name.
+function buildCandFuse(list) {
+  const index = list.map(m => ({ id: m.id, name: m.nombre, nameNorm: normalize(m.nombre) }))
+  return new Fuse(index, CAND_FUSE_OPTIONS)
 }
 
-// Fuse config para la búsqueda de Home (solo nombre del video).
-const HOME_FUSE_OPTIONS = {
-  includeScore: true,
-  ignoreLocation: true,
-  threshold: 0.4,
-  minMatchCharLength: 2,
-  keys: [{ name: 'nameNorm', weight: 1 }],
-}
-
-function buildHomeSearchIndex() {
-  state.homeSearchIndex = state.home.map(h => ({
-    id: h.id,
-    name: h.nombre,
-    nameNorm: normalize(h.nombre),
-  }))
-  state.homeFuse = new Fuse(state.homeSearchIndex, HOME_FUSE_OPTIONS)
-}
-
-function scoreExercise(ex, queryNorm, words) {
-  let score = 0
-  if (ex.nameNorm === queryNorm) return 10000
-  if (ex.nameNorm.startsWith(queryNorm)) score += 500
-  const nameFirstWord = ex.nameNorm.split(/\s+/)[0]
-  if (nameFirstWord === words[0]) score += 100
-  const nameWords = ex.nameNorm.split(/\s+/)
-  const allWholeWords = words.every(w => nameWords.some(nw => nw === w))
-  if (allWholeWords) score += 200
-  score += Math.max(0, 80 - ex.name.length)
-  score += (commonEquipment[ex.equipment] || 0) * 10
-  return score
-}
-
-// Refinamiento de ranking para Home (solo nombre, sin equipo/músculo).
-function scoreHome(item, queryNorm, words) {
+// Ranking refinement on top of the Fuse score (search is by name only).
+function scoreName(item, queryNorm, words) {
   let score = 0
   if (item.nameNorm === queryNorm) return 10000
   if (item.nameNorm.startsWith(queryNorm)) score += 500
@@ -150,7 +79,6 @@ function scoreHome(item, queryNorm, words) {
 function populateMuscleSelect() {
   for (const m of MUSCLES) {
     $('filter-muscle').insertAdjacentHTML('beforeend', `<option value="${m}">${m}</option>`)
-    $('old-muscle').insertAdjacentHTML('beforeend', `<option value="${m}">${m}</option>`)
   }
 }
 
@@ -261,11 +189,11 @@ function selectClaude(id) {
   renderCurrentMatch(ex)
   resetPreview()
 
-  // Default the candidate filter to this exercise's muscle, then auto-suggest
-  state.candMuscle = MUSCLES.includes(muscleGroup(ex.musculo)) ? muscleGroup(ex.musculo) : ''
-  $('old-muscle').value = state.candMuscle
-  $('old-search').value = ex.nombre_es || ''
-  runSearch(ex.nombre_es || '')
+  // Seed the candidate search with the exercise name (English seeds the
+  // video-filename search better since filenames are in English).
+  const seed = ex.nombre_en || ex.nombre_es || ''
+  $('old-search').value = seed
+  runSearch(seed)
 
   renderList()
   document.body.classList.remove('sidebar-open')
@@ -326,8 +254,8 @@ function renderVariantBox(ex) {
 function renderCurrentMatch(ex) {
   const c = $('current-match')
   if (!isMatched(ex)) { c.innerHTML = ''; return }
-  const ref = state.oldById.get(ex.matched_con) || state.homeById.get(ex.matched_con)
-  const oldName = ref ? (ref.nombre_es || ref.nombre) : (ex.video || ex.imagen || '(referencia no encontrada)')
+  const ref = state.mediaById.get(ex.matched_con)
+  const oldName = ref ? ref.nombre : (ex.video || ex.imagen || '(referencia no encontrada)')
   c.innerHTML = `
     <div class="cm-head">
       <span>✓ Matcheado con <strong>${escapeHtml(oldName)}</strong> <span class="muted">${escapeHtml(ex.matched_con)}</span></span>
@@ -343,65 +271,31 @@ function renderCurrentMatch(ex) {
 }
 
 // ---------- Search candidates ----------
-// Dispatch to the active tab's search.
-function runSearch(q) {
-  if (state.matchTab === 'home') return runHomeSearch(q)
-  return runGymSearch(q)
-}
-
-// Candidate lookup for the active tab.
+// Candidate lookup over the single media library.
 function getCandidate(id) {
-  return state.matchTab === 'home' ? state.homeById.get(id) : state.oldById.get(id)
+  return state.mediaById.get(id)
 }
 
-// Home workout: Fuse search over the home-videos filenames (by name).
-function runHomeSearch(q) {
+function runSearch(q) {
   const c = $('candidates')
   const query = (q || '').trim()
   if (!query) { c.innerHTML = '<div class="cand-empty">Escribí el nombre del video…</div>'; return }
   const queryNorm = normalize(query)
   const words = queryNorm.split(/\s+/).filter(Boolean)
-  const hits = state.homeFuse.search(queryNorm)
-  const ranked = hits
-    .map(h => ({ item: h.item, rank: h.score * 1000 - scoreHome(h.item, queryNorm, words) }))
+  const byId = state.mediaById
+  const fuse = state.mediaFuse
+  const label = 'Biblioteca'
+  const ranked = fuse.search(queryNorm)
+    .map(h => ({ item: h.item, rank: h.score * 1000 - scoreName(h.item, queryNorm, words) }))
   ranked.sort((a, b) => a.rank - b.rank)
-  const top = ranked.slice(0, 40).map(r => state.homeById.get(r.item.id)).filter(Boolean)
+  const top = ranked.slice(0, 40).map(r => byId.get(r.item.id)).filter(Boolean)
   if (top.length === 0) { c.innerHTML = '<div class="cand-empty">Sin resultados</div>'; return }
   c.innerHTML = top.map(m => `
     <div class="cand ${m.id === state.selectedOldId ? 'sel' : ''}" data-id="${escapeHtml(m.id)}">
       <div class="cand-thumb">${m.imagen ? `<img src="${API_BASE}/images/${encodeURIComponent(m.imagen)}" alt="" loading="lazy" />` : '<span class="noimg">—</span>'}</div>
       <div class="cand-info">
         <div class="cand-name">${escapeHtml(m.nombre)}</div>
-        <div class="cand-meta">Home workout</div>
-      </div>
-    </div>
-  `).join('')
-  for (const node of c.querySelectorAll('.cand')) {
-    node.addEventListener('click', () => selectCandidate(node.dataset.id))
-  }
-}
-
-// Gym workout: Fuse search over the old exercises (original behaviour).
-function runGymSearch(q) {
-  const c = $('candidates')
-  const query = (q || '').trim()
-  if (!query) { c.innerHTML = '<div class="cand-empty">Escribí para buscar candidatos</div>'; return }
-  const queryNorm = normalize(query)
-  const words = queryNorm.split(/\s+/).filter(Boolean)
-  const hits = state.fuse.search(queryNorm)
-  const ranked = hits
-    .map(h => ({ item: h.item, rank: h.score * 1000 - scoreExercise(h.item, queryNorm, words) }))
-  ranked.sort((a, b) => a.rank - b.rank)
-  let top = ranked.map(r => state.oldById.get(r.item.id)).filter(Boolean)
-  if (state.candMuscle) top = top.filter(m => muscleGroup(m.musculo) === state.candMuscle)
-  top = top.slice(0, 30)
-  if (top.length === 0) { c.innerHTML = '<div class="cand-empty">Sin resultados</div>'; return }
-  c.innerHTML = top.map(m => `
-    <div class="cand ${m.id === state.selectedOldId ? 'sel' : ''}" data-id="${m.id}">
-      <div class="cand-thumb">${m.imagen ? `<img src="${API_BASE}/images/${encodeURIComponent(m.imagen)}" alt="" loading="lazy" />` : '<span class="noimg">—</span>'}</div>
-      <div class="cand-info">
-        <div class="cand-name">${escapeHtml(m.nombre_es)}</div>
-        <div class="cand-meta">${escapeHtml(m.musculo || '')} · ${escapeHtml(m.equipo || '')}</div>
+        <div class="cand-meta">${escapeHtml(label)}</div>
       </div>
     </div>
   `).join('')
@@ -418,9 +312,8 @@ function selectCandidate(candId) {
   }
   const p = $('preview')
   if (!old) { resetPreview(); return }
-  const name = old.nombre_es || old.nombre || ''
   p.innerHTML = `
-    <div class="pv-title">${escapeHtml(name)} <span class="muted">${escapeHtml(old.nombre_en || '')}</span></div>
+    <div class="pv-title">${escapeHtml(old.nombre || '')}</div>
     <div class="pv-media">
       <div class="pv-block">
         <label>Imagen</label>
@@ -562,14 +455,6 @@ function bindUI() {
     const v = e.target.value
     searchTimer = setTimeout(() => runSearch(v), 150)
   })
-  $('old-muscle').addEventListener('change', e => {
-    state.candMuscle = e.target.value
-    runSearch($('old-search').value)
-  })
-
-  for (const btn of document.querySelectorAll('.match-tabs [data-mtab]')) {
-    btn.addEventListener('click', () => switchTab(btn.dataset.mtab))
-  }
 
   $('btn-next').addEventListener('click', advanceToNext)
   $('btn-delete').addEventListener('click', deleteCurrent)
@@ -580,23 +465,6 @@ function bindUI() {
     document.body.classList.toggle('sidebar-open')
   })
   $('sidebar-backdrop').addEventListener('click', closeSidebar)
-}
-
-// Switch between the Gym (JSON viejo) and Home (archivos) candidate sections.
-function switchTab(tab) {
-  if (tab !== 'gym' && tab !== 'home') return
-  state.matchTab = tab
-  state.selectedOldId = null
-  for (const b of document.querySelectorAll('.match-tabs [data-mtab]')) {
-    b.classList.toggle('active', b.dataset.mtab === tab)
-  }
-  // Muscle filter only applies to the gym search.
-  $('old-muscle').classList.toggle('hidden', tab === 'home')
-  $('old-search').placeholder = tab === 'home'
-    ? 'Buscar por nombre del video…'
-    : 'Buscar ejercicio viejo que coincida…'
-  resetPreview()
-  runSearch($('old-search').value)
 }
 
 // ---------- Utils ----------

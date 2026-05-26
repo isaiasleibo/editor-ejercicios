@@ -40,9 +40,9 @@
       "Bench press plano",
       "Press de pecho con barra"
     ],
-    "imagen": "Barbell-Bench-Press_Chest-FIX2_.webp",
-    "video": "Barbell-Bench-Press_Chest-FIX2_.mp4",
-    "matched_con": "exercise-0134",
+    "imagen": "Barbell-Explosive-Bench-Press_Chest_.webp",
+    "video": "Barbell-Explosive-Bench-Press_Chest_.mp4",
+    "matched_con": "Barbell-Explosive-Bench-Press_Chest_",
     "verificado": false,
     "variante_de": null
   },
@@ -135,9 +135,9 @@
       "Decline bench press",
       "Press de pecho inferior con barra"
     ],
-    "imagen": "Barbell-Decline-Bench-Press_Chest-FIX_.webp",
-    "video": "Barbell-Decline-Bench-Press_Chest-FIX_.mp4",
-    "matched_con": "exercise-0158",
+    "imagen": "Barbell-Pause-Decline-Bench-Press_Chest_.webp",
+    "video": "Barbell-Pause-Decline-Bench-Press_Chest_.mp4",
+    "matched_con": "Barbell-Pause-Decline-Bench-Press_Chest_",
     "verificado": false,
     "variante_de": "exercise-0001"
   },
@@ -5766,9 +5766,9 @@
       "Barbell curl",
       "Flexión de bíceps con barra"
     ],
-    "imagen": "Barbell-Curl_Upper-Arms-FIX2_.webp",
-    "video": "Barbell-Curl_Upper-Arms-FIX2_.mp4",
-    "matched_con": "exercise-0151",
+    "imagen": "Barbell-Standing-Wide-grip-Curl_Upper-Arms.webp",
+    "video": "Barbell-Standing-Wide-grip-Curl_Upper-Arms.mp4",
+    "matched_con": "Barbell-Standing-Wide-grip-Curl_Upper-Arms",
     "verificado": false,
     "variante_de": null
   },
