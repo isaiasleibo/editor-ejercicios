@@ -304,6 +304,20 @@ function runSearch(q) {
   }
 }
 
+function navigateCandidates(dir) {
+  const nodes = Array.from($('candidates').querySelectorAll('.cand'))
+  if (nodes.length === 0) return
+  let idx = nodes.findIndex(n => n.dataset.id === state.selectedOldId)
+  if (idx === -1) {
+    idx = dir > 0 ? 0 : nodes.length - 1
+  } else {
+    idx = (idx + dir + nodes.length) % nodes.length
+  }
+  const node = nodes[idx]
+  selectCandidate(node.dataset.id)
+  node.scrollIntoView({ block: 'nearest' })
+}
+
 function selectCandidate(candId) {
   state.selectedOldId = candId
   const old = getCandidate(candId)
@@ -454,6 +468,10 @@ function bindUI() {
     clearTimeout(searchTimer)
     const v = e.target.value
     searchTimer = setTimeout(() => runSearch(v), 150)
+  })
+  $('old-search').addEventListener('keydown', e => {
+    if (e.key === 'ArrowDown') { e.preventDefault(); navigateCandidates(1) }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); navigateCandidates(-1) }
   })
 
   $('btn-next').addEventListener('click', advanceToNext)
