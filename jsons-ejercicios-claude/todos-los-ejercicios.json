@@ -1314,48 +1314,6 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0032",
-    "nombre_es": "Press en suelo con barra agarre cerrado",
-    "nombre_en": "Close-Grip Barbell Floor Press",
-    "tipo": "Compound",
-    "musculo": "Chest",
-    "musculos_focus": [
-      "Chest",
-      "Triceps"
-    ],
-    "equipo": "Barbell",
-    "importancia": 4,
-    "como_hacerlo": [
-      "Acostate boca arriba en el suelo con las piernas extendidas o flexionadas.",
-      "Agarrá la barra con las manos a la altura de los hombros o un poco más cerca.",
-      "Mantené los codos cerca del torso durante todo el movimiento.",
-      "Bajá controladamente hasta que los codos toquen el suelo.",
-      "Pausá un segundo con los codos apoyados.",
-      "Empujá la barra hacia arriba hasta extender los brazos.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Triceps",
-        "peso": 0.6
-      },
-      {
-        "musculo": "Shoulders",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Floor press cerrado",
-      "Press en piso cerrado con barra",
-      "Close-grip floor press"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0031"
-  },
-  {
     "id": "exercise-0033",
     "nombre_es": "Press en suelo con mancuernas",
     "nombre_en": "Dumbbell Floor Press",
@@ -2427,49 +2385,6 @@
     "imagen": "Cable-one-arm-lat-pulldown_back.webp",
     "video": "Cable-one-arm-lat-pulldown_back.mp4",
     "matched_con": "exercise-0642",
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-0058",
-    "nombre_es": "Jalón en polea alta con soga",
-    "nombre_en": "Rope Lat Pulldown",
-    "tipo": "Compound",
-    "musculo": "Back",
-    "musculos_focus": [
-      "Back",
-      "Biceps"
-    ],
-    "equipo": "Cable",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Enganchá una soga a la polea alta.",
-      "Sentate en la máquina ajustando los almohadones para los muslos.",
-      "Agarrá los extremos de la soga con las palmas enfrentadas.",
-      "Inclinate ligeramente hacia atrás.",
-      "Tirá de la soga hacia abajo separando las manos al final.",
-      "Llevá las manos a los costados del torso.",
-      "El movimiento con soga permite una contracción más profunda.",
-      "Volvé controladamente hasta extender los brazos."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Biceps",
-        "peso": 0.3
-      },
-      {
-        "musculo": "Shoulders",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Rope pulldown",
-      "Jalón con soga",
-      "Cable rope pulldown"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
     "verificado": false,
     "variante_de": null
   },
@@ -3827,53 +3742,6 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0095",
-    "nombre_es": "Remo Kroc con mancuerna",
-    "nombre_en": "Kroc Row",
-    "tipo": "Compound",
-    "musculo": "Back",
-    "musculos_focus": [
-      "Back",
-      "Biceps"
-    ],
-    "equipo": "Dumbbell",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Apoyá una mano y una rodilla en un banco plano para estabilidad.",
-      "Sostené una mancuerna pesada (más pesada que un remo regular) con el brazo libre.",
-      "Mantené la espalda paralela al suelo y el core firme.",
-      "Tirá de la mancuerna hacia la cadera con un movimiento más explosivo.",
-      "Permite un poco de uso de la cadera para mover más peso.",
-      "Llevá el codo lo más atrás posible cerca del torso.",
-      "Bajá controladamente extendiendo el brazo.",
-      "Completá todas las repeticiones de alto número (15-20+) antes de cambiar."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Biceps",
-        "peso": 0.3
-      },
-      {
-        "musculo": "Shoulders",
-        "peso": 0.25
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.25
-      }
-    ],
-    "nombres_alternativos": [
-      "Kroc row",
-      "Remo Kroc",
-      "Heavy dumbbell row"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0065"
-  },
-  {
     "id": "exercise-0096",
     "nombre_es": "Remo Seal con mancuernas",
     "nombre_en": "Seal Row",
@@ -4161,49 +4029,6 @@
     "imagen": "Barbell-Seated-Overhead-Press_Shoulders.webp",
     "video": "Barbell-Seated-Overhead-Press_Shoulders.mp4",
     "matched_con": "Barbell-Seated-Overhead-Press_Shoulders",
-    "verificado": false,
-    "variante_de": "exercise-0102"
-  },
-  {
-    "id": "exercise-0104",
-    "nombre_es": "Press militar con barra detrás de la nuca",
-    "nombre_en": "Behind-the-Neck Barbell Press",
-    "tipo": "Compound",
-    "musculo": "Shoulders",
-    "musculos_focus": [
-      "Shoulders",
-      "Triceps"
-    ],
-    "equipo": "Barbell",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Sentate en un banco con respaldo vertical o parate erguido.",
-      "Agarrá la barra con las manos más anchas que los hombros.",
-      "Posicioná la barra detrás del cuello, apoyada sobre los trapecios.",
-      "Mantené el torso erguido y el core firme.",
-      "Empujá la barra hacia arriba hasta extender los brazos.",
-      "Bajá controladamente detrás del cuello sin pasar de los oídos.",
-      "Requiere buena movilidad de hombros, no es para principiantes.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Triceps",
-        "peso": 0.35
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.2
-      }
-    ],
-    "nombres_alternativos": [
-      "Behind-the-neck press",
-      "Press tras nuca con barra",
-      "Press nuca con barra"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
     "verificado": false,
     "variante_de": "exercise-0102"
   },
@@ -4631,39 +4456,6 @@
     "variante_de": "exercise-0113"
   },
   {
-    "id": "exercise-0115",
-    "nombre_es": "Elevaciones laterales con mancuernas inclinado",
-    "nombre_en": "Incline Dumbbell Lateral Raise",
-    "tipo": "Isolation",
-    "musculo": "Shoulders",
-    "musculos_focus": [
-      "Shoulders"
-    ],
-    "equipo": "Dumbbell",
-    "importancia": 7,
-    "como_hacerlo": [
-      "Ajustá un banco inclinado a 45-60 grados.",
-      "Apoyate de costado sobre el respaldo con una mancuerna en la mano del brazo libre.",
-      "Dejá el brazo colgando con la palma hacia el cuerpo.",
-      "Levantá la mancuerna en arco hasta la altura del hombro.",
-      "La inclinación aumenta la tensión en el punto bajo del movimiento.",
-      "Contraé el deltoides lateral en el punto alto.",
-      "Bajá controladamente hasta el estiramiento completo.",
-      "Completá todas las repeticiones antes de cambiar de lado."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Incline lateral raise",
-      "Elevación lateral inclinada",
-      "Lateral raise de costado"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0113"
-  },
-  {
     "id": "exercise-0116",
     "nombre_es": "Elevaciones laterales con mancuerna unilateral",
     "nombre_en": "Single-Arm Dumbbell Lateral Raise",
@@ -5058,39 +4850,6 @@
     "matched_con": "Dumbbell-Reverse-Fly_Shoulders-FIX_",
     "verificado": false,
     "variante_de": "exercise-0125"
-  },
-  {
-    "id": "exercise-0128",
-    "nombre_es": "Aperturas inversas en máquina (rear delt fly)",
-    "nombre_en": "Reverse Pec Deck",
-    "tipo": "Isolation",
-    "musculo": "Shoulders",
-    "musculos_focus": [
-      "Shoulders"
-    ],
-    "equipo": "Machine",
-    "importancia": 9,
-    "como_hacerlo": [
-      "Ajustá la máquina pec deck en la posición de rear delt (manerales adelante).",
-      "Sentate con el pecho contra el almohadón frontal y los pies firmes en el suelo.",
-      "Agarrá los manerales con las palmas enfrentadas o hacia abajo.",
-      "Comenzá con los brazos extendidos al frente.",
-      "Mantené una ligera flexión fija en los codos.",
-      "Abrí los brazos hacia los lados hasta sentir contracción en los deltoides posteriores.",
-      "Apretá los omóplatos al final del movimiento.",
-      "Volvé controladamente al frente."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Reverse pec deck",
-      "Rear delt machine",
-      "Aperturas posteriores en máquina"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
   },
   {
     "id": "exercise-0129",
@@ -5626,72 +5385,6 @@
     "imagen": "Barbell-Z-Press_Shoulders_.webp",
     "video": "Barbell-Z-Press_Shoulders_.mp4",
     "matched_con": "Barbell-Z-Press_Shoulders_",
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-0143",
-    "nombre_es": "Elevación lateral con disco",
-    "nombre_en": "Plate Lateral Raise",
-    "tipo": "Isolation",
-    "musculo": "Shoulders",
-    "musculos_focus": [
-      "Shoulders"
-    ],
-    "equipo": "Plate",
-    "importancia": 4,
-    "como_hacerlo": [
-      "Parate erguido con un disco en cada mano agarrándolo por el borde.",
-      "Mantené los brazos extendidos a los lados con las palmas hacia el cuerpo.",
-      "Activá el core y mantené el torso firme.",
-      "Levantá los discos hacia los lados en arco hasta la altura de los hombros.",
-      "Contraé los deltoides laterales en el punto más alto.",
-      "Bajá controladamente hasta los lados del cuerpo.",
-      "El agarre del disco demanda más a los antebrazos.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Plate lateral raise",
-      "Elevación lateral con placa",
-      "Lateral raise con disco"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-0144",
-    "nombre_es": "Lu raise con mancuernas",
-    "nombre_en": "Dumbbell Lu Raise",
-    "tipo": "Isolation",
-    "musculo": "Shoulders",
-    "musculos_focus": [
-      "Shoulders"
-    ],
-    "equipo": "Dumbbell",
-    "importancia": 4,
-    "como_hacerlo": [
-      "Sentate en un banco con respaldo vertical y una mancuerna ligera en cada mano.",
-      "Posicioná las mancuernas a la altura de los hombros con los codos hacia adelante.",
-      "Las palmas miran hacia atrás (las mancuernas casi tocan los hombros).",
-      "Rotá los hombros hacia afuera y arriba simultáneamente.",
-      "Las mancuernas terminan arriba de la cabeza con los codos extendidos.",
-      "El movimiento combina rotación externa con press en el plano escapular.",
-      "Bajá controladamente al inicio.",
-      "Es un ejercicio popularizado por Lu Xiaojun para hombros."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Lu raise",
-      "Elevación Lu Xiaojun",
-      "Lu raise sentado"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
     "verificado": false,
     "variante_de": null
   },
@@ -6773,39 +6466,6 @@
     "variante_de": "exercise-0173"
   },
   {
-    "id": "exercise-0177",
-    "nombre_es": "Extensión de tríceps en polea agarre amplio con barra",
-    "nombre_en": "Wide-Grip Cable Triceps Pushdown",
-    "tipo": "Isolation",
-    "musculo": "Triceps",
-    "musculos_focus": [
-      "Triceps"
-    ],
-    "equipo": "Cable",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Colocá la polea en la posición más alta y enganchá una barra recta.",
-      "Parate frente a la polea con los pies a la altura de los hombros.",
-      "Agarrá la barra con las palmas hacia abajo, manos bien separadas más anchas que los hombros.",
-      "Mantené los codos pegados al torso durante todo el movimiento.",
-      "Comenzá con los codos flexionados a 90 grados.",
-      "Extendé los brazos hacia abajo empujando la barra.",
-      "El agarre amplio enfatiza más la cabeza lateral del tríceps.",
-      "Volvé controladamente a la posición inicial."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Wide-grip pushdown",
-      "Pushdown amplio",
-      "Extensión de tríceps amplio en polea"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0173"
-  },
-  {
     "id": "exercise-0178",
     "nombre_es": "Press francés con barra acostado",
     "nombre_en": "Lying Barbell Triceps Extension (Skullcrusher)",
@@ -7000,39 +6660,6 @@
     "imagen": "Barbell-Seated-Overhead-Triceps-Extension_Upper-Ar.webp",
     "video": "Barbell-Seated-Overhead-Triceps-Extension_Upper-Ar.mp4",
     "matched_con": "Barbell-Seated-Overhead-Triceps-Extension_Upper-Ar",
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-0184",
-    "nombre_es": "Extensión de tríceps por encima de la cabeza con barra EZ sentado",
-    "nombre_en": "Seated Overhead EZ-Bar Triceps Extension",
-    "tipo": "Isolation",
-    "musculo": "Triceps",
-    "musculos_focus": [
-      "Triceps"
-    ],
-    "equipo": "EZ Bar",
-    "importancia": 8,
-    "como_hacerlo": [
-      "Sentate en un banco con respaldo vertical con los pies firmes en el suelo.",
-      "Agarrá la barra EZ por las curvas internas con agarre semi-supino.",
-      "Extendé los brazos verticalmente sobre la cabeza.",
-      "Mantené los codos cerca de la cabeza y apuntando hacia arriba.",
-      "Bajá la barra controladamente por detrás de la cabeza flexionando los codos.",
-      "Bajá hasta sentir un buen estiramiento en la cabeza larga del tríceps.",
-      "Extendé los brazos volviendo a la posición inicial.",
-      "La barra EZ es más cómoda para las muñecas."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Overhead EZ extension",
-      "Extensión sobre la cabeza con barra Z",
-      "French press con EZ"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
     "verificado": false,
     "variante_de": null
   },
@@ -7308,9 +6935,9 @@
       "Fondos verticales en paralelas",
       "Upright dips"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Triceps-Dip_Upper-Arms-FIX_.webp",
+    "video": "Triceps-Dip_Upper-Arms-FIX_.mp4",
+    "matched_con": "Triceps-Dip_Upper-Arms-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -7350,9 +6977,9 @@
       "Fondos en banco",
       "Dips en banco"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Triceps-Dip-(bench-leg)_Upper-Arms_.webp",
+    "video": "Triceps-Dip-(bench-leg)_Upper-Arms_.mp4",
+    "matched_con": "Triceps-Dip-(bench-leg)_Upper-Arms_",
     "verificado": false,
     "variante_de": null
   },
@@ -7383,9 +7010,9 @@
       "Extensión de tríceps en máquina",
       "Tríceps en máquina específica"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Triceps-Extension_Upper-Arms 1.webp",
+    "video": "Lever-Triceps-Extension_Upper-Arms 1.mp4",
+    "matched_con": "Lever-Triceps-Extension_Upper-Arms 1",
     "verificado": false,
     "variante_de": null
   },
@@ -7425,9 +7052,9 @@
       "Fondos asistidos en máquina",
       "Dips asistidos"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Assisted-Triceps-Dip-(kneeling)_Upper-Arms.webp",
+    "video": "Assisted-Triceps-Dip-(kneeling)_Upper-Arms.mp4",
+    "matched_con": "Assisted-Triceps-Dip-(kneeling)_Upper-Arms",
     "verificado": false,
     "variante_de": null
   },
@@ -7467,9 +7094,9 @@
       "Press JM con barra",
       "Press híbrido de tríceps"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-JM-Bench-Press_Upper-Arms-FIX_.webp",
+    "video": "Barbell-JM-Bench-Press_Upper-Arms-FIX_.mp4",
+    "matched_con": "Barbell-JM-Bench-Press_Upper-Arms-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -7500,9 +7127,9 @@
       "Skullcrusher con extensión",
       "Pullover de tríceps"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "EZ-Bar-Lying-Bent-Arms-Pullover_Back.webp",
+    "video": "EZ-Bar-Lying-Bent-Arms-Pullover_Back.mp4",
+    "matched_con": "EZ-Bar-Lying-Bent-Arms-Pullover_Back",
     "verificado": false,
     "variante_de": null
   },
@@ -7576,9 +7203,9 @@
       "Press cerrado guiado",
       "Smith machine close-grip"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Smith-Close-Grip-Bench-Press_Upper-Arms_.webp",
+    "video": "Smith-Close-Grip-Bench-Press_Upper-Arms_.mp4",
+    "matched_con": "Smith-Close-Grip-Bench-Press_Upper-Arms_",
     "verificado": false,
     "variante_de": null
   },
@@ -7609,9 +7236,9 @@
       "Press francés en polea acostado",
       "Cable lying extension"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Lying-Triceps-Extension-(Low)_Upper-Arms_.webp",
+    "video": "Cable-Lying-Triceps-Extension-(Low)_Upper-Arms_.mp4",
+    "matched_con": "Cable-Lying-Triceps-Extension-(Low)_Upper-Arms_",
     "verificado": false,
     "variante_de": null
   },
@@ -8001,9 +7628,9 @@
       "High-bar squat",
       "Back squat barra alta"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-High-Bar-Squat_Thighs_.webp",
+    "video": "Barbell-High-Bar-Squat_Thighs_.mp4",
+    "matched_con": "Barbell-High-Bar-Squat_Thighs_",
     "verificado": false,
     "variante_de": null
   },
@@ -8048,9 +7675,9 @@
       "Low-bar squat",
       "Back squat barra baja"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Low-Bar-Squat_Thighs-FIX_.webp",
+    "video": "Barbell-Low-Bar-Squat_Thighs-FIX_.mp4",
+    "matched_con": "Barbell-Low-Bar-Squat_Thighs-FIX_",
     "verificado": false,
     "variante_de": "exercise-0211"
   },
@@ -8095,9 +7722,9 @@
       "Sentadilla con pausa",
       "Pause squat con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Squat-2-sec-Hold_Thighs.webp",
+    "video": "Barbell-Squat-2-sec-Hold_Thighs.mp4",
+    "matched_con": "Barbell-Squat-2-sec-Hold_Thighs",
     "verificado": false,
     "variante_de": "exercise-0211"
   },
@@ -8143,9 +7770,9 @@
       "Sentadilla frontal",
       "Front squat con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Front-Squat_Hips-FIX_.webp",
+    "video": "Barbell-Front-Squat_Hips-FIX_.mp4",
+    "matched_con": "Barbell-Front-Squat_Hips-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -8190,9 +7817,9 @@
       "Sentadilla copa",
       "Dumbbell goblet squat"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Goblet-Squat_Thighs-FIX_.webp",
+    "video": "Dumbbell-Goblet-Squat_Thighs-FIX_.mp4",
+    "matched_con": "Dumbbell-Goblet-Squat_Thighs-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -8237,9 +7864,9 @@
       "Sentadilla con mancuernas",
       "Squat con mancuernas a los lados"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Squat_Hips_.webp",
+    "video": "Dumbbell-Squat_Hips_.mp4",
+    "matched_con": "Dumbbell-Squat_Hips_",
     "verificado": false,
     "variante_de": null
   },
@@ -8284,9 +7911,9 @@
       "Sentadilla en Smith",
       "Squat en máquina Smith"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Smith-Chair-Squat_Thighs-FIX_.webp",
+    "video": "Smith-Chair-Squat_Thighs-FIX_.mp4",
+    "matched_con": "Smith-Chair-Squat_Thighs-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -8327,9 +7954,9 @@
       "Sentadilla hack",
       "Hack squat en máquina"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Sled-Full-Hack-Squat_Thighs_.webp",
+    "video": "Sled-Full-Hack-Squat_Thighs_.mp4",
+    "matched_con": "Sled-Full-Hack-Squat_Thighs_",
     "verificado": false,
     "variante_de": null
   },
@@ -8370,9 +7997,9 @@
       "Hack squat al revés",
       "Hack inverso"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Sled-Reverse-Hack-Squat_Thighs.webp",
+    "video": "Sled-Reverse-Hack-Squat_Thighs.mp4",
+    "matched_con": "Sled-Reverse-Hack-Squat_Thighs",
     "verificado": false,
     "variante_de": "exercise-0218"
   },
@@ -8413,9 +8040,9 @@
       "Prensa inclinada",
       "Leg press 45°"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Sled-45-degrees-Leg-Press_Hips-FIX_.webp",
+    "video": "Sled-45-degrees-Leg-Press_Hips-FIX_.mp4",
+    "matched_con": "Sled-45-degrees-Leg-Press_Hips-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -8457,9 +8084,9 @@
       "Prensa con pies altos",
       "Leg press posición alta"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Sled-Glute-Dominant-Leg-Press-(male)_Hips_.webp",
+    "video": "Sled-Glute-Dominant-Leg-Press-(male)_Hips_.mp4",
+    "matched_con": "Sled-Glute-Dominant-Leg-Press-(male)_Hips_",
     "verificado": false,
     "variante_de": "exercise-0220"
   },
@@ -8499,9 +8126,9 @@
       "Prensa con pies bajos",
       "Leg press posición baja"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Sled-45-degrees-Leg-Press_Hips-FIX_.webp",
+    "video": "Sled-45-degrees-Leg-Press_Hips-FIX_.mp4",
+    "matched_con": "Sled-45-degrees-Leg-Press_Hips-FIX_",
     "verificado": false,
     "variante_de": "exercise-0220"
   },
@@ -8547,9 +8174,9 @@
       "Prensa con pies abiertos",
       "Leg press stance ancho"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Sled-45-Leg-Wide-Press_Thighs-FIX_.webp",
+    "video": "Sled-45-Leg-Wide-Press_Thighs-FIX_.mp4",
+    "matched_con": "Sled-45-Leg-Wide-Press_Thighs-FIX_",
     "verificado": false,
     "variante_de": "exercise-0220"
   },
@@ -8594,9 +8221,9 @@
       "Prensa unilateral",
       "Leg press a una pierna"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Sled-45-degrees-One-Leg-Press_Hips-FIX_.webp",
+    "video": "Sled-45-degrees-One-Leg-Press_Hips-FIX_.mp4",
+    "matched_con": "Sled-45-degrees-One-Leg-Press_Hips-FIX_",
     "verificado": false,
     "variante_de": "exercise-0220"
   },
@@ -8637,9 +8264,9 @@
       "Prensa horizontal",
       "Seated leg press"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Horizontal-Leg-Press_Thighs_.webp",
+    "video": "Lever-Horizontal-Leg-Press_Thighs_.mp4",
+    "matched_con": "Lever-Horizontal-Leg-Press_Thighs_",
     "verificado": false,
     "variante_de": null
   },
@@ -8670,9 +8297,9 @@
       "Extensión de pierna en máquina",
       "Cuádriceps en máquina"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Leg-Extension_Thighs.webp",
+    "video": "Lever-Leg-Extension_Thighs.mp4",
+    "matched_con": "Lever-Leg-Extension_Thighs",
     "verificado": false,
     "variante_de": null
   },
@@ -8703,75 +8330,9 @@
       "Extensión unilateral",
       "Leg extension a una pierna"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0226"
-  },
-  {
-    "id": "exercise-0228",
-    "nombre_es": "Extensión de cuádriceps puntas hacia afuera",
-    "nombre_en": "Toes-Out Leg Extension",
-    "tipo": "Isolation",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Quadriceps"
-    ],
-    "equipo": "Machine",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Sentate en la máquina de extensión con la espalda firme contra el respaldo.",
-      "Ajustá el rodillo sobre las espinillas.",
-      "Rotá las puntas de los pies hacia afuera durante todo el movimiento.",
-      "Agarrate de los manerales laterales.",
-      "Extendé las rodillas elevando el peso.",
-      "La rotación enfatiza más la cabeza interna del cuádriceps (vasto medial).",
-      "Bajá controladamente.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Toes-out extension",
-      "Extensión puntas afuera",
-      "Leg extension vasto medial"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0226"
-  },
-  {
-    "id": "exercise-0229",
-    "nombre_es": "Extensión de cuádriceps puntas hacia adentro",
-    "nombre_en": "Toes-In Leg Extension",
-    "tipo": "Isolation",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Quadriceps"
-    ],
-    "equipo": "Machine",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Sentate en la máquina de extensión con la espalda firme contra el respaldo.",
-      "Ajustá el rodillo sobre las espinillas.",
-      "Rotá las puntas de los pies hacia adentro durante todo el movimiento.",
-      "Agarrate de los manerales laterales.",
-      "Extendé las rodillas elevando el peso.",
-      "La rotación enfatiza más la cabeza externa del cuádriceps (vasto lateral).",
-      "Bajá controladamente.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Toes-in extension",
-      "Extensión puntas adentro",
-      "Leg extension vasto lateral"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-One-Leg-Extension_Thighs_.webp",
+    "video": "Lever-One-Leg-Extension_Thighs_.mp4",
+    "matched_con": "Lever-One-Leg-Extension_Thighs_",
     "verificado": false,
     "variante_de": "exercise-0226"
   },
@@ -8802,9 +8363,9 @@
       "Sentadilla sissy",
       "Sissy squat con apoyo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Sissy-Squat-Bodyweight_Thighs-FIX_.webp",
+    "video": "Sissy-Squat-Bodyweight_Thighs-FIX_.mp4",
+    "matched_con": "Sissy-Squat-Bodyweight_Thighs-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -8835,9 +8396,9 @@
       "Sissy en máquina",
       "Sissy squat con plataforma"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Landmine-Sissy-Squat-(male)_Thighs_.webp",
+    "video": "Landmine-Sissy-Squat-(male)_Thighs_.mp4",
+    "matched_con": "Landmine-Sissy-Squat-(male)_Thighs_",
     "verificado": false,
     "variante_de": null
   },
@@ -8882,9 +8443,9 @@
       "Zancada con barra",
       "Estocadas con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Lunge_Thighs-FIX_.webp",
+    "video": "Barbell-Lunge_Thighs-FIX_.mp4",
+    "matched_con": "Barbell-Lunge_Thighs-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -8929,9 +8490,9 @@
       "Zancada inversa con barra",
       "Lunge atrás con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Rear-Lunge_Thighs_.webp",
+    "video": "Barbell-Rear-Lunge_Thighs_.mp4",
+    "matched_con": "Barbell-Rear-Lunge_Thighs_",
     "verificado": false,
     "variante_de": "exercise-0232"
   },
@@ -8976,9 +8537,9 @@
       "Sentadilla split",
       "Split squat con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Split-Squat_Thighs_.webp",
+    "video": "Dumbbell-Split-Squat_Thighs_.mp4",
+    "matched_con": "Dumbbell-Split-Squat_Thighs_",
     "verificado": false,
     "variante_de": null
   },
@@ -9023,9 +8584,9 @@
       "Step-up con barra",
       "Subida al cajón con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Step-up_Hips-FIX_.webp",
+    "video": "Barbell-Step-up_Hips-FIX_.mp4",
+    "matched_con": "Barbell-Step-up_Hips-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -9070,9 +8631,9 @@
       "Goblet squat con kettlebell",
       "Sentadilla con pesa rusa"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Kettlebell-Goblet-Squat_thighs.webp",
+    "video": "Kettlebell-Goblet-Squat_thighs.mp4",
+    "matched_con": "Kettlebell-Goblet-Squat_thighs",
     "verificado": false,
     "variante_de": null
   },
@@ -9118,58 +8679,11 @@
       "Sentadilla sumo con kettlebell",
       "Kettlebell sumo squat"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Kettlebell-Sumo-Squat-(male)_Hips_.webp",
+    "video": "Kettlebell-Sumo-Squat-(male)_Hips_.mp4",
+    "matched_con": "Kettlebell-Sumo-Squat-(male)_Hips_",
     "verificado": false,
     "variante_de": "exercise-0236"
-  },
-  {
-    "id": "exercise-0238",
-    "nombre_es": "Pistol squat asistida",
-    "nombre_en": "Assisted Pistol Squat",
-    "tipo": "Compound",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Glutes",
-      "Quadriceps"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Parate frente a un soporte agarrándote con ambas manos para asistencia.",
-      "Extendé una pierna al frente y el otro brazo o el torso para equilibrio.",
-      "Bajá controladamente flexionando la pierna de apoyo usando el soporte para asistencia.",
-      "Mantené la pierna libre extendida durante todo el descenso.",
-      "Bajá hasta que el glúteo casi toque el talón de la pierna de apoyo.",
-      "Empujá con el talón usando la mínima asistencia necesaria.",
-      "Completá todas las repeticiones antes de cambiar de pierna.",
-      "Es la variante para progresar hacia el pistol squat completo."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.35
-      },
-      {
-        "musculo": "Hamstrings",
-        "peso": 0.15
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.2
-      }
-    ],
-    "nombres_alternativos": [
-      "Assisted pistol squat",
-      "Pistol asistido",
-      "Pistol squat con apoyo"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
   },
   {
     "id": "exercise-0239",
@@ -9212,9 +8726,9 @@
       "Sentadilla libre",
       "Squat sin peso"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Bodyweight-Squat-(male)_Thighs-FIX_.webp",
+    "video": "Bodyweight-Squat-(male)_Thighs-FIX_.mp4",
+    "matched_con": "Bodyweight-Squat-(male)_Thighs-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -9259,44 +8773,11 @@
       "Sentadilla con salto",
       "Squat jump"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Jump-Squat-II_Thighs_.webp",
+    "video": "Jump-Squat-II_Thighs_.mp4",
+    "matched_con": "Jump-Squat-II_Thighs_",
     "verificado": false,
     "variante_de": "exercise-0239"
-  },
-  {
-    "id": "exercise-0241",
-    "nombre_es": "Wall sit",
-    "nombre_en": "Wall Sit",
-    "tipo": "Isolation",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Quadriceps"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Apoyá la espalda completa contra una pared.",
-      "Da unos pasos hacia adelante hasta que los pies queden a una distancia donde puedas formar 90 grados.",
-      "Deslizate hacia abajo flexionando las rodillas hasta formar 90 grados.",
-      "Las rodillas deben quedar alineadas sobre los tobillos, no más adelante.",
-      "Mantené la espalda firme contra la pared.",
-      "Sostené la posición isométrica el mayor tiempo posible.",
-      "Los muslos deben quedar paralelos al suelo.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Wall sit",
-      "Sentadilla contra pared",
-      "Sentadilla isométrica"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
   },
   {
     "id": "exercise-0242",
@@ -9340,9 +8821,9 @@
       "Sentadilla zercher",
       "Squat zercher"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-full-Zercher-Squat_Thighs.webp",
+    "video": "Barbell-full-Zercher-Squat_Thighs.mp4",
+    "matched_con": "Barbell-full-Zercher-Squat_Thighs",
     "verificado": false,
     "variante_de": null
   },
@@ -9389,9 +8870,9 @@
       "Sentadilla overhead",
       "Squat con barra sobre la cabeza"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "PVC-Overhead-Squat_Thighs.webp",
+    "video": "PVC-Overhead-Squat_Thighs.mp4",
+    "matched_con": "PVC-Overhead-Squat_Thighs",
     "verificado": false,
     "variante_de": null
   },
@@ -9838,9 +9319,9 @@
       "Glute ham raise",
       "Glute ham developer"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Glute-Ham-Raise-(VERSION-2)_Thighs_.webp",
+    "video": "Glute-Ham-Raise-(VERSION-2)_Thighs_.mp4",
+    "matched_con": "Glute-Ham-Raise-(VERSION-2)_Thighs_",
     "verificado": false,
     "variante_de": null
   },
@@ -9977,9 +9458,9 @@
       "Sentadilla búlgara",
       "Split squat búlgaro con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Single-Leg-Split-Squat_Thighs_.webp",
+    "video": "Dumbbell-Single-Leg-Split-Squat_Thighs_.mp4",
+    "matched_con": "Dumbbell-Single-Leg-Split-Squat_Thighs_",
     "verificado": false,
     "variante_de": null
   },
@@ -10024,9 +9505,9 @@
       "Sentadilla búlgara con barra",
       "Split squat búlgaro con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Zercher-Bulgarian-Split-Squat-(male)_Thigh.webp",
+    "video": "Barbell-Zercher-Bulgarian-Split-Squat-(male)_Thigh.mp4",
+    "matched_con": "Barbell-Zercher-Bulgarian-Split-Squat-(male)_Thigh",
     "verificado": false,
     "variante_de": null
   },
@@ -10071,9 +9552,9 @@
       "Lunge con mancuernas",
       "Estocadas con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Lunge_Hips-FIX2_.webp",
+    "video": "Dumbbell-Lunge_Hips-FIX2_.mp4",
+    "matched_con": "Dumbbell-Lunge_Hips-FIX2_",
     "verificado": false,
     "variante_de": null
   },
@@ -10118,153 +9599,11 @@
       "Zancada caminando",
       "Lunge caminando con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Walking-Lunges_Thighs_.webp",
+    "video": "Dumbbell-Walking-Lunges_Thighs_.mp4",
+    "matched_con": "Dumbbell-Walking-Lunges_Thighs_",
     "verificado": false,
     "variante_de": "exercise-0260"
-  },
-  {
-    "id": "exercise-0262",
-    "nombre_es": "Zancadas inversas con mancuernas",
-    "nombre_en": "Reverse Dumbbell Lunge",
-    "tipo": "Compound",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Glutes",
-      "Quadriceps"
-    ],
-    "equipo": "Dumbbell",
-    "importancia": 8,
-    "como_hacerlo": [
-      "Parate erguido con una mancuerna en cada mano.",
-      "Da un paso largo hacia atrás con una pierna.",
-      "Bajá controladamente flexionando ambas rodillas.",
-      "La rodilla delantera debe quedar alineada con la punta del pie.",
-      "Empujá con el talón delantero volviendo a la posición inicial.",
-      "Las zancadas inversas son más amigables para las rodillas.",
-      "Mantené el torso erguido y el core firme.",
-      "Alterná piernas o completá todas las repeticiones de un lado primero."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.35
-      },
-      {
-        "musculo": "Hamstrings",
-        "peso": 0.25
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Reverse lunge",
-      "Zancada hacia atrás",
-      "Lunge inverso con mancuernas"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0260"
-  },
-  {
-    "id": "exercise-0263",
-    "nombre_es": "Zancadas laterales con mancuernas",
-    "nombre_en": "Dumbbell Lateral Lunge",
-    "tipo": "Compound",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Adductors",
-      "Glutes",
-      "Quadriceps"
-    ],
-    "equipo": "Dumbbell",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Parate erguido con una mancuerna en cada mano.",
-      "Da un paso lateral amplio con una pierna manteniendo la otra extendida.",
-      "Flexioná la rodilla del lado donde diste el paso bajando la cadera.",
-      "Mantené la pierna contraria completamente extendida con el pie plano.",
-      "Mantené el torso erguido y el pecho elevado.",
-      "Empujá con el talón del pie flexionado volviendo a la posición inicial.",
-      "Trabaja también aductores e inducción de cadera.",
-      "Alterná lados o completá todas las repeticiones de un lado."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.35
-      },
-      {
-        "musculo": "Adductors",
-        "peso": 0.3
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Lateral lunge",
-      "Zancada lateral",
-      "Side lunge con mancuernas"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-0264",
-    "nombre_es": "Sentadilla con copa de pie en banco (deficit goblet)",
-    "nombre_en": "Deficit Goblet Squat",
-    "tipo": "Compound",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Glutes",
-      "Quadriceps"
-    ],
-    "equipo": "Dumbbell",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Parate sobre dos discos o pequeñas plataformas separadas al ancho de los hombros.",
-      "Sostené una mancuerna pesada con ambas manos a la altura del pecho.",
-      "Mantené el pecho elevado y los codos apuntando hacia abajo.",
-      "Bajá controladamente entre las plataformas, permitiendo que los talones bajen más.",
-      "El déficit aumenta el rango de movimiento y el estiramiento del cuádriceps.",
-      "Empujá con los talones volviendo a la posición inicial.",
-      "Mantené el torso lo más vertical posible.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.35
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.25
-      },
-      {
-        "musculo": "Hamstrings",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Deficit goblet squat",
-      "Goblet con déficit",
-      "Sentadilla copa elevada"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0215"
   },
   {
     "id": "exercise-0265",
@@ -10307,54 +9646,11 @@
       "Subida al banco",
       "Dumbbell step-up"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Step-up_Hips_.webp",
+    "video": "Dumbbell-Step-up_Hips_.mp4",
+    "matched_con": "Dumbbell-Step-up_Hips_",
     "verificado": false,
     "variante_de": null
-  },
-  {
-    "id": "exercise-0266",
-    "nombre_es": "Step-up lateral con mancuernas",
-    "nombre_en": "Lateral Dumbbell Step-Up",
-    "tipo": "Compound",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Glutes",
-      "Quadriceps"
-    ],
-    "equipo": "Dumbbell",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Parate de costado a un banco o cajón resistente con una mancuerna en cada mano.",
-      "Apoyá el pie más cercano al banco completamente sobre él.",
-      "Empujá con el talón del pie apoyado subiendo lateralmente.",
-      "Bajá controladamente con la misma pierna.",
-      "Mantené el torso erguido durante todo el movimiento.",
-      "Esta variante enfatiza también glúteo medio.",
-      "Completá todas las repeticiones antes de cambiar de lado.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.4
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.2
-      }
-    ],
-    "nombres_alternativos": [
-      "Lateral step-up",
-      "Subida lateral al banco",
-      "Side step-up con mancuernas"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0265"
   },
   {
     "id": "exercise-0267",
@@ -10398,9 +9694,9 @@
       "Sentadilla sumo con barra",
       "Wide-stance squat"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-sumo-squat_Thighs.webp",
+    "video": "Barbell-sumo-squat_Thighs.mp4",
+    "matched_con": "Barbell-sumo-squat_Thighs",
     "verificado": false,
     "variante_de": "exercise-0211"
   },
@@ -10447,9 +9743,9 @@
       "Peso muerto sumo",
       "Deadlift sumo con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Sumo-Deadlift_Hips-FIX_.webp",
+    "video": "Barbell-Sumo-Deadlift_Hips-FIX_.mp4",
+    "matched_con": "Barbell-Sumo-Deadlift_Hips-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -10496,9 +9792,9 @@
       "Hex bar deadlift",
       "Peso muerto con trap bar"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Trap-Bar-Deadlift_Thighs-FIX_.webp",
+    "video": "Trap-Bar-Deadlift_Thighs-FIX_.mp4",
+    "matched_con": "Trap-Bar-Deadlift_Thighs-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -10825,45 +10121,6 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0279",
-    "nombre_es": "Copenhagen plank",
-    "nombre_en": "Copenhagen Plank",
-    "tipo": "Compound",
-    "musculo": "Adductors",
-    "musculos_focus": [
-      "Adductors",
-      "Core"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Acostate de costado en el suelo con el codo apoyado bajo el hombro.",
-      "Apoyá la pierna de arriba sobre un banco con la parte interna del tobillo o pantorrilla.",
-      "Mantené la pierna de abajo extendida o flexionada según el nivel.",
-      "Elevá la cadera del suelo formando una línea recta desde la cabeza hasta los pies.",
-      "Mantené los aductores activos para sostener el peso del cuerpo.",
-      "Sostené la posición isométrica el mayor tiempo posible.",
-      "Mantené el core firme y la cadera elevada.",
-      "Completá ambos lados."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Core",
-        "peso": 0.4
-      }
-    ],
-    "nombres_alternativos": [
-      "Copenhagen plank",
-      "Plancha Copenhagen",
-      "Side plank con aductores"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
-  },
-  {
     "id": "exercise-0280",
     "nombre_es": "Sentadilla cossack",
     "nombre_en": "Cossack Squat",
@@ -10905,9 +10162,9 @@
       "Sentadilla cosaca",
       "Cossack lateral squat"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cossack-Squat_Hips.webp",
+    "video": "Cossack-Squat_Hips.mp4",
+    "matched_con": "Cossack-Squat_Hips",
     "verificado": false,
     "variante_de": null
   },
@@ -10960,53 +10217,6 @@
     "variante_de": "exercise-0280"
   },
   {
-    "id": "exercise-0282",
-    "nombre_es": "Sentadilla en silla con peso corporal",
-    "nombre_en": "Chair Squat",
-    "tipo": "Compound",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Glutes",
-      "Quadriceps"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 4,
-    "como_hacerlo": [
-      "Parate frente a una silla con los pies al ancho de los hombros.",
-      "Mantené los brazos extendidos al frente para equilibrio.",
-      "Bajá controladamente flexionando rodillas y caderas como si te sentaras.",
-      "Tocá apenas el asiento con los glúteos sin descansar el peso.",
-      "Empujá con los talones volviendo a la posición inicial.",
-      "Mantené el pecho elevado y la espalda recta.",
-      "Es una excelente variante para principiantes.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.35
-      },
-      {
-        "musculo": "Hamstrings",
-        "peso": 0.15
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Chair squat",
-      "Sentadilla en silla",
-      "Box squat sin peso"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0239"
-  },
-  {
     "id": "exercise-0283",
     "nombre_es": "Box squat con barra",
     "nombre_en": "Barbell Box Squat",
@@ -11047,9 +10257,9 @@
       "Sentadilla a caja",
       "Box back squat"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Box-Squat_Hips_.webp",
+    "video": "Barbell-Box-Squat_Hips_.mp4",
+    "matched_con": "Barbell-Box-Squat_Hips_",
     "verificado": false,
     "variante_de": "exercise-0211"
   },
@@ -11289,58 +10499,11 @@
       "Sentadilla con cinturón",
       "Belt squat machine"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Belt-Squat_Thighs_.webp",
+    "video": "Lever-Belt-Squat_Thighs_.mp4",
+    "matched_con": "Lever-Belt-Squat_Thighs_",
     "verificado": false,
     "variante_de": null
-  },
-  {
-    "id": "exercise-0290",
-    "nombre_es": "Sentadilla con cadenas con barra",
-    "nombre_en": "Chain Barbell Squat",
-    "tipo": "Compound",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Glutes",
-      "Quadriceps"
-    ],
-    "equipo": "Barbell",
-    "importancia": 3,
-    "como_hacerlo": [
-      "Colocá cadenas en cada lado de la barra de forma que toquen el suelo en posición baja.",
-      "Colocá la barra sobre los trapecios.",
-      "Parate erguido con los pies al ancho de los hombros.",
-      "Bajá controladamente como en una sentadilla normal.",
-      "A medida que bajás, las cadenas se acumulan en el suelo aliviando la carga.",
-      "A medida que subís, las cadenas se levantan aumentando la carga.",
-      "Trabaja la fuerza con tensión variable (más fuerza en el punto fuerte).",
-      "Empujá con los talones manteniendo la técnica."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.35
-      },
-      {
-        "musculo": "Hamstrings",
-        "peso": 0.2
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.2
-      }
-    ],
-    "nombres_alternativos": [
-      "Chain squat",
-      "Sentadilla con cadenas",
-      "Squat con cadenas"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0211"
   },
   {
     "id": "exercise-0291",
@@ -11383,9 +10546,9 @@
       "Sentadilla con bandas",
       "Squat con bandas elásticas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Banded-Bench-Squat_Thighs_.webp",
+    "video": "Barbell-Banded-Bench-Squat_Thighs_.mp4",
+    "matched_con": "Barbell-Banded-Bench-Squat_Thighs_",
     "verificado": false,
     "variante_de": "exercise-0211"
   },
@@ -11430,9 +10593,9 @@
       "Sentadilla split con barra",
       "Split squat estacionario"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Split-Squat_Thighs_.webp",
+    "video": "Barbell-Split-Squat_Thighs_.mp4",
+    "matched_con": "Barbell-Split-Squat_Thighs_",
     "verificado": false,
     "variante_de": null
   },
@@ -11477,9 +10640,9 @@
       "Sentadilla a una pierna",
       "Single-leg squat"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Kettlebell-Pistol-Squat_thighs.webp",
+    "video": "Kettlebell-Pistol-Squat_thighs.mp4",
+    "matched_con": "Kettlebell-Pistol-Squat_thighs",
     "verificado": false,
     "variante_de": null
   },
@@ -11531,39 +10694,6 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0296",
-    "nombre_es": "Sentadilla isométrica con peso corporal",
-    "nombre_en": "Bodyweight Isometric Squat",
-    "tipo": "Isolation",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Quadriceps"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 4,
-    "como_hacerlo": [
-      "Parate erguido con los pies al ancho de los hombros.",
-      "Bajá controladamente a una posición de media sentadilla.",
-      "Las rodillas deben formar aproximadamente 90 grados.",
-      "Mantené el pecho elevado y la espalda recta.",
-      "Sostené la posición isométrica el mayor tiempo posible.",
-      "Mantené el core firme y los brazos extendidos al frente para equilibrio.",
-      "Es una variante simple del wall sit sin necesidad de pared.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Isometric squat",
-      "Sentadilla isométrica libre",
-      "Squat hold"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
-  },
-  {
     "id": "exercise-0297",
     "nombre_es": "Sentadilla jefferson con barra",
     "nombre_en": "Jefferson Squat",
@@ -11604,58 +10734,11 @@
       "Sentadilla Jefferson",
       "Jefferson deadlift"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Jefferson-Squat_Thighs-FIX_.webp",
+    "video": "Barbell-Jefferson-Squat_Thighs-FIX_.mp4",
+    "matched_con": "Barbell-Jefferson-Squat_Thighs-FIX_",
     "verificado": false,
     "variante_de": null
-  },
-  {
-    "id": "exercise-0298",
-    "nombre_es": "Sentadilla con barra agarre cerrado (Anderson)",
-    "nombre_en": "Anderson Squat",
-    "tipo": "Compound",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Glutes",
-      "Quadriceps"
-    ],
-    "equipo": "Barbell",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Ajustá los soportes de seguridad del rack a la altura de la posición baja de tu sentadilla.",
-      "Colocá la barra sobre los soportes y posicionate debajo.",
-      "Colocá la barra sobre los trapecios.",
-      "Comenzá desde abajo levantando la barra de los soportes (sin recorrido excéntrico previo).",
-      "Empujá con los talones extendiendo piernas y caderas.",
-      "Bajá controladamente hasta apoyar la barra nuevamente en los soportes.",
-      "Pausá brevemente antes de la siguiente repetición.",
-      "Elimina el rebote y desarrolla fuerza desde el punto débil."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.4
-      },
-      {
-        "musculo": "Hamstrings",
-        "peso": 0.2
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.2
-      }
-    ],
-    "nombres_alternativos": [
-      "Anderson squat",
-      "Sentadilla desde abajo",
-      "Bottom-up squat"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0211"
   },
   {
     "id": "exercise-0299",
@@ -11699,9 +10782,9 @@
       "Front squat con dos kettlebells",
       "Kettlebell front squat"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Kettlebell-Front-Squat_Thighs_.webp",
+    "video": "Kettlebell-Front-Squat_Thighs_.mp4",
+    "matched_con": "Kettlebell-Front-Squat_Thighs_",
     "verificado": false,
     "variante_de": null
   },
@@ -11794,59 +10877,11 @@
       "Sentadilla con rack frontal",
       "Clean grip squat"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Front-Chest-Squat_Thighs.webp",
+    "video": "Barbell-Front-Chest-Squat_Thighs.mp4",
+    "matched_con": "Barbell-Front-Chest-Squat_Thighs",
     "verificado": false,
     "variante_de": "exercise-0214"
-  },
-  {
-    "id": "exercise-0302",
-    "nombre_es": "Sentadilla goblet pausada",
-    "nombre_en": "Paused Goblet Squat",
-    "tipo": "Compound",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Core",
-      "Glutes",
-      "Quadriceps"
-    ],
-    "equipo": "Dumbbell",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Parate erguido con los pies al ancho de los hombros.",
-      "Sostené una mancuerna verticalmente con ambas manos al pecho.",
-      "Bajá controladamente hasta que los codos toquen las rodillas.",
-      "Pausá en el punto más bajo por 2-3 segundos.",
-      "Empujá con los talones volviendo a la posición inicial.",
-      "La pausa elimina el rebote y aumenta la tensión muscular.",
-      "Mantené el torso vertical durante todo el movimiento.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.35
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.3
-      },
-      {
-        "musculo": "Hamstrings",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Paused goblet squat",
-      "Goblet con pausa",
-      "Sentadilla copa pausada"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0215"
   },
   {
     "id": "exercise-0303",
@@ -12170,39 +11205,6 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0312",
-    "nombre_es": "Elevación de talones a un pie sin peso",
-    "nombre_en": "Single-Leg Bodyweight Calf Raise",
-    "tipo": "Isolation",
-    "musculo": "Calves",
-    "musculos_focus": [
-      "Calves"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Parate cerca de una pared o soporte para mantener el equilibrio.",
-      "Apoyá solo la punta de un pie sobre un escalón o plataforma con el talón colgando.",
-      "Levantá el otro pie del suelo cruzándolo por detrás.",
-      "Apoyate suavemente con las manos solo para equilibrio, no para empujar.",
-      "Empujá hacia arriba elevando el talón lo más alto posible.",
-      "Contraé el gemelo en el punto más alto.",
-      "Bajá controladamente hasta el estiramiento completo.",
-      "Completá todas las repeticiones antes de cambiar de pierna."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Single-leg calf raise sin peso",
-      "Gemelos a una pierna peso corporal",
-      "Calf raise unilateral bodyweight"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
-  },
-  {
     "id": "exercise-0313",
     "nombre_es": "Crunch en el suelo",
     "nombre_en": "Crunch",
@@ -12229,9 +11231,9 @@
       "Abdominales clásicos",
       "Crunch básico"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Crunch-Floor-(male)_waist.webp",
+    "video": "Crunch-Floor-(male)_waist.mp4",
+    "matched_con": "Crunch-Floor-(male)_waist",
     "verificado": false,
     "variante_de": null
   },
@@ -12262,9 +11264,9 @@
       "Crunch piernas en alto",
       "Crunch tabletop"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Tuck-Crunch_waist.webp",
+    "video": "Tuck-Crunch_waist.mp4",
+    "matched_con": "Tuck-Crunch_waist",
     "verificado": false,
     "variante_de": "exercise-0313"
   },
@@ -12295,9 +11297,9 @@
       "Crunch con peso",
       "Loaded crunch"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Weighted-Crunch-(VERSION-2)_Waist.webp",
+    "video": "Weighted-Crunch-(VERSION-2)_Waist.mp4",
+    "matched_con": "Weighted-Crunch-(VERSION-2)_Waist",
     "verificado": false,
     "variante_de": "exercise-0313"
   },
@@ -12328,9 +11330,9 @@
       "Crunch en polea con soga",
       "Rope cable crunch"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Kneeling-Crunch_Waist-FIX2_.webp",
+    "video": "Cable-Kneeling-Crunch_Waist-FIX2_.mp4",
+    "matched_con": "Cable-Kneeling-Crunch_Waist-FIX2_",
     "verificado": false,
     "variante_de": null
   },
@@ -12366,9 +11368,9 @@
       "Abdominales completos",
       "Sit-up clásico"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Sit-up-with-Arms-on-Chest_Waist.webp",
+    "video": "Sit-up-with-Arms-on-Chest_Waist.mp4",
+    "matched_con": "Sit-up-with-Arms-on-Chest_Waist",
     "verificado": false,
     "variante_de": null
   },
@@ -12404,9 +11406,9 @@
       "Sit-up declinado",
       "Sit-up en banco declinado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Decline-Sit-up_Hips_.webp",
+    "video": "Decline-Sit-up_Hips_.mp4",
+    "matched_con": "Decline-Sit-up_Hips_",
     "verificado": false,
     "variante_de": "exercise-0317"
   },
@@ -12442,9 +11444,9 @@
       "Sit-up declinado con peso",
       "Loaded decline sit-up"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Weighted-Decline-Sit-up_Waist_.webp",
+    "video": "Weighted-Decline-Sit-up_Waist_.mp4",
+    "matched_con": "Weighted-Decline-Sit-up_Waist_",
     "verificado": false,
     "variante_de": "exercise-0317"
   },
@@ -12475,9 +11477,9 @@
       "Elevación de piernas",
       "Leg raises acostado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lying-Leg-Raise_Waist-FIX_.webp",
+    "video": "Lying-Leg-Raise_Waist-FIX_.mp4",
+    "matched_con": "Lying-Leg-Raise_Waist-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -12508,9 +11510,9 @@
       "Elevación rodillas flexionadas",
       "Knee raise acostado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lying-leg-hip-raise_Waist.webp",
+    "video": "Lying-leg-hip-raise_Waist.mp4",
+    "matched_con": "Lying-leg-hip-raise_Waist",
     "verificado": false,
     "variante_de": "exercise-0320"
   },
@@ -12541,9 +11543,9 @@
       "Elevación colgado",
       "Hanging leg raise piernas extendidas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Hanging-Straight-Leg-Raise_Hips-FIX_.webp",
+    "video": "Hanging-Straight-Leg-Raise_Hips-FIX_.mp4",
+    "matched_con": "Hanging-Straight-Leg-Raise_Hips-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -12574,9 +11576,9 @@
       "Elevación de rodillas colgado",
       "Knee raise en barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Hanging-Leg-Hip-Raise_Waist.webp",
+    "video": "Hanging-Leg-Hip-Raise_Waist.mp4",
+    "matched_con": "Hanging-Leg-Hip-Raise_Waist",
     "verificado": false,
     "variante_de": "exercise-0322"
   },
@@ -12616,9 +11618,9 @@
       "Dedos a la barra",
       "T2B"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Hanging-Toes-to-Bar_Waist_.webp",
+    "video": "Hanging-Toes-to-Bar_Waist_.mp4",
+    "matched_con": "Hanging-Toes-to-Bar_Waist_",
     "verificado": false,
     "variante_de": "exercise-0322"
   },
@@ -12649,9 +11651,9 @@
       "Silla romana",
       "Vertical leg raise"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Captains-Chair-Straight-Leg-Raise_Waist-FIX_.webp",
+    "video": "Captains-Chair-Straight-Leg-Raise_Waist-FIX_.mp4",
+    "matched_con": "Captains-Chair-Straight-Leg-Raise_Waist-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -12682,9 +11684,9 @@
       "Plancha",
       "Plancha sobre antebrazos"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Front-Elbow-Plank-(male)_Waist-FIX_.webp",
+    "video": "Front-Elbow-Plank-(male)_Waist-FIX_.mp4",
+    "matched_con": "Front-Elbow-Plank-(male)_Waist-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -12715,9 +11717,9 @@
       "Plancha alta",
       "Plancha sobre manos"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Plank-on-Hands_Waist_.webp",
+    "video": "Plank-on-Hands_Waist_.mp4",
+    "matched_con": "Plank-on-Hands_Waist_",
     "verificado": false,
     "variante_de": "exercise-0326"
   },
@@ -12748,9 +11750,9 @@
       "Plancha lateral",
       "Plancha de costado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Side-Plank-(male)_Waist-FIX_.webp",
+    "video": "Side-Plank-(male)_Waist-FIX_.mp4",
+    "matched_con": "Side-Plank-(male)_Waist-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -12781,53 +11783,11 @@
       "Plancha lateral con dip",
       "Side plank dynamic"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Side-Plank-Hip-Adduction_Hips.webp",
+    "video": "Side-Plank-Hip-Adduction_Hips.mp4",
+    "matched_con": "Side-Plank-Hip-Adduction_Hips",
     "verificado": false,
     "variante_de": "exercise-0328"
-  },
-  {
-    "id": "exercise-0330",
-    "nombre_es": "Plancha con movimiento (plank up-down)",
-    "nombre_en": "Plank Up-Down",
-    "tipo": "Compound",
-    "musculo": "Core",
-    "musculos_focus": [
-      "Core"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Comenzá en posición de plancha alta sobre las manos.",
-      "Bajá un brazo a la posición de plancha sobre antebrazo.",
-      "Bajá el otro brazo a la posición de plancha sobre antebrazo.",
-      "Subí el primer brazo de vuelta a la posición de plancha alta.",
-      "Subí el otro brazo de vuelta a la posición de plancha alta.",
-      "Mantené el core firme durante todo el movimiento.",
-      "Evitá rotar las caderas durante las transiciones.",
-      "Alterná el brazo que inicia el movimiento."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Shoulders",
-        "peso": 0.25
-      },
-      {
-        "musculo": "Chest",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Plank up-down",
-      "Plancha con cambios",
-      "Plank to push-up"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
   },
   {
     "id": "exercise-0331",
@@ -12865,9 +11825,9 @@
       "Escaladores",
       "Escalador en plancha"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Mountain-Climbers-Shoulder-Tap-(male)_Plyometrics_.webp",
+    "video": "Mountain-Climbers-Shoulder-Tap-(male)_Plyometrics_.mp4",
+    "matched_con": "Mountain-Climbers-Shoulder-Tap-(male)_Plyometrics_",
     "verificado": false,
     "variante_de": null
   },
@@ -12898,9 +11858,9 @@
       "Giros rusos",
       "Twist ruso"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Russian-Twist_waist.webp",
+    "video": "Russian-Twist_waist.mp4",
+    "matched_con": "Russian-Twist_waist",
     "verificado": false,
     "variante_de": null
   },
@@ -12931,9 +11891,9 @@
       "Russian twist con peso",
       "Loaded Russian twist"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Weighted-Russian-Twist_Waist.webp",
+    "video": "Weighted-Russian-Twist_Waist.mp4",
+    "matched_con": "Weighted-Russian-Twist_Waist",
     "verificado": false,
     "variante_de": "exercise-0332"
   },
@@ -12964,9 +11924,9 @@
       "Bicicleta abdominal",
       "Cross crunch"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Bicycle-Crunch-(male)_Waist_.webp",
+    "video": "Bicycle-Crunch-(male)_Waist_.mp4",
+    "matched_con": "Bicycle-Crunch-(male)_Waist_",
     "verificado": false,
     "variante_de": null
   },
@@ -12997,9 +11957,9 @@
       "Toques de talón",
       "Side crunch"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "90-Degree-Heel-Touch-(male)_Waist_.webp",
+    "video": "90-Degree-Heel-Touch-(male)_Waist_.mp4",
+    "matched_con": "90-Degree-Heel-Touch-(male)_Waist_",
     "verificado": false,
     "variante_de": null
   },
@@ -13030,9 +11990,9 @@
       "Inclinaciones laterales",
       "Dumbbell side bend"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Side-Bend_Waist-FIX_.webp",
+    "video": "Dumbbell-Side-Bend_Waist-FIX_.mp4",
+    "matched_con": "Dumbbell-Side-Bend_Waist-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -13063,9 +12023,9 @@
       "Inclinación lateral en polea",
       "Cable lateral flexion"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Side-Bend_Waist.webp",
+    "video": "Cable-Side-Bend_Waist.mp4",
+    "matched_con": "Cable-Side-Bend_Waist",
     "verificado": false,
     "variante_de": "exercise-0336"
   },
@@ -13101,49 +12061,11 @@
       "Hacha en polea alta",
       "Cable chop"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-High-to-Low-Woodchopper-(male)_Waist_.webp",
+    "video": "Cable-High-to-Low-Woodchopper-(male)_Waist_.mp4",
+    "matched_con": "Cable-High-to-Low-Woodchopper-(male)_Waist_",
     "verificado": false,
     "variante_de": null
-  },
-  {
-    "id": "exercise-0339",
-    "nombre_es": "Wood chopper en polea baja (reverse)",
-    "nombre_en": "Low to High Cable Woodchopper",
-    "tipo": "Compound",
-    "musculo": "Core",
-    "musculos_focus": [
-      "Core"
-    ],
-    "equipo": "Cable",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Colocá la polea en la posición más baja y enganchá un maneral.",
-      "Parate de costado a la polea con los pies bien separados.",
-      "Agarrá el maneral con ambas manos abajo, brazos extendidos.",
-      "Mantené los brazos relativamente extendidos durante todo el movimiento.",
-      "Tirá del maneral en diagonal hacia arriba y al lado opuesto.",
-      "El movimiento debe venir principalmente del torso rotando.",
-      "Permite una ligera rotación de los pies para acompañar.",
-      "Volvé controladamente sintiendo el estiramiento."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Shoulders",
-        "peso": 0.2
-      }
-    ],
-    "nombres_alternativos": [
-      "Reverse woodchopper",
-      "Hacha invertida en polea",
-      "Low to high chop"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": "exercise-0338"
   },
   {
     "id": "exercise-0340",
@@ -13172,9 +12094,9 @@
       "Pallof press en polea",
       "Anti-rotation press"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-horizontal-Pallof-Press_waist.webp",
+    "video": "Cable-horizontal-Pallof-Press_waist.mp4",
+    "matched_con": "Cable-horizontal-Pallof-Press_waist",
     "verificado": false,
     "variante_de": null
   },
@@ -13205,9 +12127,9 @@
       "Bicho muerto",
       "Dead bug exercise"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dead-Bug_Waist_.webp",
+    "video": "Dead-Bug_Waist_.mp4",
+    "matched_con": "Dead-Bug_Waist_",
     "verificado": false,
     "variante_de": null
   },
@@ -13247,9 +12169,9 @@
       "Perro pájaro",
       "Quadruped extension"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Bird-Dog-male_Back.webp",
+    "video": "Bird-Dog-male_Back.mp4",
+    "matched_con": "Bird-Dog-male_Back",
     "verificado": false,
     "variante_de": null
   },
@@ -13280,9 +12202,9 @@
       "Hollow hold",
       "Posición hueca"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Hollow-Body-Hover-(male)_Waist_.webp",
+    "video": "Hollow-Body-Hover-(male)_Waist_.mp4",
+    "matched_con": "Hollow-Body-Hover-(male)_Waist_",
     "verificado": false,
     "variante_de": null
   },
@@ -13313,47 +12235,9 @@
       "V-sit up",
       "Jackknife"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "exercise-0345",
-    "nombre_es": "Pike crunch con balón suizo",
-    "nombre_en": "Stability Ball Pike",
-    "tipo": "Compound",
-    "musculo": "Core",
-    "musculos_focus": [
-      "Core"
-    ],
-    "equipo": "Stability Ball",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Posicionate en plancha alta con las espinillas apoyadas sobre un balón suizo.",
-      "Mantené las manos directamente debajo de los hombros y los brazos extendidos.",
-      "Mantené el cuerpo en línea recta desde la cabeza hasta los pies.",
-      "Llevá las caderas hacia arriba rodando el balón hacia las manos.",
-      "Formá una V invertida con el cuerpo en el punto más alto.",
-      "Mantené los brazos extendidos durante todo el movimiento.",
-      "Volvé controladamente a la posición de plancha.",
-      "Mantené el core firme y estable."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Shoulders",
-        "peso": 0.25
-      }
-    ],
-    "nombres_alternativos": [
-      "Stability ball pike",
-      "Pike con pelota",
-      "Swiss ball pike"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "V-up-(male)_Waist.webp",
+    "video": "V-up-(male)_Waist.mp4",
+    "matched_con": "V-up-(male)_Waist",
     "verificado": false,
     "variante_de": null
   },
@@ -13393,9 +12277,9 @@
       "Rueda abdominal",
       "Ab roller"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Wheel-Rollout_Waist-FIX2_.webp",
+    "video": "Wheel-Rollout_Waist-FIX2_.mp4",
+    "matched_con": "Wheel-Rollout_Waist-FIX2_",
     "verificado": false,
     "variante_de": null
   },
@@ -13426,43 +12310,10 @@
       "Plancha con peso",
       "Loaded plank"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Weighted-Front-Plank_Waist_.webp",
+    "video": "Weighted-Front-Plank_Waist_.mp4",
+    "matched_con": "Weighted-Front-Plank_Waist_",
     "verificado": false,
     "variante_de": "exercise-0326"
-  },
-  {
-    "id": "exercise-0348",
-    "nombre_es": "Plancha en máquina ab coaster",
-    "nombre_en": "Ab Coaster",
-    "tipo": "Isolation",
-    "musculo": "Core",
-    "musculos_focus": [
-      "Core"
-    ],
-    "equipo": "Machine",
-    "importancia": 5,
-    "como_hacerlo": [
-      "Subí a la máquina ab coaster apoyando las rodillas en los almohadones.",
-      "Agarrate de los manerales superiores con los brazos extendidos.",
-      "Comenzá con las piernas extendidas hacia abajo.",
-      "Llevá las rodillas hacia el pecho contrayendo los abdominales.",
-      "La máquina permite un movimiento curvilíneo.",
-      "Volvé controladamente a la posición inicial.",
-      "Mantené el torso firme contra los almohadones.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [],
-    "nombres_alternativos": [
-      "Ab coaster",
-      "Máquina ab coaster",
-      "Knee raise machine"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
-    "verificado": false,
-    "variante_de": null
   }
 ]
