@@ -982,9 +982,9 @@
       "Lagartijas",
       "Flexiones de pecho"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Push-up-m_Chest.webp",
+    "video": "Push-up-m_Chest.mp4",
+    "matched_con": "Push-up-m_Chest",
     "verificado": false,
     "variante_de": null
   },
@@ -1030,9 +1030,9 @@
       "Flexiones con pies elevados",
       "Lagartijas inclinadas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Decline-Push-Up_Chest-FIX_.webp",
+    "video": "Decline-Push-Up_Chest-FIX_.mp4",
+    "matched_con": "Decline-Push-Up_Chest-FIX_",
     "verificado": false,
     "variante_de": "exercise-0024"
   },
@@ -1076,9 +1076,9 @@
       "Flexiones con manos elevadas",
       "Lagartijas declinadas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Incline-Push-Up-(on-box).webp",
+    "video": "Incline-Push-Up-(on-box).mp4",
+    "matched_con": "Incline-Push-Up-(on-box)",
     "verificado": false,
     "variante_de": "exercise-0024"
   },
@@ -1122,9 +1122,9 @@
       "Lagartijas diamante",
       "Flexiones de pecho interno"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Diamond-Push-up_Upper-Arms.webp",
+    "video": "Diamond-Push-up_Upper-Arms.mp4",
+    "matched_con": "Diamond-Push-up_Upper-Arms",
     "verificado": false,
     "variante_de": "exercise-0024"
   },
@@ -1168,9 +1168,9 @@
       "Lagartijas abiertas",
       "Flexiones de pecho externo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Wide-Hand-Push-up_Chest.webp",
+    "video": "Wide-Hand-Push-up_Chest.mp4",
+    "matched_con": "Wide-Hand-Push-up_Chest",
     "verificado": false,
     "variante_de": "exercise-0024"
   },
@@ -1215,9 +1215,9 @@
       "Flexiones explosivas",
       "Lagartijas con palmada"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Clap-Push-Up_Plyometrics_Chest.webp",
+    "video": "Clap-Push-Up_Plyometrics_Chest.mp4",
+    "matched_con": "Clap-Push-Up_Plyometrics_Chest",
     "verificado": false,
     "variante_de": "exercise-0024"
   },
@@ -1264,9 +1264,9 @@
       "Flexiones a un brazo asistidas",
       "Lagartijas arquero"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Archer-Push-up_Chest.webp",
+    "video": "Archer-Push-up_Chest.mp4",
+    "matched_con": "Archer-Push-up_Chest",
     "verificado": false,
     "variante_de": "exercise-0024"
   },
@@ -1878,9 +1878,9 @@
       "Dominadas",
       "Dominadas con agarre prono"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Pull-up_Back-FIX2_.webp",
+    "video": "Pull-up_Back-FIX2_.mp4",
+    "matched_con": "Pull-up_Back-FIX2_",
     "verificado": false,
     "variante_de": null
   },
@@ -1924,9 +1924,9 @@
       "Dominadas amplias",
       "Pull-up agarre abierto"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Wide-Grip-Pull-Up_Back.webp",
+    "video": "Wide-Grip-Pull-Up_Back.mp4",
+    "matched_con": "Wide-Grip-Pull-Up_Back",
     "verificado": false,
     "variante_de": "exercise-0045"
   },
@@ -1971,9 +1971,9 @@
       "Dominadas supinas",
       "Dominadas con agarre supino"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Chin-Up_Back-FIX_.webp",
+    "video": "Chin-Up_Back-FIX_.mp4",
+    "matched_con": "Chin-Up_Back-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -2018,9 +2018,9 @@
       "Dominadas neutras",
       "Dominadas agarre paralelo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Neutral-Grip-Chin-Up-(male)_Back_.webp",
+    "video": "Neutral-Grip-Chin-Up-(male)_Back_.mp4",
+    "matched_con": "Neutral-Grip-Chin-Up-(male)_Back_",
     "verificado": false,
     "variante_de": "exercise-0045"
   },
@@ -2065,9 +2065,9 @@
       "Dominadas con peso adicional",
       "Pull-up con lastre"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Weighted-Pull-Up_Back_.webp",
+    "video": "Weighted-Pull-Up_Back_.mp4",
+    "matched_con": "Weighted-Pull-Up_Back_",
     "verificado": false,
     "variante_de": "exercise-0045"
   },
@@ -2112,9 +2112,9 @@
       "Dominadas asistidas",
       "Pull-up con banda"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Band-Assisted-Pull-Up-(VERSION-3)_Back.webp",
+    "video": "Band-Assisted-Pull-Up-(VERSION-3)_Back.mp4",
+    "matched_con": "Band-Assisted-Pull-Up-(VERSION-3)_Back",
     "verificado": false,
     "variante_de": "exercise-0045"
   },
@@ -2377,9 +2377,9 @@
       "Jalón con triángulo",
       "V-bar pulldown"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Neutral-Grip-Lat-Pulldown-(male)_Back_.webp",
+    "video": "Cable-Neutral-Grip-Lat-Pulldown-(male)_Back_.mp4",
+    "matched_con": "Cable-Neutral-Grip-Lat-Pulldown-(male)_Back_",
     "verificado": false,
     "variante_de": null
   },
@@ -3004,9 +3004,9 @@
       "Remo T-bar",
       "Landmine row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-T-bar-Row-(plate-loaded)_Back.webp",
+    "video": "Lever-T-bar-Row-(plate-loaded)_Back.mp4",
+    "matched_con": "Lever-T-bar-Row-(plate-loaded)_Back",
     "verificado": false,
     "variante_de": null
   },
@@ -3550,9 +3550,9 @@
       "Hiperextensión inversa",
       "Back extension inversa"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "45-degrees-Reverse-Hyperextension_Hips_.webp",
+    "video": "45-degrees-Reverse-Hyperextension_Hips_.mp4",
+    "matched_con": "45-degrees-Reverse-Hyperextension_Hips_",
     "verificado": false,
     "variante_de": null
   },
@@ -3718,9 +3718,9 @@
       "Encogimientos en polea",
       "Shrugs con cable"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Shrug_Back-FIX_.webp",
+    "video": "Cable-Shrug_Back-FIX_.mp4",
+    "matched_con": "Cable-Shrug_Back-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -4115,9 +4115,9 @@
       "Press de hombros con barra",
       "Standing barbell press"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Standing-Shoulders-Press_Shoulders_.webp",
+    "video": "Barbell-Standing-Shoulders-Press_Shoulders_.mp4",
+    "matched_con": "Barbell-Standing-Shoulders-Press_Shoulders_",
     "verificado": false,
     "variante_de": null
   },
@@ -4158,9 +4158,9 @@
       "Press sentado con barra",
       "Press militar sentado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Seated-Overhead-Press_Shoulders.webp",
+    "video": "Barbell-Seated-Overhead-Press_Shoulders.mp4",
+    "matched_con": "Barbell-Seated-Overhead-Press_Shoulders",
     "verificado": false,
     "variante_de": "exercise-0102"
   },
@@ -4248,9 +4248,9 @@
       "Seated dumbbell press",
       "Press militar con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Seated-Shoulder-Press_Shoulders-FIX2_.webp",
+    "video": "Dumbbell-Seated-Shoulder-Press_Shoulders-FIX2_.mp4",
+    "matched_con": "Dumbbell-Seated-Shoulder-Press_Shoulders-FIX2_",
     "verificado": false,
     "variante_de": null
   },
@@ -4294,9 +4294,9 @@
       "Press de pie con mancuernas",
       "OHP con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Kettlebell-Two-Arm-Military-Press_Shoulders_.webp",
+    "video": "Kettlebell-Two-Arm-Military-Press_Shoulders_.mp4",
+    "matched_con": "Kettlebell-Two-Arm-Military-Press_Shoulders_",
     "verificado": false,
     "variante_de": "exercise-0105"
   },
@@ -4341,9 +4341,9 @@
       "Press Arnold sentado",
       "Press con rotación de muñeca"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Arnold-Press_Shoulders.webp",
+    "video": "Dumbbell-Arnold-Press_Shoulders.mp4",
+    "matched_con": "Dumbbell-Arnold-Press_Shoulders",
     "verificado": false,
     "variante_de": "exercise-0105"
   },
@@ -4384,9 +4384,9 @@
       "Neutral-grip press",
       "Press de hombros agarre paralelo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Kettlebell-Seated-Neutral-Grip-Shoulders-Press_Sho.webp",
+    "video": "Kettlebell-Seated-Neutral-Grip-Shoulders-Press_Sho.mp4",
+    "matched_con": "Kettlebell-Seated-Neutral-Grip-Shoulders-Press_Sho",
     "verificado": false,
     "variante_de": "exercise-0105"
   },
@@ -4426,9 +4426,9 @@
       "Press de hombros sentado en máquina",
       "Press militar en máquina"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Seated-Shoulder-Press_Shoulders-FIX_.webp",
+    "video": "Lever-Seated-Shoulder-Press_Shoulders-FIX_.mp4",
+    "matched_con": "Lever-Seated-Shoulder-Press_Shoulders-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -4468,9 +4468,9 @@
       "Press de hombros martillo en máquina",
       "Neutral-grip machine press"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Seated-Hammer-Grip-Shoulder-Press_Shoulder-F.webp",
+    "video": "Lever-Seated-Hammer-Grip-Shoulder-Press_Shoulder-F.mp4",
+    "matched_con": "Lever-Seated-Hammer-Grip-Shoulder-Press_Shoulder-F",
     "verificado": false,
     "variante_de": "exercise-0109"
   },
@@ -4511,9 +4511,9 @@
       "Press militar en Smith",
       "Smith shoulder press"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Smith-Seated-Shoulder-Press_Shoulders.webp",
+    "video": "Smith-Seated-Shoulder-Press_Shoulders.mp4",
+    "matched_con": "Smith-Seated-Shoulder-Press_Shoulders",
     "verificado": false,
     "variante_de": null
   },
@@ -4558,9 +4558,9 @@
       "Press con impulso de piernas",
       "Barbell push press"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Behind-the-Back-Push-Press_Weightlifting_.webp",
+    "video": "Barbell-Behind-the-Back-Push-Press_Weightlifting_.mp4",
+    "matched_con": "Barbell-Behind-the-Back-Push-Press_Weightlifting_",
     "verificado": false,
     "variante_de": null
   },
@@ -4591,9 +4591,9 @@
       "Elevaciones laterales",
       "Vuelos laterales con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Lateral-Raise_shoulder-FIX_.webp",
+    "video": "Dumbbell-Lateral-Raise_shoulder-FIX_.mp4",
+    "matched_con": "Dumbbell-Lateral-Raise_shoulder-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -4624,9 +4624,9 @@
       "Elevaciones laterales sentado",
       "Lateral raise sentado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Seated-Lateral-Raise_Shoulders_.webp",
+    "video": "Dumbbell-Seated-Lateral-Raise_Shoulders_.mp4",
+    "matched_con": "Dumbbell-Seated-Lateral-Raise_Shoulders_",
     "verificado": false,
     "variante_de": "exercise-0113"
   },
@@ -4690,9 +4690,9 @@
       "Elevación lateral unilateral",
       "Lateral raise a un brazo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-One-Arm-Lateral-Raise_Shoulder.webp",
+    "video": "Dumbbell-One-Arm-Lateral-Raise_Shoulder.mp4",
+    "matched_con": "Dumbbell-One-Arm-Lateral-Raise_Shoulder",
     "verificado": false,
     "variante_de": "exercise-0113"
   },
@@ -4723,9 +4723,9 @@
       "Elevación lateral en polea",
       "Lateral raise con cable"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-One-Arm-Lateral-Raise_Shoulders.webp",
+    "video": "Cable-One-Arm-Lateral-Raise_Shoulders.mp4",
+    "matched_con": "Cable-One-Arm-Lateral-Raise_Shoulders",
     "verificado": false,
     "variante_de": null
   },
@@ -4756,9 +4756,9 @@
       "Lateral raise por detrás",
       "Cable lateral detrás del cuerpo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Leaning-Lateral-Raise_Shoulders_.webp",
+    "video": "Cable-Leaning-Lateral-Raise_Shoulders_.mp4",
+    "matched_con": "Cable-Leaning-Lateral-Raise_Shoulders_",
     "verificado": false,
     "variante_de": "exercise-0117"
   },
@@ -4789,9 +4789,9 @@
       "Lateral raise en máquina",
       "Elevación lateral sentado en máquina"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Lateral-Raise_shoulder.webp",
+    "video": "Lever-Lateral-Raise_shoulder.mp4",
+    "matched_con": "Lever-Lateral-Raise_shoulder",
     "verificado": false,
     "variante_de": null
   },
@@ -4822,9 +4822,9 @@
       "Elevación frontal con mancuernas",
       "Vuelos frontales"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Front-Raise_Shoulders.webp",
+    "video": "Dumbbell-Front-Raise_Shoulders.mp4",
+    "matched_con": "Dumbbell-Front-Raise_Shoulders",
     "verificado": false,
     "variante_de": null
   },
@@ -4855,9 +4855,9 @@
       "Elevación frontal alternada",
       "Front raise brazo por brazo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-One-Arm-Front-Raise_Shoulders_.webp",
+    "video": "Dumbbell-One-Arm-Front-Raise_Shoulders_.mp4",
+    "matched_con": "Dumbbell-One-Arm-Front-Raise_Shoulders_",
     "verificado": false,
     "variante_de": "exercise-0120"
   },
@@ -4888,9 +4888,9 @@
       "Elevación frontal con barra",
       "Front raise con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Front-Raise_Shoulders.webp",
+    "video": "Barbell-Front-Raise_Shoulders.mp4",
+    "matched_con": "Barbell-Front-Raise_Shoulders",
     "verificado": false,
     "variante_de": null
   },
@@ -4921,9 +4921,9 @@
       "Elevación frontal con placa",
       "Front raise con disco"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Weighted-Front-Raise_Shoulders-FIX_.webp",
+    "video": "Weighted-Front-Raise_Shoulders-FIX_.mp4",
+    "matched_con": "Weighted-Front-Raise_Shoulders-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -4954,9 +4954,9 @@
       "Elevación frontal en polea",
       "Front raise con cable"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Front-Raise_Shoulders-FIX_.webp",
+    "video": "Cable-Front-Raise_Shoulders-FIX_.mp4",
+    "matched_con": "Cable-Front-Raise_Shoulders-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -4987,9 +4987,9 @@
       "Vuelos invertidos",
       "Apertura posterior con mancuernas inclinado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Rear-Lateral-Raise_Shoulders-FIX_.webp",
+    "video": "Dumbbell-Rear-Lateral-Raise_Shoulders-FIX_.mp4",
+    "matched_con": "Dumbbell-Rear-Lateral-Raise_Shoulders-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -5020,9 +5020,9 @@
       "Vuelos invertidos sentado",
       "Reverse fly sentado en banco"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Rear-Fly_Shoulders.webp",
+    "video": "Dumbbell-Rear-Fly_Shoulders.mp4",
+    "matched_con": "Dumbbell-Rear-Fly_Shoulders",
     "verificado": false,
     "variante_de": "exercise-0125"
   },
@@ -5053,9 +5053,9 @@
       "Reverse fly en banco inclinado boca abajo",
       "Aperturas inversas pecho apoyado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Reverse-Fly_Shoulders-FIX_.webp",
+    "video": "Dumbbell-Reverse-Fly_Shoulders-FIX_.mp4",
+    "matched_con": "Dumbbell-Reverse-Fly_Shoulders-FIX_",
     "verificado": false,
     "variante_de": "exercise-0125"
   },
@@ -5119,9 +5119,9 @@
       "Aperturas posteriores cruzadas",
       "Reverse cable fly"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-45-degrees-Reverse-Fly-(male)_Shoulders_.webp",
+    "video": "Cable-45-degrees-Reverse-Fly-(male)_Shoulders_.mp4",
+    "matched_con": "Cable-45-degrees-Reverse-Fly-(male)_Shoulders_",
     "verificado": false,
     "variante_de": null
   },
@@ -5161,9 +5161,9 @@
       "Remo al mentón abierto",
       "Wide-grip upright row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Wide-Grip-Upright-Row_Shoulders.webp",
+    "video": "Barbell-Wide-Grip-Upright-Row_Shoulders.mp4",
+    "matched_con": "Barbell-Wide-Grip-Upright-Row_Shoulders",
     "verificado": false,
     "variante_de": null
   },
@@ -5205,9 +5205,9 @@
       "Remo al mentón estrecho",
       "Close-grip upright row"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Upright-Row_Shoulders.webp",
+    "video": "Barbell-Upright-Row_Shoulders.mp4",
+    "matched_con": "Barbell-Upright-Row_Shoulders",
     "verificado": false,
     "variante_de": "exercise-0130"
   },
@@ -5247,9 +5247,9 @@
       "Remo al mentón con mancuernas",
       "Upright row con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Upright-Row_Shoulders-FIX.webp",
+    "video": "Dumbbell-Upright-Row_Shoulders-FIX.mp4",
+    "matched_con": "Dumbbell-Upright-Row_Shoulders-FIX",
     "verificado": false,
     "variante_de": null
   },
@@ -5289,9 +5289,9 @@
       "Remo al mentón en polea",
       "Upright row con cable"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Upright-Row_shoulder.webp",
+    "video": "Cable-Upright-Row_shoulder.mp4",
+    "matched_con": "Cable-Upright-Row_shoulder",
     "verificado": false,
     "variante_de": null
   },
@@ -5322,9 +5322,9 @@
       "Encogimientos en máquina",
       "Shrugs en máquina específica"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Lever-Shrug-(plate-loaded)_Back.webp",
+    "video": "Lever-Shrug-(plate-loaded)_Back.mp4",
+    "matched_con": "Lever-Shrug-(plate-loaded)_Back",
     "verificado": false,
     "variante_de": null
   },
@@ -5355,9 +5355,9 @@
       "Elevación en Y",
       "Y raise inclinado con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Incline-Y-Raise_Shoulders_.webp",
+    "video": "Dumbbell-Incline-Y-Raise_Shoulders_.mp4",
+    "matched_con": "Dumbbell-Incline-Y-Raise_Shoulders_",
     "verificado": false,
     "variante_de": null
   },
@@ -5388,9 +5388,9 @@
       "Elevación en T",
       "T raise inclinado con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Incline-T-Raise_Shoulders_.webp",
+    "video": "Dumbbell-Incline-T-Raise_Shoulders_.mp4",
+    "matched_con": "Dumbbell-Incline-T-Raise_Shoulders_",
     "verificado": false,
     "variante_de": null
   },
@@ -5421,9 +5421,9 @@
       "Rotación externa acostado",
       "Rotación de manguito rotador"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Side-Lying-External-Rotation-(on-a-bench).webp",
+    "video": "Dumbbell-Side-Lying-External-Rotation-(on-a-bench).mp4",
+    "matched_con": "Dumbbell-Side-Lying-External-Rotation-(on-a-bench)",
     "verificado": false,
     "variante_de": null
   },
@@ -5454,9 +5454,9 @@
       "Rotación externa en polea",
       "Manguito rotador en cable"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Standing-Shoulder-External-Rotation_Back-FIX.webp",
+    "video": "Cable-Standing-Shoulder-External-Rotation_Back-FIX.mp4",
+    "matched_con": "Cable-Standing-Shoulder-External-Rotation_Back-FIX",
     "verificado": false,
     "variante_de": null
   },
@@ -5487,9 +5487,9 @@
       "Apertura con banda elástica",
       "Pull-apart con banda"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Band-Pull-Apart_Shoulders_.webp",
+    "video": "Band-Pull-Apart_Shoulders_.mp4",
+    "matched_con": "Band-Pull-Apart_Shoulders_",
     "verificado": false,
     "variante_de": null
   },
@@ -5535,9 +5535,9 @@
       "Press landmine a un brazo",
       "Single-arm landmine press"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Landmine-Single-Arm-Press_Shoulders_.webp",
+    "video": "Landmine-Single-Arm-Press_Shoulders_.mp4",
+    "matched_con": "Landmine-Single-Arm-Press_Shoulders_",
     "verificado": false,
     "variante_de": null
   },
@@ -5579,9 +5579,9 @@
       "Press sentado en el suelo con mancuernas",
       "Floor seated press"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Z-Press_Shoulders_.webp",
+    "video": "Dumbbell-Z-Press_Shoulders_.mp4",
+    "matched_con": "Dumbbell-Z-Press_Shoulders_",
     "verificado": false,
     "variante_de": null
   },
@@ -5623,9 +5623,9 @@
       "Barbell Z press",
       "Press sentado en el suelo con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Z-Press_Shoulders_.webp",
+    "video": "Barbell-Z-Press_Shoulders_.mp4",
+    "matched_con": "Barbell-Z-Press_Shoulders_",
     "verificado": false,
     "variante_de": null
   },
@@ -5733,9 +5733,9 @@
       "Press de hombros alternado",
       "Shoulder press brazo por brazo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Alternate-Shoulder-Press-(male)_Shoulders.webp",
+    "video": "Dumbbell-Alternate-Shoulder-Press-(male)_Shoulders.mp4",
+    "matched_con": "Dumbbell-Alternate-Shoulder-Press-(male)_Shoulders",
     "verificado": false,
     "variante_de": "exercise-0105"
   },
@@ -6568,9 +6568,9 @@
       "Dominadas para bíceps",
       "Close-grip chin-up"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Close-Grip-Chin-Up_Back.webp",
+    "video": "Close-Grip-Chin-Up_Back.mp4",
+    "matched_con": "Close-Grip-Chin-Up_Back",
     "verificado": false,
     "variante_de": null
   },
@@ -6667,9 +6667,9 @@
       "Jalón de tríceps en polea",
       "Extensión de tríceps en polea alta"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Triceps-Pushdown-(SZ-bar)_Upper-arms.webp",
+    "video": "Cable-Triceps-Pushdown-(SZ-bar)_Upper-arms.mp4",
+    "matched_con": "Cable-Triceps-Pushdown-(SZ-bar)_Upper-arms",
     "verificado": false,
     "variante_de": null
   },
@@ -6700,9 +6700,9 @@
       "Jalón de tríceps supino",
       "Pushdown agarre invertido"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Reverse-Grip-Triceps-Pushdown-(SZ-bar)_Upper-arms.webp",
+    "video": "Cable-Reverse-Grip-Triceps-Pushdown-(SZ-bar)_Upper-arms.mp4",
+    "matched_con": "Cable-Reverse-Grip-Triceps-Pushdown-(SZ-bar)_Upper-arms",
     "verificado": false,
     "variante_de": "exercise-0173"
   },
@@ -6733,9 +6733,9 @@
       "Jalón de tríceps con soga",
       "Pushdown con cuerda"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Pushdown-(with-rope-attachment)_Upper-Arms-FIX_.webp",
+    "video": "Cable-Pushdown-(with-rope-attachment)_Upper-Arms-FIX_.mp4",
+    "matched_con": "Cable-Pushdown-(with-rope-attachment)_Upper-Arms-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -6766,9 +6766,9 @@
       "Pushdown unilateral",
       "Extensión de tríceps a un brazo en polea"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Single-Arm-Triceps-Pushdown-(rope-attachment.webp",
+    "video": "Cable-Single-Arm-Triceps-Pushdown-(rope-attachment.mp4",
+    "matched_con": "Cable-Single-Arm-Triceps-Pushdown-(rope-attachment",
     "verificado": false,
     "variante_de": "exercise-0173"
   },
@@ -6832,9 +6832,9 @@
       "Rompecráneos con barra",
       "Press francés con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Lying-Triceps-Extension-Skull-Crusher_Upper-Arms.webp",
+    "video": "Barbell-Lying-Triceps-Extension-Skull-Crusher_Upper-Arms.mp4",
+    "matched_con": "Barbell-Lying-Triceps-Extension-Skull-Crusher_Upper-Arms",
     "verificado": false,
     "variante_de": null
   },
@@ -6865,9 +6865,9 @@
       "Rompecráneos con barra Z",
       "Press francés con barra EZ"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "EZ-Barbell-Lying-Triceps-Extension-(male)_Upper-Arms_.webp",
+    "video": "EZ-Barbell-Lying-Triceps-Extension-(male)_Upper-Arms_.mp4",
+    "matched_con": "EZ-Barbell-Lying-Triceps-Extension-(male)_Upper-Arms_",
     "verificado": false,
     "variante_de": null
   },
@@ -6898,9 +6898,9 @@
       "Press francés con mancuernas",
       "Rompecráneos con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Lying-Triceps-Extension_Upper-Arms-FIX_.webp",
+    "video": "Dumbbell-Lying-Triceps-Extension_Upper-Arms-FIX_.mp4",
+    "matched_con": "Dumbbell-Lying-Triceps-Extension_Upper-Arms-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -6931,9 +6931,9 @@
       "Press francés inclinado",
       "Rompecráneos inclinado con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Incline-Triceps-Extension-Skull-Crusher_Up.webp",
+    "video": "Barbell-Incline-Triceps-Extension-Skull-Crusher_Up.mp4",
+    "matched_con": "Barbell-Incline-Triceps-Extension-Skull-Crusher_Up",
     "verificado": false,
     "variante_de": "exercise-0178"
   },
@@ -6964,9 +6964,9 @@
       "Press francés declinado",
       "Rompecráneos declinado con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "EZ-Barbell-Decline-Triceps-Extension_Upper-Arms.webp",
+    "video": "EZ-Barbell-Decline-Triceps-Extension_Upper-Arms.mp4",
+    "matched_con": "EZ-Barbell-Decline-Triceps-Extension_Upper-Arms",
     "verificado": false,
     "variante_de": "exercise-0178"
   },
@@ -6997,9 +6997,9 @@
       "Extensión sobre la cabeza con barra",
       "French press sentado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Barbell-Seated-Overhead-Triceps-Extension_Upper-Ar.webp",
+    "video": "Barbell-Seated-Overhead-Triceps-Extension_Upper-Ar.mp4",
+    "matched_con": "Barbell-Seated-Overhead-Triceps-Extension_Upper-Ar",
     "verificado": false,
     "variante_de": null
   },
@@ -7063,9 +7063,9 @@
       "Extensión sobre la cabeza con mancuerna",
       "Dumbbell French press"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbells-Seated-Triceps-Extension_Upper-Arms_.webp",
+    "video": "Dumbbells-Seated-Triceps-Extension_Upper-Arms_.mp4",
+    "matched_con": "Dumbbells-Seated-Triceps-Extension_Upper-Arms_",
     "verificado": false,
     "variante_de": null
   },
@@ -7096,9 +7096,9 @@
       "Extensión overhead unilateral",
       "French press a un brazo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Seated-Alternate-Overhead-Triceps-Extensi.webp",
+    "video": "Dumbbell-Seated-Alternate-Overhead-Triceps-Extensi.mp4",
+    "matched_con": "Dumbbell-Seated-Alternate-Overhead-Triceps-Extensi",
     "verificado": false,
     "variante_de": "exercise-0185"
   },
@@ -7129,9 +7129,9 @@
       "Extensión overhead con soga en polea",
       "French press en polea"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Overhead-Triceps-Extension-(rope-attachment)_Upper-Arms-FIX_.webp",
+    "video": "Cable-Overhead-Triceps-Extension-(rope-attachment)_Upper-Arms-FIX_.mp4",
+    "matched_con": "Cable-Overhead-Triceps-Extension-(rope-attachment)_Upper-Arms-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -7162,9 +7162,9 @@
       "Extensión overhead con barra en polea",
       "French press en polea con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Overhead-Tricep-Extension-Straight-Bar-(male)_Upper-Arms_.webp",
+    "video": "Cable-Overhead-Tricep-Extension-Straight-Bar-(male)_Upper-Arms_.mp4",
+    "matched_con": "Cable-Overhead-Tricep-Extension-Straight-Bar-(male)_Upper-Arms_",
     "verificado": false,
     "variante_de": "exercise-0187"
   },
@@ -7195,9 +7195,9 @@
       "Patada de tríceps",
       "Kickback con mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Incline-Triceps-Kickback-(male)_Upper-Arm.webp",
+    "video": "Dumbbell-Incline-Triceps-Kickback-(male)_Upper-Arm.mp4",
+    "matched_con": "Dumbbell-Incline-Triceps-Kickback-(male)_Upper-Arm",
     "verificado": false,
     "variante_de": null
   },
@@ -7228,9 +7228,9 @@
       "Kickback con apoyo en banco",
       "Patada de tríceps a un brazo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Kickback_Upper-Arms.webp",
+    "video": "Dumbbell-Kickback_Upper-Arms.mp4",
+    "matched_con": "Dumbbell-Kickback_Upper-Arms",
     "verificado": false,
     "variante_de": "exercise-0189"
   },
@@ -7261,9 +7261,9 @@
       "Patada de tríceps en polea",
       "Kickback con cable"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Cable-Bent-Over-Single-Arm-Neutral-Grip-Kickback-with-Rope-Attachment_Upper-Arms_.webp",
+    "video": "Cable-Bent-Over-Single-Arm-Neutral-Grip-Kickback-with-Rope-Attachment_Upper-Arms_.mp4",
+    "matched_con": "Cable-Bent-Over-Single-Arm-Neutral-Grip-Kickback-with-Rope-Attachment_Upper-Arms_",
     "verificado": false,
     "variante_de": null
   },
@@ -7533,9 +7533,9 @@
       "Patada bilateral de tríceps",
       "Kickback con dos mancuernas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": null,
+    "imagen": "Dumbbell-Kickbacks-on-Exercise-Ball_Upper-Arms_.webp",
+    "video": "Dumbbell-Kickbacks-on-Exercise-Ball_Upper-Arms_.mp4",
+    "matched_con": "Dumbbell-Kickbacks-on-Exercise-Ball_Upper-Arms_",
     "verificado": false,
     "variante_de": "exercise-0189"
   },
