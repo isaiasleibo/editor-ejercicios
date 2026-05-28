@@ -1,6 +1,6 @@
 [
   {
-    "id": "exercise-0001",
+    "id": "new-exercise-0001",
     "nombre_es": "Press de banca plano con barra",
     "nombre_en": "Barbell Bench Press",
     "tipo": "Compound",
@@ -13,7 +13,7 @@
     "importancia": 10,
     "como_hacerlo": [
       "Acostate boca arriba en el banco plano con los pies firmes en el suelo.",
-      "Agarrá la barra con las manos un poco más anchas que los hombros, palmas hacia adelante.",
+      "Agarrá la barra con las /* manos */ un poco más anchas que los hombros, palmas hacia adelante.",
       "Sacá la barra del soporte y mantenela sobre el pecho con los brazos extendidos.",
       "Bajá la barra controladamente hasta tocar la parte media-baja del pecho.",
       "Mantené los codos a unos 45-75 grados respecto al torso, no completamente abiertos.",
@@ -47,7 +47,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0002",
+    "id": "new-exercise-0002",
     "nombre_es": "Press de banca inclinado con barra",
     "nombre_en": "Incline Barbell Bench Press",
     "tipo": "Compound",
@@ -90,12 +90,12 @@
     ],
     "imagen": "Barbell-Incline-Bench-Press_Chest-FIX2_.webp",
     "video": "Barbell-Incline-Bench-Press_Chest-FIX2_.mp4",
-    "matched_con": "exercise-0193",
+    "matched_con": "new-exercise-0193",
     "verificado": false,
-    "variante_de": "exercise-0001"
+    "variante_de": "new-exercise-0001"
   },
   {
-    "id": "exercise-0003",
+    "id": "new-exercise-0003",
     "nombre_es": "Press de banca declinado con barra",
     "nombre_en": "Decline Barbell Bench Press",
     "tipo": "Compound",
@@ -139,10 +139,10 @@
     "video": "Barbell-Pause-Decline-Bench-Press_Chest_.mp4",
     "matched_con": "Barbell-Pause-Decline-Bench-Press_Chest_",
     "verificado": false,
-    "variante_de": "exercise-0001"
+    "variante_de": "new-exercise-0001"
   },
   {
-    "id": "exercise-0004",
+    "id": "new-exercise-0004",
     "nombre_es": "Press de banca con barra agarre cerrado",
     "nombre_en": "Close-Grip Barbell Bench Press",
     "tipo": "Compound",
@@ -183,12 +183,12 @@
     ],
     "imagen": "Barbell-Close-Grip-Bench-Press_Upper-Arms-FIX_.webp",
     "video": "Barbell-Close-Grip-Bench-Press_Upper-Arms-FIX_.mp4",
-    "matched_con": "exercise-0147",
+    "matched_con": "new-exercise-0147",
     "verificado": false,
-    "variante_de": "exercise-0001"
+    "variante_de": "new-exercise-0001"
   },
   {
-    "id": "exercise-0005",
+    "id": "new-exercise-0005",
     "nombre_es": "Press de banca con barra agarre amplio",
     "nombre_en": "Wide-Grip Barbell Bench Press",
     "tipo": "Compound",
@@ -229,12 +229,12 @@
     ],
     "imagen": "Barbell-Wide-Bench-Press_Chest.webp",
     "video": "Barbell-Wide-Bench-Press_Chest.mp4",
-    "matched_con": "exercise-0334",
+    "matched_con": "new-exercise-0334",
     "verificado": false,
-    "variante_de": "exercise-0001"
+    "variante_de": "new-exercise-0001"
   },
   {
-    "id": "exercise-0006",
+    "id": "new-exercise-0006",
     "nombre_es": "Press de pecho plano con mancuernas",
     "nombre_en": "Flat Dumbbell Bench Press",
     "tipo": "Compound",
@@ -276,12 +276,12 @@
     ],
     "imagen": "Dumbbell-Bench-Press_Chest-FIX_.webp",
     "video": "Dumbbell-Bench-Press_Chest-FIX_.mp4",
-    "matched_con": "exercise-0701",
+    "matched_con": "new-exercise-0701",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0007",
+    "id": "new-exercise-0007",
     "nombre_es": "Press inclinado con mancuernas",
     "nombre_en": "Incline Dumbbell Bench Press",
     "tipo": "Compound",
@@ -322,12 +322,12 @@
     ],
     "imagen": "Dumbbell-Incline-Bench-Press_Chest-FIX2_.webp",
     "video": "Dumbbell-Incline-Bench-Press_Chest-FIX2_.mp4",
-    "matched_con": "exercise-0808",
+    "matched_con": "new-exercise-0808",
     "verificado": false,
-    "variante_de": "exercise-0006"
+    "variante_de": "new-exercise-0006"
   },
   {
-    "id": "exercise-0008",
+    "id": "new-exercise-0008",
     "nombre_es": "Press declinado con mancuernas",
     "nombre_en": "Decline Dumbbell Bench Press",
     "tipo": "Compound",
@@ -368,13 +368,13 @@
     ],
     "imagen": "Dumbbell-Decline-Bench-Press_Chest-FIX_.webp",
     "video": "Dumbbell-Decline-Bench-Press_Chest-FIX_.mp4",
-    "matched_con": "exercise-0739",
+    "matched_con": "new-exercise-0739",
     "verificado": false,
-    "variante_de": "exercise-0006"
+    "variante_de": "new-exercise-0006"
   },
   {
-    "id": "exercise-0009",
-    "nombre_es": "Press con mancuernas agarre neutro",
+    "id": "new-exercise-0009",
+    "nombre_es": "Press de pecho con mancuernas agarre neutro",
     "nombre_en": "Neutral-Grip Dumbbell Bench Press",
     "tipo": "Compound",
     "musculo": "Chest",
@@ -414,12 +414,12 @@
     ],
     "imagen": "Dumbbell-Close-Grip-Press_Upper-Arms.webp",
     "video": "Dumbbell-Close-Grip-Press_Upper-Arms.mp4",
-    "matched_con": "exercise-0727",
+    "matched_con": "new-exercise-0727",
     "verificado": false,
-    "variante_de": "exercise-0006"
+    "variante_de": "new-exercise-0006"
   },
   {
-    "id": "exercise-0010",
+    "id": "new-exercise-0010",
     "nombre_es": "Aperturas planas con mancuernas",
     "nombre_en": "Flat Dumbbell Flyes",
     "tipo": "Isolation",
@@ -447,12 +447,12 @@
     ],
     "imagen": "Dumbbell-Fly_Chest-FIX2_.webp",
     "video": "Dumbbell-Fly_Chest-FIX2_.mp4",
-    "matched_con": "exercise-0759",
+    "matched_con": "new-exercise-0759",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0011",
+    "id": "new-exercise-0011",
     "nombre_es": "Aperturas inclinadas con mancuernas",
     "nombre_en": "Incline Dumbbell Flyes",
     "tipo": "Isolation",
@@ -480,12 +480,12 @@
     ],
     "imagen": "Dumbbell-Incline-Fly_Chest-FIX2_.webp",
     "video": "Dumbbell-Incline-Fly_Chest-FIX2_.mp4",
-    "matched_con": "exercise-0815",
+    "matched_con": "new-exercise-0815",
     "verificado": false,
-    "variante_de": "exercise-0010"
+    "variante_de": "new-exercise-0010"
   },
   {
-    "id": "exercise-0012",
+    "id": "new-exercise-0012",
     "nombre_es": "Aperturas declinadas con mancuernas",
     "nombre_en": "Decline Dumbbell Flyes",
     "tipo": "Isolation",
@@ -512,12 +512,12 @@
     ],
     "imagen": "Dumbbell-Decline-Fly_Chest-FIX_.webp",
     "video": "Dumbbell-Decline-Fly_Chest-FIX_.mp4",
-    "matched_con": "exercise-0740",
+    "matched_con": "new-exercise-0740",
     "verificado": false,
-    "variante_de": "exercise-0010"
+    "variante_de": "new-exercise-0010"
   },
   {
-    "id": "exercise-0013",
+    "id": "new-exercise-0013",
     "nombre_es": "Press de pecho plano en máquina",
     "nombre_en": "Flat Machine Chest Press",
     "tipo": "Compound",
@@ -554,12 +554,12 @@
     ],
     "imagen": "Lever-Chest-Press-(VERSION-5)_Chest.webp",
     "video": "Lever-Chest-Press-(VERSION-5)_Chest.mp4",
-    "matched_con": "exercise-1520",
+    "matched_con": "new-exercise-1520",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0014",
+    "id": "new-exercise-0014",
     "nombre_es": "Press inclinado en máquina",
     "nombre_en": "Incline Machine Chest Press",
     "tipo": "Compound",
@@ -596,12 +596,12 @@
     ],
     "imagen": "Lever-Incline-Chest-Press_Chest-FIX2_.webp",
     "video": "Lever-Incline-Chest-Press_Chest-FIX2_.mp4",
-    "matched_con": "exercise-1547",
+    "matched_con": "new-exercise-1547",
     "verificado": false,
-    "variante_de": "exercise-0013"
+    "variante_de": "new-exercise-0013"
   },
   {
-    "id": "exercise-0015",
+    "id": "new-exercise-0015",
     "nombre_es": "Press declinado en máquina",
     "nombre_en": "Decline Machine Chest Press",
     "tipo": "Compound",
@@ -637,12 +637,12 @@
     ],
     "imagen": "Lever-Lying-Decline-Chest-Press-(plate-loaded)_Che.webp",
     "video": "Lever-Lying-Decline-Chest-Press-(plate-loaded)_Che.mp4",
-    "matched_con": "exercise-1568",
+    "matched_con": "new-exercise-1568",
     "verificado": false,
-    "variante_de": "exercise-0013"
+    "variante_de": "new-exercise-0013"
   },
   {
-    "id": "exercise-0016",
+    "id": "new-exercise-0016",
     "nombre_es": "Press en máquina agarre neutro",
     "nombre_en": "Neutral-Grip Machine Chest Press",
     "tipo": "Compound",
@@ -679,12 +679,12 @@
     ],
     "imagen": "Lever-Parallel-Chest-Press_Chest_.webp",
     "video": "Lever-Parallel-Chest-Press_Chest_.mp4",
-    "matched_con": "exercise-1588",
+    "matched_con": "new-exercise-1588",
     "verificado": false,
-    "variante_de": "exercise-0013"
+    "variante_de": "new-exercise-0013"
   },
   {
-    "id": "exercise-0017",
+    "id": "new-exercise-0017",
     "nombre_es": "Cruces en polea alta",
     "nombre_en": "High Cable Crossover",
     "tipo": "Isolation",
@@ -712,12 +712,12 @@
     ],
     "imagen": "Cable-Standing-Fly_Chest.webp",
     "video": "Cable-Standing-Fly_Chest.mp4",
-    "matched_con": "exercise-0580",
+    "matched_con": "new-exercise-0580",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0018",
+    "id": "new-exercise-0018",
     "nombre_es": "Cruces en polea baja",
     "nombre_en": "Low Cable Crossover",
     "tipo": "Isolation",
@@ -745,12 +745,12 @@
     ],
     "imagen": "Cable-Low-Fly_Chest-FIX2_.webp",
     "video": "Cable-Low-Fly_Chest-FIX2_.mp4",
-    "matched_con": "exercise-0451",
+    "matched_con": "new-exercise-0451",
     "verificado": false,
-    "variante_de": "exercise-0017"
+    "variante_de": "new-exercise-0017"
   },
   {
-    "id": "exercise-0019",
+    "id": "new-exercise-0019",
     "nombre_es": "Cruces en polea media",
     "nombre_en": "Mid Cable Crossover",
     "tipo": "Isolation",
@@ -778,12 +778,12 @@
     ],
     "imagen": "Cable-Middle-Fly_Chest-FIX_.webp",
     "video": "Cable-Middle-Fly_Chest-FIX_.mp4",
-    "matched_con": "exercise-0464",
+    "matched_con": "new-exercise-0464",
     "verificado": false,
-    "variante_de": "exercise-0017"
+    "variante_de": "new-exercise-0017"
   },
   {
-    "id": "exercise-0020",
+    "id": "new-exercise-0020",
     "nombre_es": "Cruce en polea unilateral",
     "nombre_en": "Single-Arm Cable Crossover",
     "tipo": "Isolation",
@@ -811,12 +811,12 @@
     ],
     "imagen": "Cable-One-Arm-Lateral-Bent-over.webp",
     "video": "Cable-One-Arm-Lateral-Bent-over.mp4",
-    "matched_con": "exercise-0477",
+    "matched_con": "new-exercise-0477",
     "verificado": false,
-    "variante_de": "exercise-0017"
+    "variante_de": "new-exercise-0017"
   },
   {
-    "id": "exercise-0021",
+    "id": "new-exercise-0021",
     "nombre_es": "Contractor de pecho en máquina",
     "nombre_en": "Pec Deck Machine",
     "tipo": "Isolation",
@@ -844,12 +844,12 @@
     ],
     "imagen": "Lever-Pec-Deck-Fly_Chest_.webp",
     "video": "Lever-Pec-Deck-Fly_Chest_.mp4",
-    "matched_con": "exercise-1589",
+    "matched_con": "new-exercise-1589",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0010"
   },
   {
-    "id": "exercise-0022",
+    "id": "new-exercise-0022",
     "nombre_es": "Fondos en paralelas con torso inclinado",
     "nombre_en": "Chest Dips (Forward Lean)",
     "tipo": "Compound",
@@ -891,58 +891,12 @@
     ],
     "imagen": "Chest-Dip-(on-dip-pull-up-cage)_Chest-FIX_.webp",
     "video": "Chest-Dip-(on-dip-pull-up-cage)_Chest-FIX_.mp4",
-    "matched_con": "exercise-0651",
+    "matched_con": "new-exercise-0651",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0023",
-    "nombre_es": "Fondos en paralelas torso vertical",
-    "nombre_en": "Upright Dips",
-    "tipo": "Compound",
-    "musculo": "Chest",
-    "musculos_focus": [
-      "Chest",
-      "Triceps"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 6,
-    "como_hacerlo": [
-      "Subí a las paralelas y sostené tu peso con los brazos extendidos.",
-      "Mantené el torso lo más vertical posible durante todo el movimiento.",
-      "Cruzá los pies por detrás y flexioná ligeramente las piernas.",
-      "Bajá controladamente flexionando los codos manteniéndolos cerca del torso.",
-      "Bajá hasta que los codos formen un ángulo de aproximadamente 90 grados.",
-      "Empujá hacia arriba hasta extender los brazos sin bloquear los codos.",
-      "Repetí según tu rutina."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Triceps",
-        "peso": 0.55
-      },
-      {
-        "musculo": "Shoulders",
-        "peso": 0.2
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Fondos verticales",
-      "Dips para tríceps en paralelas",
-      "Paralelas torso recto"
-    ],
-    "imagen": "Triceps-Dip_Upper-Arms-FIX_.webp",
-    "video": "Triceps-Dip_Upper-Arms-FIX_.mp4",
-    "matched_con": "exercise-2001",
-    "verificado": false,
-    "variante_de": "exercise-0022"
-  },
-  {
-    "id": "exercise-0024",
+    "id": "new-exercise-0024",
     "nombre_es": "Flexiones de brazos estándar",
     "nombre_en": "Standard Push-Up",
     "tipo": "Compound",
@@ -989,7 +943,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0025",
+    "id": "new-exercise-0025",
     "nombre_es": "Flexiones inclinadas (pies elevados)",
     "nombre_en": "Decline Push-Up (Feet Elevated)",
     "tipo": "Compound",
@@ -1034,10 +988,10 @@
     "video": "Decline-Push-Up_Chest-FIX_.mp4",
     "matched_con": "Decline-Push-Up_Chest-FIX_",
     "verificado": false,
-    "variante_de": "exercise-0024"
+    "variante_de": "new-exercise-0024"
   },
   {
-    "id": "exercise-0026",
+    "id": "new-exercise-0026",
     "nombre_es": "Flexiones declinadas (manos elevadas)",
     "nombre_en": "Incline Push-Up (Hands Elevated)",
     "tipo": "Compound",
@@ -1080,10 +1034,10 @@
     "video": "Incline-Push-Up-(on-box).mp4",
     "matched_con": "Incline-Push-Up-(on-box)",
     "verificado": false,
-    "variante_de": "exercise-0024"
+    "variante_de": "new-exercise-0024"
   },
   {
-    "id": "exercise-0027",
+    "id": "new-exercise-0027",
     "nombre_es": "Flexiones diamante",
     "nombre_en": "Diamond Push-Up",
     "tipo": "Compound",
@@ -1126,10 +1080,10 @@
     "video": "Diamond-Push-up_Upper-Arms.mp4",
     "matched_con": "Diamond-Push-up_Upper-Arms",
     "verificado": false,
-    "variante_de": "exercise-0024"
+    "variante_de": "new-exercise-0024"
   },
   {
-    "id": "exercise-0028",
+    "id": "new-exercise-0028",
     "nombre_es": "Flexiones agarre amplio",
     "nombre_en": "Wide-Grip Push-Up",
     "tipo": "Compound",
@@ -1172,10 +1126,10 @@
     "video": "Wide-Hand-Push-up_Chest.mp4",
     "matched_con": "Wide-Hand-Push-up_Chest",
     "verificado": false,
-    "variante_de": "exercise-0024"
+    "variante_de": "new-exercise-0024"
   },
   {
-    "id": "exercise-0029",
+    "id": "new-exercise-0029",
     "nombre_es": "Flexiones pliométricas con palmada",
     "nombre_en": "Clap Push-Up",
     "tipo": "Compound",
@@ -1219,10 +1173,10 @@
     "video": "Clap-Push-Up_Plyometrics_Chest.mp4",
     "matched_con": "Clap-Push-Up_Plyometrics_Chest",
     "verificado": false,
-    "variante_de": "exercise-0024"
+    "variante_de": "new-exercise-0024"
   },
   {
-    "id": "exercise-0030",
+    "id": "new-exercise-0030",
     "nombre_es": "Flexiones arquero",
     "nombre_en": "Archer Push-Up",
     "tipo": "Compound",
@@ -1268,10 +1222,10 @@
     "video": "Archer-Push-up_Chest.mp4",
     "matched_con": "Archer-Push-up_Chest",
     "verificado": false,
-    "variante_de": "exercise-0024"
+    "variante_de": "new-exercise-0024"
   },
   {
-    "id": "exercise-0031",
+    "id": "new-exercise-0031",
     "nombre_es": "Press en suelo con barra",
     "nombre_en": "Barbell Floor Press",
     "tipo": "Compound",
@@ -1309,12 +1263,12 @@
     ],
     "imagen": "Barbell-Floor-Chest-Press_Chest_.webp",
     "video": "Barbell-Floor-Chest-Press_Chest_.mp4",
-    "matched_con": "exercise-0169",
+    "matched_con": "new-exercise-0169",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0033",
+    "id": "new-exercise-0033",
     "nombre_es": "Press en suelo con mancuernas",
     "nombre_en": "Dumbbell Floor Press",
     "tipo": "Compound",
@@ -1355,12 +1309,12 @@
     ],
     "imagen": "Dumbbell-Lying-on-Floor-Chest-Press_Chest.webp",
     "video": "Dumbbell-Lying-on-Floor-Chest-Press_Chest.mp4",
-    "matched_con": "exercise-0889",
+    "matched_con": "new-exercise-0889",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0034",
+    "id": "new-exercise-0034",
     "nombre_es": "Pullover con mancuerna",
     "nombre_en": "Dumbbell Pullover",
     "tipo": "Compound",
@@ -1402,12 +1356,12 @@
     ],
     "imagen": "Dumbbell-Pullover_Chest.webp",
     "video": "Dumbbell-Pullover_Chest.mp4",
-    "matched_con": "exercise-0948",
+    "matched_con": "new-exercise-0948",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0035",
+    "id": "new-exercise-0035",
     "nombre_es": "Pullover con barra",
     "nombre_en": "Barbell Pullover",
     "tipo": "Compound",
@@ -1449,12 +1403,12 @@
     ],
     "imagen": "Barbell-Bent-Arm-Pullover-(male)_Back_.webp",
     "video": "Barbell-Bent-Arm-Pullover-(male)_Back_.mp4",
-    "matched_con": "exercise-0136",
+    "matched_con": "new-exercise-0136",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0034"
   },
   {
-    "id": "exercise-0036",
+    "id": "new-exercise-0036",
     "nombre_es": "Pullover en polea alta de pie",
     "nombre_en": "Standing Cable Pullover",
     "tipo": "Isolation",
@@ -1483,12 +1437,12 @@
     ],
     "imagen": "Cable-Straight-Arm-Pulldown_Back-FIX_.webp",
     "video": "Cable-Straight-Arm-Pulldown_Back-FIX_.mp4",
-    "matched_con": "exercise-0622",
+    "matched_con": "new-exercise-0622",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0034"
   },
   {
-    "id": "exercise-0037",
+    "id": "new-exercise-0037",
     "nombre_es": "Svend press de pie",
     "nombre_en": "Standing Svend Press",
     "tipo": "Isolation",
@@ -1516,12 +1470,12 @@
     ],
     "imagen": "Weighted-Svend-Press_Chest-FIX_.webp",
     "video": "Weighted-Svend-Press_Chest-FIX_.mp4",
-    "matched_con": "exercise-2082",
+    "matched_con": "new-exercise-2082",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0038",
+    "id": "new-exercise-0038",
     "nombre_es": "Svend press acostado",
     "nombre_en": "Lying Svend Press",
     "tipo": "Isolation",
@@ -1548,12 +1502,12 @@
     ],
     "imagen": "Svend-Bench-Press_Upper-Arms_.webp",
     "video": "Svend-Bench-Press_Upper-Arms_.mp4",
-    "matched_con": "exercise-1991",
+    "matched_con": "new-exercise-1991",
     "verificado": false,
-    "variante_de": "exercise-0037"
+    "variante_de": "new-exercise-0037"
   },
   {
-    "id": "exercise-0039",
+    "id": "new-exercise-0039",
     "nombre_es": "Press Larsen plano",
     "nombre_en": "Flat Larsen Press",
     "tipo": "Compound",
@@ -1596,12 +1550,12 @@
     ],
     "imagen": "Barbell-Larsen-Press-(male)_Chest_.webp",
     "video": "Barbell-Larsen-Press-(male)_Chest_.mp4",
-    "matched_con": "exercise-0204",
+    "matched_con": "new-exercise-0204",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0040",
+    "id": "new-exercise-0040",
     "nombre_es": "Aperturas planas en polea acostado",
     "nombre_en": "Flat Cable Flyes (Lying)",
     "tipo": "Isolation",
@@ -1629,12 +1583,12 @@
     ],
     "imagen": "Cable-Lying-Fly_Chest-FIX_.webp",
     "video": "Cable-Lying-Fly_Chest-FIX_.mp4",
-    "matched_con": "exercise-0457",
+    "matched_con": "new-exercise-0457",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0041",
+    "id": "new-exercise-0041",
     "nombre_es": "Aperturas inclinadas en polea acostado",
     "nombre_en": "Incline Cable Flyes (Lying)",
     "tipo": "Isolation",
@@ -1662,12 +1616,12 @@
     ],
     "imagen": "Cable-Incline-Fly_Chest-FIX_.webp",
     "video": "Cable-Incline-Fly_Chest-FIX_.mp4",
-    "matched_con": "exercise-0418",
+    "matched_con": "new-exercise-0418",
     "verificado": false,
-    "variante_de": "exercise-0040"
+    "variante_de": "new-exercise-0040"
   },
   {
-    "id": "exercise-0042",
+    "id": "new-exercise-0042",
     "nombre_es": "Press en máquina Smith plano",
     "nombre_en": "Flat Smith Machine Bench Press",
     "tipo": "Compound",
@@ -1705,12 +1659,12 @@
     ],
     "imagen": "Smith-Bench-Press_Chest-FIX_.webp",
     "video": "Smith-Bench-Press_Chest-FIX_.mp4",
-    "matched_con": "exercise-1873",
+    "matched_con": "new-exercise-1873",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0043",
+    "id": "new-exercise-0043",
     "nombre_es": "Press en máquina Smith inclinado",
     "nombre_en": "Incline Smith Machine Bench Press",
     "tipo": "Compound",
@@ -1748,12 +1702,12 @@
     ],
     "imagen": "Smith-Incline-Bench-Press_Chest-FIX_.webp",
     "video": "Smith-Incline-Bench-Press_Chest-FIX_.mp4",
-    "matched_con": "exercise-1897",
+    "matched_con": "new-exercise-1897",
     "verificado": false,
-    "variante_de": "exercise-0042"
+    "variante_de": "new-exercise-0042"
   },
   {
-    "id": "exercise-0044",
+    "id": "new-exercise-0044",
     "nombre_es": "Press en máquina Smith declinado",
     "nombre_en": "Decline Smith Machine Bench Press",
     "tipo": "Compound",
@@ -1791,12 +1745,12 @@
     ],
     "imagen": "Smith-Decline-Bench-Press_Chest-FIX_.webp",
     "video": "Smith-Decline-Bench-Press_Chest-FIX_.mp4",
-    "matched_con": "exercise-1882",
+    "matched_con": "new-exercise-1882",
     "verificado": false,
-    "variante_de": "exercise-0042"
+    "variante_de": "new-exercise-0042"
   },
   {
-    "id": "exercise-0045",
+    "id": "new-exercise-0045",
     "nombre_es": "Dominadas pronas",
     "nombre_en": "Pull-Up",
     "tipo": "Compound",
@@ -1843,7 +1797,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0046",
+    "id": "new-exercise-0046",
     "nombre_es": "Dominadas pronas agarre amplio",
     "nombre_en": "Wide-Grip Pull-Up",
     "tipo": "Compound",
@@ -1886,10 +1840,10 @@
     "video": "Wide-Grip-Pull-Up_Back.mp4",
     "matched_con": "Wide-Grip-Pull-Up_Back",
     "verificado": false,
-    "variante_de": "exercise-0045"
+    "variante_de": "new-exercise-0045"
   },
   {
-    "id": "exercise-0047",
+    "id": "new-exercise-0047",
     "nombre_es": "Dominadas supinas (chin-up)",
     "nombre_en": "Chin-Up",
     "tipo": "Compound",
@@ -1936,7 +1890,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0048",
+    "id": "new-exercise-0048",
     "nombre_es": "Dominadas agarre neutro",
     "nombre_en": "Neutral-Grip Pull-Up",
     "tipo": "Compound",
@@ -1980,10 +1934,10 @@
     "video": "Neutral-Grip-Chin-Up-(male)_Back_.mp4",
     "matched_con": "Neutral-Grip-Chin-Up-(male)_Back_",
     "verificado": false,
-    "variante_de": "exercise-0045"
+    "variante_de": "new-exercise-0045"
   },
   {
-    "id": "exercise-0049",
+    "id": "new-exercise-0049",
     "nombre_es": "Dominadas con peso",
     "nombre_en": "Weighted Pull-Up",
     "tipo": "Compound",
@@ -2027,10 +1981,10 @@
     "video": "Weighted-Pull-Up_Back_.mp4",
     "matched_con": "Weighted-Pull-Up_Back_",
     "verificado": false,
-    "variante_de": "exercise-0045"
+    "variante_de": "new-exercise-0045"
   },
   {
-    "id": "exercise-0050",
+    "id": "new-exercise-0050",
     "nombre_es": "Dominadas asistidas con banda",
     "nombre_en": "Band-Assisted Pull-Up",
     "tipo": "Compound",
@@ -2074,10 +2028,10 @@
     "video": "Band-Assisted-Pull-Up-(VERSION-3)_Back.mp4",
     "matched_con": "Band-Assisted-Pull-Up-(VERSION-3)_Back",
     "verificado": false,
-    "variante_de": "exercise-0045"
+    "variante_de": "new-exercise-0045"
   },
   {
-    "id": "exercise-0051",
+    "id": "new-exercise-0051",
     "nombre_es": "Dominadas en máquina asistida",
     "nombre_en": "Assisted Pull-Up Machine",
     "tipo": "Compound",
@@ -2115,12 +2069,12 @@
     ],
     "imagen": "Assisted-Pull-up_Back.webp",
     "video": "Assisted-Pull-up_Back.mp4",
-    "matched_con": "exercise-0019",
+    "matched_con": "new-exercise-0019",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0052",
+    "id": "new-exercise-0052",
     "nombre_es": "Jalón al pecho con barra agarre prono",
     "nombre_en": "Lat Pulldown",
     "tipo": "Compound",
@@ -2162,12 +2116,12 @@
     ],
     "imagen": "Cable-Pulldown_Back_.webp",
     "video": "Cable-Pulldown_Back_.mp4",
-    "matched_con": "exercise-0494",
+    "matched_con": "new-exercise-0494",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0053",
+    "id": "new-exercise-0053",
     "nombre_es": "Jalón al pecho con barra agarre amplio",
     "nombre_en": "Wide-Grip Lat Pulldown",
     "tipo": "Compound",
@@ -2208,12 +2162,12 @@
     ],
     "imagen": "Cable-Pulldown-(pro-lat-bar)_Back_.webp",
     "video": "Cable-Pulldown-(pro-lat-bar)_Back_.mp4",
-    "matched_con": "exercise-0493",
+    "matched_con": "new-exercise-0493",
     "verificado": false,
-    "variante_de": "exercise-0052"
+    "variante_de": "new-exercise-0052"
   },
   {
-    "id": "exercise-0054",
+    "id": "new-exercise-0054",
     "nombre_es": "Jalón al pecho con barra agarre cerrado",
     "nombre_en": "Close-Grip Lat Pulldown",
     "tipo": "Compound",
@@ -2251,12 +2205,12 @@
     ],
     "imagen": "Cable-Close-Grip-Front-Lat-Pulldown_Back.webp",
     "video": "Cable-Close-Grip-Front-Lat-Pulldown_Back.mp4",
-    "matched_con": "exercise-0371",
+    "matched_con": "new-exercise-0371",
     "verificado": false,
-    "variante_de": "exercise-0052"
+    "variante_de": "new-exercise-0052"
   },
   {
-    "id": "exercise-0055",
+    "id": "new-exercise-0055",
     "nombre_es": "Jalón al pecho con barra agarre supino",
     "nombre_en": "Reverse-Grip Lat Pulldown",
     "tipo": "Compound",
@@ -2294,12 +2248,12 @@
     ],
     "imagen": "Cable-Reverse-Grip-Pulldown_Back_.webp",
     "video": "Cable-Reverse-Grip-Pulldown_Back_.mp4",
-    "matched_con": "exercise-0504",
+    "matched_con": "new-exercise-0504",
     "verificado": false,
-    "variante_de": "exercise-0052"
+    "variante_de": "new-exercise-0052"
   },
   {
-    "id": "exercise-0056",
+    "id": "new-exercise-0056",
     "nombre_es": "Jalón al pecho agarre neutro con triángulo",
     "nombre_en": "Neutral-Grip Lat Pulldown",
     "tipo": "Compound",
@@ -2339,10 +2293,10 @@
     "video": "Cable-Neutral-Grip-Lat-Pulldown-(male)_Back_.mp4",
     "matched_con": "Cable-Neutral-Grip-Lat-Pulldown-(male)_Back_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0052"
   },
   {
-    "id": "exercise-0057",
+    "id": "new-exercise-0057",
     "nombre_es": "Jalón a un brazo en polea alta",
     "nombre_en": "Single-Arm Lat Pulldown",
     "tipo": "Compound",
@@ -2384,12 +2338,12 @@
     ],
     "imagen": "Cable-one-arm-lat-pulldown_back.webp",
     "video": "Cable-one-arm-lat-pulldown_back.mp4",
-    "matched_con": "exercise-0642",
+    "matched_con": "new-exercise-0642",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0052"
   },
   {
-    "id": "exercise-0059",
+    "id": "new-exercise-0059",
     "nombre_es": "Jalón al pecho detrás de la nuca",
     "nombre_en": "Behind-the-Neck Lat Pulldown",
     "tipo": "Compound",
@@ -2426,12 +2380,12 @@
     ],
     "imagen": "Cable-Wide-Grip-Rear-Pulldown-Behind-Neck_Back.webp",
     "video": "Cable-Wide-Grip-Rear-Pulldown-Behind-Neck_Back.mp4",
-    "matched_con": "exercise-0636",
+    "matched_con": "new-exercise-0636",
     "verificado": false,
-    "variante_de": "exercise-0052"
+    "variante_de": "new-exercise-0052"
   },
   {
-    "id": "exercise-0060",
+    "id": "new-exercise-0060",
     "nombre_es": "Pull-over en máquina",
     "nombre_en": "Machine Pullover",
     "tipo": "Isolation",
@@ -2459,12 +2413,12 @@
     ],
     "imagen": "Lever-Pullover-(plate-loaded)_Back_.webp",
     "video": "Lever-Pullover-(plate-loaded)_Back_.mp4",
-    "matched_con": "exercise-1598",
+    "matched_con": "new-exercise-1598",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0061",
+    "id": "new-exercise-0061",
     "nombre_es": "Remo con barra inclinado",
     "nombre_en": "Bent-Over Barbell Row",
     "tipo": "Compound",
@@ -2506,12 +2460,12 @@
     ],
     "imagen": "Barbell-Bent-Over-Row_Back_.webp",
     "video": "Barbell-Bent-Over-Row_Back_.mp4",
-    "matched_con": "exercise-0138",
+    "matched_con": "new-exercise-0138",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0062",
+    "id": "new-exercise-0062",
     "nombre_es": "Remo con barra inclinado agarre supino",
     "nombre_en": "Reverse-Grip Bent-Over Barbell Row",
     "tipo": "Compound",
@@ -2553,12 +2507,12 @@
     ],
     "imagen": "Barbell-Underhand-Bent-Over-Row_Back-FIX_.webp",
     "video": "Barbell-Underhand-Bent-Over-Row_Back-FIX_.mp4",
-    "matched_con": "exercise-0326",
+    "matched_con": "new-exercise-0326",
     "verificado": false,
-    "variante_de": "exercise-0061"
+    "variante_de": "new-exercise-0061"
   },
   {
-    "id": "exercise-0063",
+    "id": "new-exercise-0063",
     "nombre_es": "Remo con barra inclinado agarre amplio",
     "nombre_en": "Wide-Grip Bent-Over Barbell Row",
     "tipo": "Compound",
@@ -2600,12 +2554,12 @@
     ],
     "imagen": "Barbell-Bent-Over-Wide-Grip-Row_Back_.webp",
     "video": "Barbell-Bent-Over-Wide-Grip-Row_Back_.mp4",
-    "matched_con": "exercise-0139",
+    "matched_con": "new-exercise-0139",
     "verificado": false,
-    "variante_de": "exercise-0061"
+    "variante_de": "new-exercise-0061"
   },
   {
-    "id": "exercise-0064",
+    "id": "new-exercise-0064",
     "nombre_es": "Remo Pendlay con barra",
     "nombre_en": "Pendlay Row",
     "tipo": "Compound",
@@ -2647,12 +2601,12 @@
     ],
     "imagen": "Barbell-Pendlay-Row_Back_.webp",
     "video": "Barbell-Pendlay-Row_Back_.mp4",
-    "matched_con": "exercise-0238",
+    "matched_con": "new-exercise-0238",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0061"
   },
   {
-    "id": "exercise-0065",
+    "id": "new-exercise-0065",
     "nombre_es": "Remo con mancuerna a un brazo",
     "nombre_en": "Single-Arm Dumbbell Row",
     "tipo": "Compound",
@@ -2694,12 +2648,12 @@
     ],
     "imagen": "Dumbbell-Bent-over-Row_Back-FIX_ 1.webp",
     "video": "Dumbbell-Bent-over-Row_Back-FIX_ 1.mp4",
-    "matched_con": "exercise-0713",
+    "matched_con": "new-exercise-0713",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0066",
+    "id": "new-exercise-0066",
     "nombre_es": "Remo con mancuernas inclinado a dos brazos",
     "nombre_en": "Bent-Over Dumbbell Row",
     "tipo": "Compound",
@@ -2741,12 +2695,12 @@
     ],
     "imagen": "Dumbbell-Bent-Over-Row-against-Wall_Back_.webp",
     "video": "Dumbbell-Bent-Over-Row-against-Wall_Back_.mp4",
-    "matched_con": "exercise-0709",
+    "matched_con": "new-exercise-0709",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0067",
+    "id": "new-exercise-0067",
     "nombre_es": "Remo con mancuerna en banco inclinado boca abajo",
     "nombre_en": "Chest-Supported Dumbbell Row",
     "tipo": "Compound",
@@ -2784,12 +2738,12 @@
     ],
     "imagen": "Dumbbell-Hammer-Grip-Incline-Bench-Two-Arm-Row_Back.webp",
     "video": "Dumbbell-Hammer-Grip-Incline-Bench-Two-Arm-Row_Back.mp4",
-    "matched_con": "exercise-0790",
+    "matched_con": "new-exercise-0790",
     "verificado": false,
-    "variante_de": "exercise-0066"
+    "variante_de": "new-exercise-0066"
   },
   {
-    "id": "exercise-0069",
+    "id": "new-exercise-0069",
     "nombre_es": "Remo Meadows",
     "nombre_en": "Meadows Row",
     "tipo": "Compound",
@@ -2831,12 +2785,12 @@
     ],
     "imagen": "Landmine-One-Arm-Bent-Over-Row_Back_.webp",
     "video": "Landmine-One-Arm-Bent-Over-Row_Back_.mp4",
-    "matched_con": "exercise-1469",
+    "matched_con": "new-exercise-1469",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0070",
+    "id": "new-exercise-0070",
     "nombre_es": "Remo T-bar con pecho apoyado",
     "nombre_en": "Chest-Supported T-Bar Row",
     "tipo": "Compound",
@@ -2874,12 +2828,12 @@
     ],
     "imagen": "Lever-Lying-T-bar-Row_Back.webp",
     "video": "Lever-Lying-T-bar-Row_Back.mp4",
-    "matched_con": "exercise-1573",
+    "matched_con": "new-exercise-1573",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0071",
+    "id": "new-exercise-0071",
     "nombre_es": "Remo T-bar de pie",
     "nombre_en": "Standing T-Bar Row",
     "tipo": "Compound",
@@ -2923,10 +2877,10 @@
     "video": "Lever-T-bar-Row-(plate-loaded)_Back.mp4",
     "matched_con": "Lever-T-bar-Row-(plate-loaded)_Back",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0070"
   },
   {
-    "id": "exercise-0072",
+    "id": "new-exercise-0072",
     "nombre_es": "Remo en polea baja sentado con triángulo",
     "nombre_en": "Seated Cable Row",
     "tipo": "Compound",
@@ -2968,12 +2922,12 @@
     ],
     "imagen": "Cable-Seated-Row-with-V-bar_Back-FIX_.webp",
     "video": "Cable-Seated-Row-with-V-bar_Back-FIX_.mp4",
-    "matched_con": "exercise-0538",
+    "matched_con": "new-exercise-0538",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0073",
+    "id": "new-exercise-0073",
     "nombre_es": "Remo en polea baja con barra recta",
     "nombre_en": "Seated Cable Row with Straight Bar",
     "tipo": "Compound",
@@ -3015,12 +2969,12 @@
     ],
     "imagen": "Cable-Low-Seated-Row_Back.webp",
     "video": "Cable-Low-Seated-Row_Back.mp4",
-    "matched_con": "exercise-0452",
+    "matched_con": "new-exercise-0452",
     "verificado": false,
-    "variante_de": "exercise-0072"
+    "variante_de": "new-exercise-0072"
   },
   {
-    "id": "exercise-0075",
+    "id": "new-exercise-0075",
     "nombre_es": "Remo en polea baja a un brazo",
     "nombre_en": "Single-Arm Seated Cable Row",
     "tipo": "Compound",
@@ -3062,12 +3016,12 @@
     ],
     "imagen": "Cable-Half-Kneeling-Single-Arm-Row-(VERSION-2)-(ma.webp",
     "video": "Cable-Half-Kneeling-Single-Arm-Row-(VERSION-2)-(ma.mp4",
-    "matched_con": "exercise-0401",
+    "matched_con": "new-exercise-0401",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0072"
   },
   {
-    "id": "exercise-0077",
+    "id": "new-exercise-0077",
     "nombre_es": "Remo en máquina sentado",
     "nombre_en": "Machine Seated Row",
     "tipo": "Compound",
@@ -3105,12 +3059,12 @@
     ],
     "imagen": "Lever-Seated-Row_Back.webp",
     "video": "Lever-Seated-Row_Back.mp4",
-    "matched_con": "exercise-1637",
+    "matched_con": "new-exercise-1637",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0078",
+    "id": "new-exercise-0078",
     "nombre_es": "Remo en máquina sentado agarre neutro",
     "nombre_en": "Neutral-Grip Machine Seated Row",
     "tipo": "Compound",
@@ -3148,12 +3102,12 @@
     ],
     "imagen": "Lever-Neutral-Grip-Seated-Row-(plate-loaded)_Back-.webp",
     "video": "Lever-Neutral-Grip-Seated-Row-(plate-loaded)_Back-.mp4",
-    "matched_con": "exercise-1575",
+    "matched_con": "new-exercise-1575",
     "verificado": false,
-    "variante_de": "exercise-0077"
+    "variante_de": "new-exercise-0077"
   },
   {
-    "id": "exercise-0079",
+    "id": "new-exercise-0079",
     "nombre_es": "Remo en máquina a un brazo",
     "nombre_en": "Single-Arm Machine Row",
     "tipo": "Compound",
@@ -3195,12 +3149,12 @@
     ],
     "imagen": "Lever-Single-Arm-Neutral-Grip-Seated-Row-(plate-lo.webp",
     "video": "Lever-Single-Arm-Neutral-Grip-Seated-Row-(plate-lo.mp4",
-    "matched_con": "exercise-1653",
+    "matched_con": "new-exercise-1653",
     "verificado": false,
-    "variante_de": "exercise-0077"
+    "variante_de": "new-exercise-0077"
   },
   {
-    "id": "exercise-0080",
+    "id": "new-exercise-0080",
     "nombre_es": "Remo invertido (australiano)",
     "nombre_en": "Inverted Row",
     "tipo": "Compound",
@@ -3243,12 +3197,12 @@
     ],
     "imagen": "Inverted-Row_Back-FIX_.webp",
     "video": "Inverted-Row_Back-FIX_.mp4",
-    "matched_con": "exercise-1262",
+    "matched_con": "new-exercise-1262",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0081",
+    "id": "new-exercise-0081",
     "nombre_es": "Remo invertido pies elevados",
     "nombre_en": "Feet-Elevated Inverted Row",
     "tipo": "Compound",
@@ -3291,13 +3245,13 @@
     ],
     "imagen": "Inverted-Row-on-Bench_Back_.webp",
     "video": "Inverted-Row-on-Bench_Back_.mp4",
-    "matched_con": "exercise-1260",
+    "matched_con": "new-exercise-1260",
     "verificado": false,
-    "variante_de": "exercise-0080"
+    "variante_de": "new-exercise-0080"
   },
   {
-    "id": "exercise-0082",
-    "nombre_es": "Hiperextensión 45 grados",
+    "id": "new-exercise-0082",
+    "nombre_es": "Hiperextensión 45 grados (énfasis lumbar)",
     "nombre_en": "45-Degree Back Extension",
     "tipo": "Compound",
     "musculo": "Back",
@@ -3335,12 +3289,12 @@
     ],
     "imagen": "45-degree-Hyperextension-(arms-in-front-of-chest)-.webp",
     "video": "45-degree-Hyperextension-(arms-in-front-of-chest)-.mp4",
-    "matched_con": "exercise-0003",
+    "matched_con": "new-exercise-0003",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0083",
+    "id": "new-exercise-0083",
     "nombre_es": "Hiperextensión horizontal",
     "nombre_en": "Horizontal Back Extension",
     "tipo": "Compound",
@@ -3379,12 +3333,12 @@
     ],
     "imagen": "Hyperextension-(VERSION-2)_Hips.webp",
     "video": "Hyperextension-(VERSION-2)_Hips.mp4",
-    "matched_con": "exercise-1241",
+    "matched_con": "new-exercise-1241",
     "verificado": false,
-    "variante_de": "exercise-0082"
+    "variante_de": "new-exercise-0082"
   },
   {
-    "id": "exercise-0084",
+    "id": "new-exercise-0084",
     "nombre_es": "Hiperextensión con peso",
     "nombre_en": "Weighted Back Extension",
     "tipo": "Compound",
@@ -3423,12 +3377,12 @@
     ],
     "imagen": "Weighted-Hyperextension_Hips_.webp",
     "video": "Weighted-Hyperextension_Hips_.mp4",
-    "matched_con": "exercise-2039",
+    "matched_con": "new-exercise-2039",
     "verificado": false,
-    "variante_de": "exercise-0082"
+    "variante_de": "new-exercise-0082"
   },
   {
-    "id": "exercise-0085",
+    "id": "new-exercise-0085",
     "nombre_es": "Reverse hyperextension",
     "nombre_en": "Reverse Hyperextension",
     "tipo": "Compound",
@@ -3472,7 +3426,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0086",
+    "id": "new-exercise-0086",
     "nombre_es": "Superman",
     "nombre_en": "Superman",
     "tipo": "Isolation",
@@ -3500,12 +3454,12 @@
     ],
     "imagen": "Superman-W_Hips_.webp",
     "video": "Superman-W_Hips_.mp4",
-    "matched_con": "exercise-1949",
+    "matched_con": "new-exercise-1949",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0087",
+    "id": "new-exercise-0087",
     "nombre_es": "Encogimientos de espalda con barra",
     "nombre_en": "Barbell Shrug",
     "tipo": "Isolation",
@@ -3534,12 +3488,12 @@
     ],
     "imagen": "Barbell-Shrug_Back.webp",
     "video": "Barbell-Shrug_Back.mp4",
-    "matched_con": "exercise-0282",
+    "matched_con": "new-exercise-0282",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0088",
+    "id": "new-exercise-0088",
     "nombre_es": "Encogimientos de espalda con mancuernas",
     "nombre_en": "Dumbbell Shrug",
     "tipo": "Isolation",
@@ -3568,12 +3522,12 @@
     ],
     "imagen": "Dumbbell-Shrug_Back-FIX_.webp",
     "video": "Dumbbell-Shrug_Back-FIX_.mp4",
-    "matched_con": "exercise-1015",
+    "matched_con": "new-exercise-1015",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0089",
+    "id": "new-exercise-0089",
     "nombre_es": "Encogimientos en banco inclinado boca abajo",
     "nombre_en": "Chest-Supported Shrug",
     "tipo": "Isolation",
@@ -3601,12 +3555,12 @@
     ],
     "imagen": "Barbell-Decline-Shrug_Back_.webp",
     "video": "Barbell-Decline-Shrug_Back_.mp4",
-    "matched_con": "exercise-0160",
+    "matched_con": "new-exercise-0160",
     "verificado": false,
-    "variante_de": "exercise-0088"
+    "variante_de": "new-exercise-0088"
   },
   {
-    "id": "exercise-0090",
+    "id": "new-exercise-0090",
     "nombre_es": "Encogimientos en polea",
     "nombre_en": "Cable Shrug",
     "tipo": "Isolation",
@@ -3637,10 +3591,10 @@
     "video": "Cable-Shrug_Back-FIX_.mp4",
     "matched_con": "Cable-Shrug_Back-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0087"
   },
   {
-    "id": "exercise-0091",
+    "id": "new-exercise-0091",
     "nombre_es": "Encogimientos en máquina Smith",
     "nombre_en": "Smith Machine Shrug",
     "tipo": "Isolation",
@@ -3669,12 +3623,12 @@
     ],
     "imagen": "Smith-Shrug_Back.webp",
     "video": "Smith-Shrug_Back.mp4",
-    "matched_con": "exercise-1914",
+    "matched_con": "new-exercise-1914",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0087"
   },
   {
-    "id": "exercise-0092",
+    "id": "new-exercise-0092",
     "nombre_es": "Encogimientos detrás del cuerpo con barra",
     "nombre_en": "Behind-the-Back Barbell Shrug",
     "tipo": "Isolation",
@@ -3703,12 +3657,12 @@
     ],
     "imagen": "Barbell-Behind-The-Back-Shrug_Back_.webp",
     "video": "Barbell-Behind-The-Back-Shrug_Back_.mp4",
-    "matched_con": "exercise-0130",
+    "matched_con": "new-exercise-0130",
     "verificado": false,
-    "variante_de": "exercise-0087"
+    "variante_de": "new-exercise-0087"
   },
   {
-    "id": "exercise-0093",
+    "id": "new-exercise-0093",
     "nombre_es": "Face pulls en polea con soga",
     "nombre_en": "Cable Face Pull",
     "tipo": "Isolation",
@@ -3737,12 +3691,12 @@
     ],
     "imagen": "Cable-Standing-Face-Pull-(with-rope)_Shoulders.webp",
     "video": "Cable-Standing-Face-Pull-(with-rope)_Shoulders.mp4",
-    "matched_con": "exercise-0578",
+    "matched_con": "new-exercise-0578",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0096",
+    "id": "new-exercise-0096",
     "nombre_es": "Remo Seal con mancuernas",
     "nombre_en": "Seal Row",
     "tipo": "Compound",
@@ -3780,12 +3734,12 @@
     ],
     "imagen": "Dumbbell-Hammer-Grip-Incline-Bench-Two-Arm-Row_Back.webp",
     "video": "Dumbbell-Hammer-Grip-Incline-Bench-Two-Arm-Row_Back.mp4",
-    "matched_con": "exercise-0790",
+    "matched_con": "new-exercise-0790",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0066"
   },
   {
-    "id": "exercise-0097",
+    "id": "new-exercise-0097",
     "nombre_es": "Remo Seal con barra",
     "nombre_en": "Barbell Seal Row",
     "tipo": "Compound",
@@ -3823,12 +3777,12 @@
     ],
     "imagen": "Barbell-Lying-Seal-Row-on-Rack_Back_.webp",
     "video": "Barbell-Lying-Seal-Row-on-Rack_Back_.mp4",
-    "matched_con": "exercise-0215",
+    "matched_con": "new-exercise-0215",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0061"
   },
   {
-    "id": "exercise-0098",
+    "id": "new-exercise-0098",
     "nombre_es": "Encogimientos con mancuernas en banco inclinado",
     "nombre_en": "Incline Dumbbell Shrug",
     "tipo": "Isolation",
@@ -3857,12 +3811,12 @@
     ],
     "imagen": "Dumbbell-Decline-Shrug_Back-FIX_.webp",
     "video": "Dumbbell-Decline-Shrug_Back-FIX_.mp4",
-    "matched_con": "exercise-0746",
+    "matched_con": "new-exercise-0746",
     "verificado": false,
-    "variante_de": "exercise-0088"
+    "variante_de": "new-exercise-0088"
   },
   {
-    "id": "exercise-0099",
+    "id": "new-exercise-0099",
     "nombre_es": "Pulldown con brazos extendidos en polea",
     "nombre_en": "Straight-Arm Lat Pulldown",
     "tipo": "Isolation",
@@ -3890,12 +3844,12 @@
     ],
     "imagen": "Cable-Straight-Arm-Pulldown_Back-FIX_.webp",
     "video": "Cable-Straight-Arm-Pulldown_Back-FIX_.mp4",
-    "matched_con": "exercise-0622",
+    "matched_con": "new-exercise-0622",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0100",
+    "id": "new-exercise-0100",
     "nombre_es": "Remo invertido en anillas",
     "nombre_en": "Ring Inverted Row",
     "tipo": "Compound",
@@ -3938,12 +3892,12 @@
     ],
     "imagen": "Ring-Inverted-Row-parallel-to-the-floor-(male)_Bac.webp",
     "video": "Ring-Inverted-Row-parallel-to-the-floor-(male)_Bac.mp4",
-    "matched_con": "exercise-1769",
+    "matched_con": "new-exercise-1769",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0102",
+    "id": "new-exercise-0102",
     "nombre_es": "Press militar con barra de pie",
     "nombre_en": "Standing Overhead Barbell Press",
     "tipo": "Compound",
@@ -3990,7 +3944,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0103",
+    "id": "new-exercise-0103",
     "nombre_es": "Press militar con barra sentado",
     "nombre_en": "Seated Overhead Barbell Press",
     "tipo": "Compound",
@@ -4030,10 +3984,10 @@
     "video": "Barbell-Seated-Overhead-Press_Shoulders.mp4",
     "matched_con": "Barbell-Seated-Overhead-Press_Shoulders",
     "verificado": false,
-    "variante_de": "exercise-0102"
+    "variante_de": "new-exercise-0102"
   },
   {
-    "id": "exercise-0105",
+    "id": "new-exercise-0105",
     "nombre_es": "Press con mancuernas sentado",
     "nombre_en": "Seated Dumbbell Shoulder Press",
     "tipo": "Compound",
@@ -4080,7 +4034,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0106",
+    "id": "new-exercise-0106",
     "nombre_es": "Press con mancuernas de pie",
     "nombre_en": "Standing Dumbbell Shoulder Press",
     "tipo": "Compound",
@@ -4123,10 +4077,10 @@
     "video": "Kettlebell-Two-Arm-Military-Press_Shoulders_.mp4",
     "matched_con": "Kettlebell-Two-Arm-Military-Press_Shoulders_",
     "verificado": false,
-    "variante_de": "exercise-0105"
+    "variante_de": "new-exercise-0105"
   },
   {
-    "id": "exercise-0107",
+    "id": "new-exercise-0107",
     "nombre_es": "Press Arnold con mancuernas sentado",
     "nombre_en": "Seated Arnold Press",
     "tipo": "Compound",
@@ -4170,11 +4124,11 @@
     "video": "Dumbbell-Arnold-Press_Shoulders.mp4",
     "matched_con": "Dumbbell-Arnold-Press_Shoulders",
     "verificado": false,
-    "variante_de": "exercise-0105"
+    "variante_de": "new-exercise-0105"
   },
   {
-    "id": "exercise-0108",
-    "nombre_es": "Press con mancuernas agarre neutro",
+    "id": "new-exercise-0108",
+    "nombre_es": "Press de hombros con mancuernas agarre neutro",
     "nombre_en": "Neutral-Grip Dumbbell Shoulder Press",
     "tipo": "Compound",
     "musculo": "Shoulders",
@@ -4213,10 +4167,10 @@
     "video": "Kettlebell-Seated-Neutral-Grip-Shoulders-Press_Sho.mp4",
     "matched_con": "Kettlebell-Seated-Neutral-Grip-Shoulders-Press_Sho",
     "verificado": false,
-    "variante_de": "exercise-0105"
+    "variante_de": "new-exercise-0105"
   },
   {
-    "id": "exercise-0109",
+    "id": "new-exercise-0109",
     "nombre_es": "Press de hombros en máquina",
     "nombre_en": "Machine Shoulder Press",
     "tipo": "Compound",
@@ -4258,7 +4212,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0110",
+    "id": "new-exercise-0110",
     "nombre_es": "Press de hombros en máquina agarre neutro",
     "nombre_en": "Neutral-Grip Machine Shoulder Press",
     "tipo": "Compound",
@@ -4297,10 +4251,10 @@
     "video": "Lever-Seated-Hammer-Grip-Shoulder-Press_Shoulder-F.mp4",
     "matched_con": "Lever-Seated-Hammer-Grip-Shoulder-Press_Shoulder-F",
     "verificado": false,
-    "variante_de": "exercise-0109"
+    "variante_de": "new-exercise-0109"
   },
   {
-    "id": "exercise-0111",
+    "id": "new-exercise-0111",
     "nombre_es": "Press de hombros en máquina Smith",
     "nombre_en": "Smith Machine Shoulder Press",
     "tipo": "Compound",
@@ -4340,10 +4294,10 @@
     "video": "Smith-Seated-Shoulder-Press_Shoulders.mp4",
     "matched_con": "Smith-Seated-Shoulder-Press_Shoulders",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0109"
   },
   {
-    "id": "exercise-0112",
+    "id": "new-exercise-0112",
     "nombre_es": "Push press con barra",
     "nombre_en": "Barbell Push Press",
     "tipo": "Compound",
@@ -4387,10 +4341,10 @@
     "video": "Barbell-Behind-the-Back-Push-Press_Weightlifting_.mp4",
     "matched_con": "Barbell-Behind-the-Back-Push-Press_Weightlifting_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0102"
   },
   {
-    "id": "exercise-0113",
+    "id": "new-exercise-0113",
     "nombre_es": "Elevaciones laterales con mancuernas de pie",
     "nombre_en": "Standing Dumbbell Lateral Raise",
     "tipo": "Isolation",
@@ -4423,7 +4377,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0114",
+    "id": "new-exercise-0114",
     "nombre_es": "Elevaciones laterales con mancuernas sentado",
     "nombre_en": "Seated Dumbbell Lateral Raise",
     "tipo": "Isolation",
@@ -4453,10 +4407,10 @@
     "video": "Dumbbell-Seated-Lateral-Raise_Shoulders_.mp4",
     "matched_con": "Dumbbell-Seated-Lateral-Raise_Shoulders_",
     "verificado": false,
-    "variante_de": "exercise-0113"
+    "variante_de": "new-exercise-0113"
   },
   {
-    "id": "exercise-0116",
+    "id": "new-exercise-0116",
     "nombre_es": "Elevaciones laterales con mancuerna unilateral",
     "nombre_en": "Single-Arm Dumbbell Lateral Raise",
     "tipo": "Isolation",
@@ -4486,10 +4440,10 @@
     "video": "Dumbbell-One-Arm-Lateral-Raise_Shoulder.mp4",
     "matched_con": "Dumbbell-One-Arm-Lateral-Raise_Shoulder",
     "verificado": false,
-    "variante_de": "exercise-0113"
+    "variante_de": "new-exercise-0113"
   },
   {
-    "id": "exercise-0117",
+    "id": "new-exercise-0117",
     "nombre_es": "Elevaciones laterales en polea baja",
     "nombre_en": "Cable Lateral Raise",
     "tipo": "Isolation",
@@ -4519,10 +4473,10 @@
     "video": "Cable-One-Arm-Lateral-Raise_Shoulders.mp4",
     "matched_con": "Cable-One-Arm-Lateral-Raise_Shoulders",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0113"
   },
   {
-    "id": "exercise-0118",
+    "id": "new-exercise-0118",
     "nombre_es": "Elevaciones laterales en polea detrás del cuerpo",
     "nombre_en": "Behind-the-Body Cable Lateral Raise",
     "tipo": "Isolation",
@@ -4552,10 +4506,10 @@
     "video": "Cable-Leaning-Lateral-Raise_Shoulders_.mp4",
     "matched_con": "Cable-Leaning-Lateral-Raise_Shoulders_",
     "verificado": false,
-    "variante_de": "exercise-0117"
+    "variante_de": "new-exercise-0113"
   },
   {
-    "id": "exercise-0119",
+    "id": "new-exercise-0119",
     "nombre_es": "Elevaciones laterales en máquina",
     "nombre_en": "Machine Lateral Raise",
     "tipo": "Isolation",
@@ -4585,10 +4539,10 @@
     "video": "Lever-Lateral-Raise_shoulder.mp4",
     "matched_con": "Lever-Lateral-Raise_shoulder",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0113"
   },
   {
-    "id": "exercise-0120",
+    "id": "new-exercise-0120",
     "nombre_es": "Elevaciones frontales con mancuernas",
     "nombre_en": "Front Dumbbell Raise",
     "tipo": "Isolation",
@@ -4621,7 +4575,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0121",
+    "id": "new-exercise-0121",
     "nombre_es": "Elevaciones frontales con mancuernas alternadas",
     "nombre_en": "Alternating Front Dumbbell Raise",
     "tipo": "Isolation",
@@ -4651,10 +4605,10 @@
     "video": "Dumbbell-One-Arm-Front-Raise_Shoulders_.mp4",
     "matched_con": "Dumbbell-One-Arm-Front-Raise_Shoulders_",
     "verificado": false,
-    "variante_de": "exercise-0120"
+    "variante_de": "new-exercise-0120"
   },
   {
-    "id": "exercise-0122",
+    "id": "new-exercise-0122",
     "nombre_es": "Elevaciones frontales con barra",
     "nombre_en": "Barbell Front Raise",
     "tipo": "Isolation",
@@ -4684,10 +4638,10 @@
     "video": "Barbell-Front-Raise_Shoulders.mp4",
     "matched_con": "Barbell-Front-Raise_Shoulders",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0120"
   },
   {
-    "id": "exercise-0123",
+    "id": "new-exercise-0123",
     "nombre_es": "Elevaciones frontales con disco",
     "nombre_en": "Plate Front Raise",
     "tipo": "Isolation",
@@ -4717,10 +4671,10 @@
     "video": "Weighted-Front-Raise_Shoulders-FIX_.mp4",
     "matched_con": "Weighted-Front-Raise_Shoulders-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0120"
   },
   {
-    "id": "exercise-0124",
+    "id": "new-exercise-0124",
     "nombre_es": "Elevaciones frontales en polea baja",
     "nombre_en": "Cable Front Raise",
     "tipo": "Isolation",
@@ -4750,10 +4704,10 @@
     "video": "Cable-Front-Raise_Shoulders-FIX_.mp4",
     "matched_con": "Cable-Front-Raise_Shoulders-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0120"
   },
   {
-    "id": "exercise-0125",
+    "id": "new-exercise-0125",
     "nombre_es": "Aperturas inversas con mancuernas inclinado",
     "nombre_en": "Bent-Over Dumbbell Reverse Fly",
     "tipo": "Isolation",
@@ -4786,7 +4740,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0126",
+    "id": "new-exercise-0126",
     "nombre_es": "Aperturas inversas con mancuernas sentado",
     "nombre_en": "Seated Bent-Over Dumbbell Reverse Fly",
     "tipo": "Isolation",
@@ -4816,10 +4770,10 @@
     "video": "Dumbbell-Rear-Fly_Shoulders.mp4",
     "matched_con": "Dumbbell-Rear-Fly_Shoulders",
     "verificado": false,
-    "variante_de": "exercise-0125"
+    "variante_de": "new-exercise-0125"
   },
   {
-    "id": "exercise-0127",
+    "id": "new-exercise-0127",
     "nombre_es": "Aperturas inversas con mancuernas en banco inclinado boca abajo",
     "nombre_en": "Chest-Supported Dumbbell Reverse Fly",
     "tipo": "Isolation",
@@ -4849,10 +4803,10 @@
     "video": "Dumbbell-Reverse-Fly_Shoulders-FIX_.mp4",
     "matched_con": "Dumbbell-Reverse-Fly_Shoulders-FIX_",
     "verificado": false,
-    "variante_de": "exercise-0125"
+    "variante_de": "new-exercise-0125"
   },
   {
-    "id": "exercise-0129",
+    "id": "new-exercise-0129",
     "nombre_es": "Aperturas inversas en polea cruzada",
     "nombre_en": "Cable Reverse Fly",
     "tipo": "Isolation",
@@ -4885,7 +4839,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0130",
+    "id": "new-exercise-0130",
     "nombre_es": "Remo al mentón con barra agarre amplio",
     "nombre_en": "Wide-Grip Barbell Upright Row",
     "tipo": "Compound",
@@ -4927,7 +4881,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0131",
+    "id": "new-exercise-0131",
     "nombre_es": "Remo al mentón con barra agarre cerrado",
     "nombre_en": "Close-Grip Barbell Upright Row",
     "tipo": "Compound",
@@ -4968,10 +4922,10 @@
     "video": "Barbell-Upright-Row_Shoulders.mp4",
     "matched_con": "Barbell-Upright-Row_Shoulders",
     "verificado": false,
-    "variante_de": "exercise-0130"
+    "variante_de": "new-exercise-0130"
   },
   {
-    "id": "exercise-0132",
+    "id": "new-exercise-0132",
     "nombre_es": "Remo al mentón con mancuernas",
     "nombre_en": "Dumbbell Upright Row",
     "tipo": "Compound",
@@ -5010,10 +4964,10 @@
     "video": "Dumbbell-Upright-Row_Shoulders-FIX.mp4",
     "matched_con": "Dumbbell-Upright-Row_Shoulders-FIX",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0130"
   },
   {
-    "id": "exercise-0133",
+    "id": "new-exercise-0133",
     "nombre_es": "Remo al mentón en polea baja",
     "nombre_en": "Cable Upright Row",
     "tipo": "Compound",
@@ -5052,14 +5006,14 @@
     "video": "Cable-Upright-Row_shoulder.mp4",
     "matched_con": "Cable-Upright-Row_shoulder",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0130"
   },
   {
-    "id": "exercise-0134",
+    "id": "new-exercise-0134",
     "nombre_es": "Encogimientos en máquina",
     "nombre_en": "Machine Shrug",
     "tipo": "Isolation",
-    "musculo": "Shoulders",
+    "musculo": "Back",
     "musculos_focus": [
       "Shoulders"
     ],
@@ -5085,10 +5039,10 @@
     "video": "Lever-Shrug-(plate-loaded)_Back.mp4",
     "matched_con": "Lever-Shrug-(plate-loaded)_Back",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0087"
   },
   {
-    "id": "exercise-0135",
+    "id": "new-exercise-0135",
     "nombre_es": "Y raise con mancuernas en banco inclinado",
     "nombre_en": "Dumbbell Y Raise",
     "tipo": "Isolation",
@@ -5121,7 +5075,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0136",
+    "id": "new-exercise-0136",
     "nombre_es": "T raise con mancuernas en banco inclinado",
     "nombre_en": "Dumbbell T Raise",
     "tipo": "Isolation",
@@ -5154,7 +5108,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0137",
+    "id": "new-exercise-0137",
     "nombre_es": "Rotación externa de hombro con mancuerna acostado",
     "nombre_en": "Lying Dumbbell External Rotation",
     "tipo": "Isolation",
@@ -5187,7 +5141,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0138",
+    "id": "new-exercise-0138",
     "nombre_es": "Rotación externa en polea",
     "nombre_en": "Cable External Rotation",
     "tipo": "Isolation",
@@ -5220,7 +5174,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0139",
+    "id": "new-exercise-0139",
     "nombre_es": "Pull-apart con banda elástica",
     "nombre_en": "Band Pull-Apart",
     "tipo": "Isolation",
@@ -5253,7 +5207,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0140",
+    "id": "new-exercise-0140",
     "nombre_es": "Landmine press unilateral",
     "nombre_en": "Single-Arm Landmine Press",
     "tipo": "Compound",
@@ -5301,7 +5255,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0141",
+    "id": "new-exercise-0141",
     "nombre_es": "Z press con mancuernas",
     "nombre_en": "Seated Floor Dumbbell Z Press",
     "tipo": "Compound",
@@ -5345,7 +5299,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0142",
+    "id": "new-exercise-0142",
     "nombre_es": "Z press con barra",
     "nombre_en": "Seated Floor Barbell Z Press",
     "tipo": "Compound",
@@ -5386,10 +5340,10 @@
     "video": "Barbell-Z-Press_Shoulders_.mp4",
     "matched_con": "Barbell-Z-Press_Shoulders_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0102"
   },
   {
-    "id": "exercise-0145",
+    "id": "new-exercise-0145",
     "nombre_es": "Press militar con mancuernas alternado",
     "nombre_en": "Alternating Dumbbell Shoulder Press",
     "tipo": "Compound",
@@ -5430,10 +5384,10 @@
     "video": "Dumbbell-Alternate-Shoulder-Press-(male)_Shoulders.mp4",
     "matched_con": "Dumbbell-Alternate-Shoulder-Press-(male)_Shoulders",
     "verificado": false,
-    "variante_de": "exercise-0105"
+    "variante_de": "new-exercise-0105"
   },
   {
-    "id": "exercise-0146",
+    "id": "new-exercise-0146",
     "nombre_es": "Curl con barra de pie",
     "nombre_en": "Standing Barbell Curl",
     "tipo": "Isolation",
@@ -5466,7 +5420,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0147",
+    "id": "new-exercise-0147",
     "nombre_es": "Curl con barra agarre amplio",
     "nombre_en": "Wide-Grip Barbell Curl",
     "tipo": "Isolation",
@@ -5494,12 +5448,12 @@
     ],
     "imagen": "Barbell-Standing-Wide-Grip-Biceps-Curl_Upper-Arms.webp",
     "video": "Barbell-Standing-Wide-Grip-Biceps-Curl_Upper-Arms.mp4",
-    "matched_con": "exercise-0314",
+    "matched_con": "new-exercise-0314",
     "verificado": false,
-    "variante_de": "exercise-0146"
+    "variante_de": "new-exercise-0146"
   },
   {
-    "id": "exercise-0148",
+    "id": "new-exercise-0148",
     "nombre_es": "Curl con barra agarre cerrado",
     "nombre_en": "Close-Grip Barbell Curl",
     "tipo": "Isolation",
@@ -5527,12 +5481,12 @@
     ],
     "imagen": "Barbell-Standing-Close-Grip-Curl_Upper-Arms.webp",
     "video": "Barbell-Standing-Close-Grip-Curl_Upper-Arms.mp4",
-    "matched_con": "exercise-0306",
+    "matched_con": "new-exercise-0306",
     "verificado": false,
-    "variante_de": "exercise-0146"
+    "variante_de": "new-exercise-0146"
   },
   {
-    "id": "exercise-0149",
+    "id": "new-exercise-0149",
     "nombre_es": "Curl con barra agarre prono",
     "nombre_en": "Reverse Barbell Curl",
     "tipo": "Isolation",
@@ -5560,12 +5514,12 @@
     ],
     "imagen": "Barbell-Reverse-Curl_Forearm.webp",
     "video": "Barbell-Reverse-Curl_Forearm.mp4",
-    "matched_con": "exercise-0260",
+    "matched_con": "new-exercise-0260",
     "verificado": false,
-    "variante_de": "exercise-0146"
+    "variante_de": "new-exercise-0146"
   },
   {
-    "id": "exercise-0150",
+    "id": "new-exercise-0150",
     "nombre_es": "Curl con barra EZ de pie",
     "nombre_en": "Standing EZ-Bar Curl",
     "tipo": "Isolation",
@@ -5593,12 +5547,12 @@
     ],
     "imagen": "EZ-Barbell-Curl_Upper-Arms-FIX_.webp",
     "video": "EZ-Barbell-Curl_Upper-Arms-FIX_.mp4",
-    "matched_con": "exercise-1179",
+    "matched_con": "new-exercise-1179",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0151",
+    "id": "new-exercise-0151",
     "nombre_es": "Curl con barra EZ agarre amplio",
     "nombre_en": "Wide-Grip EZ-Bar Curl",
     "tipo": "Isolation",
@@ -5626,12 +5580,12 @@
     ],
     "imagen": "EZ-Barbell-Standing-Wide-Grip-Biceps-Curl_Upper-Arms.webp",
     "video": "EZ-Barbell-Standing-Wide-Grip-Biceps-Curl_Upper-Arms.mp4",
-    "matched_con": "exercise-1195",
+    "matched_con": "new-exercise-1195",
     "verificado": false,
-    "variante_de": "exercise-0150"
+    "variante_de": "new-exercise-0150"
   },
   {
-    "id": "exercise-0152",
+    "id": "new-exercise-0152",
     "nombre_es": "Curl con barra EZ agarre prono",
     "nombre_en": "Reverse EZ-Bar Curl",
     "tipo": "Isolation",
@@ -5659,12 +5613,12 @@
     ],
     "imagen": "EZ-Barbell-Reverse-Grip-Curl_Forearms.webp",
     "video": "EZ-Barbell-Reverse-Grip-Curl_Forearms.mp4",
-    "matched_con": "exercise-1186",
+    "matched_con": "new-exercise-1186",
     "verificado": false,
-    "variante_de": "exercise-0150"
+    "variante_de": "new-exercise-0150"
   },
   {
-    "id": "exercise-0153",
+    "id": "new-exercise-0153",
     "nombre_es": "Curl con mancuernas de pie simultáneo",
     "nombre_en": "Standing Dumbbell Curl",
     "tipo": "Isolation",
@@ -5692,12 +5646,12 @@
     ],
     "imagen": "Dumbbell-Standing-Biceps-Curl_Upper-Arms-FIX_.webp",
     "video": "Dumbbell-Standing-Biceps-Curl_Upper-Arms-FIX_.mp4",
-    "matched_con": "exercise-1084",
+    "matched_con": "new-exercise-1084",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0154",
+    "id": "new-exercise-0154",
     "nombre_es": "Curl con mancuernas de pie alternado",
     "nombre_en": "Alternating Dumbbell Curl",
     "tipo": "Isolation",
@@ -5725,12 +5679,12 @@
     ],
     "imagen": "Dumbbell-Alternate-Biceps-Curl_Upper-Arms-FIX_.webp",
     "video": "Dumbbell-Alternate-Biceps-Curl_Upper-Arms-FIX_.mp4",
-    "matched_con": "exercise-0682",
+    "matched_con": "new-exercise-0682",
     "verificado": false,
-    "variante_de": "exercise-0153"
+    "variante_de": "new-exercise-0153"
   },
   {
-    "id": "exercise-0155",
+    "id": "new-exercise-0155",
     "nombre_es": "Curl martillo con mancuernas de pie",
     "nombre_en": "Standing Hammer Curl",
     "tipo": "Isolation",
@@ -5758,12 +5712,12 @@
     ],
     "imagen": "Dumbbell-Hammer-Curl-(version-2)_Upper-Arms-FIX_.webp",
     "video": "Dumbbell-Hammer-Curl-(version-2)_Upper-Arms-FIX_.mp4",
-    "matched_con": "exercise-0788",
+    "matched_con": "new-exercise-0788",
     "verificado": false,
-    "variante_de": "exercise-0153"
+    "variante_de": "new-exercise-0153"
   },
   {
-    "id": "exercise-0156",
+    "id": "new-exercise-0156",
     "nombre_es": "Curl martillo alternado con mancuernas",
     "nombre_en": "Alternating Hammer Curl",
     "tipo": "Isolation",
@@ -5791,12 +5745,12 @@
     ],
     "imagen": "Dumbbell-Hammer-Curl_Forearms_.webp",
     "video": "Dumbbell-Hammer-Curl_Forearms_.mp4",
-    "matched_con": "exercise-0789",
+    "matched_con": "new-exercise-0789",
     "verificado": false,
-    "variante_de": "exercise-0153"
+    "variante_de": "new-exercise-0153"
   },
   {
-    "id": "exercise-0157",
+    "id": "new-exercise-0157",
     "nombre_es": "Curl con mancuernas sentado en banco plano",
     "nombre_en": "Seated Dumbbell Curl",
     "tipo": "Isolation",
@@ -5824,12 +5778,12 @@
     ],
     "imagen": "Dumbbell-Alternate-Biceps-Curl_Upper-Arms.webp",
     "video": "Dumbbell-Alternate-Biceps-Curl_Upper-Arms.mp4",
-    "matched_con": "exercise-0683",
+    "matched_con": "new-exercise-0683",
     "verificado": false,
-    "variante_de": "exercise-0153"
+    "variante_de": "new-exercise-0153"
   },
   {
-    "id": "exercise-0158",
+    "id": "new-exercise-0158",
     "nombre_es": "Curl con mancuernas en banco inclinado",
     "nombre_en": "Incline Dumbbell Curl",
     "tipo": "Isolation",
@@ -5857,12 +5811,12 @@
     ],
     "imagen": "Dumbbell-Incline-Biceps-Curl_Upper-Arms.webp",
     "video": "Dumbbell-Incline-Biceps-Curl_Upper-Arms.mp4",
-    "matched_con": "exercise-0809",
+    "matched_con": "new-exercise-0809",
     "verificado": false,
-    "variante_de": "exercise-0153"
+    "variante_de": "new-exercise-0153"
   },
   {
-    "id": "exercise-0159",
+    "id": "new-exercise-0159",
     "nombre_es": "Curl martillo en banco inclinado",
     "nombre_en": "Incline Hammer Curl",
     "tipo": "Isolation",
@@ -5890,12 +5844,12 @@
     ],
     "imagen": "Dumbbell-Incline-Hammer-Curl_Upper-Arms.webp",
     "video": "Dumbbell-Incline-Hammer-Curl_Upper-Arms.mp4",
-    "matched_con": "exercise-0817",
+    "matched_con": "new-exercise-0817",
     "verificado": false,
-    "variante_de": "exercise-0153"
+    "variante_de": "new-exercise-0153"
   },
   {
-    "id": "exercise-0160",
+    "id": "new-exercise-0160",
     "nombre_es": "Curl concentrado con mancuerna",
     "nombre_en": "Concentration Curl",
     "tipo": "Isolation",
@@ -5923,12 +5877,12 @@
     ],
     "imagen": "Dumbbell-Concentration-Curl_Upper-Arms-FIX_.webp",
     "video": "Dumbbell-Concentration-Curl_Upper-Arms-FIX_.mp4",
-    "matched_con": "exercise-0729",
+    "matched_con": "new-exercise-0729",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0161",
+    "id": "new-exercise-0161",
     "nombre_es": "Curl predicador con barra",
     "nombre_en": "Barbell Preacher Curl",
     "tipo": "Isolation",
@@ -5956,12 +5910,12 @@
     ],
     "imagen": "Barbell-Preacher-Curl_Upper-Arms.webp",
     "video": "Barbell-Preacher-Curl_Upper-Arms.mp4",
-    "matched_con": "exercise-0247",
+    "matched_con": "new-exercise-0247",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0146"
   },
   {
-    "id": "exercise-0162",
+    "id": "new-exercise-0162",
     "nombre_es": "Curl predicador con barra EZ",
     "nombre_en": "EZ-Bar Preacher Curl",
     "tipo": "Isolation",
@@ -5989,12 +5943,12 @@
     ],
     "imagen": "EZ-Barbell-Preacher-Curl_Upper-Arms_.webp",
     "video": "EZ-Barbell-Preacher-Curl_Upper-Arms_.mp4",
-    "matched_con": "exercise-1185",
+    "matched_con": "new-exercise-1185",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0150"
   },
   {
-    "id": "exercise-0163",
+    "id": "new-exercise-0163",
     "nombre_es": "Curl predicador con mancuerna a un brazo",
     "nombre_en": "Single-Arm Dumbbell Preacher Curl",
     "tipo": "Isolation",
@@ -6022,12 +5976,12 @@
     ],
     "imagen": "Dumbbell-Preacher-Curl-(Turned-Torso)_Upper-Arms_.webp",
     "video": "Dumbbell-Preacher-Curl-(Turned-Torso)_Upper-Arms_.mp4",
-    "matched_con": "exercise-0930",
+    "matched_con": "new-exercise-0930",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0153"
   },
   {
-    "id": "exercise-0164",
+    "id": "new-exercise-0164",
     "nombre_es": "Curl en polea baja con barra",
     "nombre_en": "Cable Curl with Straight Bar",
     "tipo": "Isolation",
@@ -6055,12 +6009,12 @@
     ],
     "imagen": "Cable-Curl-(male)_Upper-Arms-FIX_.webp",
     "video": "Cable-Curl-(male)_Upper-Arms-FIX_.mp4",
-    "matched_con": "exercise-0376",
+    "matched_con": "new-exercise-0376",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0165",
+    "id": "new-exercise-0165",
     "nombre_es": "Curl en polea baja agarre prono",
     "nombre_en": "Reverse Cable Curl",
     "tipo": "Isolation",
@@ -6088,12 +6042,12 @@
     ],
     "imagen": "Cable-Standing-Reverse-Grip-Curl-(Straight-bar)_Fo.webp",
     "video": "Cable-Standing-Reverse-Grip-Curl-(Straight-bar)_Fo.mp4",
-    "matched_con": "exercise-0601",
+    "matched_con": "new-exercise-0601",
     "verificado": false,
-    "variante_de": "exercise-0164"
+    "variante_de": "new-exercise-0164"
   },
   {
-    "id": "exercise-0166",
+    "id": "new-exercise-0166",
     "nombre_es": "Curl unilateral en polea baja",
     "nombre_en": "Single-Arm Cable Curl",
     "tipo": "Isolation",
@@ -6121,12 +6075,12 @@
     ],
     "imagen": "Cable-One-Arm-Curl_Upper-Arms.webp",
     "video": "Cable-One-Arm-Curl_Upper-Arms.mp4",
-    "matched_con": "exercise-0474",
+    "matched_con": "new-exercise-0474",
     "verificado": false,
-    "variante_de": "exercise-0164"
+    "variante_de": "new-exercise-0164"
   },
   {
-    "id": "exercise-0167",
+    "id": "new-exercise-0167",
     "nombre_es": "Curl bíceps en polea alta (bíceps cross)",
     "nombre_en": "High Cable Bicep Curl",
     "tipo": "Isolation",
@@ -6154,12 +6108,12 @@
     ],
     "imagen": "Cable-Overhead-Curl_Upper-Arms.webp",
     "video": "Cable-Overhead-Curl_Upper-Arms.mp4",
-    "matched_con": "exercise-0485",
+    "matched_con": "new-exercise-0485",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0164"
   },
   {
-    "id": "exercise-0168",
+    "id": "new-exercise-0168",
     "nombre_es": "Curl bíceps en máquina",
     "nombre_en": "Machine Bicep Curl",
     "tipo": "Isolation",
@@ -6187,12 +6141,12 @@
     ],
     "imagen": "Lever-Preacher-Curl_Upper-Arms-FIX_.webp",
     "video": "Lever-Preacher-Curl_Upper-Arms-FIX_.mp4",
-    "matched_con": "exercise-1595",
+    "matched_con": "new-exercise-1595",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0169",
+    "id": "new-exercise-0169",
     "nombre_es": "Curl bíceps en máquina agarre neutro",
     "nombre_en": "Neutral-Grip Machine Curl",
     "tipo": "Isolation",
@@ -6220,12 +6174,12 @@
     ],
     "imagen": "Lever-Hammer-Grip-Preacher-Curl_Upper-Arms_.webp",
     "video": "Lever-Hammer-Grip-Preacher-Curl_Upper-Arms_.mp4",
-    "matched_con": "exercise-1538",
+    "matched_con": "new-exercise-1538",
     "verificado": false,
-    "variante_de": "exercise-0168"
+    "variante_de": "new-exercise-0168"
   },
   {
-    "id": "exercise-0170",
+    "id": "new-exercise-0170",
     "nombre_es": "Dominadas supinas agarre cerrado",
     "nombre_en": "Close-Grip Chin-Up",
     "tipo": "Compound",
@@ -6268,7 +6222,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0171",
+    "id": "new-exercise-0171",
     "nombre_es": "Curl Zottman con mancuernas",
     "nombre_en": "Zottman Curl",
     "tipo": "Isolation",
@@ -6296,12 +6250,12 @@
     ],
     "imagen": "Dumbbell-Zottman-Curl_Upper-Arms-FIX_.webp",
     "video": "Dumbbell-Zottman-Curl_Upper-Arms-FIX_.mp4",
-    "matched_con": "exercise-1160",
+    "matched_con": "new-exercise-1160",
     "verificado": false,
-    "variante_de": "exercise-0153"
+    "variante_de": "new-exercise-0153"
   },
   {
-    "id": "exercise-0172",
+    "id": "new-exercise-0172",
     "nombre_es": "Curl spider con mancuernas",
     "nombre_en": "Spider Curl",
     "tipo": "Isolation",
@@ -6329,12 +6283,12 @@
     ],
     "imagen": "Dumbbell-Reverse-Spider-Curl_Upper-Arms_.webp",
     "video": "Dumbbell-Reverse-Spider-Curl_Upper-Arms_.mp4",
-    "matched_con": "exercise-0969",
+    "matched_con": "new-exercise-0969",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0173",
+    "id": "new-exercise-0173",
     "nombre_es": "Extensión de tríceps en polea con barra agarre prono",
     "nombre_en": "Cable Triceps Pushdown with Bar",
     "tipo": "Isolation",
@@ -6367,7 +6321,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0174",
+    "id": "new-exercise-0174",
     "nombre_es": "Extensión de tríceps en polea con barra agarre supino",
     "nombre_en": "Reverse-Grip Cable Triceps Pushdown",
     "tipo": "Isolation",
@@ -6397,10 +6351,10 @@
     "video": "Cable-Reverse-Grip-Triceps-Pushdown-(SZ-bar)_Upper-arms.mp4",
     "matched_con": "Cable-Reverse-Grip-Triceps-Pushdown-(SZ-bar)_Upper-arms",
     "verificado": false,
-    "variante_de": "exercise-0173"
+    "variante_de": "new-exercise-0173"
   },
   {
-    "id": "exercise-0175",
+    "id": "new-exercise-0175",
     "nombre_es": "Extensión de tríceps en polea con soga",
     "nombre_en": "Cable Triceps Pushdown with Rope",
     "tipo": "Isolation",
@@ -6430,10 +6384,10 @@
     "video": "Cable-Pushdown-(with-rope-attachment)_Upper-Arms-FIX_.mp4",
     "matched_con": "Cable-Pushdown-(with-rope-attachment)_Upper-Arms-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0173"
   },
   {
-    "id": "exercise-0176",
+    "id": "new-exercise-0176",
     "nombre_es": "Extensión de tríceps en polea unilateral",
     "nombre_en": "Single-Arm Cable Triceps Pushdown",
     "tipo": "Isolation",
@@ -6463,10 +6417,10 @@
     "video": "Cable-Single-Arm-Triceps-Pushdown-(rope-attachment.mp4",
     "matched_con": "Cable-Single-Arm-Triceps-Pushdown-(rope-attachment",
     "verificado": false,
-    "variante_de": "exercise-0173"
+    "variante_de": "new-exercise-0173"
   },
   {
-    "id": "exercise-0178",
+    "id": "new-exercise-0178",
     "nombre_es": "Press francés con barra acostado",
     "nombre_en": "Lying Barbell Triceps Extension (Skullcrusher)",
     "tipo": "Isolation",
@@ -6499,7 +6453,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0179",
+    "id": "new-exercise-0179",
     "nombre_es": "Press francés con barra EZ acostado",
     "nombre_en": "Lying EZ-Bar Triceps Extension",
     "tipo": "Isolation",
@@ -6529,10 +6483,10 @@
     "video": "EZ-Barbell-Lying-Triceps-Extension-(male)_Upper-Arms_.mp4",
     "matched_con": "EZ-Barbell-Lying-Triceps-Extension-(male)_Upper-Arms_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0178"
   },
   {
-    "id": "exercise-0180",
+    "id": "new-exercise-0180",
     "nombre_es": "Press francés con mancuernas acostado",
     "nombre_en": "Lying Dumbbell Triceps Extension",
     "tipo": "Isolation",
@@ -6562,10 +6516,10 @@
     "video": "Dumbbell-Lying-Triceps-Extension_Upper-Arms-FIX_.mp4",
     "matched_con": "Dumbbell-Lying-Triceps-Extension_Upper-Arms-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0178"
   },
   {
-    "id": "exercise-0181",
+    "id": "new-exercise-0181",
     "nombre_es": "Press francés inclinado con barra",
     "nombre_en": "Incline Barbell Triceps Extension",
     "tipo": "Isolation",
@@ -6595,10 +6549,10 @@
     "video": "Barbell-Incline-Triceps-Extension-Skull-Crusher_Up.mp4",
     "matched_con": "Barbell-Incline-Triceps-Extension-Skull-Crusher_Up",
     "verificado": false,
-    "variante_de": "exercise-0178"
+    "variante_de": "new-exercise-0178"
   },
   {
-    "id": "exercise-0182",
+    "id": "new-exercise-0182",
     "nombre_es": "Press francés declinado con barra",
     "nombre_en": "Decline Barbell Triceps Extension",
     "tipo": "Isolation",
@@ -6628,10 +6582,10 @@
     "video": "EZ-Barbell-Decline-Triceps-Extension_Upper-Arms.mp4",
     "matched_con": "EZ-Barbell-Decline-Triceps-Extension_Upper-Arms",
     "verificado": false,
-    "variante_de": "exercise-0178"
+    "variante_de": "new-exercise-0178"
   },
   {
-    "id": "exercise-0183",
+    "id": "new-exercise-0183",
     "nombre_es": "Extensión de tríceps por encima de la cabeza con barra sentado",
     "nombre_en": "Seated Overhead Barbell Triceps Extension",
     "tipo": "Isolation",
@@ -6661,10 +6615,10 @@
     "video": "Barbell-Seated-Overhead-Triceps-Extension_Upper-Ar.mp4",
     "matched_con": "Barbell-Seated-Overhead-Triceps-Extension_Upper-Ar",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0185"
   },
   {
-    "id": "exercise-0185",
+    "id": "new-exercise-0185",
     "nombre_es": "Extensión de tríceps por encima de la cabeza con mancuerna a dos manos",
     "nombre_en": "Seated Overhead Dumbbell Triceps Extension",
     "tipo": "Isolation",
@@ -6697,7 +6651,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0186",
+    "id": "new-exercise-0186",
     "nombre_es": "Extensión de tríceps por encima de la cabeza con mancuerna unilateral",
     "nombre_en": "Single-Arm Overhead Dumbbell Extension",
     "tipo": "Isolation",
@@ -6727,10 +6681,10 @@
     "video": "Dumbbell-Seated-Alternate-Overhead-Triceps-Extensi.mp4",
     "matched_con": "Dumbbell-Seated-Alternate-Overhead-Triceps-Extensi",
     "verificado": false,
-    "variante_de": "exercise-0185"
+    "variante_de": "new-exercise-0185"
   },
   {
-    "id": "exercise-0187",
+    "id": "new-exercise-0187",
     "nombre_es": "Extensión de tríceps en polea por encima de la cabeza con soga",
     "nombre_en": "Overhead Cable Triceps Extension with Rope",
     "tipo": "Isolation",
@@ -6760,10 +6714,10 @@
     "video": "Cable-Overhead-Triceps-Extension-(rope-attachment)_Upper-Arms-FIX_.mp4",
     "matched_con": "Cable-Overhead-Triceps-Extension-(rope-attachment)_Upper-Arms-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0185"
   },
   {
-    "id": "exercise-0188",
+    "id": "new-exercise-0188",
     "nombre_es": "Extensión de tríceps en polea por encima de la cabeza con barra",
     "nombre_en": "Overhead Cable Triceps Extension with Bar",
     "tipo": "Isolation",
@@ -6793,10 +6747,10 @@
     "video": "Cable-Overhead-Tricep-Extension-Straight-Bar-(male)_Upper-Arms_.mp4",
     "matched_con": "Cable-Overhead-Tricep-Extension-Straight-Bar-(male)_Upper-Arms_",
     "verificado": false,
-    "variante_de": "exercise-0187"
+    "variante_de": "new-exercise-0185"
   },
   {
-    "id": "exercise-0189",
+    "id": "new-exercise-0189",
     "nombre_es": "Patada de tríceps con mancuerna inclinado",
     "nombre_en": "Dumbbell Triceps Kickback",
     "tipo": "Isolation",
@@ -6829,7 +6783,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0190",
+    "id": "new-exercise-0190",
     "nombre_es": "Patada de tríceps con mancuerna unilateral con apoyo",
     "nombre_en": "Single-Arm Dumbbell Triceps Kickback",
     "tipo": "Isolation",
@@ -6859,10 +6813,10 @@
     "video": "Dumbbell-Kickback_Upper-Arms.mp4",
     "matched_con": "Dumbbell-Kickback_Upper-Arms",
     "verificado": false,
-    "variante_de": "exercise-0189"
+    "variante_de": "new-exercise-0189"
   },
   {
-    "id": "exercise-0191",
+    "id": "new-exercise-0191",
     "nombre_es": "Patada de tríceps en polea unilateral",
     "nombre_en": "Single-Arm Cable Triceps Kickback",
     "tipo": "Isolation",
@@ -6892,10 +6846,10 @@
     "video": "Cable-Bent-Over-Single-Arm-Neutral-Grip-Kickback-with-Rope-Attachment_Upper-Arms_.mp4",
     "matched_con": "Cable-Bent-Over-Single-Arm-Neutral-Grip-Kickback-with-Rope-Attachment_Upper-Arms_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0189"
   },
   {
-    "id": "exercise-0192",
+    "id": "new-exercise-0192",
     "nombre_es": "Fondos en paralelas torso vertical",
     "nombre_en": "Upright Triceps Dips",
     "tipo": "Compound",
@@ -6942,7 +6896,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0193",
+    "id": "new-exercise-0193",
     "nombre_es": "Fondos en banco",
     "nombre_en": "Bench Triceps Dips",
     "tipo": "Compound",
@@ -6984,7 +6938,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0194",
+    "id": "new-exercise-0194",
     "nombre_es": "Extensión de tríceps en máquina",
     "nombre_en": "Machine Triceps Extension",
     "tipo": "Isolation",
@@ -7014,10 +6968,10 @@
     "video": "Lever-Triceps-Extension_Upper-Arms 1.mp4",
     "matched_con": "Lever-Triceps-Extension_Upper-Arms 1",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0173"
   },
   {
-    "id": "exercise-0195",
+    "id": "new-exercise-0195",
     "nombre_es": "Fondos en máquina asistida",
     "nombre_en": "Machine Triceps Dips",
     "tipo": "Compound",
@@ -7059,7 +7013,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0196",
+    "id": "new-exercise-0196",
     "nombre_es": "Press JM con barra",
     "nombre_en": "JM Press",
     "tipo": "Compound",
@@ -7098,10 +7052,10 @@
     "video": "Barbell-JM-Bench-Press_Upper-Arms-FIX_.mp4",
     "matched_con": "Barbell-JM-Bench-Press_Upper-Arms-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0178"
   },
   {
-    "id": "exercise-0197",
+    "id": "new-exercise-0197",
     "nombre_es": "Pull-over tríceps acostado con barra",
     "nombre_en": "Lying Barbell Triceps Pullover Extension",
     "tipo": "Isolation",
@@ -7134,7 +7088,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0198",
+    "id": "new-exercise-0198",
     "nombre_es": "Patada de tríceps a dos brazos con mancuernas",
     "nombre_en": "Bent-Over Double Dumbbell Kickback",
     "tipo": "Isolation",
@@ -7160,14 +7114,14 @@
       "Patada bilateral de tríceps",
       "Kickback con dos mancuernas"
     ],
-    "imagen": "Dumbbell-Kickbacks-on-Exercise-Ball_Upper-Arms_.webp",
-    "video": "Dumbbell-Kickbacks-on-Exercise-Ball_Upper-Arms_.mp4",
-    "matched_con": "Dumbbell-Kickbacks-on-Exercise-Ball_Upper-Arms_",
+    "imagen": "Dumbbell-Kickbacks-on-new-exercise-Ball_Upper-Arms_.webp",
+    "video": "Dumbbell-Kickbacks-on-new-exercise-Ball_Upper-Arms_.mp4",
+    "matched_con": "Dumbbell-Kickbacks-on-new-exercise-Ball_Upper-Arms_",
     "verificado": false,
-    "variante_de": "exercise-0189"
+    "variante_de": "new-exercise-0189"
   },
   {
-    "id": "exercise-0199",
+    "id": "new-exercise-0199",
     "nombre_es": "Press cerrado en máquina Smith",
     "nombre_en": "Close-Grip Smith Machine Bench Press",
     "tipo": "Compound",
@@ -7210,7 +7164,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0200",
+    "id": "new-exercise-0200",
     "nombre_es": "Extensión de tríceps en polea acostado con barra",
     "nombre_en": "Lying Cable Triceps Extension",
     "tipo": "Isolation",
@@ -7240,10 +7194,10 @@
     "video": "Cable-Lying-Triceps-Extension-(Low)_Upper-Arms_.mp4",
     "matched_con": "Cable-Lying-Triceps-Extension-(Low)_Upper-Arms_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0173"
   },
   {
-    "id": "exercise-0201",
+    "id": "new-exercise-0201",
     "nombre_es": "Curl de muñeca con barra agarre supino",
     "nombre_en": "Barbell Wrist Curl",
     "tipo": "Isolation",
@@ -7271,12 +7225,12 @@
     ],
     "imagen": "Barbell-Wrist-Curl-(VERSION-2)_Forearms-FIX2_.webp",
     "video": "Barbell-Wrist-Curl-(VERSION-2)_Forearms-FIX2_.mp4",
-    "matched_con": "exercise-0339",
+    "matched_con": "new-exercise-0339",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0202",
+    "id": "new-exercise-0202",
     "nombre_es": "Curl de muñeca con barra agarre prono",
     "nombre_en": "Reverse Barbell Wrist Curl",
     "tipo": "Isolation",
@@ -7304,12 +7258,12 @@
     ],
     "imagen": "Barbell-Wrist-Reverse-Curl-(VERSION-2)_Forearms-FI.webp",
     "video": "Barbell-Wrist-Reverse-Curl-(VERSION-2)_Forearms-FI.mp4",
-    "matched_con": "exercise-0340",
+    "matched_con": "new-exercise-0340",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0201"
   },
   {
-    "id": "exercise-0203",
+    "id": "new-exercise-0203",
     "nombre_es": "Curl de muñeca con mancuernas agarre supino",
     "nombre_en": "Dumbbell Wrist Curl",
     "tipo": "Isolation",
@@ -7337,12 +7291,12 @@
     ],
     "imagen": "Kettlebell-Wrist-Curl_Forearms_.webp",
     "video": "Kettlebell-Wrist-Curl_Forearms_.mp4",
-    "matched_con": "exercise-1453",
+    "matched_con": "new-exercise-1453",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0201"
   },
   {
-    "id": "exercise-0204",
+    "id": "new-exercise-0204",
     "nombre_es": "Curl de muñeca con mancuernas agarre prono",
     "nombre_en": "Reverse Dumbbell Wrist Curl",
     "tipo": "Isolation",
@@ -7370,12 +7324,12 @@
     ],
     "imagen": "Dumbbell-Reverse-Wrist-Curl_Forearms_.webp",
     "video": "Dumbbell-Reverse-Wrist-Curl_Forearms_.mp4",
-    "matched_con": "exercise-0970",
+    "matched_con": "new-exercise-0970",
     "verificado": false,
-    "variante_de": "exercise-0203"
+    "variante_de": "new-exercise-0201"
   },
   {
-    "id": "exercise-0205",
+    "id": "new-exercise-0205",
     "nombre_es": "Curl de muñeca con barra detrás de la espalda",
     "nombre_en": "Behind-the-Back Barbell Wrist Curl",
     "tipo": "Isolation",
@@ -7403,12 +7357,12 @@
     ],
     "imagen": "Barbell-Standing-Back-Wrist-Curl_Forearms.webp",
     "video": "Barbell-Standing-Back-Wrist-Curl_Forearms.mp4",
-    "matched_con": "exercise-0303",
+    "matched_con": "new-exercise-0303",
     "verificado": false,
-    "variante_de": "exercise-0201"
+    "variante_de": "new-exercise-0201"
   },
   {
-    "id": "exercise-0206",
+    "id": "new-exercise-0206",
     "nombre_es": "Curl de muñeca en polea agarre supino",
     "nombre_en": "Cable Wrist Curl",
     "tipo": "Isolation",
@@ -7436,12 +7390,12 @@
     ],
     "imagen": "Cable-Standing-Wrist-Curl_Forearms_.webp",
     "video": "Cable-Standing-Wrist-Curl_Forearms_.mp4",
-    "matched_con": "exercise-0614",
+    "matched_con": "new-exercise-0614",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0201"
   },
   {
-    "id": "exercise-0207",
+    "id": "new-exercise-0207",
     "nombre_es": "Curl de muñeca en polea agarre prono",
     "nombre_en": "Reverse Cable Wrist Curl",
     "tipo": "Isolation",
@@ -7469,12 +7423,12 @@
     ],
     "imagen": "Cable-Standing-Wrist-Reverse-Curl_Forearms_.webp",
     "video": "Cable-Standing-Wrist-Reverse-Curl_Forearms_.mp4",
-    "matched_con": "exercise-0615",
+    "matched_con": "new-exercise-0615",
     "verificado": false,
-    "variante_de": "exercise-0206"
+    "variante_de": "new-exercise-0201"
   },
   {
-    "id": "exercise-0208",
+    "id": "new-exercise-0208",
     "nombre_es": "Caminata del granjero con mancuernas",
     "nombre_en": "Dumbbell Farmer's Walk",
     "tipo": "Compound",
@@ -7517,12 +7471,12 @@
     ],
     "imagen": "Farmers-walk_Cardio-FIX_.webp",
     "video": "Farmers-walk_Cardio-FIX_.mp4",
-    "matched_con": "exercise-1207",
+    "matched_con": "new-exercise-1207",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0209",
+    "id": "new-exercise-0209",
     "nombre_es": "Colgada en barra fija",
     "nombre_en": "Dead Hang",
     "tipo": "Isolation",
@@ -7550,12 +7504,12 @@
     ],
     "imagen": "Dead-Hang-Stretch_Stretching_.webp",
     "video": "Dead-Hang-Stretch_Stretching_.mp4",
-    "matched_con": "exercise-0663",
+    "matched_con": "new-exercise-0663",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0210",
+    "id": "new-exercise-0210",
     "nombre_es": "Rotación de muñeca con mancuerna",
     "nombre_en": "Dumbbell Wrist Rotation",
     "tipo": "Isolation",
@@ -7583,12 +7537,12 @@
     ],
     "imagen": "Dumbbell-Standing-Arms-Rotate_Forearms_.webp",
     "video": "Dumbbell-Standing-Arms-Rotate_Forearms_.mp4",
-    "matched_con": "exercise-1078",
+    "matched_con": "new-exercise-1078",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0211",
+    "id": "new-exercise-0211",
     "nombre_es": "Sentadilla con barra alta",
     "nombre_en": "High-Bar Barbell Back Squat",
     "tipo": "Compound",
@@ -7635,7 +7589,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0212",
+    "id": "new-exercise-0212",
     "nombre_es": "Sentadilla con barra baja",
     "nombre_en": "Low-Bar Barbell Back Squat",
     "tipo": "Compound",
@@ -7679,10 +7633,10 @@
     "video": "Barbell-Low-Bar-Squat_Thighs-FIX_.mp4",
     "matched_con": "Barbell-Low-Bar-Squat_Thighs-FIX_",
     "verificado": false,
-    "variante_de": "exercise-0211"
+    "variante_de": "new-exercise-0211"
   },
   {
-    "id": "exercise-0213",
+    "id": "new-exercise-0213",
     "nombre_es": "Sentadilla con barra pausada",
     "nombre_en": "Paused Barbell Back Squat",
     "tipo": "Compound",
@@ -7726,10 +7680,10 @@
     "video": "Barbell-Squat-2-sec-Hold_Thighs.mp4",
     "matched_con": "Barbell-Squat-2-sec-Hold_Thighs",
     "verificado": false,
-    "variante_de": "exercise-0211"
+    "variante_de": "new-exercise-0211"
   },
   {
-    "id": "exercise-0214",
+    "id": "new-exercise-0214",
     "nombre_es": "Sentadilla frontal con barra",
     "nombre_en": "Barbell Front Squat",
     "tipo": "Compound",
@@ -7774,10 +7728,10 @@
     "video": "Barbell-Front-Squat_Hips-FIX_.mp4",
     "matched_con": "Barbell-Front-Squat_Hips-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0211"
   },
   {
-    "id": "exercise-0215",
+    "id": "new-exercise-0215",
     "nombre_es": "Sentadilla goblet con mancuerna",
     "nombre_en": "Dumbbell Goblet Squat",
     "tipo": "Compound",
@@ -7824,7 +7778,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0216",
+    "id": "new-exercise-0216",
     "nombre_es": "Sentadilla con mancuernas a los lados",
     "nombre_en": "Dumbbell Squat",
     "tipo": "Compound",
@@ -7871,7 +7825,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0217",
+    "id": "new-exercise-0217",
     "nombre_es": "Sentadilla en máquina Smith",
     "nombre_en": "Smith Machine Squat",
     "tipo": "Compound",
@@ -7918,7 +7872,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0218",
+    "id": "new-exercise-0218",
     "nombre_es": "Sentadilla hack",
     "nombre_en": "Hack Squat",
     "tipo": "Compound",
@@ -7961,7 +7915,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0219",
+    "id": "new-exercise-0219",
     "nombre_es": "Sentadilla hack inversa",
     "nombre_en": "Reverse Hack Squat",
     "tipo": "Compound",
@@ -8001,10 +7955,10 @@
     "video": "Sled-Reverse-Hack-Squat_Thighs.mp4",
     "matched_con": "Sled-Reverse-Hack-Squat_Thighs",
     "verificado": false,
-    "variante_de": "exercise-0218"
+    "variante_de": "new-exercise-0218"
   },
   {
-    "id": "exercise-0220",
+    "id": "new-exercise-0220",
     "nombre_es": "Prensa de piernas 45 grados",
     "nombre_en": "45-Degree Leg Press",
     "tipo": "Compound",
@@ -8047,7 +8001,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0221",
+    "id": "new-exercise-0221",
     "nombre_es": "Prensa de piernas pies altos",
     "nombre_en": "High-Foot Leg Press",
     "tipo": "Compound",
@@ -8088,10 +8042,10 @@
     "video": "Sled-Glute-Dominant-Leg-Press-(male)_Hips_.mp4",
     "matched_con": "Sled-Glute-Dominant-Leg-Press-(male)_Hips_",
     "verificado": false,
-    "variante_de": "exercise-0220"
+    "variante_de": "new-exercise-0220"
   },
   {
-    "id": "exercise-0222",
+    "id": "new-exercise-0222",
     "nombre_es": "Prensa de piernas pies bajos",
     "nombre_en": "Low-Foot Leg Press",
     "tipo": "Compound",
@@ -8130,10 +8084,10 @@
     "video": "Sled-45-degrees-Leg-Press_Hips-FIX_.mp4",
     "matched_con": "Sled-45-degrees-Leg-Press_Hips-FIX_",
     "verificado": false,
-    "variante_de": "exercise-0220"
+    "variante_de": "new-exercise-0220"
   },
   {
-    "id": "exercise-0223",
+    "id": "new-exercise-0223",
     "nombre_es": "Prensa de piernas pies abiertos",
     "nombre_en": "Wide-Stance Leg Press",
     "tipo": "Compound",
@@ -8178,10 +8132,10 @@
     "video": "Sled-45-Leg-Wide-Press_Thighs-FIX_.mp4",
     "matched_con": "Sled-45-Leg-Wide-Press_Thighs-FIX_",
     "verificado": false,
-    "variante_de": "exercise-0220"
+    "variante_de": "new-exercise-0220"
   },
   {
-    "id": "exercise-0224",
+    "id": "new-exercise-0224",
     "nombre_es": "Prensa de piernas a una pierna",
     "nombre_en": "Single-Leg Leg Press",
     "tipo": "Compound",
@@ -8225,10 +8179,10 @@
     "video": "Sled-45-degrees-One-Leg-Press_Hips-FIX_.mp4",
     "matched_con": "Sled-45-degrees-One-Leg-Press_Hips-FIX_",
     "verificado": false,
-    "variante_de": "exercise-0220"
+    "variante_de": "new-exercise-0220"
   },
   {
-    "id": "exercise-0225",
+    "id": "new-exercise-0225",
     "nombre_es": "Prensa de piernas horizontal",
     "nombre_en": "Horizontal Leg Press",
     "tipo": "Compound",
@@ -8268,10 +8222,10 @@
     "video": "Lever-Horizontal-Leg-Press_Thighs_.mp4",
     "matched_con": "Lever-Horizontal-Leg-Press_Thighs_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0220"
   },
   {
-    "id": "exercise-0226",
+    "id": "new-exercise-0226",
     "nombre_es": "Extensión de cuádriceps en máquina",
     "nombre_en": "Leg Extension",
     "tipo": "Isolation",
@@ -8304,7 +8258,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0227",
+    "id": "new-exercise-0227",
     "nombre_es": "Extensión de cuádriceps a una pierna",
     "nombre_en": "Single-Leg Leg Extension",
     "tipo": "Isolation",
@@ -8334,10 +8288,10 @@
     "video": "Lever-One-Leg-Extension_Thighs_.mp4",
     "matched_con": "Lever-One-Leg-Extension_Thighs_",
     "verificado": false,
-    "variante_de": "exercise-0226"
+    "variante_de": "new-exercise-0226"
   },
   {
-    "id": "exercise-0230",
+    "id": "new-exercise-0230",
     "nombre_es": "Sentadilla sissy",
     "nombre_en": "Sissy Squat",
     "tipo": "Isolation",
@@ -8370,7 +8324,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0231",
+    "id": "new-exercise-0231",
     "nombre_es": "Sentadilla sissy en máquina",
     "nombre_en": "Machine Sissy Squat",
     "tipo": "Isolation",
@@ -8400,10 +8354,10 @@
     "video": "Landmine-Sissy-Squat-(male)_Thighs_.mp4",
     "matched_con": "Landmine-Sissy-Squat-(male)_Thighs_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0230"
   },
   {
-    "id": "exercise-0232",
+    "id": "new-exercise-0232",
     "nombre_es": "Zancadas con barra",
     "nombre_en": "Barbell Lunge",
     "tipo": "Compound",
@@ -8447,10 +8401,10 @@
     "video": "Barbell-Lunge_Thighs-FIX_.mp4",
     "matched_con": "Barbell-Lunge_Thighs-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0260"
   },
   {
-    "id": "exercise-0233",
+    "id": "new-exercise-0233",
     "nombre_es": "Zancadas inversas con barra",
     "nombre_en": "Reverse Barbell Lunge",
     "tipo": "Compound",
@@ -8494,10 +8448,10 @@
     "video": "Barbell-Rear-Lunge_Thighs_.mp4",
     "matched_con": "Barbell-Rear-Lunge_Thighs_",
     "verificado": false,
-    "variante_de": "exercise-0232"
+    "variante_de": "new-exercise-0260"
   },
   {
-    "id": "exercise-0234",
+    "id": "new-exercise-0234",
     "nombre_es": "Sentadilla split con mancuernas",
     "nombre_en": "Dumbbell Split Squat",
     "tipo": "Compound",
@@ -8541,10 +8495,10 @@
     "video": "Dumbbell-Split-Squat_Thighs_.mp4",
     "matched_con": "Dumbbell-Split-Squat_Thighs_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0258"
   },
   {
-    "id": "exercise-0235",
+    "id": "new-exercise-0235",
     "nombre_es": "Step-up con barra",
     "nombre_en": "Barbell Step-Up",
     "tipo": "Compound",
@@ -8588,10 +8542,10 @@
     "video": "Barbell-Step-up_Hips-FIX_.mp4",
     "matched_con": "Barbell-Step-up_Hips-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0265"
   },
   {
-    "id": "exercise-0236",
+    "id": "new-exercise-0236",
     "nombre_es": "Sentadilla con kettlebell",
     "nombre_en": "Kettlebell Goblet Squat",
     "tipo": "Compound",
@@ -8638,7 +8592,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0237",
+    "id": "new-exercise-0237",
     "nombre_es": "Sentadilla copa con kettlebell sumo",
     "nombre_en": "Sumo Kettlebell Squat",
     "tipo": "Compound",
@@ -8683,10 +8637,10 @@
     "video": "Kettlebell-Sumo-Squat-(male)_Hips_.mp4",
     "matched_con": "Kettlebell-Sumo-Squat-(male)_Hips_",
     "verificado": false,
-    "variante_de": "exercise-0236"
+    "variante_de": "new-exercise-0236"
   },
   {
-    "id": "exercise-0239",
+    "id": "new-exercise-0239",
     "nombre_es": "Sentadilla con peso corporal",
     "nombre_en": "Bodyweight Squat",
     "tipo": "Compound",
@@ -8733,7 +8687,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0240",
+    "id": "new-exercise-0240",
     "nombre_es": "Sentadilla con saltos",
     "nombre_en": "Jump Squat",
     "tipo": "Compound",
@@ -8777,10 +8731,10 @@
     "video": "Jump-Squat-II_Thighs_.mp4",
     "matched_con": "Jump-Squat-II_Thighs_",
     "verificado": false,
-    "variante_de": "exercise-0239"
+    "variante_de": "new-exercise-0239"
   },
   {
-    "id": "exercise-0242",
+    "id": "new-exercise-0242",
     "nombre_es": "Sentadilla zercher con barra",
     "nombre_en": "Zercher Squat",
     "tipo": "Compound",
@@ -8825,10 +8779,10 @@
     "video": "Barbell-full-Zercher-Squat_Thighs.mp4",
     "matched_con": "Barbell-full-Zercher-Squat_Thighs",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0211"
   },
   {
-    "id": "exercise-0243",
+    "id": "new-exercise-0243",
     "nombre_es": "Sentadilla con barra agarre amplio (overhead squat)",
     "nombre_en": "Overhead Squat",
     "tipo": "Compound",
@@ -8874,10 +8828,10 @@
     "video": "PVC-Overhead-Squat_Thighs.mp4",
     "matched_con": "PVC-Overhead-Squat_Thighs",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0211"
   },
   {
-    "id": "exercise-0244",
+    "id": "new-exercise-0244",
     "nombre_es": "Peso muerto convencional con barra",
     "nombre_en": "Conventional Barbell Deadlift",
     "tipo": "Compound",
@@ -8920,12 +8874,12 @@
     ],
     "imagen": "Barbell-Deadlift_Hips-FIX.webp",
     "video": "Barbell-Deadlift_Hips-FIX.mp4",
-    "matched_con": "exercise-0157",
+    "matched_con": "new-exercise-0157",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0245",
+    "id": "new-exercise-0245",
     "nombre_es": "Peso muerto rumano con barra",
     "nombre_en": "Barbell Romanian Deadlift",
     "tipo": "Compound",
@@ -8967,12 +8921,12 @@
     ],
     "imagen": "Barbell-Romanian-Deadlift_Hips-FIX_.webp",
     "video": "Barbell-Romanian-Deadlift_Hips-FIX_.mp4",
-    "matched_con": "exercise-0270",
+    "matched_con": "new-exercise-0270",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0246",
+    "id": "new-exercise-0246",
     "nombre_es": "Peso muerto rumano con mancuernas",
     "nombre_en": "Dumbbell Romanian Deadlift",
     "tipo": "Compound",
@@ -9014,12 +8968,12 @@
     ],
     "imagen": "Dumbbell-Stiff-Leg-Deadlift_Waist.webp",
     "video": "Dumbbell-Stiff-Leg-Deadlift_Waist.mp4",
-    "matched_con": "exercise-1128",
+    "matched_con": "new-exercise-1128",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0245"
   },
   {
-    "id": "exercise-0247",
+    "id": "new-exercise-0247",
     "nombre_es": "Peso muerto rumano a una pierna con mancuerna",
     "nombre_en": "Single-Leg Dumbbell Romanian Deadlift",
     "tipo": "Compound",
@@ -9062,12 +9016,12 @@
     ],
     "imagen": "Dumbbell-Single-Leg-Deadlift-(male)_Hips_.webp",
     "video": "Dumbbell-Single-Leg-Deadlift-(male)_Hips_.mp4",
-    "matched_con": "exercise-1044",
+    "matched_con": "new-exercise-1044",
     "verificado": false,
-    "variante_de": "exercise-0246"
+    "variante_de": "new-exercise-0245"
   },
   {
-    "id": "exercise-0248",
+    "id": "new-exercise-0248",
     "nombre_es": "Peso muerto stiff legs con barra",
     "nombre_en": "Stiff-Leg Deadlift",
     "tipo": "Compound",
@@ -9109,12 +9063,12 @@
     ],
     "imagen": "Barbell-Stiff-Legged-Deadlift_Hips-FIX_.webp",
     "video": "Barbell-Stiff-Legged-Deadlift_Hips-FIX_.mp4",
-    "matched_con": "exercise-0320",
+    "matched_con": "new-exercise-0320",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0249",
+    "id": "new-exercise-0249",
     "nombre_es": "Curl femoral acostado en máquina",
     "nombre_en": "Lying Leg Curl",
     "tipo": "Isolation",
@@ -9142,12 +9096,12 @@
     ],
     "imagen": "Lever-Lying-Leg-Curl_Thighs-FIX_.webp",
     "video": "Lever-Lying-Leg-Curl_Thighs-FIX_.mp4",
-    "matched_con": "exercise-1569",
+    "matched_con": "new-exercise-1569",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0250",
+    "id": "new-exercise-0250",
     "nombre_es": "Curl femoral sentado en máquina",
     "nombre_en": "Seated Leg Curl",
     "tipo": "Isolation",
@@ -9175,12 +9129,12 @@
     ],
     "imagen": "Lever-Seated-Leg-Curl_Thighs-FIX_.webp",
     "video": "Lever-Seated-Leg-Curl_Thighs-FIX_.mp4",
-    "matched_con": "exercise-1624",
+    "matched_con": "new-exercise-1624",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0249"
   },
   {
-    "id": "exercise-0251",
+    "id": "new-exercise-0251",
     "nombre_es": "Curl femoral a una pierna acostado",
     "nombre_en": "Single-Leg Lying Leg Curl",
     "tipo": "Isolation",
@@ -9208,12 +9162,12 @@
     ],
     "imagen": "Lever-Lying-Single-Leg-Curl_Thighs_.webp",
     "video": "Lever-Lying-Single-Leg-Curl_Thighs_.mp4",
-    "matched_con": "exercise-1572",
+    "matched_con": "new-exercise-1572",
     "verificado": false,
-    "variante_de": "exercise-0249"
+    "variante_de": "new-exercise-0249"
   },
   {
-    "id": "exercise-0252",
+    "id": "new-exercise-0252",
     "nombre_es": "Curl femoral a una pierna sentado",
     "nombre_en": "Single-Leg Seated Leg Curl",
     "tipo": "Isolation",
@@ -9241,12 +9195,12 @@
     ],
     "imagen": "Lever-Seated-One-Leg-Curl_Thighs_.webp",
     "video": "Lever-Seated-One-Leg-Curl_Thighs_.mp4",
-    "matched_con": "exercise-1630",
+    "matched_con": "new-exercise-1630",
     "verificado": false,
-    "variante_de": "exercise-0250"
+    "variante_de": "new-exercise-0249"
   },
   {
-    "id": "exercise-0253",
+    "id": "new-exercise-0253",
     "nombre_es": "Curl femoral de pie en máquina",
     "nombre_en": "Standing Leg Curl",
     "tipo": "Isolation",
@@ -9274,12 +9228,12 @@
     ],
     "imagen": "Lever-Standing-Single-Leg-Curl-(plate-loaded)_Thig.webp",
     "video": "Lever-Standing-Single-Leg-Curl-(plate-loaded)_Thig.mp4",
-    "matched_con": "exercise-1665",
+    "matched_con": "new-exercise-1665",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0249"
   },
   {
-    "id": "exercise-0255",
+    "id": "new-exercise-0255",
     "nombre_es": "Glute ham raise",
     "nombre_en": "Glute Ham Raise",
     "tipo": "Compound",
@@ -9326,7 +9280,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0256",
+    "id": "new-exercise-0256",
     "nombre_es": "Buenos días con barra",
     "nombre_en": "Barbell Good Morning",
     "tipo": "Compound",
@@ -9369,13 +9323,13 @@
     ],
     "imagen": "Barbell-Good-Morning_Thighs-FIX_.webp",
     "video": "Barbell-Good-Morning_Thighs-FIX_.mp4",
-    "matched_con": "exercise-0181",
+    "matched_con": "new-exercise-0181",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0257",
-    "nombre_es": "Hiperextensión 45 grados",
+    "id": "new-exercise-0257",
+    "nombre_es": "Hiperextensión 45 grados (énfasis isquios)",
     "nombre_en": "45-Degree Hyperextension",
     "tipo": "Compound",
     "musculo": "Hamstrings",
@@ -9413,12 +9367,12 @@
     ],
     "imagen": "45-degree-Hyperextension-(arms-in-front-of-chest)-.webp",
     "video": "45-degree-Hyperextension-(arms-in-front-of-chest)-.mp4",
-    "matched_con": "exercise-0003",
+    "matched_con": "new-exercise-0003",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0258",
+    "id": "new-exercise-0258",
     "nombre_es": "Sentadilla búlgara con mancuernas",
     "nombre_en": "Dumbbell Bulgarian Split Squat",
     "tipo": "Compound",
@@ -9465,7 +9419,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0259",
+    "id": "new-exercise-0259",
     "nombre_es": "Sentadilla búlgara con barra",
     "nombre_en": "Barbell Bulgarian Split Squat",
     "tipo": "Compound",
@@ -9509,10 +9463,10 @@
     "video": "Barbell-Zercher-Bulgarian-Split-Squat-(male)_Thigh.mp4",
     "matched_con": "Barbell-Zercher-Bulgarian-Split-Squat-(male)_Thigh",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0258"
   },
   {
-    "id": "exercise-0260",
+    "id": "new-exercise-0260",
     "nombre_es": "Zancadas con mancuernas",
     "nombre_en": "Dumbbell Lunge",
     "tipo": "Compound",
@@ -9559,7 +9513,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0261",
+    "id": "new-exercise-0261",
     "nombre_es": "Zancadas caminando con mancuernas",
     "nombre_en": "Dumbbell Walking Lunge",
     "tipo": "Compound",
@@ -9603,10 +9557,10 @@
     "video": "Dumbbell-Walking-Lunges_Thighs_.mp4",
     "matched_con": "Dumbbell-Walking-Lunges_Thighs_",
     "verificado": false,
-    "variante_de": "exercise-0260"
+    "variante_de": "new-exercise-0260"
   },
   {
-    "id": "exercise-0265",
+    "id": "new-exercise-0265",
     "nombre_es": "Step-up con mancuernas",
     "nombre_en": "Dumbbell Step-Up",
     "tipo": "Compound",
@@ -9653,7 +9607,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0267",
+    "id": "new-exercise-0267",
     "nombre_es": "Sentadilla sumo con barra",
     "nombre_en": "Sumo Barbell Squat",
     "tipo": "Compound",
@@ -9698,10 +9652,10 @@
     "video": "Barbell-sumo-squat_Thighs.mp4",
     "matched_con": "Barbell-sumo-squat_Thighs",
     "verificado": false,
-    "variante_de": "exercise-0211"
+    "variante_de": "new-exercise-0211"
   },
   {
-    "id": "exercise-0268",
+    "id": "new-exercise-0268",
     "nombre_es": "Peso muerto sumo con barra",
     "nombre_en": "Sumo Deadlift",
     "tipo": "Compound",
@@ -9750,7 +9704,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0269",
+    "id": "new-exercise-0269",
     "nombre_es": "Peso muerto trap bar (hex bar)",
     "nombre_en": "Trap Bar Deadlift",
     "tipo": "Compound",
@@ -9799,7 +9753,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0270",
+    "id": "new-exercise-0270",
     "nombre_es": "Peso muerto con mancuernas",
     "nombre_en": "Dumbbell Deadlift",
     "tipo": "Compound",
@@ -9842,12 +9796,12 @@
     ],
     "imagen": "Dumbbell-Deadlift_Hips.webp",
     "video": "Dumbbell-Deadlift_Hips.mp4",
-    "matched_con": "exercise-0738",
+    "matched_con": "new-exercise-0738",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0244"
   },
   {
-    "id": "exercise-0271",
+    "id": "new-exercise-0271",
     "nombre_es": "Peso muerto con kettlebell",
     "nombre_en": "Kettlebell Deadlift",
     "tipo": "Compound",
@@ -9890,12 +9844,12 @@
     ],
     "imagen": "Kettlebell-deadlift_Hips_.webp",
     "video": "Kettlebell-deadlift_Hips_.mp4",
-    "matched_con": "exercise-1454",
+    "matched_con": "new-exercise-1454",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0244"
   },
   {
-    "id": "exercise-0272",
+    "id": "new-exercise-0272",
     "nombre_es": "Peso muerto rumano con kettlebell",
     "nombre_en": "Kettlebell Romanian Deadlift",
     "tipo": "Compound",
@@ -9937,12 +9891,12 @@
     ],
     "imagen": "Kettlebell-Romanian-Deadlift_Hips_.webp",
     "video": "Kettlebell-Romanian-Deadlift_Hips_.mp4",
-    "matched_con": "exercise-1395",
+    "matched_con": "new-exercise-1395",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0245"
   },
   {
-    "id": "exercise-0273",
+    "id": "new-exercise-0273",
     "nombre_es": "Kettlebell swing",
     "nombre_en": "Kettlebell Swing",
     "tipo": "Compound",
@@ -9984,12 +9938,12 @@
     ],
     "imagen": "Kettlebell-Swing_Hips-FIX2_.webp",
     "video": "Kettlebell-Swing_Hips-FIX2_.mp4",
-    "matched_con": "exercise-1441",
+    "matched_con": "new-exercise-1441",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0275",
+    "id": "new-exercise-0275",
     "nombre_es": "Aducción de cadera en máquina sentado",
     "nombre_en": "Seated Hip Adduction Machine",
     "tipo": "Isolation",
@@ -10017,12 +9971,12 @@
     ],
     "imagen": "Lever-Seated-Hip-Adduction_Thighs.webp",
     "video": "Lever-Seated-Hip-Adduction_Thighs.mp4",
-    "matched_con": "exercise-1622",
+    "matched_con": "new-exercise-1622",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0276",
+    "id": "new-exercise-0276",
     "nombre_es": "Aducción de cadera en polea",
     "nombre_en": "Cable Hip Adduction",
     "tipo": "Isolation",
@@ -10050,12 +10004,12 @@
     ],
     "imagen": "Cable-Hip-Adduction_Thighs.webp",
     "video": "Cable-Hip-Adduction_Thighs.mp4",
-    "matched_con": "exercise-0412",
+    "matched_con": "new-exercise-0412",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0275"
   },
   {
-    "id": "exercise-0277",
+    "id": "new-exercise-0277",
     "nombre_es": "Aducción de cadera con banda",
     "nombre_en": "Banded Hip Adduction",
     "tipo": "Isolation",
@@ -10083,12 +10037,12 @@
     ],
     "imagen": "Band-hip-adduction-(male)_Hips.webp",
     "video": "Band-hip-adduction-(male)_Hips.mp4",
-    "matched_con": "exercise-0112",
+    "matched_con": "new-exercise-0112",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0275"
   },
   {
-    "id": "exercise-0278",
+    "id": "new-exercise-0278",
     "nombre_es": "Aducción de cadera acostado",
     "nombre_en": "Side-Lying Hip Adduction",
     "tipo": "Isolation",
@@ -10116,12 +10070,12 @@
     ],
     "imagen": "Side-Plank-Hip-Adduction_Hips.webp",
     "video": "Side-Plank-Hip-Adduction_Hips.mp4",
-    "matched_con": "exercise-1843",
+    "matched_con": "new-exercise-1843",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0275"
   },
   {
-    "id": "exercise-0280",
+    "id": "new-exercise-0280",
     "nombre_es": "Sentadilla cossack",
     "nombre_en": "Cossack Squat",
     "tipo": "Compound",
@@ -10169,7 +10123,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0281",
+    "id": "new-exercise-0281",
     "nombre_es": "Sentadilla cossack con mancuerna",
     "nombre_en": "Dumbbell Cossack Squat",
     "tipo": "Compound",
@@ -10212,12 +10166,12 @@
     ],
     "imagen": "Dumbbell-Cossack-Squats-(VERSION-2)-(male)_Thighs_.webp",
     "video": "Dumbbell-Cossack-Squats-(VERSION-2)-(male)_Thighs_.mp4",
-    "matched_con": "exercise-0731",
+    "matched_con": "new-exercise-0731",
     "verificado": false,
-    "variante_de": "exercise-0280"
+    "variante_de": "new-exercise-0280"
   },
   {
-    "id": "exercise-0283",
+    "id": "new-exercise-0283",
     "nombre_es": "Box squat con barra",
     "nombre_en": "Barbell Box Squat",
     "tipo": "Compound",
@@ -10261,10 +10215,10 @@
     "video": "Barbell-Box-Squat_Hips_.mp4",
     "matched_con": "Barbell-Box-Squat_Hips_",
     "verificado": false,
-    "variante_de": "exercise-0211"
+    "variante_de": "new-exercise-0211"
   },
   {
-    "id": "exercise-0284",
+    "id": "new-exercise-0284",
     "nombre_es": "Hip thrust con barra",
     "nombre_en": "Barbell Hip Thrust",
     "tipo": "Compound",
@@ -10306,12 +10260,12 @@
     ],
     "imagen": "Barbell-Hip-Thrust_Hips-FIX_.webp",
     "video": "Barbell-Hip-Thrust_Hips-FIX_.mp4",
-    "matched_con": "exercise-0190",
+    "matched_con": "new-exercise-0190",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0285",
+    "id": "new-exercise-0285",
     "nombre_es": "Hip thrust en máquina",
     "nombre_en": "Machine Hip Thrust",
     "tipo": "Compound",
@@ -10349,12 +10303,12 @@
     ],
     "imagen": "Lever-Hip-Thrust-(plate-loaded)-(male)_Hips_.webp",
     "video": "Lever-Hip-Thrust-(plate-loaded)-(male)_Hips_.mp4",
-    "matched_con": "exercise-1543",
+    "matched_con": "new-exercise-1543",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0284"
   },
   {
-    "id": "exercise-0286",
+    "id": "new-exercise-0286",
     "nombre_es": "Patada de glúteo en polea",
     "nombre_en": "Cable Glute Kickback",
     "tipo": "Isolation",
@@ -10382,12 +10336,12 @@
     ],
     "imagen": "Cable-Donkey-Kickback-(male)_Hips_.webp",
     "video": "Cable-Donkey-Kickback-(male)_Hips_.mp4",
-    "matched_con": "exercise-0384",
+    "matched_con": "new-exercise-0384",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0287",
+    "id": "new-exercise-0287",
     "nombre_es": "Abducción de cadera en máquina sentado",
     "nombre_en": "Seated Hip Abduction Machine",
     "tipo": "Isolation",
@@ -10415,12 +10369,12 @@
     ],
     "imagen": "Lever-Seated-Hip-Abduction_Hips-FIX_.webp",
     "video": "Lever-Seated-Hip-Abduction_Hips-FIX_.mp4",
-    "matched_con": "exercise-1621",
+    "matched_con": "new-exercise-1621",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0288",
+    "id": "new-exercise-0288",
     "nombre_es": "Sentadilla pendulum",
     "nombre_en": "Pendulum Squat",
     "tipo": "Compound",
@@ -10458,12 +10412,12 @@
     ],
     "imagen": "Lever-Pendulum-Squat-(plate-loaded)_Thighs_.webp",
     "video": "Lever-Pendulum-Squat-(plate-loaded)_Thighs_.mp4",
-    "matched_con": "exercise-1590",
+    "matched_con": "new-exercise-1590",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0289",
+    "id": "new-exercise-0289",
     "nombre_es": "Sentadilla belt squat",
     "nombre_en": "Belt Squat",
     "tipo": "Compound",
@@ -10506,7 +10460,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0291",
+    "id": "new-exercise-0291",
     "nombre_es": "Sentadilla con bandas con barra",
     "nombre_en": "Banded Barbell Squat",
     "tipo": "Compound",
@@ -10550,10 +10504,10 @@
     "video": "Barbell-Banded-Bench-Squat_Thighs_.mp4",
     "matched_con": "Barbell-Banded-Bench-Squat_Thighs_",
     "verificado": false,
-    "variante_de": "exercise-0211"
+    "variante_de": "new-exercise-0211"
   },
   {
-    "id": "exercise-0292",
+    "id": "new-exercise-0292",
     "nombre_es": "Sentadilla zancada con barra estacionaria",
     "nombre_en": "Barbell Split Squat",
     "tipo": "Compound",
@@ -10597,10 +10551,10 @@
     "video": "Barbell-Split-Squat_Thighs_.mp4",
     "matched_con": "Barbell-Split-Squat_Thighs_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0260"
   },
   {
-    "id": "exercise-0293",
+    "id": "new-exercise-0293",
     "nombre_es": "Pistol squat",
     "nombre_en": "Pistol Squat",
     "tipo": "Compound",
@@ -10647,7 +10601,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0295",
+    "id": "new-exercise-0295",
     "nombre_es": "Glute bridge con barra",
     "nombre_en": "Barbell Glute Bridge",
     "tipo": "Compound",
@@ -10689,12 +10643,12 @@
     ],
     "imagen": "Barbell-Glute-Bridge-(hands-on-bar)_Hips_.webp",
     "video": "Barbell-Glute-Bridge-(hands-on-bar)_Hips_.mp4",
-    "matched_con": "exercise-0180",
+    "matched_con": "new-exercise-0180",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0284"
   },
   {
-    "id": "exercise-0297",
+    "id": "new-exercise-0297",
     "nombre_es": "Sentadilla jefferson con barra",
     "nombre_en": "Jefferson Squat",
     "tipo": "Compound",
@@ -10738,10 +10692,10 @@
     "video": "Barbell-Jefferson-Squat_Thighs-FIX_.mp4",
     "matched_con": "Barbell-Jefferson-Squat_Thighs-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0211"
   },
   {
-    "id": "exercise-0299",
+    "id": "new-exercise-0299",
     "nombre_es": "Front squat con kettlebells",
     "nombre_en": "Double Kettlebell Front Squat",
     "tipo": "Compound",
@@ -10786,10 +10740,10 @@
     "video": "Kettlebell-Front-Squat_Thighs_.mp4",
     "matched_con": "Kettlebell-Front-Squat_Thighs_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0236"
   },
   {
-    "id": "exercise-0300",
+    "id": "new-exercise-0300",
     "nombre_es": "Peso muerto rumano en máquina Smith",
     "nombre_en": "Smith Machine Romanian Deadlift",
     "tipo": "Compound",
@@ -10831,12 +10785,12 @@
     ],
     "imagen": "Smith-Deadlift_Hips.webp",
     "video": "Smith-Deadlift_Hips.mp4",
-    "matched_con": "exercise-1881",
+    "matched_con": "new-exercise-1881",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0245"
   },
   {
-    "id": "exercise-0301",
+    "id": "new-exercise-0301",
     "nombre_es": "Sentadilla con barra agarre Zercher inverso",
     "nombre_en": "Front-Rack Hold Squat",
     "tipo": "Compound",
@@ -10881,10 +10835,10 @@
     "video": "Barbell-Front-Chest-Squat_Thighs.mp4",
     "matched_con": "Barbell-Front-Chest-Squat_Thighs",
     "verificado": false,
-    "variante_de": "exercise-0214"
+    "variante_de": "new-exercise-0211"
   },
   {
-    "id": "exercise-0303",
+    "id": "new-exercise-0303",
     "nombre_es": "Zancadas curtsy (reverentes)",
     "nombre_en": "Curtsy Lunge",
     "tipo": "Compound",
@@ -10926,12 +10880,12 @@
     ],
     "imagen": "Dumbbell-Curtsey-Lunge-(male)_Thighs_.webp",
     "video": "Dumbbell-Curtsey-Lunge-(male)_Thighs_.mp4",
-    "matched_con": "exercise-0737",
+    "matched_con": "new-exercise-0737",
     "verificado": false,
-    "variante_de": "exercise-0260"
+    "variante_de": "new-exercise-0260"
   },
   {
-    "id": "exercise-0304",
+    "id": "new-exercise-0304",
     "nombre_es": "Patada de glúteo en máquina",
     "nombre_en": "Machine Glute Kickback",
     "tipo": "Isolation",
@@ -10959,12 +10913,12 @@
     ],
     "imagen": "Lever-Glute-Press-(male)_Hips_.webp",
     "video": "Lever-Glute-Press-(male)_Hips_.mp4",
-    "matched_con": "exercise-1535",
+    "matched_con": "new-exercise-1535",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0286"
   },
   {
-    "id": "exercise-0305",
+    "id": "new-exercise-0305",
     "nombre_es": "Hiperextensión 45 grados para glúteos",
     "nombre_en": "45-Degree Glute-Focused Hyperextension",
     "tipo": "Compound",
@@ -11002,12 +10956,12 @@
     ],
     "imagen": "45-degree-Hyperextension-(arms-in-front-of-chest)-.webp",
     "video": "45-degree-Hyperextension-(arms-in-front-of-chest)-.mp4",
-    "matched_con": "exercise-0003",
+    "matched_con": "new-exercise-0003",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0306",
+    "id": "new-exercise-0306",
     "nombre_es": "Elevación de talones de pie en máquina",
     "nombre_en": "Standing Calf Raise Machine",
     "tipo": "Isolation",
@@ -11035,12 +10989,12 @@
     ],
     "imagen": "Lever-Standing-Calf-Raise_Calf-FIX_.webp",
     "video": "Lever-Standing-Calf-Raise_Calf-FIX_.mp4",
-    "matched_con": "exercise-1660",
+    "matched_con": "new-exercise-1660",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0307",
+    "id": "new-exercise-0307",
     "nombre_es": "Elevación de talones sentado en máquina",
     "nombre_en": "Seated Calf Raise Machine",
     "tipo": "Isolation",
@@ -11068,12 +11022,12 @@
     ],
     "imagen": "Lever-Seated-Calf-Raise-(plate-loaded)-(VERSION-2).webp",
     "video": "Lever-Seated-Calf-Raise-(plate-loaded)-(VERSION-2).mp4",
-    "matched_con": "exercise-1612",
+    "matched_con": "new-exercise-1612",
     "verificado": false,
     "variante_de": null
   },
   {
-    "id": "exercise-0308",
+    "id": "new-exercise-0308",
     "nombre_es": "Elevación de talones con barra de pie",
     "nombre_en": "Standing Barbell Calf Raise",
     "tipo": "Isolation",
@@ -11101,12 +11055,12 @@
     ],
     "imagen": "Barbell-Standing-Calf-Raise_Calves.webp",
     "video": "Barbell-Standing-Calf-Raise_Calves.mp4",
-    "matched_con": "exercise-0305",
+    "matched_con": "new-exercise-0305",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0306"
   },
   {
-    "id": "exercise-0309",
+    "id": "new-exercise-0309",
     "nombre_es": "Elevación de talones con mancuerna a un pie",
     "nombre_en": "Single-Leg Dumbbell Calf Raise",
     "tipo": "Isolation",
@@ -11134,12 +11088,12 @@
     ],
     "imagen": "Dumbbell-Single-Leg-Calf-Raise_Calves.webp",
     "video": "Dumbbell-Single-Leg-Calf-Raise_Calves.mp4",
-    "matched_con": "exercise-1043",
+    "matched_con": "new-exercise-1043",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0306"
   },
   {
-    "id": "exercise-0310",
+    "id": "new-exercise-0310",
     "nombre_es": "Elevación de talones con mancuernas de pie",
     "nombre_en": "Standing Dumbbell Calf Raise",
     "tipo": "Isolation",
@@ -11167,12 +11121,12 @@
     ],
     "imagen": "Dumbbell-Standing-Calf-Raise_Calves-FIX_.webp",
     "video": "Dumbbell-Standing-Calf-Raise_Calves-FIX_.mp4",
-    "matched_con": "exercise-1085",
+    "matched_con": "new-exercise-1085",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0306"
   },
   {
-    "id": "exercise-0311",
+    "id": "new-exercise-0311",
     "nombre_es": "Elevación de talones en prensa",
     "nombre_en": "Leg Press Calf Raise",
     "tipo": "Isolation",
@@ -11200,12 +11154,12 @@
     ],
     "imagen": "Sled-45-Calf-Press_Calves-FIX_.webp",
     "video": "Sled-45-Calf-Press_Calves-FIX_.mp4",
-    "matched_con": "exercise-1854",
+    "matched_con": "new-exercise-1854",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0306"
   },
   {
-    "id": "exercise-0313",
+    "id": "new-exercise-0313",
     "nombre_es": "Crunch en el suelo",
     "nombre_en": "Crunch",
     "tipo": "Isolation",
@@ -11238,7 +11192,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0314",
+    "id": "new-exercise-0314",
     "nombre_es": "Crunch con piernas elevadas",
     "nombre_en": "Crunch with Legs Elevated",
     "tipo": "Isolation",
@@ -11268,10 +11222,10 @@
     "video": "Tuck-Crunch_waist.mp4",
     "matched_con": "Tuck-Crunch_waist",
     "verificado": false,
-    "variante_de": "exercise-0313"
+    "variante_de": "new-exercise-0313"
   },
   {
-    "id": "exercise-0315",
+    "id": "new-exercise-0315",
     "nombre_es": "Crunch con peso",
     "nombre_en": "Weighted Crunch",
     "tipo": "Isolation",
@@ -11301,10 +11255,10 @@
     "video": "Weighted-Crunch-(VERSION-2)_Waist.mp4",
     "matched_con": "Weighted-Crunch-(VERSION-2)_Waist",
     "verificado": false,
-    "variante_de": "exercise-0313"
+    "variante_de": "new-exercise-0313"
   },
   {
-    "id": "exercise-0316",
+    "id": "new-exercise-0316",
     "nombre_es": "Crunch en polea (cable crunch)",
     "nombre_en": "Cable Crunch",
     "tipo": "Isolation",
@@ -11337,7 +11291,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0317",
+    "id": "new-exercise-0317",
     "nombre_es": "Sit-up",
     "nombre_en": "Sit-Up",
     "tipo": "Compound",
@@ -11375,7 +11329,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0318",
+    "id": "new-exercise-0318",
     "nombre_es": "Sit-up declinado en banco",
     "nombre_en": "Decline Sit-Up",
     "tipo": "Compound",
@@ -11410,10 +11364,10 @@
     "video": "Decline-Sit-up_Hips_.mp4",
     "matched_con": "Decline-Sit-up_Hips_",
     "verificado": false,
-    "variante_de": "exercise-0317"
+    "variante_de": "new-exercise-0317"
   },
   {
-    "id": "exercise-0319",
+    "id": "new-exercise-0319",
     "nombre_es": "Sit-up declinado con peso",
     "nombre_en": "Weighted Decline Sit-Up",
     "tipo": "Compound",
@@ -11448,10 +11402,10 @@
     "video": "Weighted-Decline-Sit-up_Waist_.mp4",
     "matched_con": "Weighted-Decline-Sit-up_Waist_",
     "verificado": false,
-    "variante_de": "exercise-0317"
+    "variante_de": "new-exercise-0317"
   },
   {
-    "id": "exercise-0320",
+    "id": "new-exercise-0320",
     "nombre_es": "Elevación de piernas acostado",
     "nombre_en": "Lying Leg Raise",
     "tipo": "Isolation",
@@ -11481,10 +11435,10 @@
     "video": "Lying-Leg-Raise_Waist-FIX_.mp4",
     "matched_con": "Lying-Leg-Raise_Waist-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0322"
   },
   {
-    "id": "exercise-0321",
+    "id": "new-exercise-0321",
     "nombre_es": "Elevación de piernas con rodillas flexionadas",
     "nombre_en": "Bent-Knee Lying Leg Raise",
     "tipo": "Isolation",
@@ -11514,10 +11468,10 @@
     "video": "Lying-leg-hip-raise_Waist.mp4",
     "matched_con": "Lying-leg-hip-raise_Waist",
     "verificado": false,
-    "variante_de": "exercise-0320"
+    "variante_de": "new-exercise-0322"
   },
   {
-    "id": "exercise-0322",
+    "id": "new-exercise-0322",
     "nombre_es": "Elevación de piernas colgado en barra",
     "nombre_en": "Hanging Leg Raise",
     "tipo": "Isolation",
@@ -11550,7 +11504,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0323",
+    "id": "new-exercise-0323",
     "nombre_es": "Elevación de rodillas colgado en barra",
     "nombre_en": "Hanging Knee Raise",
     "tipo": "Isolation",
@@ -11580,10 +11534,10 @@
     "video": "Hanging-Leg-Hip-Raise_Waist.mp4",
     "matched_con": "Hanging-Leg-Hip-Raise_Waist",
     "verificado": false,
-    "variante_de": "exercise-0322"
+    "variante_de": "new-exercise-0322"
   },
   {
-    "id": "exercise-0324",
+    "id": "new-exercise-0324",
     "nombre_es": "Elevación de piernas colgado a la barra (toes to bar)",
     "nombre_en": "Toes to Bar",
     "tipo": "Compound",
@@ -11622,10 +11576,10 @@
     "video": "Hanging-Toes-to-Bar_Waist_.mp4",
     "matched_con": "Hanging-Toes-to-Bar_Waist_",
     "verificado": false,
-    "variante_de": "exercise-0322"
+    "variante_de": "new-exercise-0322"
   },
   {
-    "id": "exercise-0325",
+    "id": "new-exercise-0325",
     "nombre_es": "Elevación de piernas en máquina captain's chair",
     "nombre_en": "Captain's Chair Leg Raise",
     "tipo": "Isolation",
@@ -11655,10 +11609,10 @@
     "video": "Captains-Chair-Straight-Leg-Raise_Waist-FIX_.mp4",
     "matched_con": "Captains-Chair-Straight-Leg-Raise_Waist-FIX_",
     "verificado": false,
-    "variante_de": null
+    "variante_de": "new-exercise-0322"
   },
   {
-    "id": "exercise-0326",
+    "id": "new-exercise-0326",
     "nombre_es": "Plancha frontal",
     "nombre_en": "Front Plank",
     "tipo": "Isolation",
@@ -11691,7 +11645,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0327",
+    "id": "new-exercise-0327",
     "nombre_es": "Plancha con manos extendidas",
     "nombre_en": "High Plank",
     "tipo": "Isolation",
@@ -11721,10 +11675,10 @@
     "video": "Plank-on-Hands_Waist_.mp4",
     "matched_con": "Plank-on-Hands_Waist_",
     "verificado": false,
-    "variante_de": "exercise-0326"
+    "variante_de": "new-exercise-0326"
   },
   {
-    "id": "exercise-0328",
+    "id": "new-exercise-0328",
     "nombre_es": "Plancha lateral",
     "nombre_en": "Side Plank",
     "tipo": "Isolation",
@@ -11757,7 +11711,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0329",
+    "id": "new-exercise-0329",
     "nombre_es": "Plancha lateral con elevación de cadera",
     "nombre_en": "Side Plank Hip Dip",
     "tipo": "Isolation",
@@ -11787,10 +11741,10 @@
     "video": "Side-Plank-Hip-Adduction_Hips.mp4",
     "matched_con": "Side-Plank-Hip-Adduction_Hips",
     "verificado": false,
-    "variante_de": "exercise-0328"
+    "variante_de": "new-exercise-0328"
   },
   {
-    "id": "exercise-0331",
+    "id": "new-exercise-0331",
     "nombre_es": "Mountain climbers",
     "nombre_en": "Mountain Climbers",
     "tipo": "Compound",
@@ -11832,7 +11786,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0332",
+    "id": "new-exercise-0332",
     "nombre_es": "Russian twist",
     "nombre_en": "Russian Twist",
     "tipo": "Isolation",
@@ -11865,7 +11819,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0333",
+    "id": "new-exercise-0333",
     "nombre_es": "Russian twist con peso",
     "nombre_en": "Weighted Russian Twist",
     "tipo": "Isolation",
@@ -11895,10 +11849,10 @@
     "video": "Weighted-Russian-Twist_Waist.mp4",
     "matched_con": "Weighted-Russian-Twist_Waist",
     "verificado": false,
-    "variante_de": "exercise-0332"
+    "variante_de": "new-exercise-0332"
   },
   {
-    "id": "exercise-0334",
+    "id": "new-exercise-0334",
     "nombre_es": "Bicicleta en el suelo",
     "nombre_en": "Bicycle Crunch",
     "tipo": "Isolation",
@@ -11931,7 +11885,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0335",
+    "id": "new-exercise-0335",
     "nombre_es": "Toques de talón (heel touch)",
     "nombre_en": "Heel Touch",
     "tipo": "Isolation",
@@ -11964,7 +11918,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0336",
+    "id": "new-exercise-0336",
     "nombre_es": "Inclinación lateral con mancuerna (side bend)",
     "nombre_en": "Dumbbell Side Bend",
     "tipo": "Isolation",
@@ -11997,7 +11951,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0337",
+    "id": "new-exercise-0337",
     "nombre_es": "Side bend en polea",
     "nombre_en": "Cable Side Bend",
     "tipo": "Isolation",
@@ -12027,10 +11981,10 @@
     "video": "Cable-Side-Bend_Waist.mp4",
     "matched_con": "Cable-Side-Bend_Waist",
     "verificado": false,
-    "variante_de": "exercise-0336"
+    "variante_de": "new-exercise-0336"
   },
   {
-    "id": "exercise-0338",
+    "id": "new-exercise-0338",
     "nombre_es": "Wood chopper en polea alta",
     "nombre_en": "High to Low Cable Woodchopper",
     "tipo": "Compound",
@@ -12068,7 +12022,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0340",
+    "id": "new-exercise-0340",
     "nombre_es": "Pallof press en polea",
     "nombre_en": "Cable Pallof Press",
     "tipo": "Isolation",
@@ -12101,7 +12055,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0341",
+    "id": "new-exercise-0341",
     "nombre_es": "Dead bug",
     "nombre_en": "Dead Bug",
     "tipo": "Isolation",
@@ -12134,7 +12088,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0342",
+    "id": "new-exercise-0342",
     "nombre_es": "Bird dog",
     "nombre_en": "Bird Dog",
     "tipo": "Compound",
@@ -12176,7 +12130,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0343",
+    "id": "new-exercise-0343",
     "nombre_es": "Hollow body hold",
     "nombre_en": "Hollow Body Hold",
     "tipo": "Isolation",
@@ -12209,7 +12163,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0344",
+    "id": "new-exercise-0344",
     "nombre_es": "V-up",
     "nombre_en": "V-Up",
     "tipo": "Compound",
@@ -12242,7 +12196,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0346",
+    "id": "new-exercise-0346",
     "nombre_es": "Ab wheel rollout",
     "nombre_en": "Ab Wheel Rollout",
     "tipo": "Compound",
@@ -12284,7 +12238,7 @@
     "variante_de": null
   },
   {
-    "id": "exercise-0347",
+    "id": "new-exercise-0347",
     "nombre_es": "Plancha con peso en la espalda",
     "nombre_en": "Weighted Plank",
     "tipo": "Isolation",
@@ -12314,6 +12268,1012 @@
     "video": "Weighted-Front-Plank_Waist_.mp4",
     "matched_con": "Weighted-Front-Plank_Waist_",
     "verificado": false,
-    "variante_de": "exercise-0326"
+    "variante_de": "new-exercise-0326"
+  },
+  {
+    "id": "new-exercise-0348",
+    "nombre_es": "Nordic curl",
+    "nombre_en": "Nordic Hamstring Curl",
+    "tipo": "Isolation",
+    "musculo": "Hamstrings",
+    "musculos_focus": [
+      "Hamstrings"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 10,
+    "como_hacerlo": [
+      "Arrodillate sobre una colchoneta con las rodillas separadas al ancho de las caderas.",
+      "Pedile a un compañero que te sostenga firmemente los tobillos contra el suelo, o usá un anclaje (banco bajo, barra, almohada con peso).",
+      "Mantené el torso recto desde las rodillas hasta la cabeza, con el core activo.",
+      "Bajá el cuerpo hacia adelante de forma controlada usando solo los isquiotibiales para frenar el descenso.",
+      "Mantené la cadera extendida (no plegues a la altura de las caderas).",
+      "Cuando ya no puedas frenar más, apoyá las manos en el suelo suavemente.",
+      "Empujá con las manos solo lo necesario para volver a la posición inicial y volvé a contraer los isquios.",
+      "Repetí según tu rutina. Es muy exigente: empezá con 1 a 3 repeticiones por serie."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Glutes",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Nordic hamstring curl",
+      "Curl nórdico",
+      "Russian leg curl"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0350",
+    "nombre_es": "Hip thrust a una pierna con barra",
+    "nombre_en": "Single-Leg Hip Thrust with Barbell",
+    "tipo": "Compound",
+    "musculo": "Glutes",
+    "musculos_focus": [
+      "Glutes"
+    ],
+    "equipo": "Barbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Sentate en el suelo con la espalda apoyada en un banco a la altura justo debajo de las escápulas.",
+      "Colocá la barra acolchada sobre el pliegue de la cadera.",
+      "Apoyá un solo pie firme en el suelo a unos 30-40 cm del glúteo, la otra pierna queda elevada o cruzada.",
+      "Empujá la barra hacia arriba con el talón hasta extender completamente la cadera.",
+      "En el punto más alto, el cuerpo forma una línea recta desde las rodillas hasta los hombros.",
+      "Contraé el glúteo de la pierna activa al máximo arriba.",
+      "Bajá controladamente sin tocar el suelo y volvé a subir.",
+      "Completá las repeticiones de un lado antes de cambiar."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Hip thrust unilateral",
+      "B-stance hip thrust",
+      "Single-leg hip thrust"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": "new-exercise-0284"
+  },
+  {
+    "id": "new-exercise-0351",
+    "nombre_es": "Hip thrust a una pierna con peso corporal",
+    "nombre_en": "Single-Leg Hip Thrust",
+    "tipo": "Compound",
+    "musculo": "Glutes",
+    "musculos_focus": [
+      "Glutes"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Sentate en el suelo con la espalda apoyada en un banco a la altura justo debajo de las escápulas.",
+      "Apoyá un solo pie firme en el suelo a unos 30-40 cm del glúteo.",
+      "La otra pierna queda extendida hacia adelante o flexionada en el aire.",
+      "Empujá la cadera hacia arriba con el talón hasta extender completamente la cadera.",
+      "En el punto más alto, el cuerpo forma una línea recta desde la rodilla hasta los hombros.",
+      "Contraé el glúteo de la pierna activa al máximo arriba.",
+      "Bajá controladamente sin apoyar el glúteo del todo y volvé a subir.",
+      "Completá las repeticiones de un lado antes de cambiar."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Hip thrust unilateral peso corporal",
+      "Single-leg hip thrust"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": "new-exercise-0284"
+  },
+  {
+    "id": "new-exercise-0352",
+    "nombre_es": "Puente de glúteo a una pierna",
+    "nombre_en": "Single-Leg Glute Bridge",
+    "tipo": "Compound",
+    "musculo": "Glutes",
+    "musculos_focus": [
+      "Glutes"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Acostate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Extendé una pierna hacia el techo o mantenela elevada y recta hacia adelante.",
+      "Empujá con el talón de la pierna apoyada para elevar la cadera del suelo.",
+      "Contraé el glúteo al máximo arriba.",
+      "Mantené la cadera nivelada (no la rotes hacia el lado de la pierna libre).",
+      "Bajá controladamente hasta casi tocar el suelo.",
+      "Completá las repeticiones de un lado antes de cambiar."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Single-leg glute bridge",
+      "Glute bridge unilateral"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0353",
+    "nombre_es": "Frog pump",
+    "nombre_en": "Frog Pump",
+    "tipo": "Isolation",
+    "musculo": "Glutes",
+    "musculos_focus": [
+      "Glutes"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Acostate boca arriba con las plantas de los pies juntas y las rodillas abiertas hacia los lados (posición de mariposa).",
+      "Los talones quedan cerca del glúteo, las rodillas caen hacia afuera.",
+      "Empujá la cadera hacia arriba contrayendo los glúteos.",
+      "Mantené la contracción 1-2 segundos arriba.",
+      "Bajá controladamente sin apoyar el glúteo del todo.",
+      "Por la posición de las piernas, el énfasis cae casi exclusivamente en el glúteo.",
+      "Repetí según tu rutina. Es un movimiento de alta repetición."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Core",
+        "peso": 0.1
+      }
+    ],
+    "nombres_alternativos": [
+      "Frog pump",
+      "Puente de glúteo en mariposa"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0354",
+    "nombre_es": "Abducción de cadera de pie en polea",
+    "nombre_en": "Standing Cable Hip Abduction",
+    "tipo": "Isolation",
+    "musculo": "Glutes",
+    "musculos_focus": [
+      "Glutes"
+    ],
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Coloca un tobillera en la polea baja y ajustala al tobillo de la pierna que vas a trabajar.",
+      "Parate de costado a la máquina con la pierna a trabajar lejos de la torre de poleas.",
+      "Sostené la torre con una mano para mantener el equilibrio.",
+      "Mantené la pierna de apoyo ligeramente flexionada y el torso erguido.",
+      "Levantá la pierna hacia el lado contrario de la polea (abducción) sin rotar el torso.",
+      "Contraé el glúteo medio en el punto más alto.",
+      "Volvé controladamente sin que el peso vuelva al stack.",
+      "Completá las repeticiones de un lado antes de cambiar."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Cable hip abduction",
+      "Abducción de cadera unilateral en polea"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0355",
+    "nombre_es": "Clamshell con banda",
+    "nombre_en": "Banded Clamshell",
+    "tipo": "Isolation",
+    "musculo": "Glutes",
+    "musculos_focus": [
+      "Glutes"
+    ],
+    "equipo": "Band",
+    "importancia": 5,
+    "como_hacerlo": [
+      "Acostate de costado con las rodillas flexionadas y apiladas, los talones alineados con el glúteo.",
+      "Colocá una mini banda elástica alrededor de los muslos, justo por encima de las rodillas.",
+      "Apoyá la cabeza sobre el brazo de abajo, mantené el torso estable.",
+      "Manteniendo los pies juntos, abrí las rodillas hacia el techo separándolas como una almeja.",
+      "Contraé el glúteo medio al máximo arriba.",
+      "Bajá controladamente sin perder la tensión de la banda.",
+      "No rotes el torso ni la cadera hacia atrás durante el movimiento.",
+      "Completá las repeticiones de un lado antes de cambiar."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Clamshell",
+      "Almeja con banda"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0356",
+    "nombre_es": "Copenhagen plank",
+    "nombre_en": "Copenhagen Plank",
+    "tipo": "Isolation",
+    "musculo": "Adductors",
+    "musculos_focus": [
+      "Adductors",
+      "Core"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Acostate de costado y apoyá el antebrazo en el suelo en posición de plancha lateral.",
+      "Colocá la pierna de arriba sobre un banco, apoyando la cara interna del muslo o pantorrilla.",
+      "La pierna de abajo queda libre debajo del banco, sin tocar el suelo.",
+      "Elevá la cadera del suelo para formar una línea recta desde los pies hasta la cabeza.",
+      "Contraé los aductores apretando la pierna de apoyo contra el banco.",
+      "Mantené la posición el tiempo programado.",
+      "Para versión más fácil: apoyá la rodilla en el banco en vez de el tobillo.",
+      "Para más dificultad: subí y bajá la pierna libre durante la plancha."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Glutes",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Copenhagen adductor plank",
+      "Plancha de Copenhague"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0357",
+    "nombre_es": "Sentadilla sumo con mancuerna",
+    "nombre_en": "Sumo Squat with Dumbbell",
+    "tipo": "Compound",
+    "musculo": "Adductors",
+    "musculos_focus": [
+      "Adductors",
+      "Quadriceps",
+      "Glutes"
+    ],
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Parate con los pies bastante más anchos que los hombros y las puntas de los pies abiertas hacia afuera.",
+      "Sostené una mancuerna pesada con ambas manos colgando entre las piernas.",
+      "Mantené el torso erguido y el core activo.",
+      "Bajá flexionando rodillas y caderas hasta que los muslos queden paralelos al suelo o más abajo.",
+      "Las rodillas siguen la dirección de las puntas de los pies (no se colapsan hacia adentro).",
+      "Sentí el estiramiento en los aductores en la parte baja.",
+      "Empujá desde los talones para volver a la posición inicial contrayendo glúteos y aductores.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Sumo squat",
+      "Sentadilla goblet sumo",
+      "Plié squat"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0358",
+    "nombre_es": "Donkey calf raise",
+    "nombre_en": "Donkey Calf Raise",
+    "tipo": "Isolation",
+    "musculo": "Calves",
+    "musculos_focus": [
+      "Calves"
+    ],
+    "equipo": "Machine",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocate en una máquina de donkey calf raise o flexioná el torso hacia adelante apoyándote en un banco.",
+      "Apoyá las puntas de los pies en una plataforma elevada, con los talones colgando.",
+      "Si usás carga libre, pediarle a un compañero que se siente sobre tu cadera (forma tradicional).",
+      "Mantené las rodillas extendidas o ligeramente flexionadas (no las flexiones demasiado).",
+      "Bajá los talones hacia el suelo sintiendo el estiramiento en los gemelos.",
+      "Elevá los talones lo más alto posible contrayendo los gemelos.",
+      "Mantené la contracción 1 segundo arriba.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Donkey calf raise",
+      "Elevación de talones tipo burro"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0359",
+    "nombre_es": "Tibialis raise",
+    "nombre_en": "Tibialis Raise",
+    "tipo": "Isolation",
+    "musculo": "Calves",
+    "musculos_focus": [
+      "Calves"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Parate con la espalda apoyada en una pared y los pies a unos 20-40 cm de la pared.",
+      "Los talones quedan apoyados en el suelo y las puntas de los pies hacia arriba.",
+      "Manteniendo los talones en el suelo, llevá las puntas de los pies hacia arriba lo más posible.",
+      "Sentí la contracción en el tibial anterior (frente de la espinilla).",
+      "Bajá controladamente las puntas hasta tocar el suelo.",
+      "Para más resistencia: usá una banda alrededor de las puntas y anclada al frente, o pesos en los pies.",
+      "Este ejercicio balancea el desarrollo del tobillo y ayuda a prevenir shin splints.",
+      "Repetí según tu rutina, suele requerir muchas repeticiones."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Tib raise",
+      "Elevación del tibial anterior",
+      "Dorsiflexión de tobillo"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0360",
+    "nombre_es": "Curl reverso con barra",
+    "nombre_en": "Reverse Barbell Curl",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "musculos_focus": [
+      "Forearms",
+      "Biceps"
+    ],
+    "equipo": "Barbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Parate erguido con los pies al ancho de los hombros.",
+      "Agarrá una barra con las palmas hacia abajo (agarre prono) al ancho de los hombros.",
+      "Dejá colgar la barra a la altura de los muslos con los brazos completamente extendidos.",
+      "Mantené los codos pegados al torso durante todo el movimiento.",
+      "Flexioná los codos elevando la barra hacia los hombros sin rotar las muñecas.",
+      "El movimiento enfatiza el braquiorradial y el braquial más que el bíceps.",
+      "Bajá controladamente hasta extender completamente los brazos.",
+      "Repetí según tu rutina. Usá menos peso que en un curl tradicional."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Biceps",
+        "peso": 0.4
+      }
+    ],
+    "nombres_alternativos": [
+      "Reverse curl",
+      "Curl prono con barra"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0361",
+    "nombre_es": "Curl reverso con barra EZ",
+    "nombre_en": "Reverse EZ-Bar Curl",
+    "tipo": "Isolation",
+    "musculo": "Forearms",
+    "musculos_focus": [
+      "Forearms",
+      "Biceps"
+    ],
+    "equipo": "EZ Bar",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Parate erguido con los pies al ancho de los hombros.",
+      "Agarrá una barra EZ con las palmas hacia abajo (agarre prono) en las ondulaciones externas.",
+      "Dejá colgar la barra a la altura de los muslos con los brazos completamente extendidos.",
+      "Mantené los codos pegados al torso durante todo el movimiento.",
+      "Flexioná los codos elevando la barra hacia los hombros sin rotar las muñecas.",
+      "La barra EZ es más amigable para las muñecas que la barra recta.",
+      "Bajá controladamente hasta extender completamente los brazos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Biceps",
+        "peso": 0.4
+      }
+    ],
+    "nombres_alternativos": [
+      "Reverse EZ curl",
+      "Curl prono con barra EZ"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": "new-exercise-0360"
+  },
+  {
+    "id": "new-exercise-0362",
+    "nombre_es": "Curl con soga en polea baja",
+    "nombre_en": "Cable Rope Hammer Curl",
+    "tipo": "Isolation",
+    "musculo": "Biceps",
+    "musculos_focus": [
+      "Biceps",
+      "Forearms"
+    ],
+    "equipo": "Cable",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Conectá una soga a la polea baja.",
+      "Parate frente a la máquina y agarrá la soga con ambas manos en agarre neutro (palmas enfrentadas).",
+      "Mantené los codos pegados al torso durante todo el movimiento.",
+      "Flexioná los codos llevando la soga hacia los hombros.",
+      "En la parte alta, separá las puntas de la soga abriendo las manos hacia afuera para enfatizar el pico.",
+      "Mantené el agarre neutro durante todo el recorrido (similar a curl martillo).",
+      "Bajá controladamente hasta extender los brazos.",
+      "Repetí según tu rutina."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Forearms",
+        "peso": 0.3
+      }
+    ],
+    "nombres_alternativos": [
+      "Cable rope hammer curl",
+      "Curl martillo en polea con soga"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": "new-exercise-0164"
+  },
+  {
+    "id": "new-exercise-0363",
+    "nombre_es": "Drag curl con barra",
+    "nombre_en": "Barbell Drag Curl",
+    "tipo": "Isolation",
+    "musculo": "Biceps",
+    "musculos_focus": [
+      "Biceps"
+    ],
+    "equipo": "Barbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Parate erguido con los pies al ancho de los hombros y agarrá una barra con agarre supino al ancho de los hombros.",
+      "Comenzá con la barra apoyada en los muslos y los brazos extendidos.",
+      "En vez de hacer un curl normal, llevá los codos hacia atrás mientras subís la barra.",
+      "La barra debe 'arrastrarse' por el torso pegada al cuerpo (de ahí el nombre).",
+      "Los codos terminan detrás del cuerpo en la parte alta del movimiento.",
+      "La barra solo llega hasta la parte baja del pecho (no más arriba).",
+      "Bajá controladamente la barra arrastrándola por el torso hasta los muslos.",
+      "Este ejercicio aísla el bíceps quitando la contribución del deltoides anterior."
+    ],
+    "musculos_secundarios": [],
+    "nombres_alternativos": [
+      "Drag curl",
+      "Curl deslizado"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0364",
+    "nombre_es": "Pike push-up",
+    "nombre_en": "Pike Push-up",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "musculos_focus": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Colocate en posición de cuatro apoyos y elevá la cadera formando una V invertida (postura del perro boca abajo).",
+      "Las manos quedan al ancho de los hombros, los pies al ancho de las caderas.",
+      "Mantené las piernas y los brazos lo más rectos posible.",
+      "Flexioná los codos bajando la cabeza hacia el suelo entre las manos.",
+      "Bajá hasta que la coronilla casi toque el suelo.",
+      "Empujá con los hombros para volver a la posición inicial extendiendo los brazos.",
+      "Mantené la cadera elevada durante todo el movimiento.",
+      "Es una progresión hacia el handstand push-up."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Chest",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Pike push-up",
+      "Flexión en V invertida"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0365",
+    "nombre_es": "Handstand push-up",
+    "nombre_en": "Handstand Push-up",
+    "tipo": "Compound",
+    "musculo": "Shoulders",
+    "musculos_focus": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocate en posición de parado de manos con la espalda hacia una pared para apoyarte.",
+      "Las manos al ancho de los hombros, los talones tocando la pared.",
+      "Mantené el cuerpo lo más recto posible alineando hombros, caderas y tobillos.",
+      "Flexioná los codos bajando la cabeza hacia el suelo entre las manos.",
+      "Bajá hasta que la coronilla toque suavemente el suelo (o lo más bajo que puedas controlar).",
+      "Empujá con fuerza para volver a extender los brazos.",
+      "Mantené el core firme durante todo el movimiento.",
+      "Es un ejercicio avanzado: dominá pike push-up antes de intentarlo."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.4
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.25
+      }
+    ],
+    "nombres_alternativos": [
+      "HSPU",
+      "Flexión en parado de manos",
+      "Wall handstand push-up"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": "new-exercise-0364"
+  },
+  {
+    "id": "new-exercise-0366",
+    "nombre_es": "Rack pull con barra",
+    "nombre_en": "Rack Pull",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "musculos_focus": [
+      "Back",
+      "Hamstrings",
+      "Glutes"
+    ],
+    "equipo": "Barbell",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocá una barra cargada sobre los pines de un rack a la altura de las rodillas o un poco por debajo.",
+      "Parate frente a la barra con los pies al ancho de las caderas.",
+      "Flexioná desde la cadera y agarrá la barra con agarre prono o mixto, al ancho de los hombros.",
+      "Mantené la espalda recta, el pecho elevado y los hombros retraídos.",
+      "Empujá con las piernas y extendé la cadera para levantar la barra hasta quedar parado completamente erguido.",
+      "Contraé los omóplatos al final del movimiento.",
+      "Bajá la barra controladamente hasta los pines (no la dejes caer).",
+      "Permite cargar mucho más peso que el peso muerto convencional y enfatiza espalda alta y bloqueo."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Glutes",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Forearms",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Rack pull",
+      "Peso muerto desde pines",
+      "Partial deadlift"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0367",
+    "nombre_es": "Peso muerto con déficit con barra",
+    "nombre_en": "Deficit Deadlift",
+    "tipo": "Compound",
+    "musculo": "Back",
+    "musculos_focus": [
+      "Back",
+      "Hamstrings",
+      "Glutes"
+    ],
+    "equipo": "Barbell",
+    "importancia": 6,
+    "como_hacerlo": [
+      "Parate sobre una plataforma o discos de 2.5 a 5 cm de altura.",
+      "Colocá la barra delante de los pies, normalmente cerca de las espinillas.",
+      "Flexioná desde la cadera y agarrá la barra con agarre prono o mixto al ancho de los hombros.",
+      "Por el déficit, vas a tener que flexionar más las caderas y rodillas para alcanzar la barra.",
+      "Mantené la espalda recta, el pecho elevado y los hombros encima o ligeramente delante de la barra.",
+      "Empujá con las piernas y extendé la cadera para levantar la barra hasta quedar erguido.",
+      "Bajá controladamente hasta que la barra toque el suelo (o casi).",
+      "Énfasis en la fase inicial del movimiento y aumento del rango de movimiento."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Hamstrings",
+        "peso": 0.35
+      },
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Quadriceps",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Deficit deadlift",
+      "Peso muerto con plataforma"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0368",
+    "nombre_es": "Reverse Nordic curl",
+    "nombre_en": "Reverse Nordic Curl",
+    "tipo": "Isolation",
+    "musculo": "Quadriceps",
+    "musculos_focus": [
+      "Quadriceps"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Arrodillate en una colchoneta con las rodillas separadas al ancho de las caderas.",
+      "Mantené el torso recto y las caderas extendidas (línea recta de rodillas a hombros).",
+      "Cruzá los brazos sobre el pecho.",
+      "Lentamente inclinate hacia atrás flexionando las rodillas, manteniendo la cadera extendida.",
+      "Sentí el estiramiento intenso en los cuádriceps.",
+      "Bajá hasta donde puedas controlar la fase excéntrica (puede ser 30-45° al principio).",
+      "Volvé a la posición vertical contrayendo los cuádriceps.",
+      "Mantené el core firme y la cadera siempre extendida, no plegues a la cadera."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Core",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Reverse nordic",
+      "Nórdico inverso",
+      "Sissy squat de rodillas"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0369",
+    "nombre_es": "Zancada lateral con mancuernas",
+    "nombre_en": "Lateral Lunge with Dumbbells",
+    "tipo": "Compound",
+    "musculo": "Quadriceps",
+    "musculos_focus": [
+      "Quadriceps",
+      "Glutes",
+      "Adductors"
+    ],
+    "equipo": "Dumbbell",
+    "importancia": 7,
+    "como_hacerlo": [
+      "Parate erguido con los pies juntos y una mancuerna en cada mano colgando a los lados.",
+      "Dá un paso amplio hacia un lado manteniendo el pie de apoyo firme.",
+      "Flexioná la rodilla del lado del paso bajando la cadera hacia atrás (sentadilla unilateral).",
+      "La pierna que no se mueve queda completamente extendida con la planta del pie apoyada.",
+      "El torso se inclina ligeramente hacia adelante, manteniendo la espalda neutra.",
+      "Empujá con la pierna flexionada para volver a la posición inicial.",
+      "Alterná lados o completá las repeticiones de un lado antes de cambiar.",
+      "Trabaja también aductores fuertemente por el estiramiento de la pierna extendida."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Glutes",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Adductors",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Core",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Lateral lunge",
+      "Side lunge",
+      "Zancada lateral"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0370",
+    "nombre_es": "Hanging windshield wipers",
+    "nombre_en": "Hanging Windshield Wipers",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "musculos_focus": [
+      "Core"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colgate de una barra fija con agarre prono al ancho de los hombros o un poco más ancho.",
+      "Elevá las piernas juntas hasta que queden paralelas al suelo (o más arriba si podés).",
+      "Manteniendo las piernas rectas, rotá la cadera llevando los pies hacia un lado como las agujas de un reloj.",
+      "Llevá los pies todo lo que puedas hacia ese lado sin perder el control.",
+      "Rotá hacia el otro lado pasando por el centro.",
+      "Mantené las piernas juntas y rectas durante toda la rotación.",
+      "Es un ejercicio avanzado: si te resulta muy difícil, hacelo con las piernas flexionadas.",
+      "Trabaja muy fuerte los oblicuos y todo el core."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Back",
+        "peso": 0.15
+      },
+      {
+        "musculo": "Forearms",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Windshield wipers",
+      "Limpiaparabrisas colgado"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0371",
+    "nombre_es": "Dragon flag",
+    "nombre_en": "Dragon Flag",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "musculos_focus": [
+      "Core"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 9,
+    "como_hacerlo": [
+      "Acostate sobre un banco firme o el suelo y agarrá un soporte detrás de tu cabeza (las patas del banco, una barra baja).",
+      "Elevá las piernas y la cadera hacia arriba como en un swing inverso, sosteniéndote con los hombros y la parte alta de la espalda como pivote.",
+      "Mantené todo el cuerpo recto desde los pies hasta los hombros, alineado.",
+      "Bajá controladamente el cuerpo extendido hasta que esté casi paralelo al suelo o al banco.",
+      "Mantené la rigidez del core y no dejes que la cadera se doble.",
+      "Volvé a subir manteniendo la línea recta del cuerpo.",
+      "Es un ejercicio muy avanzado: empezá con variantes (piernas flexionadas, una pierna).",
+      "Atribuido a Bruce Lee, demanda fuerza extrema del core."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Back",
+        "peso": 0.25
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.15
+      }
+    ],
+    "nombres_alternativos": [
+      "Dragon flag",
+      "Bandera del dragón"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0372",
+    "nombre_es": "L-sit en paralelas",
+    "nombre_en": "L-sit",
+    "tipo": "Isolation",
+    "musculo": "Core",
+    "musculos_focus": [
+      "Core"
+    ],
+    "equipo": "Bodyweight",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Colocate sobre paralelas (parallettes) o barras paralelas bajas, sosteniendo tu peso con los brazos extendidos.",
+      "Los hombros deben estar deprimidos (lejos de las orejas) y los codos bloqueados.",
+      "Elevá las piernas extendidas hacia adelante hasta que queden paralelas al suelo.",
+      "El cuerpo forma una 'L' (de ahí el nombre): torso vertical, piernas horizontales.",
+      "Mantené las puntas de los pies estiradas y las piernas juntas.",
+      "Mantené la posición isométrica el tiempo programado.",
+      "Si te resulta muy difícil, empezá con tuck L-sit (rodillas al pecho) o piernas extendidas a 45°.",
+      "Trabaja core, flexores de cadera, hombros y tríceps."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Triceps",
+        "peso": 0.2
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "L-sit",
+      "L-hold",
+      "L en paralelas"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": null
+  },
+  {
+    "id": "new-exercise-0373",
+    "nombre_es": "Ab wheel rollout de rodillas",
+    "nombre_en": "Kneeling Ab Wheel Rollout",
+    "tipo": "Compound",
+    "musculo": "Core",
+    "musculos_focus": [
+      "Core"
+    ],
+    "equipo": "Ab Wheel",
+    "importancia": 8,
+    "como_hacerlo": [
+      "Arrodillate en una colchoneta y sostené la rueda abdominal con ambas manos al ancho de los hombros.",
+      "Colocá la rueda en el suelo justo delante de las rodillas.",
+      "Mantené los brazos extendidos y el core firme.",
+      "Rodá la rueda hacia adelante extendiendo el cuerpo mientras tirás de las caderas hacia adelante.",
+      "Bajá hasta donde puedas mantener la espalda neutra (sin que se hiperextienda).",
+      "Contraé el core y los dorsales para tirar la rueda de vuelta hacia las rodillas.",
+      "Mantené la cadera estable durante todo el movimiento.",
+      "Es una progresión hacia el ab wheel de pie (mucho más exigente)."
+    ],
+    "musculos_secundarios": [
+      {
+        "musculo": "Back",
+        "peso": 0.3
+      },
+      {
+        "musculo": "Shoulders",
+        "peso": 0.2
+      }
+    ],
+    "nombres_alternativos": [
+      "Ab rollout de rodillas",
+      "Kneeling rollout"
+    ],
+    "imagen": "",
+    "video": "",
+    "matched_con": "",
+    "verificado": false,
+    "variante_de": "new-exercise-0346"
   }
 ]
