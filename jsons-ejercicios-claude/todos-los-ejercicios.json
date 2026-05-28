@@ -10068,9 +10068,9 @@
       "Aducción acostado",
       "Inner thigh raise"
     ],
-    "imagen": "Side-Plank-Hip-Adduction_Hips.webp",
-    "video": "Side-Plank-Hip-Adduction_Hips.mp4",
-    "matched_con": "new-exercise-1843",
+    "imagen": "Side-Lying-Hip-Adduction-(male)_Hips.webp",
+    "video": "Side-Lying-Hip-Adduction-(male)_Hips.mp4",
+    "matched_con": "Side-Lying-Hip-Adduction-(male)_Hips",
     "verificado": false,
     "variante_de": "new-exercise-0275"
   },
@@ -12231,9 +12231,9 @@
       "Rueda abdominal",
       "Ab roller"
     ],
-    "imagen": "Wheel-Rollout_Waist-FIX2_.webp",
-    "video": "Wheel-Rollout_Waist-FIX2_.mp4",
-    "matched_con": "Wheel-Rollout_Waist-FIX2_",
+    "imagen": "Standing-Wheel-Rollout_Waist.webp",
+    "video": "Standing-Wheel-Rollout_Waist.mp4",
+    "matched_con": "Standing-Wheel-Rollout_Waist",
     "verificado": false,
     "variante_de": null
   },
@@ -12271,48 +12271,6 @@
     "variante_de": "new-exercise-0326"
   },
   {
-    "id": "new-exercise-0348",
-    "nombre_es": "Nordic curl",
-    "nombre_en": "Nordic Hamstring Curl",
-    "tipo": "Isolation",
-    "musculo": "Hamstrings",
-    "musculos_focus": [
-      "Hamstrings"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 10,
-    "como_hacerlo": [
-      "Arrodillate sobre una colchoneta con las rodillas separadas al ancho de las caderas.",
-      "Pedile a un compañero que te sostenga firmemente los tobillos contra el suelo, o usá un anclaje (banco bajo, barra, almohada con peso).",
-      "Mantené el torso recto desde las rodillas hasta la cabeza, con el core activo.",
-      "Bajá el cuerpo hacia adelante de forma controlada usando solo los isquiotibiales para frenar el descenso.",
-      "Mantené la cadera extendida (no plegues a la altura de las caderas).",
-      "Cuando ya no puedas frenar más, apoyá las manos en el suelo suavemente.",
-      "Empujá con las manos solo lo necesario para volver a la posición inicial y volvé a contraer los isquios.",
-      "Repetí según tu rutina. Es muy exigente: empezá con 1 a 3 repeticiones por serie."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Glutes",
-        "peso": 0.2
-      },
-      {
-        "musculo": "Core",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Nordic hamstring curl",
-      "Curl nórdico",
-      "Russian leg curl"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
-    "verificado": false,
-    "variante_de": null
-  },
-  {
     "id": "new-exercise-0350",
     "nombre_es": "Hip thrust a una pierna con barra",
     "nombre_en": "Single-Leg Hip Thrust with Barbell",
@@ -12348,9 +12306,9 @@
       "B-stance hip thrust",
       "Single-leg hip thrust"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Barbell-one-leg-hip-thrust_Hips.webp",
+    "video": "Barbell-one-leg-hip-thrust_Hips.mp4",
+    "matched_con": "Barbell-one-leg-hip-thrust_Hips",
     "verificado": false,
     "variante_de": "new-exercise-0284"
   },
@@ -12389,9 +12347,9 @@
       "Hip thrust unilateral peso corporal",
       "Single-leg hip thrust"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Single-Leg _Hip-Thrusts_Hips_.webp",
+    "video": "Single-Leg _Hip-Thrusts_Hips_.mp4",
+    "matched_con": "Single-Leg _Hip-Thrusts_Hips_",
     "verificado": false,
     "variante_de": "new-exercise-0284"
   },
@@ -12429,9 +12387,9 @@
       "Single-leg glute bridge",
       "Glute bridge unilateral"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Single-Leg-Bridge-with-Outstretched-Leg_Hips.webp",
+    "video": "Single-Leg-Bridge-with-Outstretched-Leg_Hips.mp4",
+    "matched_con": "Single-Leg-Bridge-with-Outstretched-Leg_Hips",
     "verificado": false,
     "variante_de": null
   },
@@ -12465,9 +12423,9 @@
       "Frog pump",
       "Puente de glúteo en mariposa"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Bodyweight-Frog-Hip-Thrust-(male)_Hips_.webp",
+    "video": "Bodyweight-Frog-Hip-Thrust-(male)_Hips_.mp4",
+    "matched_con": "Bodyweight-Frog-Hip-Thrust-(male)_Hips_",
     "verificado": false,
     "variante_de": null
   },
@@ -12502,9 +12460,9 @@
       "Cable hip abduction",
       "Abducción de cadera unilateral en polea"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Cable-hip-abduction-(version-2)-(male)_Hips_.webp",
+    "video": "Cable-hip-abduction-(version-2)-(male)_Hips_.mp4",
+    "matched_con": "Cable-hip-abduction-(version-2)-(male)_Hips_",
     "verificado": false,
     "variante_de": null
   },
@@ -12534,9 +12492,9 @@
       "Clamshell",
       "Almeja con banda"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Resistance-Band-Clam_Hips_.webp",
+    "video": "Resistance-Band-Clam_Hips_.mp4",
+    "matched_con": "Resistance-Band-Clam_Hips_",
     "verificado": false,
     "variante_de": null
   },
@@ -12572,9 +12530,9 @@
       "Copenhagen adductor plank",
       "Plancha de Copenhague"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Side-Plank-Hip-Adduction_Hips.webp",
+    "video": "Side-Plank-Hip-Adduction_Hips.mp4",
+    "matched_con": "Side-Plank-Hip-Adduction_Hips",
     "verificado": false,
     "variante_de": null
   },
@@ -12620,9 +12578,9 @@
       "Sentadilla goblet sumo",
       "Plié squat"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Dumbbell-Sumo-Squat-(male)_Thighs_.webp",
+    "video": "Dumbbell-Sumo-Squat-(male)_Thighs_.mp4",
+    "matched_con": "Dumbbell-Sumo-Squat-(male)_Thighs_",
     "verificado": false,
     "variante_de": null
   },
@@ -12652,9 +12610,9 @@
       "Donkey calf raise",
       "Elevación de talones tipo burro"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Donkey-Calf-Raise_Calves.webp",
+    "video": "Donkey-Calf-Raise_Calves.mp4",
+    "matched_con": "Donkey-Calf-Raise_Calves",
     "verificado": false,
     "variante_de": null
   },
@@ -12685,9 +12643,9 @@
       "Elevación del tibial anterior",
       "Dorsiflexión de tobillo"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Bodyweight-Tibialias-Raise-Wall-Supported-(male)_C.webp",
+    "video": "Bodyweight-Tibialias-Raise-Wall-Supported-(male)_C.mp4",
+    "matched_con": "Bodyweight-Tibialias-Raise-Wall-Supported-(male)_C",
     "verificado": false,
     "variante_de": null
   },
@@ -12723,9 +12681,9 @@
       "Reverse curl",
       "Curl prono con barra"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Barbell-Reverse-Curl_Forearm.webp",
+    "video": "Barbell-Reverse-Curl_Forearm.mp4",
+    "matched_con": "Barbell-Reverse-Curl_Forearm",
     "verificado": false,
     "variante_de": null
   },
@@ -12761,9 +12719,9 @@
       "Reverse EZ curl",
       "Curl prono con barra EZ"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "EZ-Barbell-Reverse-Grip-Curl_Forearms.webp",
+    "video": "EZ-Barbell-Reverse-Grip-Curl_Forearms.mp4",
+    "matched_con": "EZ-Barbell-Reverse-Grip-Curl_Forearms",
     "verificado": false,
     "variante_de": "new-exercise-0360"
   },
@@ -12799,9 +12757,9 @@
       "Cable rope hammer curl",
       "Curl martillo en polea con soga"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Cable-Hammer-Curl-(with-rope)-(male)_Forearms_.webp",
+    "video": "Cable-Hammer-Curl-(with-rope)-(male)_Forearms_.mp4",
+    "matched_con": "Cable-Hammer-Curl-(with-rope)-(male)_Forearms_",
     "verificado": false,
     "variante_de": "new-exercise-0164"
   },
@@ -12831,9 +12789,9 @@
       "Drag curl",
       "Curl deslizado"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Barbell-Drag-Curl_Upper-Arms-FIX_.webp",
+    "video": "Barbell-Drag-Curl_Upper-Arms-FIX_.mp4",
+    "matched_con": "Barbell-Drag-Curl_Upper-Arms-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -12877,9 +12835,9 @@
       "Pike push-up",
       "Flexión en V invertida"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Pike-Push-up_Chest.webp",
+    "video": "Pike-Push-up_Chest.mp4",
+    "matched_con": "Pike-Push-up_Chest",
     "verificado": false,
     "variante_de": null
   },
@@ -12920,9 +12878,9 @@
       "Flexión en parado de manos",
       "Wall handstand push-up"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Handstand-Push-Up_Shoulders_.webp",
+    "video": "Handstand-Push-Up_Shoulders_.mp4",
+    "matched_con": "Handstand-Push-Up_Shoulders_",
     "verificado": false,
     "variante_de": "new-exercise-0364"
   },
@@ -12972,9 +12930,9 @@
       "Peso muerto desde pines",
       "Partial deadlift"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Barbell-Rack-Pull_Hips_.webp",
+    "video": "Barbell-Rack-Pull_Hips_.mp4",
+    "matched_con": "Barbell-Rack-Pull_Hips_",
     "verificado": false,
     "variante_de": null
   },
@@ -13019,47 +12977,9 @@
       "Deficit deadlift",
       "Peso muerto con plataforma"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "new-exercise-0368",
-    "nombre_es": "Reverse Nordic curl",
-    "nombre_en": "Reverse Nordic Curl",
-    "tipo": "Isolation",
-    "musculo": "Quadriceps",
-    "musculos_focus": [
-      "Quadriceps"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 8,
-    "como_hacerlo": [
-      "Arrodillate en una colchoneta con las rodillas separadas al ancho de las caderas.",
-      "Mantené el torso recto y las caderas extendidas (línea recta de rodillas a hombros).",
-      "Cruzá los brazos sobre el pecho.",
-      "Lentamente inclinate hacia atrás flexionando las rodillas, manteniendo la cadera extendida.",
-      "Sentí el estiramiento intenso en los cuádriceps.",
-      "Bajá hasta donde puedas controlar la fase excéntrica (puede ser 30-45° al principio).",
-      "Volvé a la posición vertical contrayendo los cuádriceps.",
-      "Mantené el core firme y la cadera siempre extendida, no plegues a la cadera."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Core",
-        "peso": 0.2
-      }
-    ],
-    "nombres_alternativos": [
-      "Reverse nordic",
-      "Nórdico inverso",
-      "Sissy squat de rodillas"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Barbell-Deadlift-from-Deficit_Hips_.webp",
+    "video": "Barbell-Deadlift-from-Deficit_Hips_.mp4",
+    "matched_con": "Barbell-Deadlift-from-Deficit_Hips_",
     "verificado": false,
     "variante_de": null
   },
@@ -13105,91 +13025,9 @@
       "Side lunge",
       "Zancada lateral"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "new-exercise-0370",
-    "nombre_es": "Hanging windshield wipers",
-    "nombre_en": "Hanging Windshield Wipers",
-    "tipo": "Compound",
-    "musculo": "Core",
-    "musculos_focus": [
-      "Core"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 8,
-    "como_hacerlo": [
-      "Colgate de una barra fija con agarre prono al ancho de los hombros o un poco más ancho.",
-      "Elevá las piernas juntas hasta que queden paralelas al suelo (o más arriba si podés).",
-      "Manteniendo las piernas rectas, rotá la cadera llevando los pies hacia un lado como las agujas de un reloj.",
-      "Llevá los pies todo lo que puedas hacia ese lado sin perder el control.",
-      "Rotá hacia el otro lado pasando por el centro.",
-      "Mantené las piernas juntas y rectas durante toda la rotación.",
-      "Es un ejercicio avanzado: si te resulta muy difícil, hacelo con las piernas flexionadas.",
-      "Trabaja muy fuerte los oblicuos y todo el core."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Back",
-        "peso": 0.15
-      },
-      {
-        "musculo": "Forearms",
-        "peso": 0.2
-      }
-    ],
-    "nombres_alternativos": [
-      "Windshield wipers",
-      "Limpiaparabrisas colgado"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
-    "verificado": false,
-    "variante_de": null
-  },
-  {
-    "id": "new-exercise-0371",
-    "nombre_es": "Dragon flag",
-    "nombre_en": "Dragon Flag",
-    "tipo": "Compound",
-    "musculo": "Core",
-    "musculos_focus": [
-      "Core"
-    ],
-    "equipo": "Bodyweight",
-    "importancia": 9,
-    "como_hacerlo": [
-      "Acostate sobre un banco firme o el suelo y agarrá un soporte detrás de tu cabeza (las patas del banco, una barra baja).",
-      "Elevá las piernas y la cadera hacia arriba como en un swing inverso, sosteniéndote con los hombros y la parte alta de la espalda como pivote.",
-      "Mantené todo el cuerpo recto desde los pies hasta los hombros, alineado.",
-      "Bajá controladamente el cuerpo extendido hasta que esté casi paralelo al suelo o al banco.",
-      "Mantené la rigidez del core y no dejes que la cadera se doble.",
-      "Volvé a subir manteniendo la línea recta del cuerpo.",
-      "Es un ejercicio muy avanzado: empezá con variantes (piernas flexionadas, una pierna).",
-      "Atribuido a Bruce Lee, demanda fuerza extrema del core."
-    ],
-    "musculos_secundarios": [
-      {
-        "musculo": "Back",
-        "peso": 0.25
-      },
-      {
-        "musculo": "Shoulders",
-        "peso": 0.15
-      }
-    ],
-    "nombres_alternativos": [
-      "Dragon flag",
-      "Bandera del dragón"
-    ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Dumbbell-Side-Lunge-(VERSION-3)_Thighs-FIX_.webp",
+    "video": "Dumbbell-Side-Lunge-(VERSION-3)_Thighs-FIX_.mp4",
+    "matched_con": "Dumbbell-Side-Lunge-(VERSION-3)_Thighs-FIX_",
     "verificado": false,
     "variante_de": null
   },
@@ -13229,9 +13067,9 @@
       "L-hold",
       "L en paralelas"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "L-Sit-on-Floor_Waist_.webp",
+    "video": "L-Sit-on-Floor_Waist_.mp4",
+    "matched_con": "L-Sit-on-Floor_Waist_",
     "verificado": false,
     "variante_de": null
   },
@@ -13270,9 +13108,9 @@
       "Ab rollout de rodillas",
       "Kneeling rollout"
     ],
-    "imagen": "",
-    "video": "",
-    "matched_con": "",
+    "imagen": "Wheel-Rollout_Waist-FIX2_.webp",
+    "video": "Wheel-Rollout_Waist-FIX2_.mp4",
+    "matched_con": "Wheel-Rollout_Waist-FIX2_",
     "verificado": false,
     "variante_de": "new-exercise-0346"
   }
